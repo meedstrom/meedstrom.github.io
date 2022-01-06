@@ -1,5 +1,5 @@
 # see defaults at https://jekyllrb.com/docs/configuration/default/
-theme: midnight
+# theme: jekyll-modernist
 title: Martin Edström
 description: Just another blog
 
@@ -14,9 +14,9 @@ permalink: /:title/
 # TODO: search plugin
 # TODO: comments plugin
 
-# plugins:
-#   - jekyll-feed
-#   - jekyll-paginate
-#   - jekyll-seo-tag
-#   - jekyll-sitemap
-#   - jekyll-org
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-org
