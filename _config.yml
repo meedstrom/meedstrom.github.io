@@ -1,5 +1,5 @@
 # see defaults at https://jekyllrb.com/docs/configuration/default/
-# theme: jekyll-modernist
+# theme: jekyll-cayman
 title: Martin Edström
 description: Just another blog
 
@@ -20,3 +20,6 @@ plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
   - jekyll-org
+  - jekyll-remote-theme
+
+remote_theme: pages-themes/midnight@v0.2.0
