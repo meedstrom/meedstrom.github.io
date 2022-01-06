@@ -1,3 +1,3 @@
 # homepage
 
-Testing
+Welcome to my blog, it's under construction.

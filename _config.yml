@@ -1,3 +1,20 @@
+# see defaults at https://jekyllrb.com/docs/configuration/default/
 theme: modernist
 title: Martin Edström
 description: Just another blog
+
+# don't put date in title
+permalink: /:title/
+
+# wanna use org instead of markdwon? use a jekyll plugin for it
+# markdown: org
+#
+# TODO: atom feed plugin https://www.r-bloggers.com/2019/12/creating-an-rss-feed-to-add-your-jekyll-github-pages-blog-to-r-bloggers/
+#
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# TODO: analytics
