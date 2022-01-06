@@ -1,5 +1,5 @@
 # see defaults at https://jekyllrb.com/docs/configuration/default/
-theme: jekyll-cayman
+theme: cayman
 title: Martin Edström
 description: Just another blog
 
