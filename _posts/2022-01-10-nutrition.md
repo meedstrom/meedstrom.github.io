@@ -110,3 +110,6 @@ Terminology
 
 # Map of reductionist findings
 
+A map of concepts.  Work in progress.  Sorry about the mess.
+
+![][chart-nutr.jpg]
