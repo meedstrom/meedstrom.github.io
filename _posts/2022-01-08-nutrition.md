@@ -1,37 +1,47 @@
 
+
 # Self-intro
 
-It is said: &ldquo;Do not present secondary reasons to choose a diet as though they were the primary ones.&rdquo; <https://www.greaterwrong.com/posts/bujD9zhcb9Apii5J2/dietary-debates-among-the-fruit-gnomes>
-
-So what&rsquo;s my primary reason for believing in Paleo?
-
-It&rsquo;s not that I like the taste of meat and can&rsquo;t bear to let go. Back in 2013 when I decided to lose weight, I was ready to go all vegan or even eat nothing but broccoli if that&rsquo;s what it took. So I read up on necessary nutrients, all the vitamins, minerals and their different forms, to make sure I got enough.
-
-If anything, I&rsquo;m biased in favour of bread and beer, because I like the stuff so much. I also like many vegetarian foods. I enjoy tofu, tempeh, seitan. I genuinely think quorn nuggets beat chicken nuggets. I enjoy legumes. And I don&rsquo;t want to be an iconoclast, not in terms of diet. I&rsquo;d much rather mesh easily with other people&rsquo;s diets for social reasons.
-
-I read about retinoids (animal-sourced vitamin A) versus carotenoids (vegetable-sourced vitamin A). How to find vitamin K1 and K2 in a vegan diet. What role omega 3 plays, how much we need, and what factors might affect how much we need. Anyway I spent much of my free time that year just geeking out about nutrition, and was at the peak of my health. I virtually couldn&rsquo;t sunburn, I went shirtless and barefoot all the time, my immune system was king, my eyesight improved, my reflexes improved.
-
-I should admit though, back then I did want to be an iconoclast, to hold the secret that society at large doesn&rsquo;t know. Now I use the experience of &ldquo;knowing the secret of keto&rdquo; as a reference point for what it must be like to be in a cult, and it&rsquo;s super useful. I must have been inundated enough with the traditional values of skepticism, because keto is what birthed my interest in statistics, so I could read the darn papers everyone was citing and make sense of them for myself (which I haven&rsquo;t gotten around to).  Now my outlook on optimal nutrition is slightly different and more flexible, and I think that biochemistry is so complicated that a reductionist approach focusing on specific nutrients doesn&rsquo;t make sense at this stage of the science. If you optimize for specific nutrients you&rsquo;re just [Goodharting](https://en.wikipedia.org/wiki/Goodhart%27s_law) it &#x2013; targeting the measure and not the underlying problem. In Kuhnian terms, the field of nutrition is still in a [pre-science](https://www.simplypsychology.org/Kuhn-Paradigm.html) stage. At this point I&rsquo;d only expect a holistic perspective to provide good answers, provided of course that you keep your pet holistic theory falsifiable and are in a position to learn from predictive failure (swap out the holistic framework for a different one when surprising evidence turns up). Be like astronomy, not astrology; be specific in your predictions, don&rsquo;t move the goalposts, be quick to abandon hypotheses, and don&rsquo;t bother to maintain unfalsifiable claims if you can&rsquo;t causally tie them to a related falsifiable claim.
+It is said: &ldquo;[do not present secondary reasons to choose a diet as though they were the primary ones](https://www.greaterwrong.com/posts/bujD9zhcb9Apii5J2/dietary-debates-among-the-fruit-gnomes)&rdquo;. So what&rsquo;s my primary reason for agreeing with the broad strokes of Paleo/Keto?
 
 
-2<a id="orgedabb33"></a>
+## Past me (2013)
 
-# Beliefs as of <span class="timestamp-wrapper"><span class="timestamp">[2021-04-16 Fri]</span></span>
+It&rsquo;s not that I can&rsquo;t bear to let go of the taste of meat.  Back in 2013 when I decided to lose weight, I was ready to go animal-free or even eat nothing but broccoli for a year if that&rsquo;s what it took.  So I read up on necessary nutrients, all the vitamins, minerals and their different forms, to make sure I got enough.
 
-Okay, I want to be critiqued (by myself and others) on my nutrition world-view, so here&rsquo;s a bunch of claims I currently believe. I tried to make them concrete, if not falsifiable. Maybe I&rsquo;ll look back on this first version and feel super embarrassed at some point, but that&rsquo;s a good thing.
+I&rsquo;m biased in favour of bread and beer, because I like the stuff so much.  I also like many vegetarian foods.  I enjoy tofu, tempeh, seitan and legumes.  I think quorn nuggets beat chicken nuggets.
+
+I read about retinoids (animal-sourced vitamin A) versus carotenoids (vegetable-sourced vitamin A).  How to find vitamin K1 and K2 in an animal-free diet.  What role omega 3 plays, how much we need, and what factors might affect how much we need.  Anyway I spent much of my free time that year just geeking out about nutrition, and was at the peak of my health.  I virtually couldn&rsquo;t sunburn, I went shirtless and barefoot all the time, my immune system was king, my eyesight improved, my reflexes improved.
+
+I should admit that back then I wanted to be an iconoclast, to hold the secret that society at large doesn&rsquo;t know.  Now I use the experience of &ldquo;knowing the secret of keto&rdquo; as a reference point for what it must be like to be in a cult, and it&rsquo;s useful.  I must have been inundated enough with the traditional values of skepticism, because keto is what birthed my interest in statistics, so I could read the papers everyone was citing and make sense of them for myself (which I still haven&rsquo;t gotten around to).
+
+
+## Current me (2022)
+
+Now I don&rsquo;t want to be an iconoclast, not in terms of nutrition science.  I&rsquo;d rather my diet mesh easily with other people&rsquo;s diets for social reasons.
+
+Now my outlook on optimal nutrition is slightly different and more flexible, and I think that biochemistry is so complicated that a reductionist approach focusing on specific nutrients doesn&rsquo;t make sense at this stage of the science.
+
+If you optimize a diet for specific nutrients, you&rsquo;re just [Goodharting](https://en.wikipedia.org/wiki/Goodhart%27s_law) it: targeting a measure and not its underlying cause.  In Kuhnian terms, the field of nutrition is still in a [pre-science](https://www.simplypsychology.org/Kuhn-Paradigm.html) stage as far as I can tell.  At this point I&rsquo;d only expect a holistic perspective to provide good answers, provided of course that you keep your pet holistic theory falsifiable and are in a position to learn from predictive failure.  That is, you&rsquo;ll swap out the holistic framework you&rsquo;re using for a different one when surprising evidence turns up.  Be like astronomy, not astrology; be specific in your predictions, don&rsquo;t move the goalposts, be quick to abandon hypotheses, and don&rsquo;t maintain claims that you can&rsquo;t causally tie to a related falsifiable claim.
+
+
+# Beliefs as of <span class="timestamp-wrapper"><span class="timestamp">[2022-01-11 Tue]</span></span>
+
+Okay, I want to be critiqued (by myself and others) on my nutrition world-view, so here&rsquo;s a bunch of claims I currently believe, in no particular order. I tried to make them concrete. Maybe I&rsquo;ll look back on this first version and be embarrassed at some point, but that&rsquo;s a good thing.
 
 Nutrition-related assertions I&rsquo;m fairly confident of (let&rsquo;s call them beliefs)
 
--   It&rsquo;s hard to get nutrient overload from meat (barring a long period of only muscle meat)
+-   It&rsquo;s hard to get nutrient overload from meat (barring a long period of eating only muscle meat)
 -   Vitamin C deficiency can only occur if you have significant carb sources
 -   Vitamin K2 deficiency makes teeth transparent & brittle
--   Bone broth can elevate plasma D3 (vitamin D level in blood) despite not containing D3 itself
+-   Including bone broth in diet can elevate vitamin D levels despite not containing D itself
 -   Vitamin D supplementation generally helps short-term (but should not be sustained)
 -   Vitamin D supplementation is harmful if hanging out in the sun would *not* increase it (something else the bottleneck)
+    -   Clarification: suppose you take a person with low D levels, tell them to go out in the sun for two hours a day, and test them a few weeks later. Many people will show a much higher level of vit D, but some people will not have shown any increase. For these people, it&rsquo;s a bad idea to force it up with supplements, as there&rsquo;s a reason the body chose not to produce D.
 -   The immune system works better in a fasted state
 -   Staying in a ketotic metabolism for 300+ days a year will lengthen an average young adult&rsquo;s lifespan by 5-20 years and healthspan more than proportionately
--   When giving an OGTT to a ketotic person causes a hyperinsulinemic response (like a diabetic), it does not indicate a chronic problem: letting them acclimate to carbs for a day first will ensure a normal response to OGTT.
-    -   Clarification: The above is true for non-diabetics. Also, a ketogenic diet will never cause diabetes.
+-   When giving an OGTT to a ketotic person causes a hyperinsulinemic response (i.e. they react like a diabetic), it does not indicate a chronic problem: letting them acclimate to carbs for a day first will ensure a normal response to OGTT.
+    -   Specification: The above is true for patients that do not already have diabetes. Also, a ketogenic diet will never cause diabetes.
 -   A large portion (5-50%) of the Nordic population cannot meet their omega-3 need just with off-the-shelf omega-3 capsules, without resorting to such quantities that cause obvious adverse reactions due to other things in these capsules.
 -   Fasting and IF lower the &ldquo;bodyweight set-point&rdquo;
 -   Who does not eat liver should eat plenty of beans
@@ -61,11 +71,9 @@ Nutrition-related assertions I&rsquo;m fairly confident of (let&rsquo;s call the
 Terminology
 
 -   &ldquo;Ketotic person&rdquo; &#x2013; someone (1) used to a ketogenic diet and (2) is in a state such that >50% of brain glucose use has been replaced by ketone use
-    -   probably met after eating ketogenic for 3+ weeks and then making exceptions maximum once a week
--   &ldquo;In practice&rdquo; &#x2013; life is not a lab, soda and light soda may have different effects in the lab where other factors are held fixed, but when an individual makes the substitution in everyday life, this has knock-on effects that should count among the real effects of making the substitution. Light soda may itself be unable to cause weight gain, being calorie-free, but can still be rightly blamed for causing weight gain in practice: it happens thru knock-on effects. Put another way, whether it happens thru the mechanics of glucose intake (included with the food) and lipogenesis, or thru a less direct chain of effects that ends in glucose intake (from a different source), has the rational target for blame really changed? &ldquo;In practice&rdquo; is what matters.
+    -   probably met after eating ketogenic for 3+ weeks and then making exceptions a maximum of once a week
+-   &ldquo;In practice&rdquo; &#x2013; this concept can be elaborated endlessly, but in short it reminds us that **life is not a lab**; soda and light soda may have different effects on a lab patient where other factors are held fixed, but when an individual makes a substitution of soda for light soda in everyday life, this has knock-on effects that should count among the real, practical effects of making the substitution.  Light soda may itself be unable to cause weight gain, being calorie-free, but can still be rightly blamed or causing weight gain in practice: it just happens thru knock-on effects.  Put another way, whether it happens thru the mechanics of glucose intake (calories included with the food) and the concomitant lipogenesis, or thru a less direct chain of effects that ends up in glucose intake (from a different source), has the rational target for blame really changed?  &ldquo;In practice&rdquo; is what matters in the end.
 
-
-<a id="orgcc42176"></a>
 
 # Questions I have
 
@@ -81,21 +89,19 @@ Terminology
         -   try to counter selection bias by also looking for a prominent anti-fasting guru and check their studies
 
 
-<a id="orgf278eea"></a>
-
-# Holism perspectives, version 1
+# Holism perspectives
 
 -   Claiming that a diet would have fit into our Environment of Evolutionary Adaptedness (EEA) is isometric to claiming that it&rsquo;s healthy &#x2013; that is to say, they are the same claim.
-    -   Can this even be disagreed with? I&rsquo;d like to hear how, because this guides much of my thinking.
+    -   Can this be disagreed with?  It guides much of my thinking.
     -   In the above, the scope of &ldquo;diet&rdquo; is longer than a few weeks. In the short term, certainly something can be not-healthy for an individual because they&rsquo;re sick e.g.
     -   But pet cats live longer than wild cats
         -   Good observation! Do they actually age slower or just get killed less, impacting the average? How does the body of a 15-year old wild cat compared to a 15-year old pet cat?
         -   If wild life (life in EEA) has a negative effect on health, it seems to me unlikely to be due to diet, but rather stress/starvation/disease/cold.
             -   Sitting Bull, a &ldquo;wild human&rdquo;, was famous for being over 90 with good mental and physical health.
--   Let&rsquo;s taboo the word &ldquo;fat&rdquo;.
-    -   The word makes you stupid. Say &ldquo;eating triglycerides makes you overweight&rdquo; rather than &ldquo;eating fat makes you fat&rdquo;.
-        -   Why&rsquo;s it stupid? Compare &ldquo;Eating vegetables makes you green&rdquo;. &ldquo;Eating duck turns you into a duck&rdquo;. &ldquo;Eating sweets turns your body sweet&rdquo;. &ldquo;Eating cholesterol increases blood cholesterol&rdquo;. I could go on and on. Some of these people actually say, others are clearly absurd, but they&rsquo;re all making the exact same type of error.
--   Let&rsquo;s be aware of hormesis and homeostasis. That the body reacts dynamically to input, so you cannot make a general conclusion from the effect of a certain quantity of one input, you need to test different quantities, and take into account how often the body has been exposed to this input in the past.
+-   Let&rsquo;s taboo the word &ldquo;fat&rdquo;, because it has dual meanings: a noun meaning triglycerides (lipid molecules), and an adjective meaning being overweight.
+    -   Say &ldquo;eating triglycerides makes you overweight&rdquo; rather than &ldquo;eating fat makes you fat&rdquo;.
+        -   Compare &ldquo;Eating vegetables makes you green&rdquo;. &ldquo;Eating duck turns you into a duck&rdquo;. &ldquo;Eating sweets turns your body sweet&rdquo;. &ldquo;Eating cholesterol increases blood cholesterol&rdquo;. They&rsquo;re all the same type of error, we easily take a cognitive shortcut when hearing this kind of statement.
+-   Let&rsquo;s take into account hormesis and homeostasis. That the body reacts dynamically to input, so you cannot make a general conclusion from the effect of a certain quantity of one input, you need to test different quantities, and take into account how often the body has been exposed to this input in the past.
 -   Your needs for a given nutrient change depending on how much you have of other nutrients.
     -   One way to boost a nutrient without starting to eat more of it is to reduce the rate of its depletion.
         -   Example: Vitamin C depleted by oxidation. One source of oxidation is carbs. Hence, carbs increase need for vitamin C.
@@ -106,10 +112,9 @@ Terminology
 -   Let&rsquo;s not quibble over what it means to need. &ldquo;Need&rdquo; is a funny concept. You don&rsquo;t need to eat seafood. You don&rsquo;t need an appendix or legs, either. Let&rsquo;s just say it&rsquo;s shorthand for that it&rsquo;ll lengthen our lifespan.
 
 
-<a id="orgde4c756"></a>
-
 # Map of reductionist findings
 
-A map of concepts.  Work in progress.  Sorry about the mess.
+-   Omega-3 and telomeres: <https://web.archive.org/web/20170320053307/http://caloriesproper.com/omega-3-index/>
+    -   Conclusion: 1-2g of omega-3 a day puts you ahead of most. 300g of fresh herring has 10g, so you could go for one pack a week.
 
-![](chart-nutr.jpg)
+![](/assets/chart-nutr.jpg)
