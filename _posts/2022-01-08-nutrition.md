@@ -15,7 +15,7 @@
 
 # Self-intro
 
-For honesty and transparency, I'll try show who I am before starting a discussion.
+For honesty and transparency, I&rsquo;ll try to show who I am before starting a discussion.
 
 It is said: &ldquo;[do not present secondary reasons to choose a diet as though they were the primary ones](https://www.greaterwrong.com/posts/bujD9zhcb9Apii5J2/dietary-debates-among-the-fruit-gnomes)&rdquo;. So what&rsquo;s my primary reason for agreeing with the broad strokes of Paleo/Keto?
 
@@ -62,7 +62,7 @@ Nutrition-related assertions I&rsquo;m fairly confident of (let&rsquo;s call the
 -   The immune system works better in a fasted state
 -   Staying in a ketotic metabolism for 300+ days a year will lengthen an average young adult&rsquo;s lifespan by 5-20 years and healthspan more than proportionately
 -   When giving an OGTT to a ketotic person causes a hyperinsulinemic response (i.e. they react like a diabetic), it does not indicate a chronic problem: letting them acclimate to carbs for a day first will ensure a normal response to OGTT.
-    -   Specification: The above is true for patients that do not already have diabetes. Also, a ketogenic diet will never cause diabetes.
+    -   Specification: The above is true for patients that do not already have diabetes. Related belief: a ketogenic diet will never cause diabetes.
 -   A large portion (5-50%) of the Nordic population cannot meet their omega-3 need just with off-the-shelf omega-3 capsules, without resorting to such quantities that cause obvious adverse reactions due to other things in these capsules.
 -   Fasting and IF lower the &ldquo;bodyweight set-point&rdquo;
 -   Who does not eat liver should eat plenty of beans
@@ -88,6 +88,7 @@ Nutrition-related assertions I&rsquo;m fairly confident of (let&rsquo;s call the
 -   Grains ???
 -   Cooking methods ???
 -   The broth resulting from cooking ???
+-   Gut health ???
 
 Terminology
 
@@ -116,9 +117,9 @@ Terminology
 
 # Holism perspectives to apply
 
--   Claiming that a diet would have fit into our Environment of Evolutionary Adaptedness (EEA) is isometric to claiming that it&rsquo;s healthy &#x2013; that is to say, they are the same claim.
+-   Claiming that a diet would have fit into our Environment of Evolutionary Adaptedness (EEA) is isometric to claiming that it&rsquo;s healthy &#x2013; that is to say, they are the same claim written with different synonyms.
     -   Can this be disagreed with?  It guides much of my thinking.
-    -   In the above, the scope of &ldquo;diet&rdquo; is longer than a few weeks. In the short term, certainly something can be not-healthy for an individual because they&rsquo;re sick e.g.
+    -   In the above claim, the scope of &ldquo;diet&rdquo; is longer than a few weeks. It speaks of the general trend of a person&rsquo;s diet. In the short term, something that normally fits in can be not-healthy (causing a reduction of lifespan) for an individual e.g. because they&rsquo;re sick and shouldn&rsquo;t be eating at all, or because they&rsquo;ve already eaten three days&rsquo; worth of calories that day.
     -   But pet cats live longer than wild cats
         -   Good observation! Do they actually age slower or just get killed less, impacting the average? How does the body of a 15-year old wild cat compared to a 15-year old pet cat?
         -   If wild life (life in EEA) has a negative effect on health, it seems to me unlikely to be due to diet, but rather stress/starvation/disease/cold.
@@ -132,9 +133,9 @@ Terminology
         -   Example: Vitamin C depleted by oxidation. One source of oxidation is carbs. Hence, carbs increase need for vitamin C.
         -   Example: Vitamin A and D seem to &ldquo;take out&rdquo; each other.
     -   Example: Vitamin D levels can stay fixed regardless of time in the sun until you fix a deficiency of one of the bone-health minerals, whereupon vitamin D is free to increase. This is a talking point in the &ldquo;don&rsquo;t supplement&rdquo; camp: possibly the body refuses to generate vit D to protect bone because it would trigger processes that it doesn&rsquo;t have the minerals to support, resulting in osteoporosis. Indeed, D supplementation has been connected to osteoporosis in some cases.
--   Let&rsquo;s not be content with Goodharting.
-    -   A strong form of this position is that e.g. omega-3 supplements are just Goodharting a measure, the underlying cause of which is that we need seafood (no other realistic source), a need which cannot be met by eating any quantity of omega-3. You take the apparent need of specific nutrients as indication that we need those foods that contain them. This is due to the problem of unknown unknowns: how much of nutrition has been explored? 5%? Absent so much information, the precious few indicators we do get cannot be the full story, and are best used to guide our food selections.
--   What does &ldquo;needing&rdquo; a nutrient mean? &ldquo;Need&rdquo; is a funny concept. You don&rsquo;t need to eat seafood. You don&rsquo;t need an appendix or legs, either. Let&rsquo;s just call it a shorthand for that it&rsquo;ll lengthen our lifespan.
+-   Let&rsquo;s not be content with Goodharting, i.e. maximizing all nutrients we already have seen correlating with health.
+    -   A strong form of this position is that e.g. omega-3 supplements are just Goodharting a measure, the underlying cause of which is that we need seafood (no other realistic source), a need which cannot be met by eating any quantity of omega-3&#x2026; because omega-3 is only omega-3, and contains nothing else that&rsquo;s typical of seafood! You take the apparent need of specific nutrients as indication that we need those foods that contain them. This is due to the problem of unknown unknowns: how much of nutrition has been explored? 5%? Absent so much information, the precious few indicators we do get cannot be the full story, and are best used to guide our food selections.
+-   What does &ldquo;needing&rdquo; a nutrient mean? &ldquo;Need&rdquo; is a funny concept. You don&rsquo;t need to eat seafood. You don&rsquo;t need an appendix or legs, either. And you don&rsquo;t need love. Let&rsquo;s just call it a shorthand for that it&rsquo;ll lengthen our lifespan.
 
 
 <a id="org53818ff"></a>
@@ -143,5 +144,5 @@ Terminology
 
 A map of specifics. Work in progress. Sorry about the mess.
 
-[![img](/assets/chart-nutr.jpg)](file:///assets/chart-nutr.jpg)
+[![img](/assets/chart-nutr.jpg)](https://meedstrom.github.io/assets/chart-nutr.jpg)
 
