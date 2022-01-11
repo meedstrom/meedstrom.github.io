@@ -112,4 +112,4 @@ Terminology
 
 A map of concepts.  Work in progress.  Sorry about the mess.
 
-![][chart-nutr.jpg]
+![](chart-nutr.jpg)
