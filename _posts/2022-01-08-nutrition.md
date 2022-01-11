@@ -1,13 +1,30 @@
 
+# Table of Contents
+
+1.  [Self-intro](#org7e88de5)
+    1.  [Past me (2013)](#org0e1e94b)
+    2.  [Current me (2022)](#org502d0bc)
+2.  [Beliefs as of <span class="timestamp-wrapper"><span class="timestamp">[2022-01-11 Tue]</span></span>](#org8115e92)
+3.  [Questions I have](#orga50d738)
+4.  [Holism perspectives to apply](#orge360f70)
+5.  [Map of reductionist findings](#org53818ff)
+
+
+
+<a id="org7e88de5"></a>
 
 # Self-intro
+
+For honesty and transparency, I'll try show who I am before starting a discussion.
 
 It is said: &ldquo;[do not present secondary reasons to choose a diet as though they were the primary ones](https://www.greaterwrong.com/posts/bujD9zhcb9Apii5J2/dietary-debates-among-the-fruit-gnomes)&rdquo;. So what&rsquo;s my primary reason for agreeing with the broad strokes of Paleo/Keto?
 
 
+<a id="org0e1e94b"></a>
+
 ## Past me (2013)
 
-It&rsquo;s not that I can&rsquo;t bear to let go of the taste of meat.  Back in 2013 when I decided to lose weight, I was ready to go animal-free or even eat nothing but broccoli for a year if that&rsquo;s what it took.  So I read up on necessary nutrients, all the vitamins, minerals and their different forms, to make sure I got enough.
+It&rsquo;s not that I couldn&rsquo;t bear to let go of the taste of meat.  Back in 2013 when I decided to lose weight, I wasn&rsquo;t particularly a fan of meat.  I was ready to go animal-free or even eat nothing but broccoli for a year if that&rsquo;s what it took.  So I read up on necessary nutrients, all the vitamins, minerals and their different forms, to make sure I got enough.
 
 I&rsquo;m biased in favour of bread and beer, because I like the stuff so much.  I also like many vegetarian foods.  I enjoy tofu, tempeh, seitan and legumes.  I think quorn nuggets beat chicken nuggets.
 
@@ -15,6 +32,8 @@ I read about retinoids (animal-sourced vitamin A) versus carotenoids (vegetable-
 
 I should admit that back then I wanted to be an iconoclast, to hold the secret that society at large doesn&rsquo;t know.  Now I use the experience of &ldquo;knowing the secret of keto&rdquo; as a reference point for what it must be like to be in a cult, and it&rsquo;s useful.  I must have been inundated enough with the traditional values of skepticism, because keto is what birthed my interest in statistics, so I could read the papers everyone was citing and make sense of them for myself (which I still haven&rsquo;t gotten around to).
 
+
+<a id="org502d0bc"></a>
 
 ## Current me (2022)
 
@@ -24,6 +43,8 @@ Now my outlook on optimal nutrition is slightly different and more flexible, and
 
 If you optimize a diet for specific nutrients, you&rsquo;re just [Goodharting](https://en.wikipedia.org/wiki/Goodhart%27s_law) it: targeting a measure and not its underlying cause.  In Kuhnian terms, the field of nutrition is still in a [pre-science](https://www.simplypsychology.org/Kuhn-Paradigm.html) stage as far as I can tell.  At this point I&rsquo;d only expect a holistic perspective to provide good answers, provided of course that you keep your pet holistic theory falsifiable and are in a position to learn from predictive failure.  That is, you&rsquo;ll swap out the holistic framework you&rsquo;re using for a different one when surprising evidence turns up.  Be like astronomy, not astrology; be specific in your predictions, don&rsquo;t move the goalposts, be quick to abandon hypotheses, and don&rsquo;t maintain claims that you can&rsquo;t causally tie to a related falsifiable claim.
 
+
+<a id="org8115e92"></a>
 
 # Beliefs as of <span class="timestamp-wrapper"><span class="timestamp">[2022-01-11 Tue]</span></span>
 
@@ -75,6 +96,8 @@ Terminology
 -   &ldquo;In practice&rdquo; &#x2013; this concept can be elaborated endlessly, but in short it reminds us that **life is not a lab**; soda and light soda may have different effects on a lab patient where other factors are held fixed, but when an individual makes a substitution of soda for light soda in everyday life, this has knock-on effects that should count among the real, practical effects of making the substitution.  Light soda may itself be unable to cause weight gain, being calorie-free, but can still be rightly blamed or causing weight gain in practice: it just happens thru knock-on effects.  Put another way, whether it happens thru the mechanics of glucose intake (calories included with the food) and the concomitant lipogenesis, or thru a less direct chain of effects that ends up in glucose intake (from a different source), has the rational target for blame really changed?  &ldquo;In practice&rdquo; is what matters in the end.
 
 
+<a id="orga50d738"></a>
+
 # Questions I have
 
 -   Which vitamins and minerals can be safely &ldquo;spammed&rdquo;?
@@ -89,7 +112,9 @@ Terminology
         -   try to counter selection bias by also looking for a prominent anti-fasting guru and check their studies
 
 
-# Holism perspectives
+<a id="orge360f70"></a>
+
+# Holism perspectives to apply
 
 -   Claiming that a diet would have fit into our Environment of Evolutionary Adaptedness (EEA) is isometric to claiming that it&rsquo;s healthy &#x2013; that is to say, they are the same claim.
     -   Can this be disagreed with?  It guides much of my thinking.
@@ -109,12 +134,14 @@ Terminology
     -   Example: Vitamin D levels can stay fixed regardless of time in the sun until you fix a deficiency of one of the bone-health minerals, whereupon vitamin D is free to increase. This is a talking point in the &ldquo;don&rsquo;t supplement&rdquo; camp: possibly the body refuses to generate vit D to protect bone because it would trigger processes that it doesn&rsquo;t have the minerals to support, resulting in osteoporosis. Indeed, D supplementation has been connected to osteoporosis in some cases.
 -   Let&rsquo;s not be content with Goodharting.
     -   A strong form of this position is that e.g. omega-3 supplements are just Goodharting a measure, the underlying cause of which is that we need seafood (no other realistic source), a need which cannot be met by eating any quantity of omega-3. You take the apparent need of specific nutrients as indication that we need those foods that contain them. This is due to the problem of unknown unknowns: how much of nutrition has been explored? 5%? Absent so much information, the precious few indicators we do get cannot be the full story, and are best used to guide our food selections.
--   Let&rsquo;s not quibble over what it means to need. &ldquo;Need&rdquo; is a funny concept. You don&rsquo;t need to eat seafood. You don&rsquo;t need an appendix or legs, either. Let&rsquo;s just say it&rsquo;s shorthand for that it&rsquo;ll lengthen our lifespan.
+-   What does &ldquo;needing&rdquo; a nutrient mean? &ldquo;Need&rdquo; is a funny concept. You don&rsquo;t need to eat seafood. You don&rsquo;t need an appendix or legs, either. Let&rsquo;s just call it a shorthand for that it&rsquo;ll lengthen our lifespan.
 
+
+<a id="org53818ff"></a>
 
 # Map of reductionist findings
 
--   Omega-3 and telomeres: <https://web.archive.org/web/20170320053307/http://caloriesproper.com/omega-3-index/>
-    -   Conclusion: 1-2g of omega-3 a day puts you ahead of most. 300g of fresh herring has 10g, so you could go for one pack a week.
+A map of specifics. Work in progress. Sorry about the mess.
 
-![](/assets/chart-nutr.jpg)
+[![img](/assets/chart-nutr.jpg)](file:///assets/chart-nutr.jpg)
+
