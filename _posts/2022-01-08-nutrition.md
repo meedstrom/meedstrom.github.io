@@ -37,11 +37,11 @@ I should admit that back then I wanted to be an iconoclast, to hold the secret t
 
 ## Current me (2022)
 
-Now I don&rsquo;t want to be an iconoclast, not in terms of nutrition science.  I&rsquo;d rather my diet mesh easily with other people&rsquo;s diets for social reasons.
+Now I don&rsquo;t want to be an iconoclast in nutrition science.  I&rsquo;d rather my diet mesh easily with other people&rsquo;s diets for social reasons.
 
-Now my outlook on optimal nutrition is slightly different and more flexible, and I think that biochemistry is so complicated that a reductionist approach focusing on specific nutrients doesn&rsquo;t make sense at this stage of the science.
+My outlook on optimal nutrition is slightly different from 2013-me and more flexible, and I think that biochemistry is so complicated that a reductionist approach focusing on specific nutrients doesn&rsquo;t make sense at this stage of the science.
 
-If you optimize a diet for specific nutrients, you&rsquo;re just [Goodharting](https://en.wikipedia.org/wiki/Goodhart%27s_law) it: targeting a measure and not its underlying cause.  In Kuhnian terms, the field of nutrition is still in a [pre-science](https://www.simplypsychology.org/Kuhn-Paradigm.html) stage as far as I can tell.  At this point I&rsquo;d only expect a holistic perspective to provide good answers, provided of course that you keep your pet holistic theory falsifiable and are in a position to learn from predictive failure.  That is, you&rsquo;ll swap out the holistic framework you&rsquo;re using for a different one when surprising evidence turns up.  Be like astronomy, not astrology; be specific in your predictions, don&rsquo;t move the goalposts, be quick to abandon hypotheses, and don&rsquo;t maintain claims that you can&rsquo;t causally tie to a related falsifiable claim.
+If you optimize a diet for specific nutrients, I think you&rsquo;re just [Goodharting](https://en.wikipedia.org/wiki/Goodhart%27s_law) it: targeting a measure and not its underlying cause.  In Kuhnian terms, the field of nutrition is still in a [pre-science](https://www.simplypsychology.org/Kuhn-Paradigm.html) stage as far as I can tell.  At this point I&rsquo;d only expect a holistic perspective to provide good answers, provided of course that you keep your pet holistic theory falsifiable and are in a position to learn from predictive failure.  That is, you&rsquo;ll swap out the holistic framework you&rsquo;re using for a different one when surprising evidence turns up, rather than explain away the evidence so you can keep the framework unmodified.  Any evidence should result in *some* modification to your framework.  Be like astronomy, not like astrology; be specific in your predictions, don&rsquo;t move the goalposts, be quick to abandon hypotheses, and don&rsquo;t maintain claims that you can&rsquo;t causally tie to a related falsifiable claim.
 
 
 <a id="org8115e92"></a>
@@ -84,6 +84,9 @@ Nutrition-related assertions I&rsquo;m fairly confident of (let&rsquo;s call the
 -   Fat-soluble vitamins and minerals, such as vitamin D, are stored longterm in fatty tissue, and the storage can last for months of fasting (as long as the fat stores do), provided the diet was consistently nutritious before.
     -   If the diet was not consistently nutritious before beginning fasting, the body fat liberated during fasting will be proportionately deficient in fat-solubles (50% confident).
 -   (75% confidence) If you got plenty of sun during the summer, vitamin D levels stay high through winter, at least in the context of what&rsquo;s colloquially called a &ldquo;Paleo&rdquo; or &ldquo;Keto&rdquo; diet.
+-   (95% confidence) Coffee is about 99% as hydrating as water i.e. a liter of coffee is nearly indistinguishable from a liter of water for the body&rsquo;s hydration needs.
+    -   A minor issue, but the fact there is a lot of disagreement on this point reveals how much confusion there is in nutrition science around even basic reasoning about human biochemistry.
+-   For a majority of the population, exhorting &ldquo;eat less calories to lose weight&rdquo; either has no effect or causes weight *gain*, not loss.
 -   Sugar ???
 -   Grains ???
 -   Cooking methods ???
@@ -94,7 +97,6 @@ Terminology
 
 -   &ldquo;Ketotic person&rdquo; &#x2013; someone (1) used to a ketogenic diet and (2) is in a state such that >50% of brain glucose use has been replaced by ketone use
     -   probably met after eating ketogenic for 3+ weeks and then making exceptions a maximum of once a week
--   &ldquo;In practice&rdquo; &#x2013; this concept can be elaborated endlessly, but in short it reminds us that **life is not a lab**; soda and light soda may have different effects on a lab patient where other factors are held fixed, but when an individual makes a substitution of soda for light soda in everyday life, this has knock-on effects that should count among the real, practical effects of making the substitution.  Light soda may itself be unable to cause weight gain, being calorie-free, but can still be rightly blamed or causing weight gain in practice: it just happens thru knock-on effects.  Put another way, whether it happens thru the mechanics of glucose intake (calories included with the food) and the concomitant lipogenesis, or thru a less direct chain of effects that ends up in glucose intake (from a different source), has the rational target for blame really changed?  &ldquo;In practice&rdquo; is what matters in the end.
 
 
 <a id="orga50d738"></a>
@@ -118,7 +120,7 @@ Terminology
 # Holism perspectives to apply
 
 -   Claiming that a diet would have fit into our Environment of Evolutionary Adaptedness (EEA) is isometric to claiming that it&rsquo;s healthy &#x2013; that is to say, they are the same claim written with different synonyms.
-    -   Can this be disagreed with?  It guides much of my thinking.
+    -   This guides much of my thinking, so can it be disagreed with?  CMV please.
     -   In the above claim, the scope of &ldquo;diet&rdquo; is longer than a few weeks. It speaks of the general trend of a person&rsquo;s diet. In the short term, something that normally fits in can be not-healthy (causing a reduction of lifespan) for an individual e.g. because they&rsquo;re sick and shouldn&rsquo;t be eating at all, or because they&rsquo;ve already eaten three days&rsquo; worth of calories that day.
     -   But pet cats live longer than wild cats
         -   Good observation! Do they actually age slower or just get killed less, impacting the average? How does the body of a 15-year old wild cat compared to a 15-year old pet cat?
@@ -130,12 +132,13 @@ Terminology
 -   Let&rsquo;s take into account hormesis and homeostasis. That the body reacts dynamically to input, so you cannot make a general conclusion from the effect of a certain quantity of one input, you need to test different quantities, and take into account how often the body has been exposed to this input in the past.
 -   Your needs for a given nutrient change depending on how much you have of other nutrients.
     -   One way to boost a nutrient without starting to eat more of it is to reduce the rate of its depletion.
-        -   Example: Vitamin C depleted by oxidation. One source of oxidation is carbs. Hence, carbs increase need for vitamin C.
+        -   Example: Vitamin C depleted by oxidation. One source of oxidation is carb metabolism. Hence, carbs increase need for vitamin C.
         -   Example: Vitamin A and D seem to &ldquo;take out&rdquo; each other.
-    -   Example: Vitamin D levels can stay fixed regardless of time in the sun until you fix a deficiency of one of the bone-health minerals, whereupon vitamin D is free to increase. This is a talking point in the &ldquo;don&rsquo;t supplement&rdquo; camp: possibly the body refuses to generate vit D to protect bone because it would trigger processes that it doesn&rsquo;t have the minerals to support, resulting in osteoporosis. Indeed, D supplementation has been connected to osteoporosis in some cases.
--   Let&rsquo;s not be content with Goodharting, i.e. maximizing all nutrients we already have seen correlating with health.
-    -   A strong form of this position is that e.g. omega-3 supplements are just Goodharting a measure, the underlying cause of which is that we need seafood (no other realistic source), a need which cannot be met by eating any quantity of omega-3&#x2026; because omega-3 is only omega-3, and contains nothing else that&rsquo;s typical of seafood! You take the apparent need of specific nutrients as indication that we need those foods that contain them. This is due to the problem of unknown unknowns: how much of nutrition has been explored? 5%? Absent so much information, the precious few indicators we do get cannot be the full story, and are best used to guide our food selections.
--   What does &ldquo;needing&rdquo; a nutrient mean? &ldquo;Need&rdquo; is a funny concept. You don&rsquo;t need to eat seafood. You don&rsquo;t need an appendix or legs, either. And you don&rsquo;t need love. Let&rsquo;s just call it a shorthand for that it&rsquo;ll lengthen our lifespan.
+    -   Example: Vitamin D levels can stay fixed regardless of time in the sun until you fix a deficiency of one of the bone-health minerals (calcium, boron, &#x2026;), whereupon vitamin D is free to increase. This is a talking point in the &ldquo;don&rsquo;t supplement&rdquo; camp: possibly the body refuses to generate vit D to protect bone because it would trigger processes that it doesn&rsquo;t have the minerals to support. Indeed, D supplementation has been connected to osteoporosis in some cases.
+-   Let&rsquo;s not be content with Goodharting, i.e. trying to maximize all nutrients we have previously seen correlate with health, and calling it done.
+    -   A strong form of this position is that e.g. omega-3 supplements are just Goodharting a measure, the underlying cause of which is that we need seafood, a need which cannot be met by eating any quantity of omega-3&#x2026; because omega-3 is only omega-3, and contains nothing else that&rsquo;s typical of seafood! You take the apparent need of specific nutrients as indication that we need those foods that contain them. This is due to the problem of unknown unknowns: how much of nutrition has been explored? 5%? Absent so much information, the precious few indicators we do get cannot be the full story, and are best used to guide our food selections.
+-   What does &ldquo;needing&rdquo; a nutrient mean? &ldquo;Need&rdquo; is a funny concept. You don&rsquo;t need to eat seafood. You don&rsquo;t need an appendix or legs, either. And you don&rsquo;t need friends or love in your life. Let&rsquo;s just call it a shorthand for that it&rsquo;ll lengthen our lifespan.
+-   Practical reality is the whole reality.  Let&rsquo;s use the words &ldquo;in practice&rdquo; as often as we can.  It reminds us that **life is not a lab**; soda and light soda may have different effects on a lab patient where other factors are held fixed, but when an individual makes a substitution of soda for light soda in everyday life, this has knock-on effects that should count among the real, practical effects of making the substitution.  Light soda may itself be unable to cause weight gain, being calorie-free, but can still be rightly blamed or causing weight gain in practice: it just happens thru knock-on effects.  Put another way, whether it happens thru the mechanics of glucose intake (calories included with the food) and the concomitant lipogenesis, or thru a less direct chain of effects that ends up in glucose intake (from a different source), has the rational target for blame really changed?  &ldquo;In practice&rdquo; is what matters in the end.
 
 
 <a id="org53818ff"></a>
