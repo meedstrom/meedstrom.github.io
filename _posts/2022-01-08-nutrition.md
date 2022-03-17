@@ -1,52 +1,65 @@
 
 # Table of Contents
 
-1.  [Self-intro](#org7e88de5)
-    1.  [Past me (2013)](#org0e1e94b)
-    2.  [Current me (2022)](#org502d0bc)
-2.  [Beliefs as of <span class="timestamp-wrapper"><span class="timestamp">[2022-01-11 Tue]</span></span>](#org8115e92)
-3.  [Questions I have](#orga50d738)
-4.  [Holism perspectives to apply](#orge360f70)
-5.  [Map of reductionist findings](#org53818ff)
+1.  [Self-intro](#orgd554482)
+    1.  [Past me (2013)](#org0941e76)
+    2.  [Current me (2022)](#org3636f72)
+2.  [Beliefs](#org31fbebe)
+3.  [Questions](#org2261e2c)
+4.  [Holism perspectives to apply](#orgfee93de)
+5.  [Map of reductionist findings](#org3f4377c)
+6.  [Interpretations](#orgf383369)
+    1.  [To look into](#org25f59d3)
+    2.  [Forms of omega-3](#org0a842ca)
+    3.  [Effects of omega-3](#orga39fe0c)
+    4.  [Omega 3-6 balance](#org8663a26)
+    5.  [sn-2 DHA](#org3118bc1)
+    6.  [Genetic need of omega-3](#org71b4469)
+    7.  [How much seafood?](#org0cab385)
+    8.  [Creatine](#org34e1fc2)
+    9.  [Leucine](#orgae29db2)
+    10. [Teeth](#org76145d8)
 
 
 
-<a id="org7e88de5"></a>
+<a id="orgd554482"></a>
 
 # Self-intro
 
-For honesty and transparency, I&rsquo;ll try to show who I am before starting a discussion.
+For transparency, I&rsquo;ll try to show who I am before starting a discussion.
 
 It is said: &ldquo;[do not present secondary reasons to choose a diet as though they were the primary ones](https://www.greaterwrong.com/posts/bujD9zhcb9Apii5J2/dietary-debates-among-the-fruit-gnomes)&rdquo;. So what&rsquo;s my primary reason for agreeing with the broad strokes of Paleo/Keto?
 
 
-<a id="org0e1e94b"></a>
+<a id="org0941e76"></a>
 
 ## Past me (2013)
 
-It&rsquo;s not that I couldn&rsquo;t bear to let go of the taste of meat.  Back in 2013 when I decided to lose weight, I wasn&rsquo;t particularly a fan of meat.  I was ready to go animal-free or even eat nothing but broccoli for a year if that&rsquo;s what it took.  So I read up on necessary nutrients, all the vitamins, minerals and their different forms, to make sure I got enough.
+It&rsquo;s not that I couldn&rsquo;t bear to let go of the taste of meat, something many people are too prone to assume about meat-eaters.  Back in 2013 when I decided to lose weight, I liked meat but wasn&rsquo;t a fan in any particular way.  I was ready to go animal-free or even eat nothing but broccoli for a year if that&rsquo;s what it took.  So I read up on necessary nutrients, all the vitamins, minerals and their different forms, to make sure I got enough.
 
-I&rsquo;m biased in favour of bread and beer, because I like the stuff so much.  I also like many vegetarian foods.  I enjoy tofu, tempeh, seitan and legumes.  I think quorn nuggets beat chicken nuggets.
+I had no bias for meat, but I was (and still am) biased in favour of bread and beer, because I like the stuff so much.  I also like many vegetarian foods.  I enjoy tofu, tempeh, seitan and legumes, and always loved salads.  I think quorn nuggets beat chicken nuggets.
 
-I read about retinoids (animal-sourced vitamin A) versus carotenoids (vegetable-sourced vitamin A).  How to find vitamin K1 and K2 in an animal-free diet.  What role omega 3 plays, how much we need, and what factors might affect how much we need.  Anyway I spent much of my free time that year just geeking out about nutrition, and was at the peak of my health.  I virtually couldn&rsquo;t sunburn, I went shirtless and barefoot all the time, my immune system was king, my eyesight improved, my reflexes improved.
+I read about retinoids (animal-sourced vitamin A) versus carotenoids (vegetable-sourced vitamin A).  How to find vitamin K1 and K2 in an animal-free diet.  What role omega 3 plays, how much we need, and what factors might affect how much we need.  I read about formulating an ideal nutritional supp regimen on the Longecity forum, but time and time again, I found that the nutrient under analysis can be found in some animal tissue or other, together with all the right cofactors that aid its absorption.  Often in the &ldquo;worst&rdquo; part from a cholesterol perspective, e.g. the egg yolk, the saturated animal fat, the reddest red meat.  It seemed to be a preformulated nutritional supp regimen from Nature.  So that&rsquo;s what I ate.  I spent much of my free time that year just geeking out about nutrition, and was at the peak of my health.  I virtually couldn&rsquo;t sunburn, I went shirtless and barefoot all the time, my immune system was king, my eyesight improved, my reflexes improved.
 
-I should admit that back then I wanted to be an iconoclast, to hold the secret that society at large doesn&rsquo;t know.  Now I use the experience of &ldquo;knowing the secret of keto&rdquo; as a reference point for what it must be like to be in a cult, and it&rsquo;s useful.  I must have been inundated enough with the traditional values of skepticism, because keto is what birthed my interest in statistics, so I could read the papers everyone was citing and make sense of them for myself (which I still haven&rsquo;t gotten around to).
+I should admit that back then I wanted to be an iconoclast, to hold the secret that society at large doesn&rsquo;t know.  Now I use the experience of &ldquo;knowing the secret of keto&rdquo; as a reference point for what it must be like to be in a cult, and it&rsquo;s useful.  I remained skeptical enough that keto birthed my interest in statistics, so I could read the papers everyone was citing and make sense of them for myself (which I still haven&rsquo;t gotten around to).
 
 
-<a id="org502d0bc"></a>
+<a id="org3636f72"></a>
 
 ## Current me (2022)
 
-Now I don&rsquo;t want to be an iconoclast in nutrition science.  I&rsquo;d rather my diet mesh easily with other people&rsquo;s diets for social reasons.
+These days I don&rsquo;t want to be an iconoclast in nutrition science.  I&rsquo;d rather my diet mesh easily with other people&rsquo;s diets for social reasons.
 
 My outlook on optimal nutrition is slightly different from 2013-me and more flexible, and I think that biochemistry is so complicated that a reductionist approach focusing on specific nutrients doesn&rsquo;t make sense at this stage of the science.
 
-If you optimize a diet for specific nutrients, I think you&rsquo;re just [Goodharting](https://en.wikipedia.org/wiki/Goodhart%27s_law) it: targeting a measure and not its underlying cause.  In Kuhnian terms, the field of nutrition is still in a [pre-science](https://www.simplypsychology.org/Kuhn-Paradigm.html) stage as far as I can tell.  At this point I&rsquo;d only expect a holistic perspective to provide good answers, provided of course that you keep your pet holistic theory falsifiable and are in a position to learn from predictive failure.  That is, you&rsquo;ll swap out the holistic framework you&rsquo;re using for a different one when surprising evidence turns up, rather than explain away the evidence so you can keep the framework unmodified.  Any evidence should result in *some* modification to your framework.  Be like astronomy, not like astrology; be specific in your predictions, don&rsquo;t move the goalposts, be quick to abandon hypotheses, and don&rsquo;t maintain claims that you can&rsquo;t causally tie to a related falsifiable claim.
+If you optimize a diet for specific nutrients, I think you&rsquo;re just [Goodharting](https://en.wikipedia.org/wiki/Goodhart%27s_law) it: targeting a measure and not its underlying cause.  In Kuhnian terms, the field of nutrition looks to me to be still in a [pre-science](https://www.simplypsychology.org/Kuhn-Paradigm.html) stage.  At this point I&rsquo;d only expect a holistic perspective to provide good answers, provided of course that you keep your pet holistic theory falsifiable and are in a position to learn from predictive failure.  That is, you&rsquo;ll swap out the holistic framework you&rsquo;re using for a different one when surprising evidence turns up, rather than explain away the evidence so you can keep the framework unmodified.  Any evidence should result in *some* modification to your framework.  Be like astronomy, not like astrology; be specific in your predictions, don&rsquo;t move the goalposts, be quick to abandon hypotheses, and don&rsquo;t maintain any unfalsifiable claims unless you can causally tie them to a different-but-related claim that is falsifiable.
 
 
-<a id="org8115e92"></a>
+<a id="org31fbebe"></a>
 
-# Beliefs as of <span class="timestamp-wrapper"><span class="timestamp">[2022-01-11 Tue]</span></span>
+# Beliefs
+
+Updated <span class="timestamp-wrapper"><span class="timestamp">[2022-01-11 Tue]</span></span>
 
 Okay, I want to be critiqued (by myself and others) on my nutrition world-view, so here&rsquo;s a bunch of claims I currently believe, in no particular order. I tried to make them concrete. Maybe I&rsquo;ll look back on this first version and be embarrassed at some point, but that&rsquo;s a good thing.
 
@@ -61,9 +74,9 @@ Nutrition-related assertions I&rsquo;m fairly confident of (let&rsquo;s call the
     -   Clarification: suppose you take a person with low D levels, tell them to go out in the sun for two hours a day, and test them a few weeks later. Many people will show a much higher level of vit D, but some people will not have shown any increase. For these people, it&rsquo;s a bad idea to force it up with supplements, as there&rsquo;s a reason the body chose not to produce D.
 -   The immune system works better in a fasted state
 -   Staying in a ketotic metabolism for 300+ days a year will lengthen an average young adult&rsquo;s lifespan by 5-20 years and healthspan more than proportionately
--   When giving an OGTT to a ketotic person causes a hyperinsulinemic response (i.e. they react like a diabetic), it does not indicate a chronic problem: letting them acclimate to carbs for a day first will ensure a normal response to OGTT.
-    -   Specification: The above is true for patients that do not already have diabetes. Related belief: a ketogenic diet will never cause diabetes.
--   A large portion (5-50%) of the Nordic population cannot meet their omega-3 need just with off-the-shelf omega-3 capsules, without resorting to such quantities that cause obvious adverse reactions due to other things in these capsules.
+-   When giving an Oral Glucose Tolerance Test (OGTT) to a ketotic person (i.e. feeding them a lot of sugar) causes a hyperinsulinemic response (i.e. they react like a diabetic), it does not indicate a chronic problem with this person: letting them acclimate to carbs for a day first will ensure a normal response to OGTT thereafter.
+    -   Specification: The above is true for patients that do not already have diabetes. Related belief (<span class="timestamp-wrapper"><span class="timestamp">[2022-01-29 Sat] </span></span> 85%): a ketogenic diet will never cause diabetes.
+-   A large portion (10-50%) of the Nordic population cannot meet their omega-3 need just with off-the-shelf omega-3 capsules, without resorting to such quantities that cause obvious adverse reactions due to other things in these capsules.
 -   Fasting and IF lower the &ldquo;bodyweight set-point&rdquo;
 -   Who does not eat liver should eat plenty of beans
 -   Sugar raises your &ldquo;bodyweight set-point&rdquo;
@@ -83,15 +96,11 @@ Nutrition-related assertions I&rsquo;m fairly confident of (let&rsquo;s call the
 -   Retinoids (Vitamin A from animals) are well absorbed by >95% of the population.
 -   Fat-soluble vitamins and minerals, such as vitamin D, are stored longterm in fatty tissue, and the storage can last for months of fasting (as long as the fat stores do), provided the diet was consistently nutritious before.
     -   If the diet was not consistently nutritious before beginning fasting, the body fat liberated during fasting will be proportionately deficient in fat-solubles (50% confident).
--   (75% confidence) If you got plenty of sun during the summer, vitamin D levels stay high through winter, at least in the context of what&rsquo;s colloquially called a &ldquo;Paleo&rdquo; or &ldquo;Keto&rdquo; diet.
--   (95% confidence) Coffee is about 99% as hydrating as water i.e. a liter of coffee is nearly indistinguishable from a liter of water for the body&rsquo;s hydration needs.
+-   (<span class="timestamp-wrapper"><span class="timestamp">[2022-01-29 Sat] </span></span> 75% confidence) If you got plenty of sun during the summer, vitamin D levels stay high through winter, at least in the context of what&rsquo;s colloquially called a &ldquo;Paleo&rdquo; or &ldquo;Keto&rdquo; diet.
+-   (<span class="timestamp-wrapper"><span class="timestamp">[2022-01-29 Sat] </span></span> 95% confidence) Coffee is about 99% as hydrating as water i.e. a liter of coffee is nearly indistinguishable from a liter of water for the body&rsquo;s hydration needs.
     -   A minor issue, but the fact there is a lot of disagreement on this point reveals how much confusion there is in nutrition science around even basic reasoning about human biochemistry.
--   For a majority of the population, exhorting &ldquo;eat less calories to lose weight&rdquo; either has no effect or causes weight *gain*, not loss.
--   Sugar ???
--   Grains ???
--   Cooking methods ???
--   The broth resulting from cooking ???
--   Gut health ???
+-   (<span class="timestamp-wrapper"><span class="timestamp">[2022-01-29 Sat] </span></span> 75% confidence) For a majority of the population, exhorting &ldquo;eat less calories to lose weight&rdquo; either has no effect in practice or causes weight *gain*, not loss.
+-   (<span class="timestamp-wrapper"><span class="timestamp">[2022-01-29 Sat] </span></span> 50% confidence) Lack of sunlight may be an epigenetic trigger for myopia.
 
 Terminology
 
@@ -99,9 +108,9 @@ Terminology
     -   probably met after eating ketogenic for 3+ weeks and then making exceptions a maximum of once a week
 
 
-<a id="orga50d738"></a>
+<a id="org2261e2c"></a>
 
-# Questions I have
+# Questions
 
 -   Which vitamins and minerals can be safely &ldquo;spammed&rdquo;?
     -   like C, B12, &#x2026; that seem to have no practical upper limit
@@ -113,22 +122,23 @@ Terminology
     -   <https://www.forbes.com/sites/stevensalzberg/2014/12/30/can-a-3-day-fast-reset-your-immune-system/>
     -   see studies cited by jason fung
         -   try to counter selection bias by also looking for a prominent anti-fasting guru and check their studies
+        -   check their scores on <https://scite.ai>
 
 
-<a id="orge360f70"></a>
+<a id="orgfee93de"></a>
 
 # Holism perspectives to apply
 
--   Claiming that a diet would have fit into our Environment of Evolutionary Adaptedness (EEA) is isometric to claiming that it&rsquo;s healthy &#x2013; that is to say, they are the same claim written with different synonyms.
-    -   This guides much of my thinking, so can it be disagreed with?  CMV please.
-    -   In the above claim, the scope of &ldquo;diet&rdquo; is longer than a few weeks. It speaks of the general trend of a person&rsquo;s diet. In the short term, something that normally fits in can be not-healthy (causing a reduction of lifespan) for an individual e.g. because they&rsquo;re sick and shouldn&rsquo;t be eating at all, or because they&rsquo;ve already eaten three days&rsquo; worth of calories that day.
+-   Claiming that a diet would have fit into our Environment of Evolutionary Adaptedness (EEA) is isometric to claiming that it&rsquo;s healthy &#x2013; that is to say, they are the same claim written with different words.
+    -   This guides much of my thinking, so I need to know if it can be disagreed with.  CMV please?
+    -   In the above claim, the scope of &ldquo;diet&rdquo; is longer than a few weeks. It speaks of the general trend of a person&rsquo;s diet. In the short term, something that normally fits in can be not-healthy (causing a reduction of healthspan) for an individual e.g. because they&rsquo;re sick and shouldn&rsquo;t be eating at all, or because they&rsquo;ve already eaten three days&rsquo; worth of calories that day.
     -   But pet cats live longer than wild cats
-        -   Good observation! Do they actually age slower or just get killed less, impacting the average? How does the body of a 15-year old wild cat compared to a 15-year old pet cat?
-        -   If wild life (life in EEA) has a negative effect on health, it seems to me unlikely to be due to diet, but rather stress/starvation/disease/cold.
+        -   Good observation! Do they actually age slower or just get killed less, impacting the average? How does the body of a 15-year old wild cat compare to a 15-year old pet cat?
+        -   If wild life (i.e. life in the EEA) has a negative effect on health, it seems to me unlikely to be due to diet, but rather stress/starvation/disease/cold.
             -   Sitting Bull, a &ldquo;wild human&rdquo;, was famous for being over 90 with good mental and physical health.
 -   Let&rsquo;s taboo the word &ldquo;fat&rdquo;, because it has dual meanings: a noun meaning triglycerides (lipid molecules), and an adjective meaning being overweight.
     -   Say &ldquo;eating triglycerides makes you overweight&rdquo; rather than &ldquo;eating fat makes you fat&rdquo;.
-        -   Compare &ldquo;Eating vegetables makes you green&rdquo;. &ldquo;Eating duck turns you into a duck&rdquo;. &ldquo;Eating sweets turns your body sweet&rdquo;. &ldquo;Eating cholesterol increases blood cholesterol&rdquo;. They&rsquo;re all the same type of error, we easily take a cognitive shortcut when hearing this kind of statement.
+        -   Compare &ldquo;Eating vegetables makes you green&rdquo;. &ldquo;Eating duck turns you into a duck&rdquo;. &ldquo;Eating cholesterol increases blood cholesterol&rdquo;. They&rsquo;re all the same type of error, we take a cognitive shortcut when hearing this kind of statement.
 -   Let&rsquo;s take into account hormesis and homeostasis. That the body reacts dynamically to input, so you cannot make a general conclusion from the effect of a certain quantity of one input, you need to test different quantities, and take into account how often the body has been exposed to this input in the past.
 -   Your needs for a given nutrient change depending on how much you have of other nutrients.
     -   One way to boost a nutrient without starting to eat more of it is to reduce the rate of its depletion.
@@ -137,15 +147,140 @@ Terminology
     -   Example: Vitamin D levels can stay fixed regardless of time in the sun until you fix a deficiency of one of the bone-health minerals (calcium, boron, &#x2026;), whereupon vitamin D is free to increase. This is a talking point in the &ldquo;don&rsquo;t supplement&rdquo; camp: possibly the body refuses to generate vit D to protect bone because it would trigger processes that it doesn&rsquo;t have the minerals to support. Indeed, D supplementation has been connected to osteoporosis in some cases.
 -   Let&rsquo;s not be content with Goodharting, i.e. trying to maximize all nutrients we have previously seen correlate with health, and calling it done.
     -   A strong form of this position is that e.g. omega-3 supplements are just Goodharting a measure, the underlying cause of which is that we need seafood, a need which cannot be met by eating any quantity of omega-3&#x2026; because omega-3 is only omega-3, and contains nothing else that&rsquo;s typical of seafood! You take the apparent need of specific nutrients as indication that we need those foods that contain them. This is due to the problem of unknown unknowns: how much of nutrition has been explored? 5%? Absent so much information, the precious few indicators we do get cannot be the full story, and are best used to guide our food selections.
--   What does &ldquo;needing&rdquo; a nutrient mean? &ldquo;Need&rdquo; is a funny concept. You don&rsquo;t need to eat seafood. You don&rsquo;t need an appendix or legs, either. And you don&rsquo;t need friends or love in your life. Let&rsquo;s just call it a shorthand for that it&rsquo;ll lengthen our lifespan.
+-   What does &ldquo;needing&rdquo; a nutrient mean? &ldquo;Need&rdquo; is a funny concept. You don&rsquo;t need to eat seafood. You don&rsquo;t need an appendix or legs, either. You don&rsquo;t need friends or love. Let&rsquo;s just call it a shorthand for that it&rsquo;ll lengthen our healthspan (meaning our lifespan, adjusted for how healthy we are while alive).
 -   Practical reality is the whole reality.  Let&rsquo;s use the words &ldquo;in practice&rdquo; as often as we can.  It reminds us that **life is not a lab**; soda and light soda may have different effects on a lab patient where other factors are held fixed, but when an individual makes a substitution of soda for light soda in everyday life, this has knock-on effects that should count among the real, practical effects of making the substitution.  Light soda may itself be unable to cause weight gain, being calorie-free, but can still be rightly blamed or causing weight gain in practice: it just happens thru knock-on effects.  Put another way, whether it happens thru the mechanics of glucose intake (calories included with the food) and the concomitant lipogenesis, or thru a less direct chain of effects that ends up in glucose intake (from a different source), has the rational target for blame really changed?  &ldquo;In practice&rdquo; is what matters in the end.
 
 
-<a id="org53818ff"></a>
+<a id="org3f4377c"></a>
 
 # Map of reductionist findings
 
 A map of specifics. Work in progress. Sorry about the mess.
 
 [![img](/assets/chart-nutr.jpg)](https://meedstrom.github.io/assets/chart-nutr.jpg)
+
+
+<a id="orgf383369"></a>
+
+# Interpretations
+
+These sections are full of claims and numbers that I don&rsquo;t remember where I read, so it&rsquo;s quite open to be updated.  When I update these, I&rsquo;ll see if my [beliefs](#org31fbebe) need updating.
+
+
+<a id="org25f59d3"></a>
+
+## To look into
+
+-   Conversion of ALA to EPA/DHA in the body
+-   Ideal omega 3:6 ratio
+-   Quantity of omega 3 needed
+-   Conversion of carotenoids to retinoids
+
+
+<a id="org0a842ca"></a>
+
+## Forms of omega-3
+
+There are different forms of omega-3.  The plant-based version is Alpha-Linolenic Acid (ALA), which you can find in e.g. rapeseed oil and linseed oil.  It&rsquo;s nearly worthless because less than 1% is converted inside the body to the forms it uses: docosahexaenoic acid (DHA) and eicosapentaenoic acid (EPA).
+
+Omega-3 in the EPA/DHA form is mainly found in seafood, such as oily fish.  To a small extent it is also found in fat from grass-fed animals.
+
+A vegetable source for EPA/DHA is seaweed (how much?).
+
+
+<a id="orga39fe0c"></a>
+
+## Effects of omega-3
+
+Deficiency leads to dry skin, poor eyesight, and neurodegeneration.
+
+
+<a id="org8663a26"></a>
+
+## Omega 3-6 balance
+
+People talk about a balance of omega 3 to omega 6, that it should be about 1:1, maybe 1:4 at worst.
+
+Omega-6 is known as Linolenic Acid (LA) and Arachidonic Acid (AA).  LA can be converted to AA in the body.
+
+In the West, people average eating a ratio around 1:20.  I don&rsquo;t know where this number is from but I worry that most of the &ldquo;1&rdquo; there is also ALA (Alpha-Linolenic Acid) from seed oils, which the body does not really use, so it&rsquo;s even worse than it sounds.
+
+There have been signs that actually *the balance doesn&rsquo;t matter* so long as you are getting a certain a minimum of EPA/DHA.
+
+
+<a id="org3118bc1"></a>
+
+## sn-2 DHA
+
+The body converts between EPA and DHA interchangeably, but DHA is ultimately the main form that goes into cellular tissue.  The brain is 25% (?) DHA by weight.  So we sometimes just talk about DHA, since this is the important thing.  I&rsquo;m not sure if it&rsquo;s smart but it&rsquo;s convenient to talk about it as a shorthand for both EPA/DHA, i.e. &ldquo;the subject ate 2g of DHA&rdquo; they actually ate a mix of EPA/DHA. Welp.
+
+The molecule DHA comes in multiple forms, sn-1, sn-2 and sn-3.  Apparently the body uses sn-2 best.
+
+There is more sn-2 in seafood than in fish oil capsules. (How? Does the refinement change the molecule??) <http://caloriesproper.com/vegetable-oil-fatty-acids-are-not-essential/>
+
+
+<a id="org71b4469"></a>
+
+## Genetic need of omega-3
+
+There&rsquo;s indication that Inuit peoples and a portion of the Nordic population have genes such that they need a huge amount of omega-3.  How huge?  I don&rsquo;t know, but for perspective, we know the amounts some traditional Inuit groups ate: 14-20 g/day. This corresponds to 400-600 g of herring/mackerel daily.
+
+Now that&rsquo;s probably overshooting their minimum need, but if we say it&rsquo;s half of the low end, that&rsquo;s still at least 200 g of herring daily, or 1.4 kg weekly.
+
+
+<a id="org0cab385"></a>
+
+## How much seafood?
+
+If you have extra [genetic need of omega-3](#org71b4469), the problem is that you cannot practically consume these amounts via fish oil capsules.  One gram of omega-3 would be three 1-g capsules of non-concentrated fish oil, so to get 7g of o3, we&rsquo;re looking at swallowing 21 capsules, or 42 half-gram capsules, in one day.  Every day, 365 days a year&#x2026; 15,330 capsules a year.  This many capsules is not recommended, they may contain byproducts that give you adverse effects.  To compound the matter, omega-3 is not as well absorbed in this form than when it comes as part of seafood&#x2026; so this absurd amount may still be too few.
+
+There&rsquo;s also the monetary aspect.  Fish oil is more expensive after processing than when it was still on the fish in question.  To frame it differently, if you eat fish just for the omega-3, you&rsquo;re not only paying less for the omega-3, but you get the protein and other nutrients of a full meal without paying anything.
+
+---
+
+A different pointer at the correct quantity comes from the research on telomeres, which connects high &ldquo;omega-3 index&rdquo; with less telomere shortening.  If you don&rsquo;t know about telomeres, in summary they&rsquo;re parts of us that shorten over time, and long telomeres mean long life.
+
+You can get your omega 3 index tested: it tells you what percentage of the fatty acids in your blood is omega-3.  People in the USA/EU average 4%.  It should be sitting at >8%, and probably be as high as possible (not heard of any negative effect).  To achieve >8%, you typically need more than two &ldquo;servings&rdquo; of seafood per week, whatever &ldquo;serving&rdquo; means.  Source: <https://web.archive.org/web/20170620091732/http://caloriesproper.com/omega-3-index/>
+
+It&rsquo;s likely that people report &ldquo;serving&rdquo; very differently, and many people eat lean fish and call it seafood. So if you make sure to choose wild oily fish, I guess two normal-size servings per week will suffice.
+
+
+<a id="org34e1fc2"></a>
+
+## Creatine
+
+People commonly see creatine as a bodybuilder thing &#x2013; why would normal people need creatine?  Actually, bodybuilders need it the least &#x2013; they&rsquo;re used to challenging their muscles to the maximum as it is, and I think this will produce the full MPS reaction (muscle protein synthesis).  For people who don&rsquo;t exercise much, this could mean an extra kick whenever they do lift something, and more energy to make the decision *to lift it* in the first place.
+
+Creatine is a naturally occurring substance &#x2013; about half of your creatine is produced inside your body, the other half is provided from meat, eggs and fish.   
+
+What it does is sit in your muscle, just like glycogen, ready to provide energy.  It&rsquo;s a straightforward job. A difference from glycogen in strenuous exercise is that creatine gets used up almost immediately and recharges for the next set &#x2013; for a given set, a tiny portion of the energy comes from creatine. That may be because strenuous exercise is strenuous, it uses lots of energy all at once.
+
+Often, people who eat animals feel no effect taking additional creatine as a supplement, but it is a common story that vegans experience a significant difference: everything from moving to thinking becomes easier.
+
+
+<a id="orgae29db2"></a>
+
+## Leucine
+
+You need ~3g of leucine to stimulate muscle protein synthesis (MPS). See <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4558471>. So any one meal needs to exceed a certain amount of protein.
+
+This utilizes the mTOR pathway, which you ought to counterbalance by fasting.
+
+HOW MUCH LEUCINE IS IN 100g OF FOOD? From nutritiondata.self.com:
+
+    cheese, cheddar           2385 mg
+    cheese, gouda             2564 mg
+    egg, whole, raw           1088 mg
+    fish, herring, raw        1460 mg
+    yogurt, plain, whole milk  350 mg
+    beef, brisket, raw (1)    1395 mg
+    beef, brisket, raw (2)    1637 mg
+    chicken, raw              1245 mg
+
+So 1.2 to 1.7 grams of leucine in 100 g of meat. So 250 g of meat is minimum at one meal, 300 g a better minimum to be on the safe side.
+
+
+<a id="org76145d8"></a>
+
+## Teeth
 
