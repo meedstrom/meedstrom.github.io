@@ -9,16 +9,15 @@
 4.  [Holism perspectives to apply](#orgfee93de)
 5.  [Map of reductionist findings](#org3f4377c)
 6.  [Interpretations](#orgf383369)
-    1.  [To look into](#org25f59d3)
-    2.  [Forms of omega-3](#org0a842ca)
-    3.  [Effects of omega-3](#orga39fe0c)
-    4.  [Omega 3-6 balance](#org8663a26)
-    5.  [sn-2 DHA](#org3118bc1)
-    6.  [Genetic need of omega-3](#org71b4469)
-    7.  [How much seafood?](#org0cab385)
-    8.  [Creatine](#org34e1fc2)
-    9.  [Leucine](#orgae29db2)
-    10. [Teeth](#org76145d8)
+    1.  [Forms of omega-3](#org0a842ca)
+    2.  [Effects of omega-3](#orga39fe0c)
+    3.  [Omega 3-6 balance](#org8663a26)
+    4.  [sn-2 DHA](#org3118bc1)
+    5.  [Genetic need of omega-3](#org71b4469)
+    6.  [How much seafood?](#org0cab385)
+    7.  [Creatine](#org34e1fc2)
+    8.  [Leucine](#orgae29db2)
+    9.  [Teeth](#org76145d8)
 
 
 
@@ -39,7 +38,9 @@ It&rsquo;s not that I couldn&rsquo;t bear to let go of the taste of meat, someth
 
 I had no bias for meat, but I was (and still am) biased in favour of bread and beer, because I like the stuff so much.  I also like many vegetarian foods.  I enjoy tofu, tempeh, seitan and legumes, and always loved salads.  I think quorn nuggets beat chicken nuggets.
 
-I read about retinoids (animal-sourced vitamin A) versus carotenoids (vegetable-sourced vitamin A).  How to find vitamin K1 and K2 in an animal-free diet.  What role omega 3 plays, how much we need, and what factors might affect how much we need.  I read about formulating an ideal nutritional supp regimen on the Longecity forum, but time and time again, I found that the nutrient under analysis can be found in some animal tissue or other, together with all the right cofactors that aid its absorption.  Often in the &ldquo;worst&rdquo; part from a cholesterol perspective, e.g. the egg yolk, the saturated animal fat, the reddest red meat.  It seemed to be a preformulated nutritional supp regimen from Nature.  So that&rsquo;s what I ate.  I spent much of my free time that year just geeking out about nutrition, and was at the peak of my health.  I virtually couldn&rsquo;t sunburn, I went shirtless and barefoot all the time, my immune system was king, my eyesight improved, my reflexes improved.
+I read about retinoids (animal-sourced vitamin A) versus carotenoids (vegetable-sourced vitamin A).  How to find vitamin K1 and K2 in an animal-free diet.  What role omega 3 plays, how much we need, and what factors might affect how much we need.  I read about formulating an ideal nutritional supp regimen on the Longecity forum.
+
+Time and time again, I found that the nutrient under analysis can be found in some animal tissue or other, together with all the right cofactors that aid its absorption.  Often in the &ldquo;worst&rdquo; part from a cholesterol perspective, e.g. the egg yolk, the saturated animal fat, the reddest red meat.  Meat started looking like a preformulated nutritional supp from Nature.  So that&rsquo;s what I ate.  I spent much of my free time that year just geeking out about nutrition, and was at the peak of my health.  I virtually couldn&rsquo;t sunburn, I went shirtless and barefoot all the time, my immune system was king, my eyesight improved, my reflexes improved.
 
 I should admit that back then I wanted to be an iconoclast, to hold the secret that society at large doesn&rsquo;t know.  Now I use the experience of &ldquo;knowing the secret of keto&rdquo; as a reference point for what it must be like to be in a cult, and it&rsquo;s useful.  I remained skeptical enough that keto birthed my interest in statistics, so I could read the papers everyone was citing and make sense of them for myself (which I still haven&rsquo;t gotten around to).
 
@@ -52,7 +53,7 @@ These days I don&rsquo;t want to be an iconoclast in nutrition science.  I&rsquo
 
 My outlook on optimal nutrition is slightly different from 2013-me and more flexible, and I think that biochemistry is so complicated that a reductionist approach focusing on specific nutrients doesn&rsquo;t make sense at this stage of the science.
 
-If you optimize a diet for specific nutrients, I think you&rsquo;re just [Goodharting](https://en.wikipedia.org/wiki/Goodhart%27s_law) it: targeting a measure and not its underlying cause.  In Kuhnian terms, the field of nutrition looks to me to be still in a [pre-science](https://www.simplypsychology.org/Kuhn-Paradigm.html) stage.  At this point I&rsquo;d only expect a holistic perspective to provide good answers, provided of course that you keep your pet holistic theory falsifiable and are in a position to learn from predictive failure.  That is, you&rsquo;ll swap out the holistic framework you&rsquo;re using for a different one when surprising evidence turns up, rather than explain away the evidence so you can keep the framework unmodified.  Any evidence should result in *some* modification to your framework.  Be like astronomy, not like astrology; be specific in your predictions, don&rsquo;t move the goalposts, be quick to abandon hypotheses, and don&rsquo;t maintain any unfalsifiable claims unless you can causally tie them to a different-but-related claim that is falsifiable.
+If you optimize a diet for specific nutrients, I think you&rsquo;re just [Goodharting](https://en.wikipedia.org/wiki/Goodhart%27s_law) it: targeting a measure and not its underlying cause.  In Kuhnian terms, the field of nutrition doesn&rsquo;t appear to have gotten out of the [pre-science](https://www.simplypsychology.org/Kuhn-Paradigm.html) stage.  At this point I&rsquo;d only expect a holistic perspective to provide good answers, provided of course that you keep your pet holistic theory falsifiable and are in a position to learn from predictive failure.  That is, you&rsquo;ll swap out the holistic framework you&rsquo;re using for a different one when surprising evidence turns up, rather than explain away the evidence so you can keep the framework unmodified.  Any evidence should result in *some* modification to your framework.  Be like astronomy, not like astrology; be specific in your predictions, don&rsquo;t move the goalposts, be quick to abandon hypotheses, and don&rsquo;t maintain any unfalsifiable claims unless you can causally tie them to a different-but-related claim that is falsifiable.
 
 
 <a id="org31fbebe"></a>
@@ -71,7 +72,7 @@ Nutrition-related assertions I&rsquo;m fairly confident of (let&rsquo;s call the
 -   Including bone broth in diet can elevate vitamin D levels despite not containing D itself
 -   Vitamin D supplementation generally helps short-term (but should not be sustained)
 -   Vitamin D supplementation is harmful if hanging out in the sun would *not* increase it (something else the bottleneck)
-    -   Clarification: suppose you take a person with low D levels, tell them to go out in the sun for two hours a day, and test them a few weeks later. Many people will show a much higher level of vit D, but some people will not have shown any increase. For these people, it&rsquo;s a bad idea to force it up with supplements, as there&rsquo;s a reason the body chose not to produce D.
+    -   Clarification: suppose you take a person with low D levels, tell them to go out in the sun for two hours a day, and test them a few weeks later. Many people will show a much higher level of vit D, but some people will not have shown any increase. For these people, it&rsquo;s a bad idea to force it up with supplements, as there&rsquo;s a reason the body chose not to produce D, such as lack of magnesium or calcium.
 -   The immune system works better in a fasted state
 -   Staying in a ketotic metabolism for 300+ days a year will lengthen an average young adult&rsquo;s lifespan by 5-20 years and healthspan more than proportionately
 -   When giving an Oral Glucose Tolerance Test (OGTT) to a ketotic person (i.e. feeding them a lot of sugar) causes a hyperinsulinemic response (i.e. they react like a diabetic), it does not indicate a chronic problem with this person: letting them acclimate to carbs for a day first will ensure a normal response to OGTT thereafter.
@@ -98,9 +99,10 @@ Nutrition-related assertions I&rsquo;m fairly confident of (let&rsquo;s call the
     -   If the diet was not consistently nutritious before beginning fasting, the body fat liberated during fasting will be proportionately deficient in fat-solubles (50% confident).
 -   (<span class="timestamp-wrapper"><span class="timestamp">[2022-01-29 Sat] </span></span> 75% confidence) If you got plenty of sun during the summer, vitamin D levels stay high through winter, at least in the context of what&rsquo;s colloquially called a &ldquo;Paleo&rdquo; or &ldquo;Keto&rdquo; diet.
 -   (<span class="timestamp-wrapper"><span class="timestamp">[2022-01-29 Sat] </span></span> 95% confidence) Coffee is about 99% as hydrating as water i.e. a liter of coffee is nearly indistinguishable from a liter of water for the body&rsquo;s hydration needs.
-    -   A minor issue, but the fact there is a lot of disagreement on this point reveals how much confusion there is in nutrition science around even basic reasoning about human biochemistry.
+    -   A minor issue, but the fact there is a lot of disagreement on this point reveals how much confusion there is in nutrition science around even basic reasoning about human biochemistry. How then can I trust anyone?  How can the field proceed to start settling bigger, more interesting hypotheses?
+        -   At least this becomes a litmus test: if a writer says coffee does not hydrate, they&rsquo;re a huckster who did no homework and you&rsquo;d best avoid their book.
 -   (<span class="timestamp-wrapper"><span class="timestamp">[2022-01-29 Sat] </span></span> 75% confidence) For a majority of the population, exhorting &ldquo;eat less calories to lose weight&rdquo; either has no effect in practice or causes weight *gain*, not loss.
--   (<span class="timestamp-wrapper"><span class="timestamp">[2022-01-29 Sat] </span></span> 50% confidence) Lack of sunlight may be an epigenetic trigger for myopia.
+-   (<span class="timestamp-wrapper"><span class="timestamp">[2022-01-29 Sat] </span></span> 50% confidence) Lack of sunlight is an epigenetic trigger for myopia.
 
 Terminology
 
@@ -123,6 +125,14 @@ Terminology
     -   see studies cited by jason fung
         -   try to counter selection bias by also looking for a prominent anti-fasting guru and check their studies
         -   check their scores on <https://scite.ai>
+-   Conversion % of ALA to EPA/DHA
+-   Conversion % of carotenoids to retinoids
+-   Ideal omega 3:6 ratio
+-   Quantity of omega 3 needed
+-   Effects of wheat & other grains
+-   Effects of alcohol
+-   Effects of coffee (not to be confused with caffeine)
+-   Indicators for lifespan
 
 
 <a id="orgfee93de"></a>
@@ -130,7 +140,7 @@ Terminology
 # Holism perspectives to apply
 
 -   Claiming that a diet would have fit into our Environment of Evolutionary Adaptedness (EEA) is isometric to claiming that it&rsquo;s healthy &#x2013; that is to say, they are the same claim written with different words.
-    -   This guides much of my thinking, so I need to know if it can be disagreed with.  CMV please?
+    -   This guides much of my thinking.  CMV please?
     -   In the above claim, the scope of &ldquo;diet&rdquo; is longer than a few weeks. It speaks of the general trend of a person&rsquo;s diet. In the short term, something that normally fits in can be not-healthy (causing a reduction of healthspan) for an individual e.g. because they&rsquo;re sick and shouldn&rsquo;t be eating at all, or because they&rsquo;ve already eaten three days&rsquo; worth of calories that day.
     -   But pet cats live longer than wild cats
         -   Good observation! Do they actually age slower or just get killed less, impacting the average? How does the body of a 15-year old wild cat compare to a 15-year old pet cat?
@@ -165,16 +175,6 @@ A map of specifics. Work in progress. Sorry about the mess.
 # Interpretations
 
 These sections are full of claims and numbers that I don&rsquo;t remember where I read, so it&rsquo;s quite open to be updated.  When I update these, I&rsquo;ll see if my [beliefs](#org31fbebe) need updating.
-
-
-<a id="org25f59d3"></a>
-
-## To look into
-
--   Conversion of ALA to EPA/DHA in the body
--   Ideal omega 3:6 ratio
--   Quantity of omega 3 needed
--   Conversion of carotenoids to retinoids
 
 
 <a id="org0a842ca"></a>
