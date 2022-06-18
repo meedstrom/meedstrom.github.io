@@ -5,19 +5,57 @@
     1.  [Past me (2013)](#org0941e76)
     2.  [Current me (2022)](#org3636f72)
 2.  [Beliefs](#org31fbebe)
+    1.  [Cruxes for low-carb](#org5ae0c57)
+    2.  [Other cruxes](#orgeb991b0)
 3.  [Questions](#org2261e2c)
-4.  [Holism perspectives to apply](#orgfee93de)
-5.  [Map of reductionist findings](#org3f4377c)
-6.  [Interpretations](#orgf383369)
-    1.  [Forms of omega-3](#org0a842ca)
-    2.  [Effects of omega-3](#orga39fe0c)
-    3.  [Omega 3-6 balance](#org8663a26)
-    4.  [sn-2 DHA](#org3118bc1)
-    5.  [Genetic need of omega-3](#org71b4469)
-    6.  [How much seafood?](#org0cab385)
-    7.  [Creatine](#org34e1fc2)
-    8.  [Leucine](#orgae29db2)
-    9.  [Teeth](#org76145d8)
+4.  [Map of reductionist findings](#org3f4377c)
+5.  [Perspectives and thought experiments](#org88eae66)
+    1.  [Via negativa](#orgb9090e8)
+    2.  [&ldquo;Fat&rdquo; means either lipids or excess weight, not both](#org83c6aff)
+    3.  [20 calories a day](#org7068f77)
+    4.  [Reductionism and holism](#orgcb0b196)
+    5.  [The power of anecdata](#orgcaf3e02)
+    6.  [Bariatric calvinism](#org33e8bbb)
+    7.  [Empty calories](#org6a2fb92)
+    8.  [Doctor education](#org46aa777)
+    9.  [Nutritionist and dietician educations](#orgefe3f0e)
+    10. [Pre-science](#orgeb8810f)
+    11. [Rat chow](#org497587e)
+    12. [Goodhart&rsquo;s Law](#orgf144a99)
+    13. [Energy mobilization](#org4a452a5)
+        1.  [Part One: Fasted](#org65e8430)
+        2.  [Part Deux: LCHF](#org0b7cae5)
+        3.  [Part Tres: High carb](#orgb08f21d)
+    14. [What makes an amino acid essential?](#org4124dc4)
+    15. [What does it mean to &ldquo;need&rdquo; a nutrient?](#org2e84835)
+    16. [Components of hunger: Satiety and satiation](#org2f7f390)
+    17. [What if the food volume hypothesis is wrong?](#orga647188)
+    18. [History of the mainstream memes](#orgeb54876)
+6.  [Findings & interpretations](#org5769f49)
+    1.  [Clinically successful diets](#org72ad6bf)
+    2.  [Saturated fat with carbohydrate](#orgf5626f7)
+    3.  [Vitamin C](#org328bdbf)
+    4.  [Creatine](#org34e1fc2)
+    5.  [Forms of omega-3](#org0a842ca)
+    6.  [Effects of omega-3](#orga39fe0c)
+    7.  [Omega 3-6 balance](#org8663a26)
+    8.  [sn-2 DHA](#org3118bc1)
+    9.  [Genetic need of omega-3](#org71b4469)
+    10. [How much seafood?](#org0cab385)
+    11. [Leucine](#orgae29db2)
+    12. [Teeth](#org76145d8)
+    13. [CLA](#orgfdbb1f9)
+    14. [Vitamin K2](#orgbaebba7)
+    15. [Insulin](#org5ac92b9)
+    16. [&ldquo;Cholesterol&rdquo;: VLDL, LDL, HDL, and TG](#org68a9109)
+    17. [Acid-base balance](#org1849f75)
+    18. [Pesticide](#org6108d63)
+    19. [Effects of ketosis](#orgd07e31d)
+    20. [Effects of fasting](#org1d93ab9)
+7.  [Appendix: Interesting articles](#org5ebc544)
+8.  [What are we talking about in the first place?](#org7c97120)
+    1.  [Questions I want answered before I make a political/ethical decision](#org8d6dd88)
+9.  [Confusing terms](#orge2d2595)
 
 
 
@@ -25,9 +63,9 @@
 
 # Self-intro
 
-For transparency, I&rsquo;ll try to show who I am before starting a discussion.
+For transparency, I&rsquo;ll try to show who I am before starting a discussion.  I&rsquo;m a 30-year old Swedish male, grown up in Sweden.  I do not study biochemistry, nutrition, dietetics, medicine, physiology or any other relevant field.  My fields of expertise are in computers and statistics.
 
-It is said: &ldquo;[do not present secondary reasons to choose a diet as though they were the primary ones](https://www.greaterwrong.com/posts/bujD9zhcb9Apii5J2/dietary-debates-among-the-fruit-gnomes)&rdquo;. So what&rsquo;s my primary reason for agreeing with the broad strokes of Paleo/Keto?
+What prompted me to write this post was hearing someone say &ldquo;[do not present secondary reasons to choose a diet as though they were the primary ones](https://www.greaterwrong.com/posts/bujD9zhcb9Apii5J2/dietary-debates-among-the-fruit-gnomes)&rdquo;.  So what&rsquo;s my primary reason for agreeing with the broad strokes of Paleo/Keto, if I still do?  Let&rsquo;s find out.
 
 
 <a id="org0941e76"></a>
@@ -62,64 +100,100 @@ If you optimize a diet for specific nutrients, I think you&rsquo;re just [Goodha
 
 Updated <span class="timestamp-wrapper"><span class="timestamp">[2022-01-11 Tue]</span></span>
 
-Okay, I want to be critiqued (by myself and others) on my nutrition world-view, so here&rsquo;s a bunch of claims I currently believe, in no particular order. I tried to make them concrete. Maybe I&rsquo;ll look back on this first version and be embarrassed at some point, but that&rsquo;s a good thing.
+Okay, I want critique on my nutrition world-view, so here&rsquo;s a bunch of claims I currently believe, in no particular order. I tried to make them concrete.  Maybe one day I&rsquo;ll look back on this version and be embarrassed, but that&rsquo;s good.
 
-Nutrition-related assertions I&rsquo;m fairly confident of (let&rsquo;s call them beliefs)
-
--   It&rsquo;s hard to get nutrient overload from meat (barring a long period of eating only muscle meat)
--   Vitamin C deficiency can only occur if you have significant carb sources
--   Vitamin K2 deficiency makes teeth transparent & brittle
--   Including bone broth in diet can elevate vitamin D levels despite not containing D itself
--   Vitamin D supplementation generally helps short-term (but should not be sustained)
--   Vitamin D supplementation is harmful if hanging out in the sun would *not* increase it (something else the bottleneck)
+1.  (<span class="timestamp-wrapper"><span class="timestamp">[2022-05-08 Sun] </span></span> 10:1 for) The things the average animal of a given species ate over a lifetime in its EEA (Environment of Evolutionary Adaptedness) reflects so accurately what&rsquo;s healthy for it, that you can treat these claims as synonymous: &ldquo;we ate like this in the past&rdquo; and &ldquo;this is healthy for us&rdquo;.
+2.  (<span class="timestamp-wrapper"><span class="timestamp">[2022-05-08 Sun] </span></span> 7:1 for) The human animal appears designed as a habitual carnivore and especially &rsquo;fativore&rsquo;.
+    -   Specifically, my odds are 1:7 against that the human design indicates an EEA where it was common to consume plant carbs for a large share (>33%) of its lifetime calories.
+3.  (<span class="timestamp-wrapper"><span class="timestamp">[2022-06-18 Sat] </span></span> 2:1 for) Within 12 months, it&rsquo;s hard to get nutrient overload symptoms from eating only meat, provided the meat is fatty
+4.  (<span class="timestamp-wrapper"><span class="timestamp">[2022-06-18 Sat] </span></span> 3:1 for) Within 12 months, it&rsquo;s hard to get nutrient deficiency symptoms of eating only meat, provided the meat is fatty
+5.  (<span class="timestamp-wrapper"><span class="timestamp">[2022-06-18 Sat] </span></span> 3:1 for) Vitamin C deficiency can only occur if you have significant dietary carbs without dietary vitamin C (see [Vitamin C](#org328bdbf) section)
+6.  (<span class="timestamp-wrapper"><span class="timestamp">[2022-06-18 Sat] </span></span> 15:1 for) Vitamin K2 deficiency makes teeth transparent & brittle
+7.  Including bone broth in diet can elevate vitamin D levels despite not containing D itself
+8.  Vitamin D supplementation generally helps short-term (but should not be sustained)
+9.  Vitamin D supplementation is harmful if hanging out in the sun would *not* increase it (something else the bottleneck)
     -   Clarification: suppose you take a person with low D levels, tell them to go out in the sun for two hours a day, and test them a few weeks later. Many people will show a much higher level of vit D, but some people will not have shown any increase. For these people, it&rsquo;s a bad idea to force it up with supplements, as there&rsquo;s a reason the body chose not to produce D, such as lack of magnesium or calcium.
--   The immune system works better in a fasted state
--   Staying in a ketotic metabolism for 300+ days a year will lengthen an average young adult&rsquo;s lifespan by 5-20 years and healthspan more than proportionately
--   When giving an Oral Glucose Tolerance Test (OGTT) to a ketotic person (i.e. feeding them a lot of sugar) causes a hyperinsulinemic response (i.e. they react like a diabetic), it does not indicate a chronic problem with this person: letting them acclimate to carbs for a day first will ensure a normal response to OGTT thereafter.
-    -   Specification: The above is true for patients that do not already have diabetes. Related belief (<span class="timestamp-wrapper"><span class="timestamp">[2022-01-29 Sat] </span></span> 85%): a ketogenic diet will never cause diabetes.
--   A large portion (10-50%) of the Nordic population cannot meet their omega-3 need just with off-the-shelf omega-3 capsules, without resorting to such quantities that cause obvious adverse reactions due to other things in these capsules.
--   Fasting and IF lower the &ldquo;bodyweight set-point&rdquo;
--   Who does not eat liver should eat plenty of beans
--   Sugar raises your &ldquo;bodyweight set-point&rdquo;
--   Calorie-free sweeteners have a similar result on body weight in the long run as the quantity of sugar that corresponds to the same experience of sweetness. Colloquially speaking, replacing soda with light soda does nothing.
--   The level of glucose and ketones in the blood do not indicate the rate at which each is being burned, you need more information to figure this out.
+10. The immune system works better in a fasted state
+11. (<span class="timestamp-wrapper"><span class="timestamp">[2022-06-18 Sat] </span></span> 5:1 for) Staying in a ketotic metabolism for 300 days a year will lengthen an average young adult&rsquo;s lifespan by 5-20 years and healthspan more than proportionately
+12. (<span class="timestamp-wrapper"><span class="timestamp">[2022-06-18 Sat] </span></span> 20:1 for) When giving an Oral Glucose Tolerance Test (OGTT) to a ketotic person (i.e. feeding them 150g of sugar) causes a hyperinsulinemic response (i.e. they react like a diabetic), it does not indicate a chronic problem with this person: letting them acclimate to carbs for a day first will ensure a normal response to OGTT thereafter.
+    -   Specification: The above is true for patients that do not already have diabetes.  Important related belief (<span class="timestamp-wrapper"><span class="timestamp">[2022-01-29 Sat] </span></span> 7:1 for): a ketogenic diet will never cause the onset of diabetes.
+13. A large portion (10-50%) of the Nordic population cannot meet their omega-3 need just with off-the-shelf omega-3 capsules, without resorting to such quantities that cause obvious adverse reactions due to other things in these capsules.
+14. Fasting and IF lower the &ldquo;bodyweight set-point&rdquo;
+15. Who does not eat liver is wise to eat plenty of beans (for folate)
+16. Sugar raises your &ldquo;bodyweight set-point&rdquo;
+17. Calorie-free sweeteners have a similar result on body weight in the long run as the quantity of sugar that corresponds to the same experience of sweetness. Colloquially speaking, replacing soda with light soda does nothing.
+18. The level of glucose and ketones in the blood do not indicate the rate at which each is being burned, you need more information to figure this out.
     -   In other words, it is possible to have 5.5 mmol/l glucose (approx 27.5 mmol for whole body) but have those be the same 27.5 mmol in the evening as in the morning i.e. the body cells did not suck any of it up.
--   A meal needs to include ~3g of leucine to stimulate a cycle of muscle protein synthesis.
--   Vitamins taken in isolation have a different effect from vitamins in food.
--   Ingesting forty (40) large or eighty (80) small fish oil capsules in a day will either cause some kind of toxicity or nutrient imbalance, or simply be malabsorbed, and you may suffer discomfort, but the corresponding quantity of oily fish (300g) have none of these issues.
+19. A meal needs to include ~3g of leucine to stimulate a cycle of muscle protein synthesis.
+20. Vitamins taken in isolation have a different effect from vitamins in food.
+21. Ingesting forty (40) large or eighty (80) small fish oil capsules in a day will either cause some kind of toxicity or nutrient imbalance, or simply be malabsorbed, and you may suffer discomfort, but the corresponding quantity of oily fish (300g) have none of these issues.
     -   This begs the question of how much omega-3 you need. This is individual. Inuit and some Nordic people need a lot(citation?). Let&rsquo;s say we&rsquo;re in this Nordic subset. As some Inuit groups consumed 14-20g of omega-3 a day, let&rsquo;s say we need half of this, 7-10g a day, which means 200-300g herring/mackerel or over 30 large capsules &#x2013; per day!
     -   My takeaway is that for supplementing omega-3, fish oil compared to oily fish is like the night stars compared to the midday sun: the former isn&rsquo;t a realistic choice.
         -   For fun, extra problems surrounding fish oil is how it was extracted and purified, how you know it hasn&rsquo;t gone rancid or changed in the process, how you know there isn&rsquo;t also a concentration of heavy metals. Esuring these factors are taken care of will cost you a pretty penny, enough to pay for your whole paleo diet. Finally, there&rsquo;s more sn-2 DHA (which the body uses best) in seafood than in fish oil.
--   When a specific nutrient is discovered that we (1) need a relative lot of and (2) is found in few sources, this is evidence that we ought to eat a lot of this source, *period* &#x2013; for more reasons than this nutrient in particular!
+22. When a specific nutrient is discovered that we (1) need a relative lot of and (2) is found in few sources, this is evidence that we ought to eat a lot of this source, *period* &#x2013; for more reasons than this nutrient in particular!
     -   This is just &ldquo;Making Holism and Reductionism Cooperate 101&rdquo;.
--   Carotenoids (Vitamin A from plants) are nearly unabsorbed by >10% of the population, and are poorly absorbed by >50%.
--   A prerequisite for carotenoid absorption is that the meal contains fat.
--   Retinoids (Vitamin A from animals) are well absorbed by >95% of the population.
--   Fat-soluble vitamins and minerals, such as vitamin D, are stored longterm in fatty tissue, and the storage can last for months of fasting (as long as the fat stores do), provided the diet was consistently nutritious before.
+23. Carotenoids (Vitamin A from plants) are nearly unabsorbed by >10% of the population, and are poorly absorbed by >50%.
+24. A prerequisite for carotenoid absorption is that the meal contains fat.
+25. Retinoids (Vitamin A from animals) are well absorbed by >95% of the population.
+26. Fat-soluble vitamins and minerals, such as vitamin D, are stored longterm in fatty tissue, and the storage can last for months of fasting (as long as the fat stores do), provided the diet was consistently nutritious before.
     -   If the diet was not consistently nutritious before beginning fasting, the body fat liberated during fasting will be proportionately deficient in fat-solubles (50% confident).
--   (<span class="timestamp-wrapper"><span class="timestamp">[2022-01-29 Sat] </span></span> 75% confidence) If you got plenty of sun during the summer, vitamin D levels stay high through winter, at least in the context of what&rsquo;s colloquially called a &ldquo;Paleo&rdquo; or &ldquo;Keto&rdquo; diet.
--   (<span class="timestamp-wrapper"><span class="timestamp">[2022-01-29 Sat] </span></span> 95% confidence) Coffee is about 99% as hydrating as water i.e. a liter of coffee is nearly indistinguishable from a liter of water for the body&rsquo;s hydration needs.
+27. (<span class="timestamp-wrapper"><span class="timestamp">[2022-01-29 Sat] </span></span> 3:1 for) If you got plenty of sun during the summer, vitamin D levels stay high through winter, at least in the context of what&rsquo;s colloquially called a &ldquo;Paleo&rdquo; or &ldquo;Keto&rdquo; diet.
+28. (<span class="timestamp-wrapper"><span class="timestamp">[2022-01-29 Sat] </span></span> 20:1 for) Coffee is about 99% as hydrating as water i.e. a liter of coffee is nearly indistinguishable from a liter of water for the body&rsquo;s hydration needs.
     -   A minor issue, but the fact there is a lot of disagreement on this point reveals how much confusion there is in nutrition science around even basic reasoning about human biochemistry. How then can I trust anyone?  How can the field proceed to start settling bigger, more interesting hypotheses?
         -   At least this becomes a litmus test: if a writer says coffee does not hydrate, they&rsquo;re a huckster who did no homework and you&rsquo;d best avoid their book.
--   (<span class="timestamp-wrapper"><span class="timestamp">[2022-01-29 Sat] </span></span> 75% confidence) For a majority of the population, exhorting &ldquo;eat less calories to lose weight&rdquo; either has no effect in practice or causes weight *gain*, not loss.
--   (<span class="timestamp-wrapper"><span class="timestamp">[2022-01-29 Sat] </span></span> 50% confidence) Lack of sunlight is an epigenetic trigger for myopia.
+29. (<span class="timestamp-wrapper"><span class="timestamp">[2022-01-29 Sat] </span></span> 3:1 for) For a majority of the population, exhorting &ldquo;eat less calories to lose weight&rdquo; either has no effect in practice or causes weight *gain*, not loss.
+30. (<span class="timestamp-wrapper"><span class="timestamp">[2022-01-29 Sat] </span></span> 1:1 for) Lack of sunlight is an epigenetic trigger for myopia.
+31. After cooking meat or vegetables, some nutrients (at least electrolytes) leak into the cooking water, which should always be consumed.  This is one problem with processed meats such as ham, the cooking water has been removed.  For flour-based stuff such as pasta, this is not important.
 
 Terminology
 
 -   &ldquo;Ketotic person&rdquo; &#x2013; someone (1) used to a ketogenic diet and (2) is in a state such that >50% of brain glucose use has been replaced by ketone use
-    -   probably met after eating ketogenic for 3+ weeks and then making exceptions a maximum of once a week
+    -   assuredly met after eating ketogenic (averaging <20g carb/day) for 3+ weeks
+
+
+<a id="org5ae0c57"></a>
+
+## Cruxes for low-carb
+
+Carrying out Internal Double Crux, I&rsquo;ve found my *cruxes*.  If I believed differently on these points, my nutrition outlook would change.
+
+1.  The EEA argument, see Belief #1
+2.  The human design argument, see Belief #2
+3.  Ketones appear so great for health, how do we explain that if we&rsquo;re not meant to spend much time ketogenic?  Ergo we&rsquo;re meant to do so.
+4.  High insulin load (total insulin released over a day) appears so bad for health, how do you explain that if low-fat high-carb is good?  Ergo we&rsquo;re not meant to do so often.
+5.  Calories and protein from animal sources both appear better-adapted for humans than the same from plant sources
+    -   (this seems the case for all animals, as even horses eat meat opportunistically, and it&rsquo;s logical that the building blocks of an animal would be good raw material for the body of an animal &#x2013; recognize the tautology?)
+
+
+<a id="orgeb991b0"></a>
+
+## Other cruxes
+
+Beliefs orthogonal to (unaffected by) the whole hullabaloo of &ldquo;low-carb vs. low-fat&rdquo;.
+
+1.  Seed oils are bad
+    -   because not EEA (see belief 1)
+    -   and because all clinically successful diets have excluded it
+2.  Sugar bad
+3.  &ldquo;Processed food&rdquo; frequently sub-par, depending on processing
+4.  If an EEA culture had focused on forage over hunt, even for periods, calories would have been predominantly from root vegs, fruit, and the fat in insects such as worms, but not appreciably from nuts and not at all from seeds or grain.
+    1.  The insect point is interesting because it wouldn&rsquo;t occur to many Western theorists.  Of course when foraging in the Horn of Africa, there&rsquo;s no way you&rsquo;d skip over the insects you find along the way.  Cultures that left such free lunches on the table would get their numbers overtaken by cultures that did eat all thee food they found.
+5.  Fiber is unnecessary
+    -   [End the Fiber Fantasy](https://old.reddit.com/r/keto/comments/1lolqu/end_the_fiber_fantasy_everything_you_dont_want_to/), comments also enlightening
+6.  Seafood is important for lifespan and healthspan
+7.  In the long term, sweeteners act approximately as fattening as sugar
 
 
 <a id="org2261e2c"></a>
 
 # Questions
 
+-   Where do the data come from for Nutrition Facts labels?  How many original databases are there (USDA, &#x2026;?) and how is the testing done?  The way carbs are calculated by subtraction rather than tested directly, is prone to error, but I forgot the specifics.  It can lead to leaving out carbs in meat, for one thing.
 -   Which vitamins and minerals can be safely &ldquo;spammed&rdquo;?
     -   like C, B12, &#x2026; that seem to have no practical upper limit
     -   also check if consuming large quantities of these has effects on other vitamin needs
--   How well-connected is fasting to the immune system (and to disease recovery in general)?
-    -   must depend on the disease - lupus, encephalitis, broken bone&#x2026;
--   What evidence for the GKI<1 strategy
+-   How well-connected is fasting to the immune system, disease recovery and disease prevention?
+-   What evidence supports the GKI<1 (Glucose-ketone index of less than 1) strategy?
 -   What is knowable about fasting?
     -   <https://www.forbes.com/sites/stevensalzberg/2014/12/30/can-a-3-day-fast-reset-your-immune-system/>
     -   see studies cited by jason fung
@@ -133,32 +207,16 @@ Terminology
 -   Effects of alcohol
 -   Effects of coffee (not to be confused with caffeine)
 -   Indicators for lifespan
+-   How much various cooking methods destroy important nutrients
+-   If vegetables improve health not due to vitamins, minerals, or fiber, what are the mechanisms?
+    -   Phytochemicals that work as hormetic stressors on mitochondria and
+        stuff
+    -   Possibly due to supplying sulfur
+    -   Possibly due to supplying some trace minerals
 
-
-<a id="orgfee93de"></a>
-
-# Holism perspectives to apply
-
--   Claiming that a diet would have fit into our Environment of Evolutionary Adaptedness (EEA) is isometric to claiming that it&rsquo;s healthy &#x2013; that is to say, they are the same claim written with different words.
-    -   This guides much of my thinking.  CMV please?
-    -   In the above claim, the scope of &ldquo;diet&rdquo; is longer than a few weeks. It speaks of the general trend of a person&rsquo;s diet. In the short term, something that normally fits in can be not-healthy (causing a reduction of healthspan) for an individual e.g. because they&rsquo;re sick and shouldn&rsquo;t be eating at all, or because they&rsquo;ve already eaten three days&rsquo; worth of calories that day.
-    -   But pet cats live longer than wild cats
-        -   Good observation! Do they actually age slower or just get killed less, impacting the average? How does the body of a 15-year old wild cat compare to a 15-year old pet cat?
-        -   If wild life (i.e. life in the EEA) has a negative effect on health, it seems to me unlikely to be due to diet, but rather stress/starvation/disease/cold.
-            -   Sitting Bull, a &ldquo;wild human&rdquo;, was famous for being over 90 with good mental and physical health.
--   Let&rsquo;s taboo the word &ldquo;fat&rdquo;, because it has dual meanings: a noun meaning triglycerides (lipid molecules), and an adjective meaning being overweight.
-    -   Say &ldquo;eating triglycerides makes you overweight&rdquo; rather than &ldquo;eating fat makes you fat&rdquo;.
-        -   Compare &ldquo;Eating vegetables makes you green&rdquo;. &ldquo;Eating duck turns you into a duck&rdquo;. &ldquo;Eating cholesterol increases blood cholesterol&rdquo;. They&rsquo;re all the same type of error, we take a cognitive shortcut when hearing this kind of statement.
--   Let&rsquo;s take into account hormesis and homeostasis. That the body reacts dynamically to input, so you cannot make a general conclusion from the effect of a certain quantity of one input, you need to test different quantities, and take into account how often the body has been exposed to this input in the past.
--   Your needs for a given nutrient change depending on how much you have of other nutrients.
-    -   One way to boost a nutrient without starting to eat more of it is to reduce the rate of its depletion.
-        -   Example: Vitamin C depleted by oxidation. One source of oxidation is carb metabolism. Hence, carbs increase need for vitamin C.
-        -   Example: Vitamin A and D seem to &ldquo;take out&rdquo; each other.
-    -   Example: Vitamin D levels can stay fixed regardless of time in the sun until you fix a deficiency of one of the bone-health minerals (calcium, boron, &#x2026;), whereupon vitamin D is free to increase. This is a talking point in the &ldquo;don&rsquo;t supplement&rdquo; camp: possibly the body refuses to generate vit D to protect bone because it would trigger processes that it doesn&rsquo;t have the minerals to support. Indeed, D supplementation has been connected to osteoporosis in some cases.
--   Let&rsquo;s not be content with Goodharting, i.e. trying to maximize all nutrients we have previously seen correlate with health, and calling it done.
-    -   A strong form of this position is that e.g. omega-3 supplements are just Goodharting a measure, the underlying cause of which is that we need seafood, a need which cannot be met by eating any quantity of omega-3&#x2026; because omega-3 is only omega-3, and contains nothing else that&rsquo;s typical of seafood! You take the apparent need of specific nutrients as indication that we need those foods that contain them. This is due to the problem of unknown unknowns: how much of nutrition has been explored? 5%? Absent so much information, the precious few indicators we do get cannot be the full story, and are best used to guide our food selections.
--   What does &ldquo;needing&rdquo; a nutrient mean? &ldquo;Need&rdquo; is a funny concept. You don&rsquo;t need to eat seafood. You don&rsquo;t need an appendix or legs, either. You don&rsquo;t need friends or love. Let&rsquo;s just call it a shorthand for that it&rsquo;ll lengthen our healthspan (meaning our lifespan, adjusted for how healthy we are while alive).
--   Practical reality is the whole reality.  Let&rsquo;s use the words &ldquo;in practice&rdquo; as often as we can.  It reminds us that **life is not a lab**; soda and light soda may have different effects on a lab patient where other factors are held fixed, but when an individual makes a substitution of soda for light soda in everyday life, this has knock-on effects that should count among the real, practical effects of making the substitution.  Light soda may itself be unable to cause weight gain, being calorie-free, but can still be rightly blamed or causing weight gain in practice: it just happens thru knock-on effects.  Put another way, whether it happens thru the mechanics of glucose intake (calories included with the food) and the concomitant lipogenesis, or thru a less direct chain of effects that ends up in glucose intake (from a different source), has the rational target for blame really changed?  &ldquo;In practice&rdquo; is what matters in the end.
+-   Terry Wahls has hypotheses for how to support mitochondria, as does
+    Todd Becker, these are fundamentally different, but both arrive at
+    vegetables as a good idea.
 
 
 <a id="org3f4377c"></a>
@@ -170,11 +228,435 @@ A map of specifics. Work in progress. Sorry about the mess.
 [![img](/assets/chart-nutr.jpg)](https://meedstrom.github.io/assets/chart-nutr.jpg)
 
 
-<a id="orgf383369"></a>
+<a id="org88eae66"></a>
 
-# Interpretations
+# Perspectives and thought experiments
+
+
+<a id="orgb9090e8"></a>
+
+## TODO Via negativa
+
+The ancient Romans used the expression *via negativa* (the &ldquo;negative road&rdquo;), for viewing a problem through the opposite sort of lens from how you might first view it.  You may have heard Einstein&rsquo;s popular quote &ldquo;perfection is achieved not when there&rsquo;s nothing more to add, but when there&rsquo;s nothing left to take away&rdquo;, an example of *via negativa*.
+
+For nutrition, consider the badness of pesticides, badness of insulin, badness of carbohydrate metabolism, and on and on&#x2026; even such things as the badness of tetrafluoroethylene (Teflon) cookware, the badness of barbecuing, and the badness of mixing sugar with protein in one meal.  Almost everything&rsquo;s bad in some way, so could health be more determined by what you avoid rather than what you include?
+
+Concrete example: Vitamin D and bone broth. (&#x2026;)
+
+-   ( [Sun: APVDS part 1: Problems With the Naked Ape Hypothesis](http://www.westonaprice.org/blogs/cmasterjohn/an-ancestral-perspective-on-vitamin-d-status-part-1-problems-with-the-naked-ape-hypothesis-of-optimal-serum-25ohd/) )
+-   [Bone broth for Vitamin D: APVDS part 2: Why Low 25(OH)D Could Indicate a Deficiency of Calcium Instead of Vitamin D](http://www.westonaprice.org/blogs/cmasterjohn/an-ancestral-perspective-on-vitamin-d-status-part-2-why-low-25ohd-could-indicate-a-deficiency-of-calcium-instead-of-vitamin-d/)
+
+
+<a id="org83c6aff"></a>
+
+## &ldquo;Fat&rdquo; means either lipids or excess weight, not both
+
+-   Everyone should taboo the word &ldquo;fat&rdquo; as often as possible, because it has dual meanings: a noun meaning triglycerides (lipid molecules), and an adjective meaning being overweight.  It short-circuits our logic sometimes.
+    -   Say &ldquo;eating triglycerides makes you overweight&rdquo; rather than &ldquo;eating fat makes you fat&rdquo;.  The first form invites critique, asking for supporting evidence, while we may accept the second with nary a thought if we&rsquo;re not careful.
+        -   Compare &ldquo;Eating vegetables makes you green&rdquo;.  &ldquo;Eating duck turns you into a duck&rdquo;.  &ldquo;Eating cholesterol increases blood cholesterol&rdquo;.  They&rsquo;re all the same type of error.
+
+
+<a id="org7068f77"></a>
+
+## 20 calories a day
+
+The energy balance hypothesis has a common objection: the 20 calories a day thought experiment first written in 1941(?) and repopularized by Taubes in 2012.
+
+Assume these things:
+
+-   The energy balance hypothesis is true, i.e. controlling what you put on your plate is a reliable way to control your body weight
+-   You&rsquo;re lean today
+-   You want to still be lean 20 years from now
+
+OK, now how precisely do you have to watch the calories on your plate?  How much extra will make you obese 20 years from now?  The answer is 20 calories a day.
+
+Please see <https://www.youtube.com/watch?v=lDneyrETR2o&t=28m18s> (a couple of minutes starting at 28:18).
+
+1.  First, 20 calories is a difference you cannot account for outside the lab.  It&rsquo;s near-impossible even to estimate your calorie intake and expenditure to within 200 calories of the correct answer, even if you measured the quantities of food you ate down to the gram, as the calorie density within any given food also varies, and your body varies in its expenditure, and this variation is unpredictable.
+2.  Second, it seems an uncontroversial fact that the body&rsquo;s calorie expenditure **is influenced by the calorie intake**, so that lower intake means lower expenditure.  Given this moving target, you cannot ever know how much of an excess you are running.
+
+Either of these injunctions suffice to kill this primitive form of the energy balance hypothesis.  You could object that it&rsquo;s not about watching on a daily basis, but a longer timescale: starting to restrict food once your belt is tight, eating more liberally once it doesn&rsquo;t, rinse and repeat.  I agree that makes more sense.  I wrote this section for three reasons:
+
+-   Introduce the thought experiment, which was mind-blowing to me at the time and may be to you too
+    -   If mind-blowing, it patches a gap in the connection between your ideas and reality
+-   Point out it&rsquo;s not actually an argument against the energy balance hypothesis, and we need more to discredit it
+-   The main purpose of the thought experiment: point out that calorie counting is cursed to be incredibly inexact, and therefore if anything you must adopt a reactive approach and it&rsquo;s a waste of time to micromanage daily calories
+
+In other news, I doubt even a refined version of the energy balance hypothesis will make sense &#x2013; the rest of Gary Taubes&rsquo; video ([Why We Get Fat](https://www.youtube.com/watch?v=lDneyrETR2o)) is why.
+
+
+<a id="orgcb0b196"></a>
+
+## Reductionism and holism
+
+-   [Reductionism and Holism Go Hand in Hand](https://www.westonaprice.org/reductionism-and-holism-go-hand-in-hand/)
+-   [The Case Against Nutritional Supplements](https://web.archive.org/web/20161023115732/http://gettingstronger.org/2013/08/the-case-against-nutritional-supplements/)
+-   [Live Longer](https://web.archive.org/web/20210225041305/https://gettingstronger.org/2015/03/live-longer/)
+-   [The Case Against Antioxidants](https://web.archive.org/web/20220127081345/https://gettingstronger.org/2011/03/the-case-against-antioxidants/)
+
+
+<a id="orgcaf3e02"></a>
+
+## TODO The power of anecdata
+
+Anecdata is rightly shunned for most purposes.  Even outside the ivory tower of science, followers of a given world-view are happy to disqualify &ldquo;the enemy camp&rsquo;s&rdquo; reasoning whenever it relies on anecdata.
+
+Is it always meaningless, best ignored?  In fact no, and parts of reality will always elude us if we reject it.  It sometimes makes good evidence, so it pays to understand when it does and when it doesn&rsquo;t.
+
+There&rsquo;s a class of hypotheses we can reject after seeing a *single* piece of evidence.  A schoolbook example is the belief &ldquo;all swans are white&rdquo;; when you see a single black swan, that should be enough to reject this belief.  You don&rsquo;t need to repeat this observation 100 times and obtain a statistically significant result&#x2026; at a sample size of one, it&rsquo;s already significant.  An anecdote, and yet also proof.
+
+If you strongly believed in &ldquo;all swans are white&rdquo;, you might suspect somebody&rsquo;s covered this one swan in tar.  But after observing two or three black swans on separate occasions, you&rsquo;d still reject it.
+
+If you hear somebody *else* say they observed a black swan, but you didn&rsquo;t observe it yourself, the story takes on a different character.  Like when someone says they saw a ghost or an UFO, there are a million different plausible explanations for why they thought they saw that or why they are saying that they saw that, all more plausible than the ghost.
+
+In this situation, something that matters is *who* and *why*.
+
+-   Who&rsquo;s telling you this data?
+    -   Keywords: sampling frame (or sample size), observer selection, &#x2026;
+    -   &ldquo;What is the sample size from which this information came?&rdquo;
+-   Did you directly prompt for the data, or did they choose the topic and serve you the data without your imagining it existed?
+    -   Keywords: counterfactuals, Texas sharpshooter, observer selection (again) &#x2026;
+
+These factors make a massive influence on how much informative power that anecdata has for you.
+
+---
+
+Let me put on my statistician hat for a moment.  There are times when it&rsquo;s rational for you to regard anecdata as medium-strength evidence, and times when it&rsquo;s no evidence at all, because of something called *selection effects*.
+
+If you hear something unbelievable on the Internet or in the news, it usually constitutes next to no support for any general conclusion, because we live on a planet of billions of humans, and freakish events happen to someone every day.  No matter how rare, these freakish events get promoted to our attention.
+
+Here is a question of *sampling frame*&#x2026; if the frame is seven billion, and you look for data that supports a hypothesis, you will find it, you&rsquo;ll even find a group of hundreds of people for a &rsquo;statistically significant&rsquo; result (cherry picking) &#x2013; which is why it&rsquo;s so important that the researcher select subjects in a random and transparent way, maybe even outsource the job of selecting subjects to an impartial outside agency.  
+
+By contrast, if your (pre-chosen) sampling frame is your immediate family, and you go quiz them about something **specific** (not &ldquo;did you ever see anything unbelievable?&rdquo;, but &ldquo;did you ever see someone hit by lightning?&rdquo;), it&rsquo;s not likely you turn up any interesting results &#x2026; but if you did, that would be real information.  If your family has 4 members apart from yourself, and one has seen someone hit by lightning, that&rsquo;s 1 out of 4.  Naively then, you could guess that you have a 1/4 chance in your own lifetime to see lightning hit someone, at least with no other information to go on.  In practice, you do have more information &#x2013; you suspect people would talk about getting hit by lightning a lot more if it was that common, so you&rsquo;d downgrade that 1/4 figure to something smaller, like 1/40.
+
+But notice that the quiz did give you *some* information.  It&rsquo;s a lot more than if you just happened to hear about it on an internet forum, which is approximately no information at all, even though both sources come from one individual making one claim.  What makes the whole difference for you is the sampling frame &#x2013; how many *could* have given you the data if it happened to them &#x2013; and the fact you didn&rsquo;t directly prompt for the data, and the set of counterfactual worlds &#x2013; what *other* things all observers in your reference class could have heard instead of the lightning thing.  That is one of the core lessons of Science, that we incrementally learned through the centuries: you can make information much, much more trustworthy, just by asking for it in a principled way.  Information you merely stumble across can only generate a hypothesis, not confirm anything, and least of all generate *and* confirm in one go.  Most hypotheses will turn out to be a wild goose chase, because that&rsquo;s the nature of reality:  an ocean of wrong ideas and a handful of less wrong ideas that are useful (and one forever unknowable full truth).
+
+If you had asked about anyuthing amazing happen, you&rsquo;d get 1/4 chance of seeing something amazing happen, but you couldn&rsquo;t conclude 1/4 chance of seeing lightning happen, because the question that prompted this data was not about lightning: that&rsquo;s a specific that you received unasked-for.  And you couldn&rsquo;t afterwards, knowing that they&rsquo;ve seen lightning, ask them specifically about lightning: that&rsquo;s HARK and why you need new data to confirm a pattern (asking for it) seen in an exploratory study (which gave you the pattern unasked-for).  You could extend your sampling frame to &ldquo;everyone inside this apartment building minus my family (because of HARK: start clean)&rdquo; and go to your neighbours and ask them about lightning; you&rsquo;d soon find that the rate isn&rsquo;t anywhere near 1/4.
+
+Key concepts: Non-representative sample of typical cases, cherry picking, &#x2026;
+<https://en.wikipedia.org/wiki/Anecdotal_evidence>
+
+But suppose you use someone else&rsquo;s exploratory study as your confirmatory study? Since you didn&rsquo;t know the results beforehand, and approach someone else&rsquo;s dataset with your own hypothesis, like &ldquo;red meat leads to cancer&rdquo;, could you confirm it? The answer is yes, conditional on your process of how you chose which study to look at.  You can only regard it as confirmation if the process didn&rsquo;t introduce bias.  If you were to just riffle through lots of studies until you find one that confirms your theory, this is just the same as cherry-picking data on another level: cherry-picking studies.  Sure, the subjects in study number 34 showed the pattern, but what about all the people in studies number 1 through 33?  What&rsquo;s more rational is to take into account *all* studies from 1 through 34 and see if the pattern still holds.  Even that is problematic since you stopped *right* when you found a study with the pattern &#x2013; what&rsquo;s even better is to have chosen ahead of time &ldquo;I&rsquo;ll look at 50 studies&rdquo;, the exact number isn&rsquo;t important so long as you stick to it no matter whether you find a pattern or not.  Only by that ritual will your findings become real information to you.  You must be willing to accept that you were wrong.  Science doesn&rsquo;t work without that willingness; one who lacks it is not doing science, even though they may be reading papers and doing all the externally visible parts of what looks like science.  For a process to become scientific, it requires a pledge inside the researcher&rsquo;s mind, to tie herself to the mast of accepting whatever the data may say.
+
+This is basically how a meta-analysis or systematic review works. Though they don&rsquo;t use a simplistic cutoff like &ldquo;50 studies&rdquo;, but a cutoff like &ldquo;all studies above a certain quality&rdquo;.  There will not be that many high-quality studies with directly comparable data suitable for answering a research question.
+
+
+<a id="org33e8bbb"></a>
+
+## Bariatric calvinism
+
+-   [Bariatric Calvinism and the Threat of Ketogenic Diets](https://old.reddit.com/r/keto/comments/23bdy9)
+
+
+<a id="org6a2fb92"></a>
+
+## Empty calories
+
+The term &ldquo;empty calories&rdquo; is Coca-Cola Company newspeak for whitewashing sugar: the implication is you&rsquo;ll be fine eating sugar (&ldquo;it&rsquo;s just empty calories&rdquo;) so long as you also get other nutrients, and distracts from the fact that sugar metabolism itself causes damage which there is no canceling out.  No such thing as empty calories; it&rsquo;s bad calories.
+
+
+<a id="org46aa777"></a>
+
+## Doctor education
+
+The curriculum for a medical doctor involves almost no nutrition schooling.  Harvard doctors get 2 hours of *total* of nutrition education.   (source?)  This means that like for the rest of us, much of what they know indirectly comes from news headlines.  When a doctor says &ldquo;mmhmm this looks bad, you need to eat less fat&rdquo; they are drawing on the same knowledge as your aunt or your brother-in-law.
+
+-   Q: I&rsquo;ve heard that doctors frequently get seminars on nutrition, paid by the ADA (American Diabetics Association) and other fronts of big agra &#x2013; meaning the money trail leads back to such trustworthy entities as the Coca Cola Company.  Is this true?
+
+I don&rsquo;t mean to be skeptical of experts.  It&rsquo;s just the reality that they&rsquo;re *not* experts.  Nor do I mean to be skeptical only of the mainstream, or of health care professionals.  You get no points for being &ldquo;alternative&rdquo;.  No matter their background, diet gurus of every stripe always seem to be peddling more than they can possibly know.  Everyone feels qualified to have an opinion.  Everyone feels it&rsquo;s *safe* to have an opinion, and this makes for a sea of Dunning-Kruger bullshit, a nightmare to navigate.
+
+
+<a id="orgefe3f0e"></a>
+
+## Nutritionist and dietician educations
+
+-   Q: What&rsquo;s the difference between a nutritionist and a dietician?
+-   Q: How much biochemistry is in the curriculum?  Because a mechanistic understanding of nutrition seems to me primarily a matter of biochemistry, with epidemiology used only to guide hypothesis generation.
+-   Q: I&rsquo;ve heard that their textbooks and curricula are heavily influenced by the Coca Cola Company, Monsanto, and other facets of big agra. Is this true?
+
+
+<a id="orgeb8810f"></a>
+
+## Pre-science
+
+Maybe I jump the gun, but at this time the field of nutrition science looks to me like what Thomas Kuhn describes as a *pre-science*.  The field is still in the crib, and lots of academics were quick to stake their reputation on early hypotheses and now risk their careers if they admit they&rsquo;re wrong.  That&rsquo;s how nowadays we get quite interesting reductionist findings and people reminding us of case studies left unexplained, but what the high-prestige names tend to tell us to do sound like they haven&rsquo;t integrated all the evidence, and we have to wait for them to die off before the evidence comes to use.
+
+It&rsquo;s not science when academics go around looking for more reasons they&rsquo;re right rather than reasons they&rsquo;re wrong.  They&rsquo;re pretending to be scientists.  In mature fields like physics or math, researchers spend every day looking for reasons their theory is wrong, because they know that&rsquo;s the only way to learn anything that has a chance of being true.  It&rsquo;s like the saying that &ldquo;a good mathematician is wrong twenty times a day, so you must either be a masochist or a bad mathematician&rdquo;.  Scientists enjoy being wrong, and nutrition authorities&#x2026; don&rsquo;t seem to.  On that basis, we can expect to find very little truth in the current nutrition theories.
+
+
+<a id="org497587e"></a>
+
+## TODO Rat chow
+
+
+<a id="orgf144a99"></a>
+
+## TODO Goodhart&rsquo;s Law
+
+In an article detailing how to stop being socially awkward, this was one of ten indicators of being socially awkward:
+
+> 1.  Constantly replaying that embarrassing moment or awkward silence in your head.
+
+Now suppose the awkward person stopped doing that. Are they less awkward now? Probably not.  This is one of the indicators the author chose of an underlying problem, and if you target the indicators, that&rsquo;s all you can expect to succeed at: removing the indicators.
+
+In the same vein, targeting one of the indicators that many doctors use to diagnose an underlying disease, will only remove the indicator, not the disease. Cholesterol is high in certain people, but that does not mean that if one of those people reduce their cholesterol in some artificial way, they will become unlike who they have been until then. However if they then go to a doctor they will be praised, because what else is there to measure than indicators?
+
+This is called targeting a symptom rather than the disease.  Keep track of the difference.  You don&rsquo;t want low cholesterol or some such, you want low risk of heart disease, of which cholesterol *can* be an indicator (unreliable).  Accordingly, a study that wants to measure risk of heart disease would ideally do it by checking how many of their subjects kick the bucket later on, not by measuring cholesterol, which could&rsquo;ve been affected by the study&rsquo;s intervention in a way that does not affect risk of heart disease.
+
+
+<a id="org4a452a5"></a>
+
+## TODO Energy mobilization
+
+I find it unnerving how many people bikeshed about nutrition without knowing how the body fuels itself throughout the day or what the energy is mainly used for.  I will quickly explain my understanding of it.  I&rsquo;m sadly no biochemist so please correct any errors.
+
+
+<a id="org65e8430"></a>
+
+### Part One: Fasted
+
+Let&rsquo;s start with a simple case: your stomach is empty and you haven&rsquo;t eaten for a week.  Now you lift your arm.
+
+What fueled that motion?
+
+Most directly, of course, there&rsquo;s the trivial answer: it&rsquo;s an amount of adenosine triphosphate (ATP) sitting in the relevant muscle cells, a molecule which releases energy as it breaks apart into diphosphate (ADP) and monophosphate (AMP).  This released energy results in muscle contraction.
+
+None of our cells have that much ATP on hand at a time, but &ldquo;other processes regenerate ATP so that the human body recycles its own body weight equivalent in ATP each day&rdquo; ([Wikipedia](https://en.wikipedia.org/wiki/Adenosine_triphosphate)).
+
+Where does the energy come from, that&rsquo;s injected into the ADP and AMP to build new ATP?  In your fasted state, the fuel is almost exclusively the molecules called free fatty acids (FFA): lipids in the bloodstream.  Where did it come from?  It was released from adipose cells (&ldquo;fat cells&rdquo;).  Which adipose cells?  All of them at the same time!
+
+This is a point of confusion among novice fitness fanatics, so let&rsquo;s reiterate: all adipose cells release a few of their stored lipid molecules continuously, over time, into the bloodstream.  It is not possible to make specific adipose cells, such as those on your stomach, release more lipids by doing a lot of sit-ups.  You&rsquo;re not getting abs by that mechanism (muscle growth helps define the abs, but the fat covering them stays the same thickness).  It&rsquo;s your total energy expenditure that tells the body how much more FFA is needed in the bloodstream, and all adipose cells are listening to that signal equally.
+
+Moving on:  where did the adipose cells get those lipids?  Well, they came by way of the bloodstream from your digestive system, at some point in the past when it was in the process of breaking down food.
+
+To clarify: the adipose cells were taking FFA out of the blood to fill themselves.  But this is weird: how did they know they should do that, instead of continuously release them as usual?  As you know, the blood circulates around the entire body, and you can&rsquo;t send something from one specific part of the body to another specific part, as if you were sending envelopes with an address.  The blood has no mailman.
+
+The answer is hormones.  Sometimes your adipose cells &#x2013; all of them &#x2013; are under the influence of hormones that tell them to vaccum up lipids from the bloodstream, sometimes they&rsquo;re not and they&rsquo;ll release lipids instead.
+
+Because of that, you can think of all your adipose cells together as one big barrel of oil.
+
+When you eat any kind of meal, that meal&rsquo;s lipids and the lipid-soluble micronutrients, such as vitamins A, D, E & K, get distributed to all your adipose cells.  This is like you were to just add them into that oil barrel and stir with a big spoon.  Later when they release lipids into the blood again, out comes a mixed lipid profile of all the meals you&rsquo;ve ever eaten&#x2026;
+
+(This is why you can stay indoors a cloudy day and still not have zero vitamin D in the blood.)
+
+What about if you eat a low- or no-fat diet?  Then you might think the adipose cells never fill up, right?  But in that case, they take glucose out of the bloodstream and do *de novo lipogenesis*: turn them into fat.  So it makes no difference; in that regard, eating 1000 calories in carbohydrate form still results in adding 1000 calories of fat to your adipose cells.  That&rsquo;s one reason it makes very little sense to focus on low-fat diets for the purposes of weight loss.
+
+I think it&rsquo;s important to observe the fact we&rsquo;ll make fat anyway, while it&rsquo;s only basic biochemistry, because it pulls the rug out from underneath the idea that a low-fat diet will &ldquo;prevent clogging the arteries&rdquo;.  You can&rsquo;t *not* constantly be having fat in the bloodstream, it doesn&rsquo;t matter what you&rsquo;re eating.
+
+
+<a id="org0b7cae5"></a>
+
+### Part Deux: LCHF
+
+OK, part one assumed you hadn&rsquo;t eaten for a week.  It makes for a very simple analysis.
+
+Now let&rsquo;s assume you quit fasting and eat a high-fat, no-carb meal.  What changes?
+
+In principle, nothing.  The digestive system will be injecting lipids into the bloodstream, and the adipose cells absorb the excess.  Hormonally, not much happens compared to a fasted state.
+
+
+<a id="orgb08f21d"></a>
+
+### TODO Part Tres: High carb
+
+Now assume you eat a high-carb meal.
+
+Lots of things happen.
+
+To start off, the carbohydrates break down into the component monosaccharides: glucose, fructose and galactose.
+
+-   **Fructose** will be picked up by the liver for storage as liver glycogen, and when that store is full, the liver uses the fructose for *de novo lipogenesis*.  There&rsquo;s something like a limit at 50 g/day that it can handle.  (Q: What happens when exceeded?)
+-   **Galactose** is rapidly converted to glucose, because it&rsquo;s a bit dangerous.  All animals do this conversion, however if you feed galactose to mice for a long time, it seems nevertheless to accelerate their aging.
+-   **Glucose** just goes straight into the bloodstream.  Here&rsquo;s where hormones come into the picture.
+
+The body seems to allow a certain range of blood glucose, 4-6 mmol/l, and the more it rises past that, the more body will do to bring it back down.  As it happens, there are only three things it can do:
+
+1.  Use it to immediately make ATP (in layman&rsquo;s terms, burn it) for an action that&rsquo;s happening right now, such as moving your arm.
+2.  Store it as glycogen.
+3.  Do *de novo lipogenesis*, and store it as fat.
+
+Step \\#1 sounds great, but there&rsquo;s only so much glucose you can remove this way.  A meal may have 1000 calories, and you burn about 100 calories per hour being alive and if you do cardio exercise and sweat your ass off for an hour, maybe that&rsquo;s another 200, but that leaves 700 that still has to proceed to steps \\#2 and \\#3 this hour.  Since nobody does an hour of cardio after every single meal, most of the time that figure is 900.
+
+Keep in mind that on a high-carb diet, your muscle glycogen stores are always full, so there&rsquo;s only liver glycogen to re-fill and then proceed to step \\#3.  In this thought experiment, you had just been fasting for some time, so it&rsquo;s likely the muscle glycogen stores also have free space.
+
+TODO: does glucose go to the liver at all or it has to be fructose?
+
+The sum of all muscle glycogen, when full,
+
+(In practice, step \\#3 must be what happens for most of the food you eat.  It&rsquo;s stored and then released continuously over time.)
+
+(You do not want a very high level of blood glucose, as it would kill you.  So after a high-carbohydrate meal, the blood glucose is rising, rising, and rising.)
+
+
+<a id="org4124dc4"></a>
+
+## TODO What makes an amino acid essential?
+
+Researchers so far have classified 18(?) amino acids as essential to humans, because we don&rsquo;t make any or don&rsquo;t make enough of them within the body.
+
+But achieving sufficiency is not as simple as exceeding a fixed minimum of each.  The minimum of a given amino acid will *move* up or down, depending on the other amino acids you have consumed.
+
+When RDAs were born in 1941(?), the intent was to reduce malnutrition symptoms among the populace.  But that doesn&rsquo;t say whether an amount is ideal, only that it&rsquo;s good.
+
+Also it&rsquo;s interesting&#x2026; some of it&rsquo;s based on animal studies where the goal is finding out *what makes the animal grow fastest* &#x2013; if I remember, the RDA for the amino acid methionine is based on this.
+
+
+<a id="org2e84835"></a>
+
+## TODO What does it mean to &ldquo;need&rdquo; a nutrient?
+
+As someone said, &ldquo;need&rdquo; is a funny concept.  You don&rsquo;t need to eat seafood.  You don&rsquo;t need an appendix or legs, either.  Maybe we can call it a shorthand for that **it&rsquo;ll lengthen our healthspan** (which is not just lifespan, but taking into account &ldquo;healthy life years&rdquo;).
+
+
+<a id="org2f7f390"></a>
+
+## TODO Components of hunger: Satiety and satiation
+
+There is a large body of established science showing four [clinically measurable components of hunger](http://www.gnolls.org/3662/what-is-hunger-and-why-are-we-hungry-j-stantons-ahs-2012-presentation-including-slides/): satiety, satiation, hedonic impact and incentive salience.
+
+
+<a id="orga647188"></a>
+
+## TODO What if the food volume hypothesis is wrong?
+
+This line of thought took a long time to wrap my head around, but it blew my mind well.
+
+So much of reasoning around nutrition, particularly for weight gain and weight loss, relies on background assumptions that no one identifies directly.  I&rsquo;m thinking of:
+
+-   The stomach physically full must mean body will feel satisfied
+-   Since fat is calorie-dense, you&rsquo;ll eat more calories before the stomach fills up, and therefore you will get fatter if you eat fat instead of carbs or fiber
+
+Consequences if it&rsquo;s wrong:
+
+-   calorie density does not matter
+-   total calorie amount in a meal does not matter
+-   salads do not matter
+
+What&rsquo;s left to watch for then?  How *do* you lose weight if low-calorie meals are an ineffectual wild goose chase?
+
+Hormones.  It&rsquo;s only ever about hormones.
+
+
+<a id="orgeb54876"></a>
+
+## TODO History of the mainstream memes
+
+-   Massive grain subsidies
+-   Vitamin discoveries
+    -   Scurvy
+-   Great Grain Robbery
+-   Original Swedish pyramid: designed for cost
+-   Meat and dairy industries originally stopped the food pyramid due to how it minimized meat, but after a year of additional testing they found that consumers wouldn&rsquo;t eat any less, so they let it pass
+-   Pritikin
+-   John Yudkin
+-   George McGovern
+-   Ancel Keys
+-   Luise Light
+-   Procter & Gamble (Sinclair&rsquo;s book) - Crisco
+-   Framingham Heart Study
+-   Finnish Mental Hospital Trial
+
+High-carb gurus
+
+-   Dean Ornish
+-   Caldwell Esselstyn
+
+Timeline
+
+-   Process of hydrogenation discovered in France
+-   Procter & Gamble sales halved due to the journalist&rsquo;s book about their lard factory. Also due to the rise of electricity, gradually less sales of lard (as we don&rsquo;t need to make candles anymore)
+-   Procter & Gamble starts hydrogenating oil from cottonseeds, previously a waste product dumped in rivers (not even fed to animals): first margarine born
+-   Vitamin C discovered, scurvy solved: fruit necessary!
+-   Vitamin B1 discovered
+-   1941(?) RDAs published (by which org?)
+-   1948 Framingham Heart Study begins &#x2013; and continues to this day
+-   USDA receives mandate to take care of health recommendations(?), giving it a conflicting set of drives
+-   Diet-heart hypothesis born as Ancel Keys starts in on the idea of saturated fat causing heart disease b/c &#x2026;
+-   1970? Sweden publishes world first food pyramid, designed to help consumers shave costs.  Very similar to USDA&rsquo;s later food pyramid, which will purport to be for health.
+-   Senator George McGovern watches the starvation movie, vows to make a difference, ultimately resulting in the food stamps program (and grain subsidies?)
+-   Luise Light and team of top nutritionists employed by USDA to figure out dietary guidelines
+-   Luise Light submits research-based food pyramid to USDA
+-   1992 USDA pre-publishes(?) distorted version of Luise Light&rsquo;s Food Pyramid, with many times more grain than Light suggested
+    -   Meat and dairy industries protest to their tiny part of food pyramid, delaying its publishing for a year.  Research found that customers won&rsquo;t in fact eat less meat or dairy, so they let it pass.
+-   1993 Food Guide Pyramid becomes official
+
+
+<a id="org5769f49"></a>
+
+# Findings & interpretations
 
 These sections are full of claims and numbers that I don&rsquo;t remember where I read, so it&rsquo;s quite open to be updated.  When I update these, I&rsquo;ll see if my [beliefs](#org31fbebe) need updating.
+
+
+<a id="org72ad6bf"></a>
+
+## Clinically successful diets
+
+Three radically different diets that have shown good clinical results on humans:
+
+-   Whole-foods plant-based diet, as described by Ornish, Esselstyn etc.
+-   Paleo diet
+-   The so-called Mediterranean diet
+
+What foods they all ban:
+
+-   Industrial seed oils (rapeseed, sunflower, safflower etc)
+-   Sugar
+-   &ldquo;Refined starch&rdquo; (white flour & rice)
+
+What foods they all allow:
+
+-   Vegetables
+-   Fruit
+-   Tubers / root vegetables
+
+
+<a id="orgf5626f7"></a>
+
+## Saturated fat with carbohydrate
+
+A 2011 meta-analysis by a Netherlands journal concluded that saturated fat wasn&rsquo;t anything to worry about except maybe when combining them with a lot of carbohydrate.
+
+;; BUG: iscroll-previous-line causes spurious &ldquo;Beginning of buffer&rdquo; messages
+(setq debug-on-message &ldquo;Beginning of buffer&rdquo;)
+(setq debug-on-message nil)
+
+
+<a id="org328bdbf"></a>
+
+## Vitamin C
+
+Sailors used to get scurvy (a disease of vitamin C deficiency), because they brought no fruit on the long voyages.  They brought only dried bread and meats.
+
+After vitamin C was discovered in the beginning of the 1900s, we cured scurvy and everyone accepted the primacy of fruit (or sauerkraut).  Around the same time, though it&rsquo;s been forgotten, the arctic explorer Vilhjalmur Stefansson wrote back to civlization about the local Inuit people, who could survive off an all-animal diet for nine months at a time without any signs of scurvy, and in fact were in excellent health.  Stefansson wasn&rsquo;t perfect ([One Thousand Nails in the Coffin of Vilhjálmur Stefansson](https://www.freetheanimal.com/2014/04/explorer-vilhjalmur-stefansson.html)), but he and another person underwent an experiment at Bellevue Hospital of eating only meat, and they were fine.  I assume it was just too hard to reconcile these observations with the background of the new vitamin C wisdom, so we shrugged and forgot about him.
+
+(Even if Stefansson was a total fraud, this is a case where you should expect to find many corroborating anecdotes and few contraindicating ones (even with self-selection bias, some contraindications should show up on some sites) &#x2013; and that&rsquo;s true.  To date, I&rsquo;ve not read a single zero-carber on the internet reporting scurvy, and some have been zero-carb for decades.)
+
+The Inuit ate meat, but not bread.  Following via negativa, is it possible that the sailors got scurvy not because they left out fruit, but because they continued to include *bread*?
+
+Two hopefully uncontroversial facts of biochemistry support this (though I may have been misled):
+
+-   The body can recycle vitamin C endlessly.  To deplete it, something else you&rsquo;re doing has to deplete it.
+-   Carbohydrates cause oxidative stress, which the body counterbalances by expending antioxidants&#x2026; such as vitamin C.
+
+If the reasoning is valid, then it appears we can conclude that dietary vitamin C isn&rsquo;t necessary during fasting or on a zero-carbohydrate diet, but *when* you start eating bread (grain is the only carbohydrate-rich food without vitamin C), *then* you also have to eat fruit or vegetables to stave off scurvy.  Bread causes scurvy!
+
+Another conclusion is that vitamin C may not be an essential nutrient, but what&rsquo;s called *conditionally essential* &#x2013; i.e. it depends on what else you eat &#x2013; and only mistaken for essential because of the universality of grain in the Western diet.
+
+
+<a id="org34e1fc2"></a>
+
+## Creatine
+
+People commonly see creatine as a bodybuilder thing &#x2013; why would normal people need creatine?  Actually, bodybuilders may need it the least &#x2013; they&rsquo;re used to challenging their muscles to the maximum as it is, and I believe this will produce the full MPS reaction (muscle protein synthesis).  For people who don&rsquo;t exercise much, this could mean an extra kick whenever they do lift something, and more energy to make the decision *to lift it* in the first place.  That&rsquo;s just a supposition, but it opens my mind to creatine as a nutrient for normal people.  Forget its association to the gym and analyze it like any other nutrient.
+
+Creatine is a naturally occurring substance &#x2013; about half of your creatine is produced inside your body, the other half is provided from meat, eggs and fish.
+
+What it does is sit in your muscle, just like glycogen, ready to provide energy.  It&rsquo;s a straightforward job.  A difference from glycogen in strenuous exercise is that creatine gets used up almost immediately and recharges in time for the next set of exercise &#x2013; and for a given set, a tiny portion of the energy comes from creatine.  That may be because strenuous exercise is strenuous, it uses lots of energy all at once.  Perhaps for less strenuous exercise, such as walking, a greater fraction will come from creatine?
+
+From various Internet anecdotes, people who eat animals often feel no effect taking additional creatine, but vegans experience a significant difference: everything from moving to thinking becomes easier, apparently clearing away &ldquo;brain fog&rdquo;.
+
+A point on safety.  There are various forms of creatine, and the form called **creatine monohydrate** has undergone extensive study, looking very safe in the prescribed quantities (5g/day), unless you have kidney problems.  Can we extrapolate that if you were a heavy meat-eater you would also experience problems if your kidneys are not working right?
 
 
 <a id="org0a842ca"></a>
@@ -201,11 +683,9 @@ Deficiency leads to dry skin, poor eyesight, and neurodegeneration.
 
 People talk about a balance of omega 3 to omega 6, that it should be about 1:1, maybe 1:4 at worst.
 
-Omega-6 is known as Linolenic Acid (LA) and Arachidonic Acid (AA).  LA can be converted to AA in the body.
-
 In the West, people average eating a ratio around 1:20.  I don&rsquo;t know where this number is from but I worry that most of the &ldquo;1&rdquo; there is also ALA (Alpha-Linolenic Acid) from seed oils, which the body does not really use, so it&rsquo;s even worse than it sounds.
 
-There have been signs that actually *the balance doesn&rsquo;t matter* so long as you are getting a certain a minimum of EPA/DHA.
+There have been signs that actually *the balance doesn&rsquo;t matter* so long as you are getting a certain a minimum of omega-3.
 
 
 <a id="org3118bc1"></a>
@@ -238,24 +718,11 @@ There&rsquo;s also the monetary aspect.  Fish oil is more expensive after proces
 
 ---
 
-A different pointer at the correct quantity comes from the research on telomeres, which connects high &ldquo;omega-3 index&rdquo; with less telomere shortening.  If you don&rsquo;t know about telomeres, in summary they&rsquo;re parts of us that shorten over time, and long telomeres mean long life.
+A different pointer at the correct quantity comes from the research on telomeres, which connects high &ldquo;omega-3 index&rdquo; with less telomere shortening.  If you don&rsquo;t know about telomeres, in summary they&rsquo;re parts of each cell&rsquo;s DNA core that shortens over time.  Once they&rsquo;re too short, they can no longer divide.  Long telomeres mean long life.
 
-You can get your omega 3 index tested: it tells you what percentage of the fatty acids in your blood is omega-3.  People in the USA/EU average 4%.  It should be sitting at >8%, and probably be as high as possible (not heard of any negative effect).  To achieve >8%, you typically need more than two &ldquo;servings&rdquo; of seafood per week, whatever &ldquo;serving&rdquo; means.  Source: <https://web.archive.org/web/20170620091732/http://caloriesproper.com/omega-3-index/>
+You can get your &ldquo;omega 3 index&rdquo; tested: it tells you what percentage of the fatty acids in your blood is omega-3.  People in the USA/EU average 4%.  It should be sitting at >8%, and probably be as high as possible (not heard of any negative effect).  To achieve >8%, you typically need more than two &ldquo;servings&rdquo; of seafood per week, whatever &ldquo;serving&rdquo; means.  Source of this reasoning: <https://web.archive.org/web/20170620091732/http://caloriesproper.com/omega-3-index/>
 
-It&rsquo;s likely that people report &ldquo;serving&rdquo; very differently, and many people eat lean fish and call it seafood. So if you make sure to choose wild oily fish, I guess two normal-size servings per week will suffice.
-
-
-<a id="org34e1fc2"></a>
-
-## Creatine
-
-People commonly see creatine as a bodybuilder thing &#x2013; why would normal people need creatine?  Actually, bodybuilders need it the least &#x2013; they&rsquo;re used to challenging their muscles to the maximum as it is, and I think this will produce the full MPS reaction (muscle protein synthesis).  For people who don&rsquo;t exercise much, this could mean an extra kick whenever they do lift something, and more energy to make the decision *to lift it* in the first place.
-
-Creatine is a naturally occurring substance &#x2013; about half of your creatine is produced inside your body, the other half is provided from meat, eggs and fish.   
-
-What it does is sit in your muscle, just like glycogen, ready to provide energy.  It&rsquo;s a straightforward job. A difference from glycogen in strenuous exercise is that creatine gets used up almost immediately and recharges for the next set &#x2013; for a given set, a tiny portion of the energy comes from creatine. That may be because strenuous exercise is strenuous, it uses lots of energy all at once.
-
-Often, people who eat animals feel no effect taking additional creatine as a supplement, but it is a common story that vegans experience a significant difference: everything from moving to thinking becomes easier.
+It&rsquo;s likely that people report &ldquo;serving&rdquo; very differently, and many people eat lean fish and call it seafood.  So if you make sure to choose wild oily fish, I wager that two normal-size servings per week, whatever that means for you, will suffice.
 
 
 <a id="orgae29db2"></a>
@@ -283,4 +750,107 @@ So 1.2 to 1.7 grams of leucine in 100 g of meat. So 250 g of meat is minimum at 
 <a id="org76145d8"></a>
 
 ## Teeth
+
+
+<a id="orgfdbb1f9"></a>
+
+## CLA
+
+
+<a id="orgbaebba7"></a>
+
+## Vitamin K2
+
+
+<a id="org5ac92b9"></a>
+
+## Insulin
+
+
+<a id="org68a9109"></a>
+
+## &ldquo;Cholesterol&rdquo;: VLDL, LDL, HDL, and TG
+
+
+<a id="org1849f75"></a>
+
+## Acid-base balance
+
+[Acid-Base: Does Dietary Acid/Base Balance Matter?](http://www.marksdailyapple.com/does-dietary-acidbase-balance-matter/)
+
+
+<a id="org6108d63"></a>
+
+## Pesticide
+
+[Pesticides](http://www.marksdailyapple.com/why-i-dont-trust-the-acceptable-daily-intake-levels-for-pesticides/)
+
+
+<a id="orgd07e31d"></a>
+
+## Effects of ketosis
+
+The best book on ketosis: *The Art and Science of Low Carbohydrate Living*, by Stephen Phinney (MD, Ph.D) and Jeff Volek (RD, Ph.D).
+
+
+<a id="org1d93ab9"></a>
+
+## Effects of fasting
+
+
+<a id="org5ebc544"></a>
+
+# Appendix: Interesting articles
+
+-   [Meat, Organs, Bones and Skin](https://www.westonaprice.org/health-topics/meat-organs-bones-and-skin/) &#x2026; 3-4 sections starting with &ldquo;Supporting Methylation&rdquo;
+-   [The China Study: Fact or Fallacy?](https://deniseminger.com/2010/07/07/the-china-study-fact-or-fallac/) (links to response by Campbell too)
+
+
+<a id="org7c97120"></a>
+
+# What are we talking about in the first place?
+
+Nutrition science can be a hot potato, as people may approach it from any of several lenses:
+
+1.  Personal weight management
+2.  Athletic performance
+3.  Diet&rsquo;s effect on a human&rsquo;s health and longevity
+4.  Ethical/moral/political issues, such as:
+    1.  Global warming
+    2.  Other environmental issues, such as biodiversity losses & soil erosion
+    3.  Animal suffering; especially talking about CAFO (Concentrated Animal Feeding Operations), but also life quality for non-CAFO animals
+    4.  Animal killing: how many animals killed and how old they&rsquo;re allowed to get
+
+In this page, I talk **only about \\#3**.  While obesity can be a symptom of an unhealthy diet, I&rsquo;m not looking for &ldquo;the secret to weight loss&rdquo;, so \\#1 is no focus.  Similarly for \\#2, athletic performance long-term can be evidence that the diet is good, but again it&rsquo;s not my focus.
+
+I find \\#4 interesting, but we need to keep our eyes on the ball.  To make a good political decision for my way of life, I feel I need to first analyze \\#3 in isolation, because the question of **what foods make people healthy** will impact part of the question of **which society-wide food practices do the most good**, so that I can then campaign for these.
+
+Of course \\#3 can be analyzed forever, but we can stop analyzing at a prespecified stopping condition.  For me it&rsquo;s when I&rsquo;ve picked the low-hanging fruit with regards to answerable questions that do have answers today &#x2013; basically try to map how everything fits together, identify my confusions, put them in the Questions section, and try to answer them, spending up to approx. 10 hours per question&#x2026;
+
+
+<a id="org8d6dd88"></a>
+
+## Questions I want answered before I make a political/ethical decision
+
+-   How much land area is used for pasture, that could have been used for agriculture?
+-   How much good farmland is reserved to feed animals?  (How much of that goes to CAFO?)
+-   How many humans can we feed in theory, if we only use sustainable farming practices, assign all good farmland to producing human food, and only keep as many animals as can live off pasturing on subpar farmland?
+    -   How is this picture affected by the choice of crop?
+    -   How is this picture affected by pesticides and GMOs?
+    -   How is this picture affected if we have people going out to milk the pasturing cattle vs. don&rsquo;t?
+    -   How is this picture affected by the lifespans we allow the cattle?
+    -   How is this picture affected by the choice of animal (cow, goat, chicken&#x2026;)?
+    -   Crazy thought experiment: following the idea of killing the smallest count of animals for the biggest loads of meat, suppose we only get our meat from blue whales?
+-   Is rewilding good from an animal-suffering perspective?  If not, what are our options for minimzing total animal suffering?
+
+
+<a id="orge2d2595"></a>
+
+# Confusing terms
+
+-   fat (noun: lipid molecules or adipose tissue) and fat (adjective: the property of an individual carrying a too high body fat percentage).
+-   &ldquo;nutritional value&rdquo; &#x2013; may be referring to caloric value (energy), or to essential nutrients (protein, micronutrients)
+-   pastured
+-   &ldquo;vegetable oil&rdquo; &#x2013; there&rsquo;s no such thing as a vegetable oil, it&rsquo;s American marketing.
+    -   Many Paleo-aligned thinkers think there&rsquo;s a huge difference between different plant-based oils, and if they&rsquo;re right, then when you design a study with the presupposition in mind that all plant-based oils are roughly equal, you end up overgeneralizing.  If you must classify, clarify whether you&rsquo;re talking about seed oil (rapeseed, sunflower, safflower, linseed, &#x2026;), nut oil (macadamia), or fruit oil (olive, avocado).  In the case of &ldquo;palm oil&rdquo;, differentiate between palm fruit oil (obviously a fruit oil) and palm kernel oil (a seed oil).
 
