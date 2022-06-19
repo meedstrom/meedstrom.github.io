@@ -10,7 +10,7 @@
 3.  [Map of reductionist findings](#org3f4377c)
 4.  [Perspectives and thought experiments](#org88eae66)
     1.  [Via negativa](#orgb9090e8)
-    2.  [&ldquo;Fat&rdquo; means either lipids or excess weight, not both](#org83c6aff)
+    2.  [&ldquo;Fat&rdquo; means lipids or excess weight, not both](#org3817439)
     3.  [20 calories a day](#org7068f77)
     4.  [Reductionism and holism](#orgcb0b196)
     5.  [The power of anecdata](#orgcaf3e02)
@@ -19,16 +19,15 @@
     8.  [Empty calories](#org6a2fb92)
     9.  [Doctor education](#org46aa777)
     10. [Nutritionist and dietician educations](#orgefe3f0e)
-    11. [Goodhart&rsquo;s Law](#orgf144a99)
-    12. [Energy mobilization](#org4a452a5)
+    11. [Energy mobilization](#org4a452a5)
         1.  [Part One: Fasted](#org65e8430)
         2.  [Part Deux: LCHF](#org0b7cae5)
         3.  [Part Tres: High carb](#orgb08f21d)
-    13. [What makes an amino acid essential?](#org4124dc4)
-    14. [What does it mean to &ldquo;need&rdquo; a nutrient?](#org2e84835)
-    15. [Components of hunger: Satiety and satiation](#org2f7f390)
-    16. [What if the food volume hypothesis is wrong?](#orga647188)
-    17. [History of the mainstream memes](#orgeb54876)
+    12. [What makes an amino acid essential?](#org4124dc4)
+    13. [What does it mean to &ldquo;need&rdquo; a nutrient?](#org2e84835)
+    14. [Components of hunger: Satiety and satiation](#org2f7f390)
+    15. [What if the food volume hypothesis is wrong?](#orga647188)
+    16. [Timeline behind the mainstream memes](#orgc6fe3ec)
 5.  [Findings & interpretations](#org5769f49)
     1.  [Clinically successful diets](#org72ad6bf)
     2.  [Vitamin C](#org328bdbf)
@@ -43,15 +42,15 @@
     11. [Genetic need of omega-3](#org71b4469)
     12. [How much seafood?](#org0cab385)
     13. [Leucine](#orgae29db2)
-    14. [Teeth](#org550e558)
+    14. [Teeth](#org67e922c)
     15. [CLA](#orgfdbb1f9)
     16. [Leaking nutrients](#org78623b9)
     17. [Iodine](#org214d6f9)
     18. [Soil](#org9dccef0)
     19. [Insulin](#org5ac92b9)
-    20. [Teeth](#org67e922c)
+    20. [Teeth](#orgbedebeb)
     21. [Gut bacteria](#org4668203)
-    22. [&ldquo;Cholesterol&rdquo;: VLDL, LDL, HDL, and TG](#org68a9109)
+    22. [&ldquo;Cholesterol&rdquo;: VLDL, LDL, HDL, TG and TC](#org60ed20b)
     23. [Acid-base balance](#org1849f75)
     24. [Pesticides](#orgd425944)
     25. [GMO](#orge6c2abd)
@@ -66,10 +65,12 @@
     34. [Saturated fat with carbohydrate](#orgf5626f7)
     35. [Meta-analyses](#orgb75f382)
     36. [Sweeteners](#org2d95287)
+    37. [The AMY1 gene](#orgceaec5d)
+    38. [The ApoE4 gene](#org5070dc2)
 6.  [How the science is currently done](#org2bd51c2)
     1.  [Mouse chow](#org78f1357)
     2.  [Six types of research](#org25ba6a3)
-7.  [Famous hypotheses](#org9ba8291)
+7.  [Fundamental hypotheses](#org679163d)
     1.  [The lipid hypothesis](#orgb87be74)
     2.  [The diet-heart hypothesis](#org528a04b)
     3.  [The food volume hypothesis](#orgb4ed1bd)
@@ -81,7 +82,7 @@
     5.  [Finnish Mental Hospital Study](#org68933c9)
 9.  [Questions](#org2261e2c)
 10. [What are we talking about in the first place?](#org7c97120)
-    1.  [Questions I want answered before I make a political/ethical decision](#org8d6dd88)
+    1.  [Questions I want answered before I make a political decision](#orgffde935)
 
 
 
@@ -98,24 +99,24 @@ What prompted me to write this post was hearing someone say &ldquo;[do not prese
 
 ## Past me (2013)
 
-I&rsquo;ve seen many people making the uncharitable presumption about meat-eaters that they just can&rsquo;t bear to give up the taste.  So let me clarify that back in 2013 when I decided to lose weight, I liked meat but wasn&rsquo;t a fan in any particular way.  I was ready to go plant-based or even eat nothing but broccoli for a year if that&rsquo;s what it took.  So I read up on necessary nutrients, all the vitamins, minerals and their different forms, to make sure I got enough.
+I&rsquo;ve seen people make the uncharitable presumption that meat-eaters just can&rsquo;t bear to give up the taste.  So let me clarify that back in 2013 when I decided to lose weight, I liked meat but wasn&rsquo;t a fan in any particular way.  I was ready to go plant-based or even eat nothing but broccoli for a year if that&rsquo;s what it took (young people are extreme).  So I read up on necessary nutrients, all the vitamins, minerals and their different forms, to make sure I got enough.
 
 I had no bias for meat, but I was (and still am) biased in favour of bread and beer, because I like the stuff so much.  I also like many vegetarian foods.  I enjoy tofu, tempeh, seitan and legumes, and always loved salads.  I think quorn nuggets beat chicken nuggets.
 
-I read about retinoids (animal-sourced vitamin A) versus carotenoids (vegetable-sourced vitamin A).  How to find vitamin K1 and K2 in an animal-free diet.  What role omega 3 plays, how much we need, and what factors might affect how much we need.  I read about formulating an ideal nutritional supp regimen on the Longecity forum.
+I read about retinoids (animal-sourced vitamin A) versus carotenoids (vegetable-sourced vitamin A).  How to find vitamin K1 and K2 in an animal-free diet.  What role omega 3 plays, how much we need, and what factors might affect how much we need.  I followed nerds discussing ideal nutritional supplements on a forum about human longevity.
 
 Time and time again, I found that the nutrient under analysis can be found in some animal tissue or other, together with all the right cofactors that aid its absorption.  Often in the &ldquo;worst&rdquo; part from a cholesterol perspective, e.g. the egg yolk, the saturated animal fat, the reddest red meat.  Animals started looking like a preformulated nutritional supplement from Nature.  So that&rsquo;s what I ate.  I spent much of my free time that year just geeking out about nutrition, and was at the peak of my health.  I virtually couldn&rsquo;t sunburn, I went shirtless and barefoot all the time, my immune system was king, my eyesight improved, my reflexes improved.
 
-I should admit that back then I wanted to be an iconoclast, to hold the secret that society at large doesn&rsquo;t know.  Now I use the experience of &ldquo;knowing the secret of keto&rdquo; as a reference point for what it must be like to be in a cult, and it&rsquo;s useful.  I remained skeptical enough that keto birthed my interest in statistics, so I could read the papers everyone was citing and make sense of them for myself (which I still haven&rsquo;t gotten around to).
+Back then, I also enjoyed being an iconoclast, to hold the secret that society at large doesn&rsquo;t know.  Now I use the experience of the keto in-group as a reference for what it must be like to be in a cult, and it&rsquo;s useful.  I remained skeptical enough that keto birthed my interest in statistics, so I could read the papers everyone was citing and make sense of them for myself.  Thus I got a statistics degree.
 
 
 <a id="org3636f72"></a>
 
 ## Current me (2022)
 
-These days I don&rsquo;t want to be an iconoclast in nutrition science.  I&rsquo;d rather my diet mesh easily with other people&rsquo;s diets for social reasons.
+These days I don&rsquo;t want to be an iconoclast in nutrition science.  I&rsquo;d prefer my diet to mesh easily with other people for social reasons.
 
-My outlook on optimal nutrition is slightly different from 2013-me and more flexible, and I think that biochemistry is so complicated that a reductionist approach focusing on specific nutrients doesn&rsquo;t make sense at this stage of the science.
+My outlook on optimal nutrition is a bit different from 2013-me and more flexible, and I think that biochemistry is so complicated that a reductionist approach focusing on specific nutrients doesn&rsquo;t make sense at this stage of the science.
 
 If you optimize a diet for specific nutrients, I think you&rsquo;re just [Goodharting](https://en.wikipedia.org/wiki/Goodhart%27s_law) it: targeting a measure and not its underlying cause.  In Kuhnian terms, the field of nutrition doesn&rsquo;t appear to have gotten out of the [pre-science](https://www.simplypsychology.org/Kuhn-Paradigm.html) stage.  At this point I&rsquo;d only expect a holistic perspective to provide good answers, provided of course that you keep your pet holistic theory falsifiable and are in a position to learn from predictive failure.  That is, you&rsquo;ll swap out the holistic framework you&rsquo;re using for a different one when surprising evidence turns up, rather than explain away the evidence so you can keep the framework unmodified.  Any evidence should result in *some* modification to your framework.  Be like astronomy, not like astrology; be specific in your predictions, don&rsquo;t move the goalposts, be quick to abandon hypotheses, and don&rsquo;t maintain any unfalsifiable claims unless you can causally tie them to a different-but-related claim that is falsifiable.
 
@@ -238,13 +239,14 @@ Concrete example: Vitamin D and bone broth. (&#x2026;)
 -   [Bone broth for Vitamin D: APVDS part 2: Why Low 25(OH)D Could Indicate a Deficiency of Calcium Instead of Vitamin D](http://www.westonaprice.org/blogs/cmasterjohn/an-ancestral-perspective-on-vitamin-d-status-part-2-why-low-25ohd-could-indicate-a-deficiency-of-calcium-instead-of-vitamin-d/)
 
 
-<a id="org83c6aff"></a>
+<a id="org3817439"></a>
 
-## &ldquo;Fat&rdquo; means either lipids or excess weight, not both
+## &ldquo;Fat&rdquo; means lipids or excess weight, not both
 
--   Everyone should taboo the word &ldquo;fat&rdquo; as often as possible, because it has dual meanings: a noun meaning triglycerides (lipid molecules), and an adjective meaning being overweight.  It short-circuits our logic sometimes.
-    -   Say &ldquo;eating triglycerides makes you overweight&rdquo; rather than &ldquo;eating fat makes you fat&rdquo;.  The first form invites critique, asking for supporting evidence, while we may accept the second with nary a thought if we&rsquo;re not careful.
-        -   Compare &ldquo;Eating vegetables makes you green&rdquo;.  &ldquo;Eating duck turns you into a duck&rdquo;.  &ldquo;Eating cholesterol increases blood cholesterol&rdquo;.  They&rsquo;re all the same type of error.
+Everyone should taboo the word &ldquo;fat&rdquo;, because it has dual meanings: a noun meaning triglycerides (lipid molecules), and an adjective applied to persons to describe their being overweight.  It short-circuits our logic sometimes.
+
+-   Note the difference if you say &ldquo;eating triglycerides makes you overweight&rdquo; rather than &ldquo;eating fat makes you fat&rdquo;.  The first form invites critique, asking for supporting evidence, while we may accept the second with nary a thought if we&rsquo;re not careful.
+    -   Compare &ldquo;Eating vegetables makes you green&rdquo;.  &ldquo;Eating duck turns you into a duck&rdquo;.  &ldquo;Eating cholesterol increases blood cholesterol&rdquo;.  They&rsquo;re all the same type of error.
 
 
 <a id="org7068f77"></a>
@@ -376,21 +378,6 @@ I don&rsquo;t mean to be skeptical of experts.  It&rsquo;s just the reality that
 -   Q: I&rsquo;ve heard that their textbooks and curricula are heavily influenced by the Coca Cola Company, Monsanto, and other facets of big agra. Is this true?
 
 
-<a id="orgf144a99"></a>
-
-## TODO Goodhart&rsquo;s Law
-
-In an article detailing how to stop being socially awkward, this was one of ten indicators of being socially awkward:
-
-> 1.  Constantly replaying that embarrassing moment or awkward silence in your head.
-
-Now suppose the awkward person stopped doing that. Are they less awkward now? Probably not.  This is one of the indicators the author chose of an underlying problem, and if you target the indicators, that&rsquo;s all you can expect to succeed at: removing the indicators.
-
-In the same vein, targeting one of the indicators that many doctors use to diagnose an underlying disease, will only remove the indicator, not the disease. Cholesterol is high in certain people, but that does not mean that if one of those people reduce their cholesterol in some artificial way, they will become unlike who they have been until then. However if they then go to a doctor they will be praised, because what else is there to measure than indicators?
-
-This is called targeting a symptom rather than the disease.  Keep track of the difference.  You don&rsquo;t want low cholesterol or some such, you want low risk of heart disease, of which cholesterol *can* be an indicator (unreliable).  Accordingly, a study that wants to measure risk of heart disease would ideally do it by checking how many of their subjects kick the bucket later on, not by measuring cholesterol, which could&rsquo;ve been affected by the study&rsquo;s intervention in a way that does not affect risk of heart disease.
-
-
 <a id="org4a452a5"></a>
 
 ## TODO Energy mobilization
@@ -510,50 +497,29 @@ There is a large body of established science showing four [clinically measurable
 
 This line of thought took a long time to wrap my head around, but it blew my mind well.
 
-So much of reasoning around nutrition, particularly for weight gain and weight loss, relies on background assumptions that no one identifies directly.  I&rsquo;m thinking of:
+So much of reasoning around nutrition, particularly for weight gain and weight loss, relies on background assumptions rarely spoken of:
 
--   The stomach physically full must mean body will feel satisfied
--   Since fat is calorie-dense, you&rsquo;ll eat more calories before the stomach fills up, and therefore you will get fatter if you eat fat instead of carbs or fiber
+-   Assumption 1: that when the stomach is physically full, the body will feel satisfied with its intake
+-   Assumption 2: that since fat is calorie-dense, then if you eat fat instead of carbs or fiber (or sawdust), you&rsquo;ll be able to consume more calories before the stomach is full, and therefore you will get fatter
 
-Consequences if it&rsquo;s wrong:
+Written out like that, it seems to me extremely debatable.  Yet, the consequences if it&rsquo;s wrong:
 
--   calorie density does not matter
--   total calorie amount in a meal does not matter
--   salads do not matter
+-   Calorie density does not matter
+-   Total calorie amount in a meal does not matter
+-   Fiber does not make you meaningfully fuller
+-   There&rsquo;s no such thing as a &ldquo;low-calorie food&rdquo; or a &ldquo;high-calorie food&rdquo;
 
-What&rsquo;s left to watch for then?  How *do* you lose weight if low-calorie meals are an ineffectual wild goose chase?
-
-Hormones.  It&rsquo;s only ever about hormones.
+What&rsquo;s left to watch for then?  How do you lose weight if the body is just watching to meet a calorie quota, not a food volume quota?  How *do* you choose foods if there&rsquo;s no such thing as a low-calorie food?
 
 
-<a id="orgeb54876"></a>
+<a id="orgc6fe3ec"></a>
 
-## TODO History of the mainstream memes
-
--   Massive grain subsidies
--   Vitamin discoveries
-    -   Scurvy
--   Great Grain Robbery
--   Original Swedish pyramid: designed for cost
--   Meat and dairy industries originally stopped the food pyramid due to how it minimized meat, but after a year of additional testing they found that consumers wouldn&rsquo;t eat any less, so they let it pass
--   Pritikin
--   John Yudkin
--   George McGovern
--   Ancel Keys
--   Luise Light
--   Procter & Gamble (Sinclair&rsquo;s book) - Crisco
--   Framingham Heart Study
--   Finnish Mental Hospital Trial
-
-High-carb gurus
-
--   Dean Ornish
--   Caldwell Esselstyn
+## TODO Timeline behind the mainstream memes
 
 Timeline
 
 -   Process of hydrogenation discovered in France
--   Procter & Gamble sales halved due to the journalist&rsquo;s book about their lard factory. Also due to the rise of electricity, gradually less sales of lard (as we don&rsquo;t need to make candles anymore)
+-   Procter & Gamble sales halved due to the journalist Sinclair&rsquo;s book about their lard factory. Also due to the rise of electricity, gradually less sales of lard (as we don&rsquo;t need to make candles anymore)
 -   Procter & Gamble starts hydrogenating oil from cottonseeds, previously a waste product dumped in rivers (not even fed to animals): first margarine born
 -   Vitamin C discovered, scurvy solved: fruit necessary!
 -   Vitamin B1 discovered
@@ -563,6 +529,7 @@ Timeline
 -   Diet-heart hypothesis born as Ancel Keys starts in on the idea of saturated fat causing heart disease b/c &#x2026;
 -   1970? Sweden publishes world first food pyramid, designed to help consumers shave costs.  Very similar to USDA&rsquo;s later food pyramid, which will purport to be for health.
 -   Senator George McGovern watches the starvation movie, vows to make a difference, ultimately resulting in the food stamps program (and grain subsidies?)
+-   Great Grain Robbery ensures McGovern loses the presidency
 -   Luise Light and team of top nutritionists employed by USDA to figure out dietary guidelines
 -   Luise Light submits research-based food pyramid to USDA
 -   1992 USDA pre-publishes(?) distorted version of Luise Light&rsquo;s Food Pyramid, with many times more grain than Light suggested
@@ -574,7 +541,7 @@ Timeline
 
 # Findings & interpretations
 
-These sections contain claims and numbers that I don&rsquo;t remember where I read, so it&rsquo;s quite open to be updated.  When I update these, I&rsquo;ll see if my [beliefs](#org31fbebe) need updating.
+These sections contain claims and numbers that I don&rsquo;t remember where I read, so it needs updating.  After that, I&rsquo;ll see if my [beliefs](#org31fbebe) need updating.
 
 
 <a id="org72ad6bf"></a>
@@ -746,7 +713,7 @@ HOW MUCH LEUCINE IS IN 100g OF FOOD? From nutritiondata.self.com:
 So 1.2 to 1.7 grams of leucine in 100 g of meat. So 250 g of meat is minimum at one meal, 300 g a better minimum to be on the safe side.
 
 
-<a id="org550e558"></a>
+<a id="org67e922c"></a>
 
 ## Teeth
 
@@ -806,7 +773,7 @@ The soil is where many nutrients come from &#x2013; plants grow in it, cattle ea
 ## Insulin
 
 
-<a id="org67e922c"></a>
+<a id="orgbedebeb"></a>
 
 ## Teeth
 
@@ -825,7 +792,7 @@ Very strange: there have been signs that a varied diet is *worse* than a one-sid
 
 Should we be consistent with our diet, for a consistent flora? 
 
-Or perhaps we should do different specialized diets in sequence, to give different cultures a chance to shine and outcompete the others?  But that might cause an unending sequence of Herxheimer-like reactions (where you feel ill health because your previous gut flora is dying off).
+Should we follow different one-sided diets in sequence, to give different cultures a chance to shine and outcompete the others?  Maybe that&rsquo;d cause an unending sequence of Herxheimer-like reactions (where you feel ill health because your previous gut flora is dying off).
 
 To pattern lifestyle after the Paleolithic, it&rsquo;s likely that they would have eaten different foods at different times of year.  Stretching out your variation over a year would give you fewer problems with sudden dieoff.  Above all, it seems, to keep diversity high, avoid supporting generalist species.  That would mean different one-sided diets at different times, and no fruit in the winter.
 
@@ -834,9 +801,9 @@ But is diversity important?  Poor gut biodiversity, such as after a round of ant
 <http://www.marksdailyapple.com/16-things-that-affect-your-gut-bacteria/>
 
 
-<a id="org68a9109"></a>
+<a id="org60ed20b"></a>
 
-## &ldquo;Cholesterol&rdquo;: VLDL, LDL, HDL, and TG
+## &ldquo;Cholesterol&rdquo;: VLDL, LDL, HDL, TG and TC
 
 
 <a id="org1849f75"></a>
@@ -999,6 +966,28 @@ A 2011 meta-analysis by a Netherlands journal concluded that saturated fat wasn&
 ## Sweeteners
 
 
+<a id="orgceaec5d"></a>
+
+## The AMY1 gene
+
+We emit the enzyme called amylase to break down starches, in the saliva as well as the intestines.  People vary in how much amylase they will produce, due to how many copies they&rsquo;ve got of the AMY1 gene.
+
+Now for where it gets surprising.  Each of the apes, apart from humans, always have a fixed amount of AMY1 genes.  Each species may have 3 copies, or 4 copies or some other number, but it&rsquo;s constant across the whole species.
+
+By contrast, we humans vary between having 1 to 15 copies!
+
+A takeaway:
+
+-   There really is no single ancestral diet.  The variation implies we descend from groups with cultures quite unlike each other, even way back in the Paleolithic, some of which ate a lot of plants and some of which did not.
+
+
+<a id="org5070dc2"></a>
+
+## The ApoE4 gene
+
+AMY1 and ApoE4 weigh in on what diet is ideal for you personally.  Some will not do well on a low-fat high-starch diet.  For them, starch can cause even worse blood sugar spikes than if they were to just eat straight sugar.  As you know, all these blood sugar spikes lead to insulin resistance, obesity and heart disease.  For them, the only workable diet might be a high-fat animal-based diet.
+
+
 <a id="org2bd51c2"></a>
 
 # How the science is currently done
@@ -1049,9 +1038,9 @@ Source: *Death by Food Pyramid*
 6.  Meta-analyses
 
 
-<a id="org9ba8291"></a>
+<a id="org679163d"></a>
 
-# Famous hypotheses
+# Fundamental hypotheses
 
 
 <a id="orgb87be74"></a>
@@ -1148,7 +1137,7 @@ Sometimes, people cite the FHS to support a connection between cholesterol-rich 
 
 # What are we talking about in the first place?
 
-Nutrition science can be a hot potato, as people may approach it from any of several lenses:
+Nutrition science can be a hot potato, since people approach it from different lenses:
 
 1.  Personal weight management
 2.  Athletic performance
@@ -1161,14 +1150,14 @@ Nutrition science can be a hot potato, as people may approach it from any of sev
 
 In this page, I talk **only about \\#3**.  While obesity can be a symptom of an unhealthy diet, I&rsquo;m not looking for &ldquo;the secret to weight loss&rdquo;, so \\#1 is no focus.  Similarly for \\#2, athletic performance long-term can be evidence that the diet is good, but again it&rsquo;s not my focus.
 
-I find \\#4 interesting, but we need to keep our eyes on the ball.  To make a good political decision for my way of life, I feel I need to first analyze \\#3 in isolation, because the question of **what foods make people healthy** will impact part of the question of **which society-wide food practices do the most good**, so that I can then campaign for these.
+I find \\#4 interesting, but we need to keep our eyes on the ball for this page.  I feel that before I can make political my way of life, I need to analyze \\#3 in isolation, because the question of **what foods make people healthy** will impact part of the question of **which society-wide food practices do the most good**, so that I can then campaign for these.
 
-Of course \\#3 can be analyzed forever, but we can stop analyzing at a prespecified stopping condition.  For me it&rsquo;s when I&rsquo;ve picked the low-hanging fruit with regards to answerable questions that do have answers today &#x2013; basically try to map how everything fits together, identify my confusions, put them in the Questions section, and try to answer them, spending up to approx. 10 hours per question&#x2026;
+Of course \\#3 can be analyzed ad infinitum, but we can stop analyzing at a prespecified stopping condition.  For me it&rsquo;s when I&rsquo;ve picked the low-hanging fruit with regards to answerable questions that do have answers today &#x2013; basically try to map how everything fits together, identify my confusions, put them in the Questions section, and try to answer them, spending up to approx. 10 hours per question&#x2026;
 
 
-<a id="org8d6dd88"></a>
+<a id="orgffde935"></a>
 
-## Questions I want answered before I make a political/ethical decision
+## Questions I want answered before I make a political decision
 
 -   How much land area is used for pasture, that could have been used for agriculture?
 -   How much good farmland is reserved to feed animals?  (How much of that goes to CAFO?)
