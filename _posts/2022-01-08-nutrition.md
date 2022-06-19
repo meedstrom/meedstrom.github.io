@@ -14,61 +14,74 @@
     3.  [20 calories a day](#org7068f77)
     4.  [Reductionism and holism](#orgcb0b196)
     5.  [The power of anecdata](#orgcaf3e02)
-        1.  [florp](#org932cfb7)
     6.  [Bariatric calvinism](#org33e8bbb)
-    7.  [Empty calories](#org6a2fb92)
-    8.  [Doctor education](#org46aa777)
-    9.  [Nutritionist and dietician educations](#orgefe3f0e)
-    10. [Pre-science](#orgeb8810f)
-    11. [Rat chow](#org497587e)
-    12. [Goodhart&rsquo;s Law](#orgf144a99)
-    13. [Energy mobilization](#org4a452a5)
+    7.  [Nutritionism](#org976fe27)
+    8.  [Empty calories](#org6a2fb92)
+    9.  [Doctor education](#org46aa777)
+    10. [Nutritionist and dietician educations](#orgefe3f0e)
+    11. [Goodhart&rsquo;s Law](#orgf144a99)
+    12. [Energy mobilization](#org4a452a5)
         1.  [Part One: Fasted](#org65e8430)
         2.  [Part Deux: LCHF](#org0b7cae5)
         3.  [Part Tres: High carb](#orgb08f21d)
-    14. [What makes an amino acid essential?](#org4124dc4)
-    15. [What does it mean to &ldquo;need&rdquo; a nutrient?](#org2e84835)
-    16. [Components of hunger: Satiety and satiation](#org2f7f390)
-    17. [What if the food volume hypothesis is wrong?](#orga647188)
-    18. [History of the mainstream memes](#orgeb54876)
+    13. [What makes an amino acid essential?](#org4124dc4)
+    14. [What does it mean to &ldquo;need&rdquo; a nutrient?](#org2e84835)
+    15. [Components of hunger: Satiety and satiation](#org2f7f390)
+    16. [What if the food volume hypothesis is wrong?](#orga647188)
+    17. [History of the mainstream memes](#orgeb54876)
 5.  [Findings & interpretations](#org5769f49)
     1.  [Clinically successful diets](#org72ad6bf)
-    2.  [Saturated fat with carbohydrate](#orgf5626f7)
-    3.  [Vitamin C](#org328bdbf)
-    4.  [Vitamin K2](#orgbaebba7)
-    5.  [Vitamin B12](#orge5e0120)
-    6.  [Vitamin A](#org450c7ab)
-    7.  [Creatine](#org34e1fc2)
-    8.  [Forms of omega-3](#org0a842ca)
-    9.  [Effects of omega-3](#orga39fe0c)
-    10. [Omega 3-6 balance](#org8663a26)
-    11. [sn-2 DHA](#org3118bc1)
-    12. [Genetic need of omega-3](#org71b4469)
-    13. [How much seafood?](#org0cab385)
-    14. [Leucine](#orgae29db2)
-    15. [Teeth](#org76145d8)
-    16. [CLA](#orgfdbb1f9)
-    17. [Leaking nutrients](#org78623b9)
-    18. [Iodine](#org214d6f9)
-    19. [Soil](#org9dccef0)
-    20. [Insulin](#org5ac92b9)
-    21. [Teeth](#orgc2004c9)
-    22. [Gut bacteria](#org4668203)
-    23. [&ldquo;Cholesterol&rdquo;: VLDL, LDL, HDL, and TG](#org68a9109)
-    24. [Acid-base balance](#org1849f75)
-    25. [Pesticide](#org6108d63)
-    26. [GMO](#orge6c2abd)
-    27. [Difference between grass-fed and grain-fed](#orgeccb82a)
-    28. [Effects of ketosis](#orgd07e31d)
-    29. [Effects of fasting](#org1d93ab9)
-    30. [Methionine-glycine balance](#orgaed8fd2)
-    31. [Meat toxins](#org456921d)
-    32. [Choline](#org1b08628)
-    33. [Gelatin, glycine, GAGs](#orgd94eb62)
-6.  [Questions](#org2261e2c)
-7.  [What are we talking about in the first place?](#org7c97120)
+    2.  [Vitamin C](#org328bdbf)
+    3.  [Vitamin K2](#orgbaebba7)
+    4.  [Vitamin B12](#orge5e0120)
+    5.  [Vitamin A](#org450c7ab)
+    6.  [Creatine](#org34e1fc2)
+    7.  [Forms of omega-3](#org0a842ca)
+    8.  [Effects of omega-3](#orga39fe0c)
+    9.  [Omega 3-6 balance](#org8663a26)
+    10. [sn-2 DHA](#org3118bc1)
+    11. [Genetic need of omega-3](#org71b4469)
+    12. [How much seafood?](#org0cab385)
+    13. [Leucine](#orgae29db2)
+    14. [Teeth](#org550e558)
+    15. [CLA](#orgfdbb1f9)
+    16. [Leaking nutrients](#org78623b9)
+    17. [Iodine](#org214d6f9)
+    18. [Soil](#org9dccef0)
+    19. [Insulin](#org5ac92b9)
+    20. [Teeth](#org67e922c)
+    21. [Gut bacteria](#org4668203)
+    22. [&ldquo;Cholesterol&rdquo;: VLDL, LDL, HDL, and TG](#org68a9109)
+    23. [Acid-base balance](#org1849f75)
+    24. [Pesticides](#orgd425944)
+    25. [GMO](#orge6c2abd)
+    26. [Difference between grass-fed and grain-fed](#orgeccb82a)
+    27. [Effects of ketosis](#orgd07e31d)
+    28. [Effects of fasting](#org1d93ab9)
+    29. [Methionine-glycine balance](#orgaed8fd2)
+    30. [Meat toxins](#org456921d)
+    31. [Choline](#org1b08628)
+    32. [Gelatin, glycine, GAGs](#orgd94eb62)
+    33. [Margarine](#orgfcde29b)
+    34. [Saturated fat with carbohydrate](#orgf5626f7)
+    35. [Meta-analyses](#orgb75f382)
+    36. [Sweeteners](#org2d95287)
+6.  [How the science is currently done](#org2bd51c2)
+    1.  [Mouse chow](#org78f1357)
+    2.  [Six types of research](#org25ba6a3)
+7.  [Famous hypotheses](#org9ba8291)
+    1.  [The lipid hypothesis](#orgb87be74)
+    2.  [The diet-heart hypothesis](#org528a04b)
+    3.  [The food volume hypothesis](#orgb4ed1bd)
+8.  [Famous large studies](#orgf4f9aed)
+    1.  [Nurses&rsquo; Health Study](#org3b7c9cd)
+    2.  [China-Cornell-Oxford project (&ldquo;the China Study&rdquo;)](#org5fe569b)
+    3.  [Framingham Heart Study](#org5cc5cdd)
+    4.  [Seven Countries Study](#orgdc9515f)
+    5.  [Finnish Mental Hospital Study](#org68933c9)
+9.  [Questions](#org2261e2c)
+10. [What are we talking about in the first place?](#org7c97120)
     1.  [Questions I want answered before I make a political/ethical decision](#org8d6dd88)
-8.  [Confusing terms](#orge2d2595)
 
 
 
@@ -85,13 +98,13 @@ What prompted me to write this post was hearing someone say &ldquo;[do not prese
 
 ## Past me (2013)
 
-Many people are prone to assume that meat-eaters just can&rsquo;t bear to give up the taste.  Back in 2013 when I decided to lose weight, I liked meat but wasn&rsquo;t a fan in any particular way.  I was ready to go animal-free or even eat nothing but broccoli for a year if that&rsquo;s what it took.  So I read up on necessary nutrients, all the vitamins, minerals and their different forms, to make sure I got enough.
+I&rsquo;ve seen many people making the uncharitable presumption about meat-eaters that they just can&rsquo;t bear to give up the taste.  So let me clarify that back in 2013 when I decided to lose weight, I liked meat but wasn&rsquo;t a fan in any particular way.  I was ready to go plant-based or even eat nothing but broccoli for a year if that&rsquo;s what it took.  So I read up on necessary nutrients, all the vitamins, minerals and their different forms, to make sure I got enough.
 
 I had no bias for meat, but I was (and still am) biased in favour of bread and beer, because I like the stuff so much.  I also like many vegetarian foods.  I enjoy tofu, tempeh, seitan and legumes, and always loved salads.  I think quorn nuggets beat chicken nuggets.
 
 I read about retinoids (animal-sourced vitamin A) versus carotenoids (vegetable-sourced vitamin A).  How to find vitamin K1 and K2 in an animal-free diet.  What role omega 3 plays, how much we need, and what factors might affect how much we need.  I read about formulating an ideal nutritional supp regimen on the Longecity forum.
 
-Time and time again, I found that the nutrient under analysis can be found in some animal tissue or other, together with all the right cofactors that aid its absorption.  Often in the &ldquo;worst&rdquo; part from a cholesterol perspective, e.g. the egg yolk, the saturated animal fat, the reddest red meat.  Meat started looking like a preformulated nutritional supp from Nature.  So that&rsquo;s what I ate.  I spent much of my free time that year just geeking out about nutrition, and was at the peak of my health.  I virtually couldn&rsquo;t sunburn, I went shirtless and barefoot all the time, my immune system was king, my eyesight improved, my reflexes improved.
+Time and time again, I found that the nutrient under analysis can be found in some animal tissue or other, together with all the right cofactors that aid its absorption.  Often in the &ldquo;worst&rdquo; part from a cholesterol perspective, e.g. the egg yolk, the saturated animal fat, the reddest red meat.  Animals started looking like a preformulated nutritional supplement from Nature.  So that&rsquo;s what I ate.  I spent much of my free time that year just geeking out about nutrition, and was at the peak of my health.  I virtually couldn&rsquo;t sunburn, I went shirtless and barefoot all the time, my immune system was king, my eyesight improved, my reflexes improved.
 
 I should admit that back then I wanted to be an iconoclast, to hold the secret that society at large doesn&rsquo;t know.  Now I use the experience of &ldquo;knowing the secret of keto&rdquo; as a reference point for what it must be like to be in a cult, and it&rsquo;s useful.  I remained skeptical enough that keto birthed my interest in statistics, so I could read the papers everyone was citing and make sense of them for myself (which I still haven&rsquo;t gotten around to).
 
@@ -201,7 +214,7 @@ Beliefs orthogonal to (unaffected by) the whole hullabaloo of &ldquo;low-carb vs
 
 # Map of reductionist findings
 
-A map of specifics. Work in progress. Sorry about the mess.
+A map of specifics. Work in progress, sorry about the mess.
 
 [![img](/assets/chart-nutr.jpg)](https://meedstrom.github.io/assets/chart-nutr.jpg)
 
@@ -307,9 +320,11 @@ Here is a question of *sampling frame*&#x2026; if the frame is seven billion, an
 
 By contrast, if your (pre-chosen) sampling frame is your immediate family, and you go quiz them about something **specific** (not &ldquo;did you ever see anything unbelievable?&rdquo;, but &ldquo;did you ever see someone hit by lightning?&rdquo;), it&rsquo;s not likely you turn up any interesting results &#x2026; but if you did, that would be real information.  If your family has 4 members apart from yourself, and one has seen someone hit by lightning, that&rsquo;s 1 out of 4.  Naively then, you could guess that you have a 1/4 chance in your own lifetime to see lightning hit someone, at least with no other information to go on.  In practice, you do have more information &#x2013; you suspect people would talk about getting hit by lightning a lot more if it was that common, so you&rsquo;d downgrade that 1/4 figure to something smaller, like 1/40.
 
-But notice that the quiz did give you *some* information.  It&rsquo;s a lot more than if you just happened to hear about it on an internet forum, which is approximately no information at all, even though both sources come from one individual making one claim.  What makes the whole difference for you is the sampling frame &#x2013; how many *could* have given you the data if it happened to them &#x2013; and the fact you didn&rsquo;t directly prompt for the data, and the set of counterfactual worlds &#x2013; what *other* things all observers in your reference class could have heard instead of the lightning thing.  That is one of the core lessons of Science, that we incrementally learned through the centuries: you can make information much, much more trustworthy, just by asking for it in a principled way.  Information you merely stumble across can only generate a hypothesis, not confirm anything, and least of all generate *and* confirm in one go.  Most hypotheses will turn out to be a wild goose chase, because that&rsquo;s the nature of reality:  an ocean of wrong ideas and a handful of less wrong ideas that are useful (and one forever unknowable full truth).
+But notice that the quiz did give you *some* information.  It&rsquo;s a lot more than if you just happened to hear about it on an internet forum, which is approximately no information at all, even though both sources come from one individual making one claim.  What makes the whole difference for you is the sampling frame &#x2013; how many *could* have given you the data if it happened to them &#x2013; and the fact you didn&rsquo;t directly prompt for the data.
 
-If you had asked about anyuthing amazing happen, you&rsquo;d get 1/4 chance of seeing something amazing happen, but you couldn&rsquo;t conclude 1/4 chance of seeing lightning happen, because the question that prompted this data was not about lightning: that&rsquo;s a specific that you received unasked-for.  And you couldn&rsquo;t afterwards, knowing that they&rsquo;ve seen lightning, ask them specifically about lightning: that&rsquo;s HARK and why you need new data to confirm a pattern (asking for it) seen in an exploratory study (which gave you the pattern unasked-for).  You could extend your sampling frame to &ldquo;everyone inside this apartment building minus my family (because of HARK: start clean)&rdquo; and go to your neighbours and ask them about lightning; you&rsquo;d soon find that the rate isn&rsquo;t anywhere near 1/4.
+That is one of the core lessons of Science, that we incrementally learned through the centuries: you can make information much, much more trustworthy, just by asking for it in a principled way.  Information you merely stumble across can only generate a hypothesis, not confirm anything, and least of all generate *and* confirm in one go.  Most hypotheses will turn out to be a wild goose chase, because that&rsquo;s the nature of reality:  an ocean of wrong ideas and a handful of less wrong ideas that are useful (and one forever unknowable full truth).
+
+If you had asked about anything amazing happen, you&rsquo;d get 1/4 chance of seeing something amazing happen, but you couldn&rsquo;t conclude 1/4 chance of seeing lightning happen, because the question that prompted this data was not about lightning: that&rsquo;s a specific that you received unasked-for.  And you couldn&rsquo;t afterwards, knowing that they&rsquo;ve seen lightning, ask them specifically about lightning: that&rsquo;s HARK and why you need new data to confirm a pattern (asking for it) seen in an exploratory study (which gave you the pattern unasked-for).  You could extend your sampling frame to &ldquo;everyone inside this apartment building minus my family (because of HARK: start clean)&rdquo; and go to your neighbours and ask them about lightning; you&rsquo;d soon find that the rate isn&rsquo;t anywhere near 1/4.
 
 Key concepts: Non-representative sample of typical cases, cherry picking, &#x2026;
 <https://en.wikipedia.org/wiki/Anecdotal_evidence>
@@ -319,34 +334,30 @@ But suppose you use someone else&rsquo;s exploratory study as your confirmatory 
 This is basically how a meta-analysis or systematic review works. Though they don&rsquo;t use a simplistic cutoff like &ldquo;50 studies&rdquo;, but a cutoff like &ldquo;all studies above a certain quality&rdquo;.  There will not be that many high-quality studies with directly comparable data suitable for answering a research question, which makes it easier.
 
 
-<a id="org932cfb7"></a>
-
-### florp
-
-You cannot use others&rsquo; erroneous reasoning as evidence that you are right.  Negated stupidity is not intelligence.  If there are a thousand possible answers and you disprove one, it does not mean that your favored answer is correct!  There are 998 other answers.
-
-You don&rsquo;t need to dismantle others&rsquo; others reasoning when you are excellent at dismantling your own.  Say you accept someone else&rsquo;s reasoning and integrate it into your belief system.  Since it is now your own, you&rsquo;ll go ahead and look for flaws, and if necessary dismantle it just the same as with other false beliefs of yours.  Being able to dismantle your own reasoning *is* being able to dismantle those of others.  It comes with the territory, and you want to be able to criticize yourself precisely as well as you can criticize others &#x2013; a one-to-one ratio &#x2013; and so learning to battle others for the sake of it will only tip the scales against yourself finding truth.  *First learn to battle yourself*.
-
-Modern rationality is taking on a responsibility to yourself.  Taking seriously the fact that you can mislead yourself.  If you *actually* want to win, and aren&rsquo;t merely out to *feel* like you&rsquo;re winning (I bet nine out of ten you fall into the latter category right now, especially if you vehemently claim you do not), you cannot be in it for the good feels.  You have a job to do &#x2013; perhaps you want to help the world, or cure a friend of disease that stumps doctors &#x2013; and your own comfortable feeling of having already found The Truth is an irrelevant casualty on the way to finishing the job.
-
-
 <a id="org33e8bbb"></a>
 
 ## Bariatric calvinism
 
--   [Bariatric Calvinism and the Threat of Ketogenic Diets](https://old.reddit.com/r/keto/comments/23bdy9)
+A bias that can subtly influence our theories, maybe even bleed into research design and interpretation, so it&rsquo;s useful to put a word-handle on it:  [Bariatric Calvinism and the Threat of Ketogenic Diets](https://old.reddit.com/r/keto/comments/23bdy9)
+
+
+<a id="org976fe27"></a>
+
+## Nutritionism
+
+<https://en.wikipedia.org/wiki/Nutritionism>
 
 
 <a id="org6a2fb92"></a>
 
 ## Empty calories
 
-The term &ldquo;empty calories&rdquo; is Coca-Cola Company newspeak for whitewashing sugar: the implication is you&rsquo;ll be fine eating sugar (&ldquo;it&rsquo;s just empty calories&rdquo;) so long as you also get other nutrients, and distracts from the fact that sugar metabolism itself causes damage which there is no canceling out.  No such thing as empty calories; it&rsquo;s bad calories.
+The term &ldquo;empty calories&rdquo; is what George Orwell would recognize as **newspeak**, invented by the Coca Cola Company I believe, for whitewashing sugar.  The implication is you&rsquo;ll be fine eating sugar (&ldquo;it&rsquo;s just empty calories&rdquo;) so long as you also get other nutrients, and distracts from the fact that sugar metabolism itself causes damage which there is no canceling out.  Avoid this term because there is no such thing as empty calories, only good calories and bad calories.
 
 
 <a id="org46aa777"></a>
 
-## Doctor education
+## TODO Doctor education
 
 The curriculum for a medical doctor involves almost no nutrition schooling.  Harvard doctors get 2 hours of *total* of nutrition education.   (source?)  This means that like for the rest of us, much of what they know indirectly comes from news headlines.  When a doctor says &ldquo;mmhmm this looks bad, you need to eat less fat&rdquo; they are drawing on the same knowledge as your aunt or your brother-in-law.
 
@@ -357,25 +368,12 @@ I don&rsquo;t mean to be skeptical of experts.  It&rsquo;s just the reality that
 
 <a id="orgefe3f0e"></a>
 
-## Nutritionist and dietician educations
+## TODO Nutritionist and dietician educations
 
 -   Q: What&rsquo;s the difference between a nutritionist and a dietician?
+    -   A: In the US and UK at least, dietician is a protected title, whereas anyone can claim to be a nutritionist.  However, it&rsquo;s much the same as Ph.D and MD being protected titles.  I think once you can follow someone&rsquo;s reasoning, their title shouldn&rsquo;t matter much to you.
 -   Q: How much biochemistry is in the curriculum?  Because a mechanistic understanding of nutrition seems to me primarily a matter of biochemistry, with epidemiology used only to guide hypothesis generation.
 -   Q: I&rsquo;ve heard that their textbooks and curricula are heavily influenced by the Coca Cola Company, Monsanto, and other facets of big agra. Is this true?
-
-
-<a id="orgeb8810f"></a>
-
-## Pre-science
-
-Maybe I jump the gun, but at this time the field of nutrition science looks to me like what Thomas Kuhn describes as a *pre-science*.  The field is still in the crib, and lots of academics were quick to stake their reputation on early hypotheses and now risk their careers if they admit they&rsquo;re wrong.  That&rsquo;s how nowadays we get quite interesting reductionist findings and people reminding us of case studies left unexplained, but what the high-prestige names tend to tell us to do sound like they haven&rsquo;t integrated all the evidence, and we have to wait for them to die off before the evidence comes to use.
-
-It&rsquo;s not science when academics go around looking for more reasons they&rsquo;re right rather than reasons they&rsquo;re wrong.  They&rsquo;re pretending to be scientists.  In mature fields like physics or math, researchers spend every day looking for reasons their theory is wrong, because they know that&rsquo;s the only way to learn anything that has a chance of being true.  It&rsquo;s like the saying that &ldquo;a good mathematician is wrong twenty times a day, so you must either be a masochist or a bad mathematician&rdquo;.  Scientists enjoy being wrong, and nutrition authorities&#x2026; don&rsquo;t seem to.  On that basis, we can expect to find very little truth in the current nutrition theories.
-
-
-<a id="org497587e"></a>
-
-## TODO Rat chow
 
 
 <a id="orgf144a99"></a>
@@ -602,17 +600,6 @@ What foods they all allow:
 -   Tubers / root vegetables
 
 
-<a id="orgf5626f7"></a>
-
-## Saturated fat with carbohydrate
-
-A 2011 meta-analysis by a Netherlands journal concluded that saturated fat wasn&rsquo;t anything to worry about except maybe when combining them with a lot of carbohydrate.
-
-;; BUG: iscroll-previous-line causes spurious &ldquo;Beginning of buffer&rdquo; messages
-(setq debug-on-message &ldquo;Beginning of buffer&rdquo;)
-(setq debug-on-message nil)
-
-
 <a id="org328bdbf"></a>
 
 ## Vitamin C
@@ -759,7 +746,7 @@ HOW MUCH LEUCINE IS IN 100g OF FOOD? From nutritiondata.self.com:
 So 1.2 to 1.7 grams of leucine in 100 g of meat. So 250 g of meat is minimum at one meal, 300 g a better minimum to be on the safe side.
 
 
-<a id="org76145d8"></a>
+<a id="org550e558"></a>
 
 ## Teeth
 
@@ -819,7 +806,7 @@ The soil is where many nutrients come from &#x2013; plants grow in it, cattle ea
 ## Insulin
 
 
-<a id="orgc2004c9"></a>
+<a id="org67e922c"></a>
 
 ## Teeth
 
@@ -859,13 +846,15 @@ But is diversity important?  Poor gut biodiversity, such as after a round of ant
 [Acid-Base: Does Dietary Acid/Base Balance Matter?](http://www.marksdailyapple.com/does-dietary-acidbase-balance-matter/)
 
 
-<a id="org6108d63"></a>
+<a id="orgd425944"></a>
 
-## Pesticide
+## Pesticides
 
 [Pesticides](http://www.marksdailyapple.com/why-i-dont-trust-the-acceptable-daily-intake-levels-for-pesticides/)
 
-See the Roundup pesticide, still in use today
+See the Roundup pesticide, still in use today.  I&rsquo;m told that when they tested whether it&rsquo;s safe for humans, they tested only the primary chemical and set safe limits based on that, but the final product (what&rsquo;s actually sprayed) contains and other chemicals that boost the primary chemical&rsquo;s effect something like a hundredfold.  If true, this concerns me greatly, since then the residue on our plants likely far exceed the safe limits.
+
+---
 
 When they test whether a pesticide is harmful, they test it on human cells (called *in vitro* testing) &#x2013; they neglect to test the *other* part of the human animal: the bacteria in your gut, which are required for health, many species of which demonstrate severe weakness to pesticides &#x2013; after all, they&rsquo;re roughly what pesticides are designed to kill.
 
@@ -880,7 +869,9 @@ There is one way to avoid pesticides &#x2013; and that is to grow food that does
 
 ## GMO
 
-The majority (70%+) of genetically modified organisms are modified with pesticide components.  No way to wash off those residues &#x2013; they&rsquo;re in the food.  Concerns that apply to pesticides therefore apply to GMO as well.  Other strategies involve making the food *resistant* to a pesticide, so that it will not be harmed, and the farmers then spray massive amounts (since the food survives).  It may be very important for us to wash that food with soap, or just peel and toss its outermost layers.
+The majority (70%+) of genetically modified organisms are modified with pesticide components.  No way to wash off those residues &#x2013; they&rsquo;re in the food.  Concerns that apply to pesticides therefore apply to GMO as well.
+
+Other GMO strategies involve making the food *resistant* to a pesticide, so that it will not be harmed, and the farmers then spray massive amounts (since the food survives).  It may be very important for us to wash that food with soap, or peel and toss its outermost layers entirely.
 
 
 <a id="orgeccb82a"></a>
@@ -986,6 +977,147 @@ Apparently it&rsquo;s known that glycine, proline and GAGs are building blocks f
 The body can produce some amounts of glycine of its own, expending folate to do so, so vegans would be wise to eat a lot of beans for the folate.
 
 
+<a id="orgfcde29b"></a>
+
+## Margarine
+
+
+<a id="orgf5626f7"></a>
+
+## Saturated fat with carbohydrate
+
+A 2011 meta-analysis by a Netherlands journal concluded that saturated fat wasn&rsquo;t anything to worry about except maybe when combining them with a lot of carbohydrate.
+
+
+<a id="orgb75f382"></a>
+
+## Meta-analyses
+
+
+<a id="org2d95287"></a>
+
+## Sweeteners
+
+
+<a id="org2bd51c2"></a>
+
+# How the science is currently done
+
+
+<a id="org78f1357"></a>
+
+## Mouse chow
+
+Here are the ingredients of a Purina Test Diet, frequently used as the &ldquo;high-fat diet&rdquo; in mouse studies:
+
+-   cornstarch
+-   casein
+-   maltodextrin
+-   sucrose
+-   vegetable shortening
+-   milk fat
+-   lard
+-   AIN93G Mineral Mix/Fiber
+-   powdered cellulose
+-   inulin
+-   soybean oil
+-   AIN93 Vitamin Mix/Fiber
+-   corn oil
+-   L-cystine
+-   choline bitartrate
+-   cholesterol
+-   FD&C Red 40 Lake
+
+By contrast, the regular chow will contain actual foods you might find in a human diet: wheat, oats, corn, fish &c.
+
+In 2008, two researchers from UC Davis conducted a literature review of studies containing the keywords &ldquo;mouse high fat&rdquo; published in high-impact journals during the year before.  Of the thirty-five papers surveyed, only five compared diets where the nutrition was identical but for the fat and carbohydrate content.  The rest inappropriately compared a &rsquo;purified&rsquo; chow such as this, to the regular, more whole-foods chow.
+
+You&rsquo;d think researchers would know better, but no.  Always check the details.
+
+Source: *Death by Food Pyramid*
+
+
+<a id="org25ba6a3"></a>
+
+## Six types of research
+
+1.  In vitro research
+2.  Animal studies
+3.  Case studies
+4.  Observational study
+5.  Controlled trial
+6.  Meta-analyses
+
+
+<a id="org9ba8291"></a>
+
+# Famous hypotheses
+
+
+<a id="orgb87be74"></a>
+
+## The lipid hypothesis
+
+The hypothesis that cholesterol in the blood leads to heart disease.
+
+Started by Nikolai Anichkov in 1913 when he found that feeding rabbits large amounts of cholesterol (equivalent to a hundred eggs a day for a human) causes plaque buildup in their arteries, organs, behind the eyelids and other places, with outcomes such as heart disease.  However, Anichkov also had this to say.
+
+> &#x2026; we conclude that the harmful effect of cholesterin-rich nourishment is not expressed equally in all types of animals&#x2026;. The fact that cholesterin has different effects on different animals, even closely related ones, raises the question as to what degree the results described above are valid for human pathology.
+
+
+<a id="org528a04b"></a>
+
+## The diet-heart hypothesis
+
+
+<a id="orgb4ed1bd"></a>
+
+## The food volume hypothesis
+
+
+<a id="orgf4f9aed"></a>
+
+# Famous large studies
+
+
+<a id="org3b7c9cd"></a>
+
+## Nurses&rsquo; Health Study
+
+Something about the HPV vaccine.
+
+
+<a id="org5fe569b"></a>
+
+## China-Cornell-Oxford project (&ldquo;the China Study&rdquo;)
+
+[The China Study: Fact or Fallacy?](https://deniseminger.com/2010/07/07/the-china-study-fact-or-fallac/) (links to response by Campbell too)
+
+
+<a id="org5cc5cdd"></a>
+
+## Framingham Heart Study
+
+A prospective cohort started in 1948, currently on its third generation.
+
+It&rsquo;s our first source of discoveries such as
+
+-   that smoking is harmful
+-   &#x2026; (long list of health discoveries)
+
+Sometimes, people cite the FHS to support a connection between cholesterol-rich diets and heart disease.  In fact, neither this study nor its descendants showed any such connection!
+
+
+<a id="orgdc9515f"></a>
+
+## Seven Countries Study
+
+
+<a id="org68933c9"></a>
+
+## Finnish Mental Hospital Study
+
+
 <a id="org2261e2c"></a>
 
 # Questions
@@ -1048,15 +1180,4 @@ Of course \\#3 can be analyzed forever, but we can stop analyzing at a prespecif
     -   How is this picture affected by the choice of animal (cow, goat, chicken&#x2026;)?
     -   Crazy thought experiment: following the idea of killing the smallest count of animals for the biggest loads of meat, suppose we only get our meat from blue whales?
 -   Is rewilding good from an animal-suffering perspective?  If not, what are our options for minimzing total animal suffering?
-
-
-<a id="orge2d2595"></a>
-
-# Confusing terms
-
--   fat (noun: lipid molecules or adipose tissue) and fat (adjective: the property of an individual carrying a too high body fat percentage).
--   &ldquo;nutritional value&rdquo; &#x2013; may be referring to caloric value (energy), or to essential nutrients (protein, micronutrients)
--   pastured
--   &ldquo;vegetable oil&rdquo; &#x2013; there&rsquo;s no such thing as a vegetable oil, it&rsquo;s American marketing.
-    -   Many Paleo-aligned thinkers think there&rsquo;s a huge difference between different plant-based oils, and if they&rsquo;re right, then when you design a study with the presupposition in mind that all plant-based oils are roughly equal, you end up overgeneralizing.  If you must classify, clarify whether you&rsquo;re talking about seed oil (rapeseed, sunflower, safflower, linseed, &#x2026;), nut oil (macadamia), or fruit oil (olive, avocado).  In the case of &ldquo;palm oil&rdquo;, differentiate between palm fruit oil (obviously a fruit oil) and palm kernel oil (a seed oil).
 
