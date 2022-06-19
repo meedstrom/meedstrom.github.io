@@ -7,14 +7,14 @@
 2.  [Beliefs](#org31fbebe)
     1.  [Cruxes for low-carb](#org5ae0c57)
     2.  [Other cruxes](#orgeb991b0)
-3.  [Questions](#org2261e2c)
-4.  [Map of reductionist findings](#org3f4377c)
-5.  [Perspectives and thought experiments](#org88eae66)
+3.  [Map of reductionist findings](#org3f4377c)
+4.  [Perspectives and thought experiments](#org88eae66)
     1.  [Via negativa](#orgb9090e8)
     2.  [&ldquo;Fat&rdquo; means either lipids or excess weight, not both](#org83c6aff)
     3.  [20 calories a day](#org7068f77)
     4.  [Reductionism and holism](#orgcb0b196)
     5.  [The power of anecdata](#orgcaf3e02)
+        1.  [florp](#org932cfb7)
     6.  [Bariatric calvinism](#org33e8bbb)
     7.  [Empty calories](#org6a2fb92)
     8.  [Doctor education](#org46aa777)
@@ -31,31 +31,44 @@
     16. [Components of hunger: Satiety and satiation](#org2f7f390)
     17. [What if the food volume hypothesis is wrong?](#orga647188)
     18. [History of the mainstream memes](#orgeb54876)
-6.  [Findings & interpretations](#org5769f49)
+5.  [Findings & interpretations](#org5769f49)
     1.  [Clinically successful diets](#org72ad6bf)
     2.  [Saturated fat with carbohydrate](#orgf5626f7)
     3.  [Vitamin C](#org328bdbf)
-    4.  [Creatine](#org34e1fc2)
-    5.  [Forms of omega-3](#org0a842ca)
-    6.  [Effects of omega-3](#orga39fe0c)
-    7.  [Omega 3-6 balance](#org8663a26)
-    8.  [sn-2 DHA](#org3118bc1)
-    9.  [Genetic need of omega-3](#org71b4469)
-    10. [How much seafood?](#org0cab385)
-    11. [Leucine](#orgae29db2)
-    12. [Teeth](#org76145d8)
-    13. [CLA](#orgfdbb1f9)
-    14. [Vitamin K2](#orgbaebba7)
-    15. [Insulin](#org5ac92b9)
-    16. [&ldquo;Cholesterol&rdquo;: VLDL, LDL, HDL, and TG](#org68a9109)
-    17. [Acid-base balance](#org1849f75)
-    18. [Pesticide](#org6108d63)
-    19. [Effects of ketosis](#orgd07e31d)
-    20. [Effects of fasting](#org1d93ab9)
-7.  [Appendix: Interesting articles](#org5ebc544)
-8.  [What are we talking about in the first place?](#org7c97120)
+    4.  [Vitamin K2](#orgbaebba7)
+    5.  [Vitamin B12](#orge5e0120)
+    6.  [Vitamin A](#org450c7ab)
+    7.  [Creatine](#org34e1fc2)
+    8.  [Forms of omega-3](#org0a842ca)
+    9.  [Effects of omega-3](#orga39fe0c)
+    10. [Omega 3-6 balance](#org8663a26)
+    11. [sn-2 DHA](#org3118bc1)
+    12. [Genetic need of omega-3](#org71b4469)
+    13. [How much seafood?](#org0cab385)
+    14. [Leucine](#orgae29db2)
+    15. [Teeth](#org76145d8)
+    16. [CLA](#orgfdbb1f9)
+    17. [Leaking nutrients](#org78623b9)
+    18. [Iodine](#org214d6f9)
+    19. [Soil](#org9dccef0)
+    20. [Insulin](#org5ac92b9)
+    21. [Teeth](#orgc2004c9)
+    22. [Gut bacteria](#org4668203)
+    23. [&ldquo;Cholesterol&rdquo;: VLDL, LDL, HDL, and TG](#org68a9109)
+    24. [Acid-base balance](#org1849f75)
+    25. [Pesticide](#org6108d63)
+    26. [GMO](#orge6c2abd)
+    27. [Difference between grass-fed and grain-fed](#orgeccb82a)
+    28. [Effects of ketosis](#orgd07e31d)
+    29. [Effects of fasting](#org1d93ab9)
+    30. [Methionine-glycine balance](#orgaed8fd2)
+    31. [Meat toxins](#org456921d)
+    32. [Choline](#org1b08628)
+    33. [Gelatin, glycine, GAGs](#orgd94eb62)
+6.  [Questions](#org2261e2c)
+7.  [What are we talking about in the first place?](#org7c97120)
     1.  [Questions I want answered before I make a political/ethical decision](#org8d6dd88)
-9.  [Confusing terms](#orge2d2595)
+8.  [Confusing terms](#orge2d2595)
 
 
 
@@ -72,7 +85,7 @@ What prompted me to write this post was hearing someone say &ldquo;[do not prese
 
 ## Past me (2013)
 
-It&rsquo;s not that I couldn&rsquo;t bear to let go of the taste of meat, something many people are too prone to assume about meat-eaters.  Back in 2013 when I decided to lose weight, I liked meat but wasn&rsquo;t a fan in any particular way.  I was ready to go animal-free or even eat nothing but broccoli for a year if that&rsquo;s what it took.  So I read up on necessary nutrients, all the vitamins, minerals and their different forms, to make sure I got enough.
+Many people are prone to assume that meat-eaters just can&rsquo;t bear to give up the taste.  Back in 2013 when I decided to lose weight, I liked meat but wasn&rsquo;t a fan in any particular way.  I was ready to go animal-free or even eat nothing but broccoli for a year if that&rsquo;s what it took.  So I read up on necessary nutrients, all the vitamins, minerals and their different forms, to make sure I got enough.
 
 I had no bias for meat, but I was (and still am) biased in favour of bread and beer, because I like the stuff so much.  I also like many vegetarian foods.  I enjoy tofu, tempeh, seitan and legumes, and always loved salads.  I think quorn nuggets beat chicken nuggets.
 
@@ -182,41 +195,6 @@ Beliefs orthogonal to (unaffected by) the whole hullabaloo of &ldquo;low-carb vs
     -   [End the Fiber Fantasy](https://old.reddit.com/r/keto/comments/1lolqu/end_the_fiber_fantasy_everything_you_dont_want_to/), comments also enlightening
 6.  Seafood is important for lifespan and healthspan
 7.  In the long term, sweeteners act approximately as fattening as sugar
-
-
-<a id="org2261e2c"></a>
-
-# Questions
-
--   Where do the data come from for Nutrition Facts labels?  How many original databases are there (USDA, &#x2026;?) and how is the testing done?  The way carbs are calculated by subtraction rather than tested directly, is prone to error, but I forgot the specifics.  It can lead to leaving out carbs in meat, for one thing.
--   Which vitamins and minerals can be safely &ldquo;spammed&rdquo;?
-    -   like C, B12, &#x2026; that seem to have no practical upper limit
-    -   also check if consuming large quantities of these has effects on other vitamin needs
--   How well-connected is fasting to the immune system, disease recovery and disease prevention?
--   What evidence supports the GKI<1 (Glucose-ketone index of less than 1) strategy?
--   What is knowable about fasting?
-    -   <https://www.forbes.com/sites/stevensalzberg/2014/12/30/can-a-3-day-fast-reset-your-immune-system/>
-    -   see studies cited by jason fung
-        -   try to counter selection bias by also looking for a prominent anti-fasting guru and check their studies
-        -   check their scores on <https://scite.ai>
--   Conversion % of ALA to EPA/DHA
--   Conversion % of carotenoids to retinoids
--   Ideal omega 3:6 ratio
--   Quantity of omega 3 needed
--   Effects of wheat & other grains
--   Effects of alcohol
--   Effects of coffee (not to be confused with caffeine)
--   Indicators for lifespan
--   How much various cooking methods destroy important nutrients
--   If vegetables improve health not due to vitamins, minerals, or fiber, what are the mechanisms?
-    -   Phytochemicals that work as hormetic stressors on mitochondria and
-        stuff
-    -   Possibly due to supplying sulfur
-    -   Possibly due to supplying some trace minerals
-
--   Terry Wahls has hypotheses for how to support mitochondria, as does
-    Todd Becker, these are fundamentally different, but both arrive at
-    vegetables as a good idea.
 
 
 <a id="org3f4377c"></a>
@@ -338,7 +316,18 @@ Key concepts: Non-representative sample of typical cases, cherry picking, &#x202
 
 But suppose you use someone else&rsquo;s exploratory study as your confirmatory study? Since you didn&rsquo;t know the results beforehand, and approach someone else&rsquo;s dataset with your own hypothesis, like &ldquo;red meat leads to cancer&rdquo;, could you confirm it? The answer is yes, conditional on your process of how you chose which study to look at.  You can only regard it as confirmation if the process didn&rsquo;t introduce bias.  If you were to just riffle through lots of studies until you find one that confirms your theory, this is just the same as cherry-picking data on another level: cherry-picking studies.  Sure, the subjects in study number 34 showed the pattern, but what about all the people in studies number 1 through 33?  What&rsquo;s more rational is to take into account *all* studies from 1 through 34 and see if the pattern still holds.  Even that is problematic since you stopped *right* when you found a study with the pattern &#x2013; what&rsquo;s even better is to have chosen ahead of time &ldquo;I&rsquo;ll look at 50 studies&rdquo;, the exact number isn&rsquo;t important so long as you stick to it no matter whether you find a pattern or not.  Only by that ritual will your findings become real information to you.  You must be willing to accept that you were wrong.  Science doesn&rsquo;t work without that willingness; one who lacks it is not doing science, even though they may be reading papers and doing all the externally visible parts of what looks like science.  For a process to become scientific, it requires a pledge inside the researcher&rsquo;s mind, to tie herself to the mast of accepting whatever the data may say.
 
-This is basically how a meta-analysis or systematic review works. Though they don&rsquo;t use a simplistic cutoff like &ldquo;50 studies&rdquo;, but a cutoff like &ldquo;all studies above a certain quality&rdquo;.  There will not be that many high-quality studies with directly comparable data suitable for answering a research question.
+This is basically how a meta-analysis or systematic review works. Though they don&rsquo;t use a simplistic cutoff like &ldquo;50 studies&rdquo;, but a cutoff like &ldquo;all studies above a certain quality&rdquo;.  There will not be that many high-quality studies with directly comparable data suitable for answering a research question, which makes it easier.
+
+
+<a id="org932cfb7"></a>
+
+### florp
+
+You cannot use others&rsquo; erroneous reasoning as evidence that you are right.  Negated stupidity is not intelligence.  If there are a thousand possible answers and you disprove one, it does not mean that your favored answer is correct!  There are 998 other answers.
+
+You don&rsquo;t need to dismantle others&rsquo; others reasoning when you are excellent at dismantling your own.  Say you accept someone else&rsquo;s reasoning and integrate it into your belief system.  Since it is now your own, you&rsquo;ll go ahead and look for flaws, and if necessary dismantle it just the same as with other false beliefs of yours.  Being able to dismantle your own reasoning *is* being able to dismantle those of others.  It comes with the territory, and you want to be able to criticize yourself precisely as well as you can criticize others &#x2013; a one-to-one ratio &#x2013; and so learning to battle others for the sake of it will only tip the scales against yourself finding truth.  *First learn to battle yourself*.
+
+Modern rationality is taking on a responsibility to yourself.  Taking seriously the fact that you can mislead yourself.  If you *actually* want to win, and aren&rsquo;t merely out to *feel* like you&rsquo;re winning (I bet nine out of ten you fall into the latter category right now, especially if you vehemently claim you do not), you cannot be in it for the good feels.  You have a job to do &#x2013; perhaps you want to help the world, or cure a friend of disease that stumps doctors &#x2013; and your own comfortable feeling of having already found The Truth is an irrelevant casualty on the way to finishing the job.
 
 
 <a id="org33e8bbb"></a>
@@ -500,6 +489,8 @@ When RDAs were born in 1941(?), the intent was to reduce malnutrition symptoms a
 
 Also it&rsquo;s interesting&#x2026; some of it&rsquo;s based on animal studies where the goal is finding out *what makes the animal grow fastest* &#x2013; if I remember, the RDA for the amino acid methionine is based on this.
 
+I feel someone should figure out a way to approach the issue of partial deficiency.  It&rsquo;s not detected, but still causes disease.  Much like an ache can be caused by problems with fascia far from the site of pain &#x2013; as fascial slings go around the body, wrapping it like a package &#x2013; a partial deficiency of some nutrient can cause hard-to-diagnose problems because nutrients are always interacting with each other and we only know the telltale signs of an absolute deficiency.
+
 
 <a id="org2e84835"></a>
 
@@ -585,14 +576,14 @@ Timeline
 
 # Findings & interpretations
 
-These sections are full of claims and numbers that I don&rsquo;t remember where I read, so it&rsquo;s quite open to be updated.  When I update these, I&rsquo;ll see if my [beliefs](#org31fbebe) need updating.
+These sections contain claims and numbers that I don&rsquo;t remember where I read, so it&rsquo;s quite open to be updated.  When I update these, I&rsquo;ll see if my [beliefs](#org31fbebe) need updating.
 
 
 <a id="org72ad6bf"></a>
 
 ## Clinically successful diets
 
-Three radically different diets that have shown good clinical results on humans:
+Three radically different diets that have shown good results on humans in clinical practice:
 
 -   Whole-foods plant-based diet, as described by Ornish, Esselstyn etc.
 -   Paleo diet
@@ -644,6 +635,29 @@ If the reasoning is valid, then it appears we can conclude that dietary vitamin 
 Another conclusion is that vitamin C may not be an essential nutrient, but what&rsquo;s called *conditionally essential* &#x2013; i.e. it depends on what else you eat &#x2013; and only mistaken for essential because of the universality of grain in the Western diet.
 
 
+<a id="orgbaebba7"></a>
+
+## Vitamin K2
+
+A rare vitamin, found mainly in **fat** from grass-fed or wild animals, or aged cheese.  Not to be confused with Vitamin K1 which can be found in dark green vegetables (like spinach) among other things.
+
+
+<a id="orge5e0120"></a>
+
+## Vitamin B12
+
+About 40% of people have low-normal &ldquo;serum B12&rdquo; (vitamin B12 in the blood).  Understand that serum B12 is one of the last markers to fall out of normal range, so if it is beginning to drop from normal, you&rsquo;re almost definitely deficient.
+
+This vitamin is a common supplement for vegans because it is *only* found in animals, though there is some in tempeh.
+
+Interesting because you can even observe many omnivores being deficient, giving us a guideline to how much meat is enough.
+
+
+<a id="org450c7ab"></a>
+
+## Vitamin A
+
+
 <a id="org34e1fc2"></a>
 
 ## Creatine
@@ -663,11 +677,9 @@ A point on safety.  There are various forms of creatine, and the form called **c
 
 ## Forms of omega-3
 
-There are different forms of omega-3.  The plant-based version is Alpha-Linolenic Acid (ALA), which you can find in e.g. rapeseed oil and linseed oil.  It&rsquo;s nearly worthless because less than 1% is converted inside the body to the forms it uses: docosahexaenoic acid (DHA) and eicosapentaenoic acid (EPA).
+There are different forms of omega-3.  The plant-based version is Alpha-Linolenic Acid (ALA), which you can find in e.g. rapeseed oil and linseed oil.  Less than 1% of it (depends on genes?) is converted inside the body to the forms it uses: docosahexaenoic acid (DHA) and eicosapentaenoic acid (EPA).
 
-Omega-3 in the EPA/DHA form is mainly found in seafood, such as oily fish.  To a small extent it is also found in fat from grass-fed animals.
-
-A vegetable source for EPA/DHA is seaweed (how much?).
+Omega-3 in the true EPA/DHA form is mainly found in seafood, such as oily fish, and in brains (our brain is 15% DHA by weight, and brain health is intimately linked to DHA intake).  To a small extent it is also found in fat from grass-fed animals, oysters, and some seaweeds.
 
 
 <a id="orga39fe0c"></a>
@@ -756,15 +768,83 @@ So 1.2 to 1.7 grams of leucine in 100 g of meat. So 250 g of meat is minimum at 
 
 ## CLA
 
+Conjugated Linoleic Acid (CLA) is a fat found mainly in grass-fed ruminant fat, and to a small extent in champignons (button mushrooms).
 
-<a id="orgbaebba7"></a>
+Interesting because it&rsquo;s an example of a natural trans fat, as opposed to an artificial trans fat.  It&rsquo;s great for health, but I forgot why.
 
-## Vitamin K2
+
+<a id="org78623b9"></a>
+
+## Leaking nutrients
+
+All B vitamins are water-soluble, not fat-soluble.  Personal supposition: they could leak out of food when cooked.  So we could expect things like ham or dried food to have much less B vitamins.  I have no idea if this is true.
+
+If true, electrolytes (natrium, kalium, magnesium, iodine) could also leak out on the same principle.
+
+I wager that fat-soluble vitamins (A, D, E, K) also leak out, when fat leaks out.  When frying fish, scoop up that valuable fish oil.   (And protect them from oxidation by having saturated fats in the pan, along with antioxidants such as rosemary.)
+
+
+<a id="org214d6f9"></a>
+
+## Iodine
+
+Iodine comes from the sea, and may be in [coastal soil](http://www.wheatbellyblog.com/2012/07/an-iodine-primer/), and thereby animals and plants living on coasts.  It&rsquo;s not unusual for animals living far inland to run into iodine deficiency.  Among humans today it is the most common preventable cause of intellectual disability, and though much of the world now uses iodized table salt we are running on a bare minimum of iodine intake, a dangerous line to balance on.
+
+Iodine is found in seafood and seaweeds.  Kelp is a cost-effective food, with astronomical amounts of iodine &#x2013; 1 ml of granulated kelp will give you more iodine than most people get in a day.  You can add it to your salt shaker for convenience.  Unfortunately, it may have [high amounts of bromide](https://iodinehealth.wordpress.com/iodine-types/) which cancels out the iodine.  More research needed.
+
+There are several reasons we deplete the iodine in our bodies &#x2013; chiefly, other halogens, see the bromide in pesticides, baked goods, soft drinks and vegetable oils, the fluoride and chlorine in municipal water, etc.  You need a lot of iodine to reverse the problem.
+
+Table salts tend to have iodine added.  However, there are multiple naturally-occurring forms of iodine, and at least two necessary forms (iodide and elemental iodine), and table salt only has one, and it evaporates within three weeks of opening the box.  The amount of iodine you&rsquo;ll ever get from table salt also is low.
+
+If you want to maximize the iodine from table salt, buy new packages often, preferably resealable.  If you live alone, buy small packages.  That said, you&rsquo;re still only getting iodide, not elemental iodine.
+
+Other than kelp and table salt, sources of iodine are: plants grown on **iodine-rich soil**, animals grown on aforementioned plants (should be in the blood like other electrolytes, but it&rsquo;s also been known to be in dairy and eggs; how much is collected in the meat, fat, bones or organs, I don&rsquo;t know), seaweeds, fish, shellfish.
+
+Due to the potential difficulty or cost in making sure your diet has enough iodine, it may be smart to start taking a supplement for the time being.
+
+On a very-low carbohydrate diet, some voice concerns about reduced thyroid function &#x2013; but it appears this can be remedied by elevating iodine intake, something you should be doing anyway, instead of elevating carbohydrate intake.  To recap: with less carbs, adding iodine becomes even more important.
+
+One problem with iodine is that a sudden change in intake can have negative effects &#x2013; you should build up your intake gradually.  Perhaps the level of iodine in the soil where our ancestors lived determined the level in the animals and plants we ate, and thereby the level in our bodies.  Since soil would also have determined the level of magnesium and many other substances inside us, it is interesting to ask from which soil we should get food.
+
+
+<a id="org9dccef0"></a>
+
+## Soil
+
+The soil is where many nutrients come from &#x2013; plants grow in it, cattle eats those plants, and you eat those cattle.  It is known that the soil has a large effect on the nutritional value of a plant.  Things to test in the soil at your local farm include iodine, magnesium, radioactive isotopes, and heavy metals.  As a rule, if that plot of land has been overfarmed or heavily farmed in the past, it is going to be &ldquo;drained&rdquo; of nutrients.  Prefer land that has been sustainably farmed or not farmed at all.  Consult maps of where isotopes have landed from nuclear disasters and atomic weapons testing &#x2013; large swathes of your country may be unsuitable (something that is not spoken publicly because feeding the world is hard enough already).
 
 
 <a id="org5ac92b9"></a>
 
 ## Insulin
+
+
+<a id="orgc2004c9"></a>
+
+## Teeth
+
+-   [Teeth: Dental Health And The Paleo Diet](http://www.gnolls.org/3253/dental-health-and-the-paleo-diet-gingival-sulcus-depth-periodontal-disease-systemic-inflammation-and-some-n1-data/)
+-   [Teeth: Help!  My Patient Wants to Fix Her Childs Cavity with&#x2026;Liver?!?!](http://thepaleohygienist.com/2013/05/24/help-my-patient-wants-to-fix-her-childs-cavity-with-liver/)
+-   [Teeth: Nutritional Cures for Damaged Teeth](http://www.marksdailyapple.com/nutritional-cures-for-damaged-teeth/)
+
+The skeletons of humans from before agriculture had perfect teeth and space enough in the mouth for every tooth.  Agriculture saw the arrival of a multitude of minor birth deformities, like the crowded teeth many of us have, and people got shorter statures and lived shorter lives. Only with modern medicine have we caught up to the lifespans naturally achieved by our ancestors.
+
+
+<a id="org4668203"></a>
+
+## Gut bacteria
+
+Very strange: there have been signs that a varied diet is *worse* than a one-sided diet at building gut biodiversity! <http://www.sciencedaily.com/releases/2014/05/140528105252.htm>
+
+Should we be consistent with our diet, for a consistent flora? 
+
+Or perhaps we should do different specialized diets in sequence, to give different cultures a chance to shine and outcompete the others?  But that might cause an unending sequence of Herxheimer-like reactions (where you feel ill health because your previous gut flora is dying off).
+
+To pattern lifestyle after the Paleolithic, it&rsquo;s likely that they would have eaten different foods at different times of year.  Stretching out your variation over a year would give you fewer problems with sudden dieoff.  Above all, it seems, to keep diversity high, avoid supporting generalist species.  That would mean different one-sided diets at different times, and no fruit in the winter.
+
+But is diversity important?  Poor gut biodiversity, such as after a round of antibiotics, has been linked to diseases like SIBO (small intestinal bacterial overflow).
+
+<http://www.marksdailyapple.com/16-things-that-affect-your-gut-bacteria/>
 
 
 <a id="org68a9109"></a>
@@ -785,6 +865,32 @@ So 1.2 to 1.7 grams of leucine in 100 g of meat. So 250 g of meat is minimum at 
 
 [Pesticides](http://www.marksdailyapple.com/why-i-dont-trust-the-acceptable-daily-intake-levels-for-pesticides/)
 
+See the Roundup pesticide, still in use today
+
+When they test whether a pesticide is harmful, they test it on human cells (called *in vitro* testing) &#x2013; they neglect to test the *other* part of the human animal: the bacteria in your gut, which are required for health, many species of which demonstrate severe weakness to pesticides &#x2013; after all, they&rsquo;re roughly what pesticides are designed to kill.
+
+Organic foods aren&rsquo;t pesticide-free &#x2013; they just use other kinds of pesticides, that are perhaps less effective but more of them are used.  I heard about one farmer kid saying, &ldquo;I love organic &#x2013; I get to spray it twice as much&rdquo;.
+
+While organic isn&rsquo;t pesticide-free, it tends to be safer(?) to eat.
+
+There is one way to avoid pesticides &#x2013; and that is to grow food that doesn&rsquo;t need pesticide: animals.  Of course, that supposes they&rsquo;re not fed farmed food, just grass.
+
+
+<a id="orge6c2abd"></a>
+
+## GMO
+
+The majority (70%+) of genetically modified organisms are modified with pesticide components.  No way to wash off those residues &#x2013; they&rsquo;re in the food.  Concerns that apply to pesticides therefore apply to GMO as well.  Other strategies involve making the food *resistant* to a pesticide, so that it will not be harmed, and the farmers then spray massive amounts (since the food survives).  It may be very important for us to wash that food with soap, or just peel and toss its outermost layers.
+
+
+<a id="orgeccb82a"></a>
+
+## Difference between grass-fed and grain-fed
+
+In liver, the grass-fed variety has eight times as much vitamin A.  I&rsquo;m not kidding, **eight!**
+
+Maybe it was a fluke because the amount depends on which animal the FDA/USDA/(who?) tested, but it seems unlikely.  If it&rsquo;s a common pattern for vitamin A, what does it say about other nutrients?
+
 
 <a id="orgd07e31d"></a>
 
@@ -798,12 +904,112 @@ The best book on ketosis: *The Art and Science of Low Carbohydrate Living*, by S
 ## Effects of fasting
 
 
-<a id="org5ebc544"></a>
+<a id="orgaed8fd2"></a>
 
-# Appendix: Interesting articles
+## Methionine-glycine balance
 
--   [Meat, Organs, Bones and Skin](https://www.westonaprice.org/health-topics/meat-organs-bones-and-skin/) &#x2026; 3-4 sections starting with &ldquo;Supporting Methylation&rdquo;
--   [The China Study: Fact or Fallacy?](https://deniseminger.com/2010/07/07/the-china-study-fact-or-fallac/) (links to response by Campbell too)
+Your food doesn&rsquo;t just determine your health, it determines the very thoughts you think and the emotions that well up in your chest!  Chris Masterjohn&rsquo;s essay  [Meat, Organs, Bones and Skin](https://www.westonaprice.org/health-topics/meat-organs-bones-and-skin/) highlights a process called methylation which is regulated by the proportions of methionine and glycine in your diet &#x2013; that is, how much muscle meat you eat compared to skin, cartilage and bone broth.  Let me quote a piece:
+
+> Two analogies should prove useful to help us understand the need to balance mental stability with mental flexibility. In the first, we could imagine a potter who makes clay flexible by moistening it before attempting to make something out of it.  Too little moisture will lead to brittle clay: it is too dry to shape into anything, and applying enough force to change its shape will simply make it break, exposing rough and sharp edges.  Too much moisture will make it easy to manipulate, but no shape given to it will hold.  The right amount of moisture will make the clay malleable enough to manipulate into something useful or beautiful, and yet stable enough to retain the shape given it.
+> 
+> Similarly, not enough methylation could lead to “brittle” mental states.  Such states are difficult to change, but when they do change, the transitions are sudden and without warning.  This brittleness could lead to dangerous situations.  For example, ordinarily when we get angry, the process is gradual enough that we may realize what is happening to us and stop ourselves from acting out in our anger, or someone else may notice that we are becoming angry and intervene to diffuse the situation.  If our mental states are too brittle, however, we may act violently without warning, giving neither ourselves nor those around us any opportunity to recognize what is happening and intervene.  Alternatively, too much methylation could make our minds like a bowl of liquid clay: easy to make a mess with, but difficult to shape into something beautiful or useful.
+> 
+> In the second analogy, we could consider our consciousness like a net through which thousands of thoughts fly every day.  These thoughts could be about basic biological drives and needs like food, sex, and sleep; they could be about the multitude of things we need to get done; or they could be thoughts that motivate us, whether to do good things or to do things that would get us into trouble.  To achieve mental health, our net of consciousness needs enough flexibility that we are able to manipulate it as each thought approaches, choosing either to let it pass through or to hold on to it.  This net also needs enough stability, however, to hold onto beneficial thoughts for as long as they are needed.  Without flexibility, we hold onto everything that comes our way indiscriminately.  Without stability, we cannot hold onto anything at all.  With a proper balance, we become masters of our thoughts rather than their captives.
+
+In particular, this is fascinating &#x2013; emphasis mine:
+
+> Vegetarians excrete almost twice the level of a unique marker of glycine deficiency in their urine as omnivores.<sup>17</sup>  This suggests that excluding animal products from the diet could not only lead to a generally inadequate level of methylation because of lower intakes of methionine and vitamin B12, but the lower intake of glycine could also lead to transient periods of excessive methylation. This could theoretically result in **seesawing between excessive mental stability and excessive mental flexibility**.
+> 
+> The purpose of this article, however, is not to denigrate vegetarian diets but to emphasize the importance of nutrient-dense animal foods.  A standard omnivorous diet is hardly the ideal.  Even omnivores excrete substantial amounts of the marker of glycine deficiency discussed above in their urine.  This could be because the typical omnivore fails to make use of skin and bones in their diet.
+
+
+<a id="org456921d"></a>
+
+## Meat toxins
+
+[Meat Toxins: What they are, why they exist, how to avoid them](http://www.silverhydra.com/2011/12/meat-toxins-what-they-are-why-they-exist-how-to-avoid-them/)
+
+In short, meat doesn&rsquo;t have toxins, unless you do things to it like
+
+-   curing it with nitrite
+-   smoking it in a barbecue
+-   overcooking it
+-   deep-frying it in seed oils
+-   cooking it with margarines or hydrogenated oils
+-   cooking it together with sugar
+-   eating it together with sugar
+
+When reading research studies about meat, always check how they prepare it.
+
+Sometimes people mention meat containing Advanced Glycation Endproducts (AGEs), linked to aging.  This fear is unfounded since even if you burn the meat, the amount is small compared to the AGEs produced in the body just from *burning carbohydrates as fuel* (let that sink in).
+
+One valid concern is Heterocyclic Amines, which form at high temperatures.  There&rsquo;s more of these the hotter the meat gets, so gentle cooking methods such as stewing and steaming are better.  Similar rules apply to cooking plants, meat isn&rsquo;t special in this regard: all foods are damaged by overcooking.
+
+But of course (do we even have to say it?):
+
+-   never barbecue
+-   never use sugar marinades
+-   never blacken the meat
+
+
+<a id="org1b08628"></a>
+
+## Choline
+
+I&rsquo;ve spent time on forums about human longevity, and one of the first things they like to supplement is choline.  In addition, it&rsquo;s popular in the nootropics community, who think it may help your smarts.
+
+There are many forms of choline, like phosphatidylcholine and blah blah blah&#x2026; and it&rsquo;s present in all animal tissue, but what&rsquo;s interesting: **your body will expend the choline in order to &ldquo;neutralize&rdquo; methionine.**  As you know, the amino acid methionine is found in large quantities in muscle meat (and eggs).  Which means that, if you eat muscle meat but not other parts of the animal, you may still fail to get enough choline.
+
+You shouldn&rsquo;t be wasting choline on this &#x2013; eat glycine-rich foods, see [Methionine-glycine balance](#orgaed8fd2).
+
+What&rsquo;s a good source of choline?  Liver!  It stands alone as an effective choline source.
+
+For plant sources, the betaine found mostly in spinach (and to a small extent in beetroots, after which it&rsquo;s named), can be converted in the body to choline but not a lot.  This makes spinach essential for vegans.
+
+Genetics can help.  90% of Japanese people have a gene for converting some methionine to choline ([source](http://blog.cholesterol-and-health.com/2010/12/meeting-choline-requirement-eggs-organs.html)), but not so many Western people have it.
+
+
+<a id="orgd94eb62"></a>
+
+## Gelatin, glycine, GAGs
+
+Collagen is a type of protein that dominates in bone joints, skin and other &ldquo;chewy&rdquo; parts of an animal.  Dogs and wolves spend a long time chewing bones in order to get this.  If we heat collagen, it turns into a different protein we call gelatin.
+
+The collagen is what makes the chewy parts chewy, and contains the amino acids *glycine* and *proline*, which are uncommon in other foods &#x2013; the chewy parts are our primary dietary source of these amino acids.
+
+Is it important to eat these bits?
+
+Well, I&rsquo;ll just observe that it&rsquo;s common to prescribe something called glucosamine to people with arthritis, because it helps with joint health.  And it turns out glucosamine is a member of a category of nutrients, glucosaminoglycans (GAGs), and it works better to supplement all of these.  And it turns out that Nature&rsquo;s only source of the full spectrum of GAGs, is also the same place we find glycine.  The chewy bits.  The gelatinous bone broth.
+
+Apparently it&rsquo;s known that glycine, proline and GAGs are building blocks for our joints.  How come no one told me this in nutrition class?  I don&rsquo;t want arthritis.
+
+The body can produce some amounts of glycine of its own, expending folate to do so, so vegans would be wise to eat a lot of beans for the folate.
+
+
+<a id="org2261e2c"></a>
+
+# Questions
+
+-   Where do the data come from for Nutrition Facts labels?  How many original databases are there (USDA, &#x2026;?) and how is the testing done?
+    -   As I remember, some databases calculate carbs by a convoluted subtraction method rather than measuring directly, and it&rsquo;s prone to error, can lead to leaving out carbs in meat, for one thing.
+-   Which vitamins and minerals are safe to consume without limit?
+    -   like C, B12, &#x2026; that seem to have no practical upper limit
+    -   also check if consuming large quantities of these has effects on other vitamin needs
+-   Which vitamins have limits and what are the numbers for how the other nutrients affect the limit?
+    -   Vitamins A and D take each other out &#x2013; but does this translate to a practical prescription of how much sun you should get for how much liver to eat, or something?  4 hours for every 100 grams?  I&rsquo;ve never heard of anyone talk about that.
+-   What exactly have we observed about the connection between fasting and the immune system, disease recovery and disease prevention?
+-   What exactly have we observed about fasting in general?
+    -   check studies&rsquo; scores on <https://scite.ai>
+-   What evidence supports the GKI<1 strategy against cancer (Glucose-ketone index of less than 1.0)?
+
+-   Conversion % of ALA to EPA/DHA &#x2013; affected by genes? how common are these genes?
+-   Conversion % of carotenoids to retinoids &#x2013; affected by genes?  how common are these genes?
+-   Ideal omega 3:6 balance &#x2013; relevant, or wild goose chase?
+-   Effects of wheat & other grains
+-   Effects of alcohol
+-   Effects of coffee, decaf, and pure caffeine respectively
+-   Known indicators for lifespan
+-   How much various cooking methods destroy important nutrients
 
 
 <a id="org7c97120"></a>
