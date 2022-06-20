@@ -18,7 +18,7 @@
     7.  [Nutritionism](#org976fe27)
     8.  [Empty calories](#org6a2fb92)
     9.  [Doctor education](#org46aa777)
-    10. [Dietician education](#org2fb0453)
+    10. [Dietitian education](#org8eb1fd7)
     11. [Energy mobilization](#org4a452a5)
         1.  [Part One: Fasted](#org65e8430)
         2.  [Part Deux: LCHF](#org0b7cae5)
@@ -42,13 +42,13 @@
     11. [Genetic need of omega-3](#org71b4469)
     12. [How much seafood?](#org0cab385)
     13. [Leucine](#orgae29db2)
-    14. [Teeth](#orgbedebeb)
+    14. [Teeth](#orge8cc029)
     15. [CLA](#orgfdbb1f9)
     16. [Leaking nutrients](#org78623b9)
     17. [Iodine](#org214d6f9)
     18. [Soil](#org9dccef0)
     19. [Insulin](#org5ac92b9)
-    20. [Teeth](#orge8cc029)
+    20. [Teeth](#org4a995d7)
     21. [Gut bacteria](#org4668203)
     22. [&ldquo;Cholesterol&rdquo;: VLDL, LDL, HDL, TG and TC](#org60ed20b)
     23. [Acid-base balance](#org1849f75)
@@ -63,11 +63,10 @@
     32. [Gelatin, glycine, GAGs](#orgd94eb62)
     33. [Margarine](#orgfcde29b)
     34. [Saturated fat with carbohydrate](#orgf5626f7)
-    35. [Meta-analyses](#orgb75f382)
-    36. [Sweeteners](#org2d95287)
-    37. [The AMY1 gene](#orgceaec5d)
-    38. [The ApoE4 gene](#org5070dc2)
-    39. [Hemochromatosis](#org14a93a6)
+    35. [Sweeteners](#org2d95287)
+    36. [The AMY1 gene](#orgceaec5d)
+    37. [The ApoE4 gene](#org5070dc2)
+    38. [Hemochromatosis](#org14a93a6)
 6.  [How the science is currently done](#org2bd51c2)
     1.  [Mouse chow](#org78f1357)
     2.  [Six types of research](#org25ba6a3)
@@ -102,15 +101,15 @@ Target audience: anyone who wants to discuss nutrition topics with me.  If we ha
 
 ## Past me (2013)
 
-I&rsquo;ve seen people make the uncharitable presumption that meat-eaters just can&rsquo;t bear to give up the taste.  So let me clarify that back in 2013 when I decided to lose weight, I liked meat but wasn&rsquo;t a fan in any particular way.  I was ready to go plant-based or even eat nothing but broccoli for a year if that&rsquo;s what it took (young people are extreme).  So I read up on necessary nutrients, all the vitamins, minerals and their different forms, to make sure I got enough.
+I&rsquo;ve seen people make the uncharitable presumption that meat-eaters just can&rsquo;t bear to give up the taste.  So let me clarify that back in 2013 when I decided to lose weight, I liked meat but wasn&rsquo;t a fan in any particular way.  I was ready to go plant-based or even eat nothing but broccoli for a year if that&rsquo;s what it took (young people are extreme).  So I read up on necessary nutrients, all the vitamins, minerals and their different forms, to find out the bare essential foods to eat.
 
-I had no bias for meat, but I was (and still am) biased in favour of bread and beer, because I like the stuff so much.  I also like many vegetarian foods.  I enjoy tofu, tempeh, seitan and legumes, and always loved salads.  I think quorn nuggets beat chicken nuggets.
+I had no bias for meat, but I was (and still am) biased in favour of bread and beer, because I like the stuff so much.  I also like many vegetarian foods.  I enjoy tofu, seitan and legumes.  I think quorn nuggets beat chicken nuggets.
 
-I read about retinoids (animal-sourced vitamin A) versus carotenoids (vegetable-sourced vitamin A).  How to find vitamin K1 and K2 in an animal-free diet.  What role omega 3 plays, how much we need, and what factors might affect how much we need.  I followed nerds discussing ideal nutritional supplements on a forum about human longevity.
+I read about retinoids (animal-sourced vitamin A) versus carotenoids (vegetable-sourced vitamin A).  How to find vitamin K1 and K2 in an animal-free diet.  What role omega 3 plays, how much we need, and what factors might affect how much we need.  I followed nerds discussing ideal supplement regimens on forums about human longevity and nootropics.
 
-Time and time again, I found that the nutrient under analysis can be found in some animal tissue or other, together with all the right cofactors that aid its absorption.  Often in the &ldquo;worst&rdquo; part from a cholesterol perspective, e.g. the egg yolk, the saturated animal fat, the reddest red meat.  Animals started looking like a preformulated nutritional supplement from Nature.  So that&rsquo;s what I ate.  I spent much of my free time that year just geeking out about nutrition, and was at the peak of my health.  I virtually couldn&rsquo;t sunburn, I went shirtless and barefoot all the time, my immune system was king, my eyesight improved, my reflexes improved.
+Time and time again, I found that the nutrient under analysis can be found in some animal tissue or other, together with all the right cofactors that aid its absorption.  Often it could be found especially in the &ldquo;worst&rdquo; part from a cholesterol perspective, e.g. the egg yolk, the saturated animal fat, the red meat.  Animals started looking like a preformulated nutritional supplement from Nature.  So that&rsquo;s what I ate.  I spent much of my free time that year just geeking out about nutrition, and was at the peak of my health.  I virtually couldn&rsquo;t sunburn, I went shirtless and barefoot all the time, my immune system was king, my eyesight improved, my reflexes improved.
 
-Back then, I also enjoyed being an iconoclast, to hold the secret that society at large doesn&rsquo;t know.  Now I use the experience of the keto in-group as a reference for what it must be like to be in a cult, and it&rsquo;s useful.  I remained skeptical enough that keto birthed my interest in statistics, so I could read the papers everyone was citing and make sense of them for myself.  Thus I got a statistics degree.
+Back then, I also enjoyed breaking norms, holding the secret that society at large doesn&rsquo;t know.  Now I use the experience of the keto in-group as a reference for what it may be like to be in a cult, and it&rsquo;s useful.  I&rsquo;m not calling them a cult, but all internet echo chambers have tendencies in that direction.  I remained skeptical enough that keto birthed my interest in statistics, so I could read the papers everyone was citing and make sense of them for myself.  Thus I got a statistics degree.
 
 
 <a id="org3636f72"></a>
@@ -367,14 +366,17 @@ The curriculum for a medical doctor involves almost no nutrition schooling.  Har
 I don&rsquo;t mean to be skeptical of experts.  It&rsquo;s just the reality that medical doctors usually are not experts.  Nor do I mean to be skeptical only of the mainstream, or of health care professionals&#x2026;   you get no points for being &ldquo;alternative&rdquo;.  No matter their background, diet gurus of every stripe always seem to be peddling more than they can possibly know.  Everyone feels qualified to have an opinion.  Everyone feels it&rsquo;s *safe* to have an opinion, and this makes for a sea of Dunning-Kruger bullshit, a nightmare to navigate when you just want to know what&rsquo;s true.
 
 
-<a id="org2fb0453"></a>
+<a id="org8eb1fd7"></a>
 
-## TODO Dietician education
+## TODO Dietitian education
 
--   Q: What&rsquo;s the difference between a nutritionist and a dietician?
-    -   A: In the US and UK at least, dietician is a protected title, whereas anyone can claim to be a nutritionist.  However, it&rsquo;s much the same as Ph.D and MD being protected titles.  Credentials can back up unqualified statements that &ldquo;would take too long to explain&rdquo;, but once someone takes the time to explain their reasoning to you, their title shouldn&rsquo;t matter much to you.
+-   Q: What&rsquo;s the difference between a nutritionist and a dietitian?
+    -   A: In the US and UK at least, dietitian is a protected title (like Ph.D or MD), whereas anyone can claim to be a nutritionist.  So check whether the nutritionist did go to school.
+        -   On the internet, keep in mind all titles can be fabbed via &ldquo;diploma mills&rdquo; (fake universities; check if the university exists).
+        -   The fact of someone&rsquo;s education is useful for you to accept unqualified statements that &ldquo;would take too long to explain&rdquo;, but once someone takes the time to explain their reasoning to you, neither their title or education should matter much to you.
 -   Q: How much biochemistry is in the curriculum?  Because a mechanistic understanding of nutrition seems to me primarily a matter of biochemistry, with epidemiology used only to guide hypothesis generation.  Do they do things that way?
 -   Q: I&rsquo;ve heard that their textbooks and curricula are heavily influenced by the Coca Cola Company, Monsanto, and other facets of big agra. Is this true?
+-   Q: Do they learn how to expect ketogenic patients to react to OGTT (and to avoid using glucose IV drips)?  Luise Light&rsquo;s food pyramid before the USDA twisted it, and such parts of history?
 
 
 <a id="org4a452a5"></a>
@@ -668,7 +670,7 @@ There is more sn-2 in seafood than in fish oil capsules. (How? Does the refineme
 
 ## Genetic need of omega-3
 
-There&rsquo;s indication that Inuit peoples and a portion of the Nordic population have genes such that they need a huge amount of omega-3.  How huge?  I don&rsquo;t know, but for perspective, we know the amounts some traditional Inuit groups ate: 14-20 g/day. This corresponds to 400-600 g of herring/mackerel daily.
+There&rsquo;s indication (where?) that Inuit peoples and a portion of the Nordic population have genes such that they need a huge amount of omega-3.  How huge?  I don&rsquo;t know, but for perspective, we know the amounts some traditional Inuit groups ate: 14-20 g/day. This corresponds to 400-600 g of herring/mackerel daily.
 
 Now that&rsquo;s probably overshooting their minimum need, but if we say it&rsquo;s half of the low end, that&rsquo;s still at least 200 g of herring daily, or 1.4 kg weekly.
 
@@ -688,6 +690,8 @@ A different pointer at the correct quantity comes from the research on telomeres
 You can get your &ldquo;omega 3 index&rdquo; tested: it tells you what percentage of the fatty acids in your blood is omega-3.  People in the USA/EU average 4%.  It should be sitting at >8%, and probably be as high as possible (not heard of any negative effect).  To achieve >8%, you typically need more than two &ldquo;servings&rdquo; of seafood per week, whatever &ldquo;serving&rdquo; means.  Source of this reasoning: <https://web.archive.org/web/20170620091732/http://caloriesproper.com/omega-3-index/>
 
 It&rsquo;s likely that people report &ldquo;serving&rdquo; very differently, and many people eat lean fish and call it seafood.  So if you make sure to choose wild oily fish, I wager that two normal-size servings per week, whatever that means for you, will suffice.
+
+Still, this result looks quite a bit less than 1.4 kg weekly.  Which is closer to ideal?
 
 
 <a id="orgae29db2"></a>
@@ -712,7 +716,7 @@ HOW MUCH LEUCINE IS IN 100g OF FOOD? From nutritiondata.self.com:
 So 1.2 to 1.7 grams of leucine in 100 g of meat. So 250 g of meat is minimum at one meal, 300 g a better minimum to be on the safe side.
 
 
-<a id="orgbedebeb"></a>
+<a id="orge8cc029"></a>
 
 ## Teeth
 
@@ -776,7 +780,7 @@ Insulin seems to be a hormone of many jobs &#x2026; and the only one that will l
 Chronic high insulin levels
 
 
-<a id="orge8cc029"></a>
+<a id="org4a995d7"></a>
 
 ## Teeth
 
@@ -959,11 +963,6 @@ The body can produce some amounts of glycine of its own, expending folate to do 
 A 2011 meta-analysis by a Netherlands journal concluded that saturated fat wasn&rsquo;t anything to worry about except maybe when combining them with a lot of carbohydrate.
 
 
-<a id="orgb75f382"></a>
-
-## Meta-analyses
-
-
 <a id="org2d95287"></a>
 
 ## Sweeteners
@@ -1120,7 +1119,8 @@ Sometimes, people cite the FHS to support a connection between cholesterol-rich 
 # Questions
 
 -   Where do the data come from for Nutrition Facts labels?  How many original databases are there (USDA, &#x2026;?) and how is the testing done?
-    -   As I remember, some databases calculate carbs by a convoluted subtraction method rather than measuring directly, and it&rsquo;s prone to error, can lead to leaving out carbs in meat, for one thing.
+    -   Why are almonds sometimes listed as having as much as 22g carbs per 100, and sometimes as little as 3, even though they always taste the same?
+    -   As I remember, some databases calculate carbohydrate by a lazy subtraction method rather than measuring directly, and it&rsquo;s prone to error.  It can lead to leaving out carbohydrate content in meat.
 -   Which vitamins and minerals are safe to consume without limit?
     -   like C, B12, &#x2026; that seem to have no practical upper limit
     -   also check if consuming large quantities of these has effects on other vitamin needs
