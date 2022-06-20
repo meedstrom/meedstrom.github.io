@@ -42,13 +42,13 @@
     11. [Genetic need of omega-3](#org71b4469)
     12. [How much seafood?](#org0cab385)
     13. [Leucine](#orgae29db2)
-    14. [Teeth](#orge8cc029)
+    14. [Teeth](#org4a995d7)
     15. [CLA](#orgfdbb1f9)
     16. [Leaking nutrients](#org78623b9)
     17. [Iodine](#org214d6f9)
     18. [Soil](#org9dccef0)
     19. [Insulin](#org5ac92b9)
-    20. [Teeth](#org4a995d7)
+    20. [Teeth](#org768bbe2)
     21. [Gut bacteria](#org4668203)
     22. [&ldquo;Cholesterol&rdquo;: VLDL, LDL, HDL, TG and TC](#org60ed20b)
     23. [Acid-base balance](#org1849f75)
@@ -282,10 +282,7 @@ In other news, I doubt even a refined version of the energy balance hypothesis w
 
 ## Reductionism and holism
 
--   [Reductionism and Holism Go Hand in Hand](https://www.westonaprice.org/reductionism-and-holism-go-hand-in-hand/)
--   [The Case Against Nutritional Supplements](https://web.archive.org/web/20161023115732/http://gettingstronger.org/2013/08/the-case-against-nutritional-supplements/)
--   [Live Longer](https://web.archive.org/web/20210225041305/https://gettingstronger.org/2015/03/live-longer/)
--   [The Case Against Antioxidants](https://web.archive.org/web/20220127081345/https://gettingstronger.org/2011/03/the-case-against-antioxidants/)
+[Reductionism and Holism Go Hand in Hand](https://www.westonaprice.org/reductionism-and-holism-go-hand-in-hand/)
 
 
 <a id="orgcaf3e02"></a>
@@ -318,7 +315,7 @@ Let me put on my statistician hat for a moment.  There are times when it&rsquo;s
 
 If you hear something unbelievable on the Internet or in the news, it usually constitutes next to no support for any general conclusion, because we live on a planet of billions of humans, and freakish events happen to someone every day.  No matter how rare, these freakish events get promoted to our attention.
 
-Here is a question of *sampling frame*&#x2026; if the frame is seven billion, and you look for data that supports a hypothesis, you will find it, you&rsquo;ll even find a group of hundreds of people for a &rsquo;statistically significant&rsquo; result (cherry picking) &#x2013; which is why it&rsquo;s so important that the researcher select subjects in a random and transparent way, maybe even outsource the job of selecting subjects to an impartial outside agency.  
+Here is a question of *sampling frame*&#x2026; if the frame is seven billion, and you look for data that supports a hypothesis, you will find it, you&rsquo;ll even find a group of hundreds of people for a &rsquo;statistically significant&rsquo; result ([cherry picking](https://en.wikipedia.org/wiki/Cherry_picking)) &#x2013; which is why it&rsquo;s so important that the researcher select subjects in a random and transparent way, maybe even outsource the job of selecting subjects to an impartial outside agency.  
 
 By contrast, if your (pre-chosen) sampling frame is your immediate family, and you go quiz them about something **specific** (not &ldquo;did you ever see anything unbelievable?&rdquo;, but &ldquo;did you ever see someone hit by lightning?&rdquo;), it&rsquo;s not likely you turn up any interesting results &#x2026; but if you did, that would be real information.  If your family has 4 members apart from yourself, and one has seen someone hit by lightning, that&rsquo;s 1 out of 4.  Naively then, you could guess that you have a 1/4 chance in your own lifetime to see lightning hit someone, at least with no other information to go on.  In practice, you do have more information &#x2013; you suspect people would talk about getting hit by lightning a lot more if it was that common, so you&rsquo;d downgrade that 1/4 figure to something smaller, like 1/40.
 
@@ -326,14 +323,20 @@ But notice that the quiz did give you *some* information.  It&rsquo;s a lot more
 
 That is one of the core lessons of Science, that we incrementally learned through the centuries: you can make information much, much more trustworthy, just by asking for it in a principled way.  Information you merely stumble across can only generate a hypothesis, not confirm anything, and least of all generate *and* confirm in one go.  Most hypotheses will turn out to be a wild goose chase, because that&rsquo;s the nature of reality:  an ocean of wrong ideas and a handful of less wrong ideas that are useful (and one forever unknowable full truth).
 
-If you had asked about anything amazing happen, you&rsquo;d get 1/4 chance of seeing something amazing happen, but you couldn&rsquo;t conclude 1/4 chance of seeing lightning happen, because the question that prompted this data was not about lightning: that&rsquo;s a specific that you received unasked-for.  And you couldn&rsquo;t afterwards, knowing that they&rsquo;ve seen lightning, ask them specifically about lightning: that&rsquo;s HARK and why you need new data to confirm a pattern (asking for it) seen in an exploratory study (which gave you the pattern unasked-for).  You could extend your sampling frame to &ldquo;everyone inside this apartment building minus my family (because of HARK: start clean)&rdquo; and go to your neighbours and ask them about lightning; you&rsquo;d soon find that the rate isn&rsquo;t anywhere near 1/4.
+If you had asked about anything amazing happen, you&rsquo;d get 1/4 chance of seeing something amazing happen, but you couldn&rsquo;t conclude 1/4 chance of seeing lightning happen, because the question that prompted this data was not about lightning: that&rsquo;s a specific that you received unasked-for.  And you couldn&rsquo;t afterwards, knowing that they&rsquo;ve seen lightning, ask them specifically about lightning: that&rsquo;s [Hypothesising After Results Known](https://en.wikipedia.org/wiki/HARKing) (HARK), aka post hoc theorizing.  You need new data to confirm a pattern (asking for it) seen in an exploratory study (which gave you the pattern unasked-for).  You could extend your sampling frame to &ldquo;everyone inside this apartment building minus my family&rdquo; (because of HARK: start clean) and go to your neighbours and ask them about lightning; you&rsquo;d soon find that the rate isn&rsquo;t anywhere near 1/4.
+
+That&rsquo;s why when you hear about an observational study with concerning results, you don&rsquo;t worry.  You got that data unasked-for, as did the researchers.  When a meta-analysis tests for something, then you worry.
 
 Key concepts: Non-representative sample of typical cases, cherry picking, &#x2026;
 <https://en.wikipedia.org/wiki/Anecdotal_evidence>
 
-But suppose you use someone else&rsquo;s exploratory study as your confirmatory study? Since you didn&rsquo;t know the results beforehand, and approach someone else&rsquo;s dataset with your own hypothesis, like &ldquo;red meat leads to cancer&rdquo;, could you confirm it? The answer is yes, conditional on your process of how you chose which study to look at.  You can only regard it as confirmation if the process didn&rsquo;t introduce bias.  If you were to just riffle through lots of studies until you find one that confirms your theory, this is just the same as cherry-picking data on another level: cherry-picking studies.  Sure, the subjects in study number 34 showed the pattern, but what about all the people in studies number 1 through 33?  What&rsquo;s more rational is to take into account *all* studies from 1 through 34 and see if the pattern still holds.  Even that is problematic since you stopped *right* when you found a study with the pattern &#x2013; what&rsquo;s even better is to have chosen ahead of time &ldquo;I&rsquo;ll look at 50 studies&rdquo;, the exact number isn&rsquo;t important so long as you stick to it no matter whether you find a pattern or not.  Only by that ritual will your findings become real information to you.  You must be willing to accept that you were wrong.  Science doesn&rsquo;t work without that willingness; one who lacks it is not doing science, even though they may be reading papers and doing all the externally visible parts of what looks like science.  For a process to become scientific, it requires a pledge inside the researcher&rsquo;s mind, to tie herself to the mast of accepting whatever the data may say.
+But suppose you use someone else&rsquo;s exploratory study as your confirmatory study? Since you didn&rsquo;t know the results beforehand, and approach someone else&rsquo;s dataset with your own hypothesis, like &ldquo;red meat leads to cancer&rdquo;, could you confirm it? The answer is yes, conditional on your process of how you chose which study to look at.  You can only regard it as confirmation if the process didn&rsquo;t introduce bias.  If you were to just rifle through lots of studies until you find one that confirms your theory, this is just the same as cherry-picking data on another level: cherry-picking studies.  Sure, the subjects in study number 34 showed the pattern, but what about all the people in studies number 1 through 33?
 
-This is basically how a meta-analysis or systematic review works. Though they don&rsquo;t use a simplistic cutoff like &ldquo;50 studies&rdquo;, but a cutoff like &ldquo;all studies above a certain quality&rdquo;.  There will not be that many high-quality studies with directly comparable data suitable for answering a research question, which makes it easier.
+What&rsquo;s more rational is to take into account *all* studies from 1 through 34 and see if the pattern still holds.  Even that is problematic since you stopped *right* when you found a study with the pattern &#x2013; what&rsquo;s even better is to have chosen ahead of time &ldquo;I&rsquo;ll look at 50 studies&rdquo;, the exact number isn&rsquo;t important so long as you stick to it no matter whether you find a pattern or not.  Only by that ritual will your findings become real information to you.  You must be willing to accept that you were wrong.  Science doesn&rsquo;t work without that willingness; one who lacks it is not doing science, even though they may be reading papers and doing all the externally visible parts of what looks like science.  For a process to become scientific, it requires a pledge inside the researcher&rsquo;s mind, to tie herself to the mast of accepting whatever the data may say.
+
+This is basically how a meta-analysis or systematic review works. Though they don&rsquo;t use a simplistic cutoff like &ldquo;50 studies&rdquo;, but a cutoff like &ldquo;all studies above a certain quality&rdquo;.  There will not be that many high-quality studies with directly comparable data suitable for answering a research question, which makes it easy.  The deeper you dig in the barrel, the lower-quality the studies, so they may as well only look at the cream of the crop.
+
+Even meta-analyses have pitfalls.  They must try to counteract publication bias, which is hard because even today, researchers aren&rsquo;t interested in publishing negative findings, so you get a situation such that for every study containing a positive finding, there may have been 49 that turned up negative and never got published.  Some ways around this is to simply do a *new* study, better-designed than any that came before, or analyze only the studies that were pre-registered (which mean that the researcher agreed, before doing the study, to publish the results no matter how they will turn out).  Science is hard.
 
 
 <a id="org33e8bbb"></a>
@@ -475,7 +478,7 @@ When RDAs were born in 1941(?), the intent was to reduce malnutrition symptoms a
 
 Also it&rsquo;s interesting&#x2026; some of it&rsquo;s based on animal studies where the goal is finding out *what makes the animal grow fastest* &#x2013; if I remember, the RDA for the amino acid methionine is based on this.
 
-I feel someone should figure out a way to approach the issue of partial deficiency.  It&rsquo;s not detected, but still causes disease.  Much like an ache can be caused by problems with fascia far from the site of pain &#x2013; as fascial slings go around the body, wrapping it like a package &#x2013; a partial deficiency of some nutrient can cause hard-to-diagnose problems because nutrients are always interacting with each other and we only know the telltale signs of an absolute deficiency.
+I feel someone should figure out an approach to the issue of partial deficiency.  It&rsquo;s not detected but may still weaken health, much like an ache can be caused by problems with fascia far from the site of pain &#x2013; as fascial slings go around the body, wrapping it like a package &#x2013; a partial deficiency of some nutrient can cause hard-to-diagnose problems because nutrients are always interacting with each other and we only know the telltale signs of an absolute deficiency.
 
 
 <a id="org2e84835"></a>
@@ -489,7 +492,7 @@ As someone said, &ldquo;need&rdquo; is a funny concept.  You don&rsquo;t need to
 
 ## TODO Components of hunger: Satiety and satiation
 
-There is a large body of established science showing four [clinically measurable components of hunger](http://www.gnolls.org/3662/what-is-hunger-and-why-are-we-hungry-j-stantons-ahs-2012-presentation-including-slides/): satiety, satiation, hedonic impact and incentive salience.
+There is a body of established science showing four [clinically measurable components of hunger](http://www.gnolls.org/3662/what-is-hunger-and-why-are-we-hungry-j-stantons-ahs-2012-presentation-including-slides/): satiety, satiation, hedonic impact and incentive salience.
 
 
 <a id="orga647188"></a>
@@ -501,7 +504,7 @@ This line of thought took a long time to wrap my head around, but it blew my min
 So much of reasoning around nutrition, particularly for weight gain and weight loss, relies on background assumptions rarely spoken of:
 
 -   Assumption 1: that when the stomach is physically full, the body will feel satisfied with its intake
--   Assumption 2: that since fat is calorie-dense, then if you eat fat instead of carbs or fiber (or sawdust), you&rsquo;ll be able to consume more calories before the stomach is full, and therefore you will get fatter
+-   Assumption 2: that if you eat something more calorie-dense than another, like lipids instead of carbs or fiber (or sawdust), you&rsquo;ll be able to consume more calories before the stomach is full, and therefore, your total calorie intake will be higher per meal, and you will end up gaining more weight
 
 Written out like that, it seems to me extremely debatable.  Yet, the consequences if it&rsquo;s wrong:
 
@@ -510,7 +513,7 @@ Written out like that, it seems to me extremely debatable.  Yet, the consequence
 -   Fiber does not make you meaningfully fuller
 -   There&rsquo;s no such thing as a &ldquo;low-calorie food&rdquo; or a &ldquo;high-calorie food&rdquo;
 
-What&rsquo;s left to watch for then?  How do you lose weight if the body is just watching to meet a calorie quota, not a food volume quota?  How *do* you choose foods if there&rsquo;s no such thing as a low-calorie food?
+What&rsquo;s left to watch for then?  How *do* you lose weight if the body is just watching to meet a calorie quota, not a food volume quota?  How do you choose foods on a diet if there&rsquo;s no such thing as a low-calorie food?
 
 
 <a id="orgc6fe3ec"></a>
@@ -574,27 +577,29 @@ What foods they all allow:
 
 Sailors used to get scurvy (a disease of vitamin C deficiency), because they brought no fruit on the long voyages.  They brought only dried bread and meats.
 
-After vitamin C was discovered in the beginning of the 1900s, we cured scurvy and everyone accepted the primacy of fruit (or sauerkraut).  Around the same time, though it&rsquo;s been forgotten, the arctic explorer Vilhjalmur Stefansson wrote back to civlization about the local Inuit people, who could survive off an all-animal diet for nine months at a time without any signs of scurvy, and in fact were in excellent health.  Stefansson wasn&rsquo;t perfect ([One Thousand Nails in the Coffin of Vilhjálmur Stefansson](https://www.freetheanimal.com/2014/04/explorer-vilhjalmur-stefansson.html)), but he and another person underwent an experiment at Bellevue Hospital of eating only meat, and they were fine.  I assume it was just too hard to reconcile these observations with the background of the new vitamin C wisdom, so we shrugged and forgot about him.
+After vitamin C was discovered in the beginning of the 1900s, we cured scurvy and everyone accepted the primacy of fruit (or sauerkraut).  Around the same time, though it&rsquo;s been forgotten, the arctic explorer Vilhjalmur Stefansson wrote back to civlization about the local Inuit people, who could survive off an all-animal diet for nine months at a time without any signs of scurvy, and in fact were in excellent health.  Stefansson wasn&rsquo;t perfect ([One Thousand Nails in the Coffin of Vilhjálmur Stefansson](https://www.freetheanimal.com/2014/04/explorer-vilhjalmur-stefansson.html)), but he and another person underwent an experiment at Bellevue Hospital of eating only meat for a year, and they were more than fine.  I assume it was just too hard to reconcile these observations with the background of the new vitamin C wisdom, so we shrugged and forgot about him.
 
-(Even if Stefansson was a total fraud, this is a case where you should expect to find many corroborating anecdotes and few contraindicating ones (even with self-selection bias, some contraindications should show up on some sites) &#x2013; and that&rsquo;s true.  To date, I&rsquo;ve not read a single zero-carber on the internet reporting scurvy, and some have been zero-carb for decades.)
+(Even if Stefansson was sneaking fruit in the off hours, this is a case where you should expect to find many corroborating anecdotes and few contraindicating ones &#x2013; even with self-selection bias, some contraindications should show up on some sites.  To date, I&rsquo;ve not read a single zero-carber on the internet reporting scurvy, and some have been eating that way for decades.)
 
-The Inuit ate meat, but not bread.  Following via negativa, is it possible that the sailors got scurvy not because they left out fruit, but because they continued to include *bread*?
+The Inuit ate meat, but not bread.  Per via negativa, is it possible that Western sailors got scurvy not because they left out fruit, but because they continued to include *bread*?
 
 Two hopefully uncontroversial facts of biochemistry support this (though I may have been misled):
 
 -   The body can recycle vitamin C endlessly.  To deplete it, something else you&rsquo;re doing has to deplete it.
--   Carbohydrates cause oxidative stress, which the body counterbalances by expending antioxidants&#x2026; such as vitamin C.
+-   Carbohydrate metabolism causes oxidative stress (free radicals, Reactive Oxygen Species), which the body counterbalances by expending antioxidants&#x2026; such as vitamin C.
 
 If the reasoning is valid, then it appears we can conclude that dietary vitamin C isn&rsquo;t necessary during fasting or on a zero-carbohydrate diet, but *when* you start eating bread (grain is the only carbohydrate-rich food without vitamin C), *then* you also have to eat fruit or vegetables to stave off scurvy.  Bread causes scurvy!
 
-Another conclusion is that vitamin C may not be an essential nutrient, but what&rsquo;s called *conditionally essential* &#x2013; i.e. it depends on what else you eat &#x2013; and only mistaken for essential because of the universality of grain in the Western diet.
+Another conclusion is that vitamin C may not be reasonably called an essential nutrient, but what&rsquo;s called *conditionally essential* &#x2013; i.e. it depends on what else you eat &#x2013; and only mistaken for essential because of the universality of grain in the Western diet.
 
 
 <a id="orgbaebba7"></a>
 
 ## Vitamin K2
 
-A rare vitamin, found mainly in **fat** from grass-fed or wild animals, or aged cheese.  Not to be confused with Vitamin K1 which can be found in dark green vegetables (like spinach) among other things.
+A rare vitamin, found mainly in lipids from grass-fed or wild animals, or in aged cheese.  Not to be confused with Vitamin K1, which can be found in dark green vegetables (like spinach) among other things.  Also not interchangeable.
+
+The only plant source is natto.
 
 
 <a id="orge5e0120"></a>
@@ -603,7 +608,7 @@ A rare vitamin, found mainly in **fat** from grass-fed or wild animals, or aged 
 
 About 40% of people have low-normal &ldquo;serum B12&rdquo; (vitamin B12 in the blood).  Understand that serum B12 is one of the last markers to fall out of normal range, so if it is beginning to drop from normal, you&rsquo;re almost definitely deficient.
 
-This vitamin is a common supplement for vegans because it is *only* found in animals, though there is some in tempeh.
+This vitamin is a common supplement for vegans because it is *only* found in animals, with a honorable exception for tempeh.
 
 Interesting because you can even observe many omnivores being deficient, giving us a guideline to how much meat is enough.
 
@@ -716,7 +721,7 @@ HOW MUCH LEUCINE IS IN 100g OF FOOD? From nutritiondata.self.com:
 So 1.2 to 1.7 grams of leucine in 100 g of meat. So 250 g of meat is minimum at one meal, 300 g a better minimum to be on the safe side.
 
 
-<a id="orge8cc029"></a>
+<a id="org4a995d7"></a>
 
 ## Teeth
 
@@ -780,7 +785,7 @@ Insulin seems to be a hormone of many jobs &#x2026; and the only one that will l
 Chronic high insulin levels
 
 
-<a id="org4a995d7"></a>
+<a id="org768bbe2"></a>
 
 ## Teeth
 
