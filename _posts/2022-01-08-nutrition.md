@@ -6,7 +6,7 @@
     2.  [Current me (2022)](#org3636f72)
 2.  [Beliefs](#org31fbebe)
     1.  [Cruxes for low-carb](#org5ae0c57)
-    2.  [Other cruxes](#orgeb991b0)
+    2.  [Other beliefs](#org539dfd4)
 3.  [Map of reductionist findings](#org3f4377c)
 4.  [Perspectives and thought experiments](#org88eae66)
     1.  [Via negativa](#orgb9090e8)
@@ -18,7 +18,7 @@
     7.  [Nutritionism](#org976fe27)
     8.  [Empty calories](#org6a2fb92)
     9.  [Doctor education](#org46aa777)
-    10. [Nutritionist and dietician educations](#orgefe3f0e)
+    10. [Dietician education](#org2fb0453)
     11. [Energy mobilization](#org4a452a5)
         1.  [Part One: Fasted](#org65e8430)
         2.  [Part Deux: LCHF](#org0b7cae5)
@@ -42,13 +42,13 @@
     11. [Genetic need of omega-3](#org71b4469)
     12. [How much seafood?](#org0cab385)
     13. [Leucine](#orgae29db2)
-    14. [Teeth](#org67e922c)
+    14. [Teeth](#orgbedebeb)
     15. [CLA](#orgfdbb1f9)
     16. [Leaking nutrients](#org78623b9)
     17. [Iodine](#org214d6f9)
     18. [Soil](#org9dccef0)
     19. [Insulin](#org5ac92b9)
-    20. [Teeth](#orgbedebeb)
+    20. [Teeth](#orge8cc029)
     21. [Gut bacteria](#org4668203)
     22. [&ldquo;Cholesterol&rdquo;: VLDL, LDL, HDL, TG and TC](#org60ed20b)
     23. [Acid-base balance](#org1849f75)
@@ -67,6 +67,7 @@
     36. [Sweeteners](#org2d95287)
     37. [The AMY1 gene](#orgceaec5d)
     38. [The ApoE4 gene](#org5070dc2)
+    39. [Hemochromatosis](#org14a93a6)
 6.  [How the science is currently done](#org2bd51c2)
     1.  [Mouse chow](#org78f1357)
     2.  [Six types of research](#org25ba6a3)
@@ -93,6 +94,8 @@
 For transparency, I&rsquo;ll try to show who I am before starting a discussion.  I&rsquo;m a 30-year old Swedish male, grown up in Sweden.  I do not study biochemistry, nutrition, dietetics, medicine, physiology or any other relevant field.  My fields of expertise are in computers and statistics.
 
 What prompted me to write this post was hearing someone say &ldquo;[do not present secondary reasons to choose a diet as though they were the primary ones](https://www.greaterwrong.com/posts/bujD9zhcb9Apii5J2/dietary-debates-among-the-fruit-gnomes)&rdquo;.  So what&rsquo;s my primary reason for agreeing with the broad strokes of Paleo/Keto, if I still do?  Let&rsquo;s find out.
+
+Target audience: anyone who wants to discuss nutrition topics with me.  If we have very different memes in our heads, we won&rsquo;t have a productive discussion, so this attempts to bridge that gap.
 
 
 <a id="org0941e76"></a>
@@ -125,90 +128,88 @@ If you optimize a diet for specific nutrients, I think you&rsquo;re just [Goodha
 
 # Beliefs
 
-Updated <span class="timestamp-wrapper"><span class="timestamp">[2022-01-11 Tue]</span></span>
+Updated <span class="timestamp-wrapper"><span class="timestamp">[2022-06-20 Mon]</span></span>
 
 Okay, I want critique on my nutrition world-view, so here&rsquo;s a bunch of claims I currently believe, in no particular order. I tried to make them concrete.  Maybe one day I&rsquo;ll look back on this version and be embarrassed, but that&rsquo;s good.
-
-1.  (<span class="timestamp-wrapper"><span class="timestamp">[2022-05-08 Sun] </span></span> 10:1 for) The things the average animal of a given species ate over a lifetime in its EEA (Environment of Evolutionary Adaptedness) reflects so accurately what&rsquo;s healthy for it, that you can treat these claims as synonymous: &ldquo;we ate like this in the past&rdquo; and &ldquo;this is healthy for us&rdquo;.
-2.  (<span class="timestamp-wrapper"><span class="timestamp">[2022-05-08 Sun] </span></span> 7:1 for) The human animal appears designed as a habitual carnivore and especially &rsquo;fativore&rsquo;.
-    -   Specifically, my odds are 1:7 against that the human design indicates an EEA where it was common to consume plant carbs for a large share (>33%) of its lifetime calories.
-3.  (<span class="timestamp-wrapper"><span class="timestamp">[2022-06-18 Sat] </span></span> 2:1 for) Within 12 months, it&rsquo;s hard to get nutrient overload symptoms from eating only meat, provided the meat is fatty
-4.  (<span class="timestamp-wrapper"><span class="timestamp">[2022-06-18 Sat] </span></span> 3:1 for) Within 12 months, it&rsquo;s hard to get nutrient deficiency symptoms of eating only meat, provided the meat is fatty
-5.  (<span class="timestamp-wrapper"><span class="timestamp">[2022-06-18 Sat] </span></span> 3:1 for) Vitamin C deficiency can only occur if you have significant dietary carbs without dietary vitamin C (see [Vitamin C](#org328bdbf) section)
-6.  (<span class="timestamp-wrapper"><span class="timestamp">[2022-06-18 Sat] </span></span> 15:1 for) Vitamin K2 deficiency makes teeth transparent & brittle
-7.  Including bone broth in diet can elevate vitamin D levels despite not containing D itself
-8.  Vitamin D supplementation generally helps short-term (but should not be sustained)
-9.  Vitamin D supplementation is harmful if hanging out in the sun would *not* increase it (something else the bottleneck)
-    -   Clarification: suppose you take a person with low D levels, tell them to go out in the sun for two hours a day, and test them a few weeks later. Many people will show a much higher level of vit D, but some people will not have shown any increase. For these people, it&rsquo;s a bad idea to force it up with supplements, as there&rsquo;s a reason the body chose not to produce D, such as lack of magnesium or calcium.
-10. The immune system works better in a fasted state
-11. (<span class="timestamp-wrapper"><span class="timestamp">[2022-06-18 Sat] </span></span> 5:1 for) Staying in a ketotic metabolism for 300 days a year will lengthen an average young adult&rsquo;s lifespan by 5-20 years and healthspan more than proportionately
-12. (<span class="timestamp-wrapper"><span class="timestamp">[2022-06-18 Sat] </span></span> 20:1 for) When giving an Oral Glucose Tolerance Test (OGTT) to a ketotic person (i.e. feeding them 150g of sugar) causes a hyperinsulinemic response (i.e. they react like a diabetic), it does not indicate a chronic problem with this person: letting them acclimate to carbs for a day first will ensure a normal response to OGTT thereafter.
-    -   Specification: The above is true for patients that do not already have diabetes.  Important related belief (<span class="timestamp-wrapper"><span class="timestamp">[2022-01-29 Sat] </span></span> 7:1 for): a ketogenic diet will never cause the onset of diabetes.
-13. A large portion (10-50%) of the Nordic population cannot meet their omega-3 need just with off-the-shelf omega-3 capsules, without resorting to such quantities that cause obvious adverse reactions due to other things in these capsules.
-14. Fasting and IF lower the &ldquo;bodyweight set-point&rdquo;
-15. Who does not eat liver is wise to eat plenty of beans (for folate)
-16. Sugar raises your &ldquo;bodyweight set-point&rdquo;
-17. Calorie-free sweeteners have a similar result on body weight in the long run as the quantity of sugar that corresponds to the same experience of sweetness. Colloquially speaking, replacing soda with light soda does nothing.
-18. The level of glucose and ketones in the blood do not indicate the rate at which each is being burned, you need more information to figure this out.
-    -   In other words, it is possible to have 5.5 mmol/l glucose (approx 27.5 mmol for whole body) but have those be the same 27.5 mmol in the evening as in the morning i.e. the body cells did not suck any of it up.
-19. A meal needs to include ~3g of leucine to stimulate a cycle of muscle protein synthesis.
-20. Vitamins taken in isolation have a different effect from vitamins in food.
-21. Ingesting forty (40) large or eighty (80) small fish oil capsules in a day will either cause some kind of toxicity or nutrient imbalance, or simply be malabsorbed, and you may suffer discomfort, but the corresponding quantity of oily fish (300g) have none of these issues.
-    -   This begs the question of how much omega-3 you need. This is individual. Inuit and some Nordic people need a lot(citation?). Let&rsquo;s say we&rsquo;re in this Nordic subset. As some Inuit groups consumed 14-20g of omega-3 a day, let&rsquo;s say we need half of this, 7-10g a day, which means 200-300g herring/mackerel or over 30 large capsules &#x2013; per day!
-    -   My takeaway is that for supplementing omega-3, fish oil compared to oily fish is like the night stars compared to the midday sun: the former isn&rsquo;t a realistic choice.
-        -   For fun, extra problems surrounding fish oil is how it was extracted and purified, how you know it hasn&rsquo;t gone rancid or changed in the process, how you know there isn&rsquo;t also a concentration of heavy metals. Esuring these factors are taken care of will cost you a pretty penny, enough to pay for your whole paleo diet. Finally, there&rsquo;s more sn-2 DHA (which the body uses best) in seafood than in fish oil.
-22. When a specific nutrient is discovered that we (1) need a relative lot of and (2) is found in few sources, this is evidence that we ought to eat a lot of this source, *period* &#x2013; for more reasons than this nutrient in particular!
-    -   This is just &ldquo;Making Holism and Reductionism Cooperate 101&rdquo;.
-23. Carotenoids (Vitamin A from plants) are nearly unabsorbed by >10% of the population, and are poorly absorbed by >50%.
-24. A prerequisite for carotenoid absorption is that the meal contains fat.
-25. Retinoids (Vitamin A from animals) are well absorbed by >95% of the population.
-26. Fat-soluble vitamins and minerals, such as vitamin D, are stored longterm in fatty tissue, and the storage can last for months of fasting (as long as the fat stores do), provided the diet was consistently nutritious before.
-    -   If the diet was not consistently nutritious before beginning fasting, the body fat liberated during fasting will be proportionately deficient in fat-solubles (50% confident).
-27. (<span class="timestamp-wrapper"><span class="timestamp">[2022-01-29 Sat] </span></span> 3:1 for) If you got plenty of sun during the summer, vitamin D levels stay high through winter, at least in the context of what&rsquo;s colloquially called a &ldquo;Paleo&rdquo; or &ldquo;Keto&rdquo; diet.
-28. (<span class="timestamp-wrapper"><span class="timestamp">[2022-01-29 Sat] </span></span> 20:1 for) Coffee is about 99% as hydrating as water i.e. a liter of coffee is nearly indistinguishable from a liter of water for the body&rsquo;s hydration needs.
-    -   A minor issue, but the fact there is a lot of disagreement on this point reveals how much confusion there is in nutrition science around even basic reasoning about human biochemistry. How then can I trust anyone?  How can the field proceed to start settling bigger, more interesting hypotheses?
-        -   At least this becomes a litmus test: if a writer says coffee does not hydrate, they&rsquo;re a huckster who did no homework and you&rsquo;d best avoid their book.
-29. (<span class="timestamp-wrapper"><span class="timestamp">[2022-01-29 Sat] </span></span> 3:1 for) For a majority of the population, exhorting &ldquo;eat less calories to lose weight&rdquo; either has no effect in practice or causes weight *gain*, not loss.
-30. (<span class="timestamp-wrapper"><span class="timestamp">[2022-01-29 Sat] </span></span> 1:1 for) Lack of sunlight is an epigenetic trigger for myopia.
-31. After cooking meat or vegetables, some nutrients (at least electrolytes) leak into the cooking water, which should always be consumed.  This is one problem with processed meats such as ham, the cooking water has been removed.  For flour-based stuff such as pasta, this is not important.
-
-Terminology
-
--   &ldquo;Ketotic person&rdquo; &#x2013; someone (1) used to a ketogenic diet and (2) is in a state such that >50% of brain glucose use has been replaced by ketone use
-    -   assuredly met after eating ketogenic (averaging <20g carb/day) for 3+ weeks
 
 
 <a id="org5ae0c57"></a>
 
 ## Cruxes for low-carb
 
-Carrying out Internal Double Crux, I&rsquo;ve found my *cruxes*.  If I believed differently on these points, my nutrition outlook would change.
+Carrying out Internal Double Crux, I&rsquo;ve found my *cruxes*.  If I believed differently on these points, my nutrition outlook would change in radical ways.
 
-1.  The EEA argument, see Belief #1
-2.  The human design argument, see Belief #2
-3.  Ketones appear so great for health, how do we explain that if we&rsquo;re not meant to spend much time ketogenic?  Ergo we&rsquo;re meant to do so.
-4.  High insulin load (total insulin released over a day) appears so bad for health, how do you explain that if low-fat high-carb is good?  Ergo we&rsquo;re not meant to do so often.
-5.  Calories and protein from animal sources both appear better-adapted for humans than the same from plant sources
-    -   (this seems the case for all animals, as even horses eat meat opportunistically, and it&rsquo;s logical that the building blocks of an animal would be good raw material for the body of an animal &#x2013; recognize the tautology?)
+1.  Ketones appear so positive for health, how do we explain that if we&rsquo;re not meant to spend much time ketogenic?  Ergo we&rsquo;re meant to do so.
+2.  High insulin load (total insulin released over a day) appears so negative for health, how do you explain that if low-fat high-carb is good?  Ergo we&rsquo;re not meant to do so often.
+3.  Calories and protein from animal sources both appear better-adapted for humans than the same from plant sources
+    -   (this seems the case for all animals, as even herbivores eat meat opportunistically, and it&rsquo;s a priori reasonable that the building blocks of an animal would be good raw material for the body of an animal)
+4.  **The EEA argument** (<span class="timestamp-wrapper"><span class="timestamp">[2022-05-08 Sun] </span></span> 10:1 for):  The things the typical animal of a given species ate over a lifetime in its Environment of Evolutionary Adaptedness (EEA) reflects so accurately what&rsquo;s healthy for that species, that you can treat these claims as synonymous: &ldquo;we ate like this in the past&rdquo; and &ldquo;this is healthy for us&rdquo;.
+5.  **The human design argument** (<span class="timestamp-wrapper"><span class="timestamp">[2022-06-20 Mon] </span></span> 6:1 for): Among primates, *homo sapiens* appears to have been shaped by consuming quantities of meat far in excess of the &ldquo;300g of red meat a week&rdquo; some authorities recommend, and especially animal fat. (Some have called it a &rsquo;fativore&rsquo; because it&rsquo;s different from carnivores in this regard.)
+    -   Alternatively expressed, my odds are 1:6 against that the human design indicates an EEA where it was common to consume plant carbs for a large share (say >33%) of its lifetime calories.
+    -   <span class="timestamp-wrapper"><span class="timestamp">[2022-06-20 Mon] </span></span> In retrospect, this claim is hard to apply, because there was no single ancestral diet.  See [The AMY1 gene](#orgceaec5d).
+    -   If you want to look at this more closely, there is plenty of rhetoric online about why e.g. the digestive tract, teeth, bipedal posture and other features mean we&rsquo;re vegan or that we&rsquo;re carnivore.  Google &rsquo;human design vegan&rsquo; for the pro-vegan arguments, &rsquo;human design carnivore&rsquo; for the opposite, and decide for yourself.
 
 
-<a id="orgeb991b0"></a>
+<a id="org539dfd4"></a>
 
-## Other cruxes
+## Other beliefs
 
-Beliefs orthogonal to (unaffected by) the whole hullabaloo of &ldquo;low-carb vs. low-fat&rdquo;.
-
-1.  Seed oils are bad
-    -   because not EEA (see belief 1)
-    -   and because all clinically successful diets have excluded it
-2.  Sugar bad
-3.  &ldquo;Processed food&rdquo; frequently sub-par, depending on processing
-4.  If an EEA culture had focused on forage over hunt, even for periods, calories would have been predominantly from root vegs, fruit, and the fat in insects such as worms, but not appreciably from nuts and not at all from seeds or grain.
+6.  Sugar is bad
+7.  (<span class="timestamp-wrapper"><span class="timestamp">[2022-06-20 Mon] </span></span> 20:1 for) Seed oils (rapeseed, sunflower &c) are uniformly harmful
+    -   because not found in the EEA
+    -   because all clinically successful diets have excluded them (see [Clinically successful diets](#org72ad6bf))
+    -   because polyunsaturated fat is not great fuel (as a component of cell membranes it&rsquo;s one thing, but that application is a tiny fraction of calorie intake), we see lots of side effects when burning them &#x2013; oxidation &c&#x2026;
+8.  &ldquo;Processed food&rdquo; frequently not that healthy, but it depends on the processing
+9.  If an EEA culture had focused on forage over hunt, even for periods, calories would have been predominantly from root vegs, fruit, and the fat in insects such as worms, but not appreciably from nuts and not at all from seeds or grain.
     1.  The insect point is interesting because it wouldn&rsquo;t occur to many Western theorists.  Of course when foraging in the Horn of Africa, there&rsquo;s no way you&rsquo;d skip over the insects you find along the way.  Cultures that left such free lunches on the table would get their numbers overtaken by cultures that did eat all thee food they found.
-5.  Fiber is unnecessary
+10. Fiber is unnecessary
     -   [End the Fiber Fantasy](https://old.reddit.com/r/keto/comments/1lolqu/end_the_fiber_fantasy_everything_you_dont_want_to/), comments also enlightening
-6.  Seafood is important for lifespan and healthspan
-7.  In the long term, sweeteners act approximately as fattening as sugar
+11. Seafood is important for lifespan and healthspan
+12. In the long term, sweeteners act approximately as fattening as sugar
+13. (<span class="timestamp-wrapper"><span class="timestamp">[2022-06-18 Sat] </span></span> 3:1 for) Vitamin C deficiency can only occur if you have significant dietary carbs without dietary vitamin C, read grains (see [Vitamin C](#org328bdbf) section)
+14. (<span class="timestamp-wrapper"><span class="timestamp">[2022-06-18 Sat] </span></span> 15:1 for) Vitamin K2 deficiency makes teeth transparent & brittle
+15. Including bone broth in diet can elevate vitamin D levels despite not containing D itself
+16. Vitamin D supplementation generally helps short-term (but should not be sustained)
+17. Vitamin D supplementation is harmful if hanging out in the sun would *not* increase it (something else the bottleneck)
+    -   Clarification: suppose you take a person with low D levels, tell them to go out in the sun for two hours a day, and test them a few weeks later. Many people will show a much higher level of vit D, but some people will not have shown any increase. For these people, it&rsquo;s a bad idea to force it up with supplements, as there&rsquo;s a reason the body chose not to produce D, such as lack of magnesium or calcium.
+18. (<span class="timestamp-wrapper"><span class="timestamp">[2022-06-18 Sat] </span></span> 2:1 for) Within 12 months, it&rsquo;s hard to get nutrient overload symptoms from eating only meat, provided the meat is fatty
+19. (<span class="timestamp-wrapper"><span class="timestamp">[2022-06-18 Sat] </span></span> 3:1 for) Within 12 months, it&rsquo;s hard to get nutrient deficiency symptoms from eating only meat, provided the meat is fatty
+20. The immune system works better in a fasted state
+21. (<span class="timestamp-wrapper"><span class="timestamp">[2022-06-18 Sat] </span></span> 5:1 for) Staying in a ketotic metabolism for 300 days a year will lengthen an average young adult&rsquo;s lifespan by 5-20 years and healthspan more than proportionately
+22. (<span class="timestamp-wrapper"><span class="timestamp">[2022-06-18 Sat] </span></span> 20:1 for) When giving an Oral Glucose Tolerance Test (OGTT) to a ketotic person (i.e. feeding them 150g of sugar) causes a hyperinsulinemic response (i.e. they react like a diabetic), it does not indicate a chronic problem with this person: letting them acclimate to carbs for a day first will ensure a normal response to OGTT thereafter.
+    -   Specification: The above is true for patients that do not already have diabetes.  Important related belief (<span class="timestamp-wrapper"><span class="timestamp">[2022-01-29 Sat] </span></span> 7:1 for): a ketogenic diet will never cause the onset of diabetes.
+
+1.  Fasting and IF lower the &ldquo;bodyweight set-point&rdquo;
+2.  Who does not eat liver is wise to eat plenty of beans (for folate)
+3.  Sugar raises your &ldquo;bodyweight set-point&rdquo;
+4.  Calorie-free sweeteners have a similar result on body weight in the long run as the quantity of sugar that corresponds to the same experience of sweetness. Colloquially speaking, replacing soda with light soda does nothing.
+5.  (<span class="timestamp-wrapper"><span class="timestamp">[2022-06-20 Mon] </span></span> 25:1 for) The level of glucose and ketones in the blood do not indicate the rate at which each is being burned, you need more information to figure this out.
+    -   In other words, it is possible to have 5.5 mmol/l glucose (approx 27.5 mmol for whole body) but have those be the same 27.5 mmol in the evening as in the morning i.e. the body cells did not suck any of it up.
+6.  A meal needs to include ~3g of leucine to stimulate a cycle of muscle protein synthesis.
+7.  Vitamins taken in isolation have a different effect from vitamins in food.
+8.  Ingesting forty (40) large or eighty (80) small fish oil capsules in a day will either cause some kind of toxicity or nutrient imbalance, or simply be malabsorbed, and you may suffer discomfort, but the corresponding quantity of oily fish (300g) have none of these issues.
+    -   This begs the question of how much omega-3 you need. This is individual. Inuit and some Nordic people need a lot(citation?). Let&rsquo;s say we&rsquo;re in this Nordic subset. As some Inuit groups consumed 14-20g of omega-3 a day, let&rsquo;s say we need half of this, 7-10g a day, which means 200-300g herring/mackerel or over 30 large capsules &#x2013; per day!
+    -   My takeaway is that for supplementing omega-3, fish oil compared to oily fish is like the night stars compared to the midday sun: the former isn&rsquo;t a realistic choice.
+        -   For fun, extra problems surrounding fish oil is how it was extracted and purified, how you know it hasn&rsquo;t gone rancid or changed in the process, how you know there isn&rsquo;t also a concentration of heavy metals. Esuring these factors are taken care of will cost you a pretty penny, enough to pay for your whole paleo diet. Finally, there&rsquo;s more sn-2 DHA (which the body uses best) in seafood than in fish oil.
+9.  When a specific nutrient is discovered that we (1) need a relative lot of and (2) is found in few sources, this is evidence that we ought to eat a lot of this source, *period* &#x2013; for more reasons than this nutrient in particular!
+    -   This is just &ldquo;Making Holism and Reductionism Cooperate 101&rdquo;.
+10. Carotenoids (Vitamin A from plants) are nearly unabsorbed by >10% of the population, and are poorly absorbed by >50%.
+11. A prerequisite for carotenoid absorption is that the meal contains fat.
+12. Retinoids (Vitamin A from animals) are well absorbed by >95% of the population.
+13. Fat-soluble vitamins and minerals, such as vitamin D, are stored longterm in fatty tissue, and the storage can last for months of fasting (as long as the fat stores do), provided the diet was consistently nutritious before.
+    -   If the diet was not consistently nutritious before beginning fasting, the body fat liberated during fasting will be proportionately deficient in fat-solubles (50% confident).
+14. (<span class="timestamp-wrapper"><span class="timestamp">[2022-01-29 Sat] </span></span> 3:1 for) If you got plenty of sun during the summer, vitamin D levels stay high through winter, at least in the context of what&rsquo;s colloquially called a &ldquo;Paleo&rdquo; or &ldquo;Keto&rdquo; diet.
+15. (<span class="timestamp-wrapper"><span class="timestamp">[2022-01-29 Sat] </span></span> 20:1 for) Coffee is about 99% as hydrating as water i.e. a liter of coffee is nearly indistinguishable from a liter of water for the body&rsquo;s hydration needs.
+    -   A minor issue, but the fact there is a lot of disagreement on this point reveals how much people differ on how to do even basic reasoning about human biochemistry.  How then can I trust anyone?  How can the field proceed to start settling bigger, more interesting hypotheses?
+        -   At least this becomes a litmus test: if a writer says coffee does not hydrate, they&rsquo;re a huckster who did no homework and you&rsquo;d best avoid their book.
+16. (<span class="timestamp-wrapper"><span class="timestamp">[2022-01-29 Sat] </span></span> 3:1 for) For a majority of the population, exhorting &ldquo;eat less calories to lose weight&rdquo; either has no effect in practice or causes weight *gain*, not loss.
+17. (<span class="timestamp-wrapper"><span class="timestamp">[2022-01-29 Sat] </span></span> 1:1 for) Lack of sunlight is an epigenetic trigger for myopia.
+18. After cooking meat or vegetables, some nutrients (at least electrolytes) leak into the cooking water, which should always be consumed.  This is one problem with processed meats such as ham, the cooking water has been removed.  For flour-based stuff such as pasta, this is not important.
+
+Terminology
+
+-   &ldquo;Ketotic person&rdquo; &#x2013; someone (1) used to a ketogenic diet and (2) is in a state such that >50% of brain glucose use has been replaced by ketone use
+    -   assuredly met after eating ketogenic (averaging <20g carb/day) for 3+ weeks
 
 
 <a id="org3f4377c"></a>
@@ -345,7 +346,7 @@ A bias that can subtly influence our theories, maybe even bleed into research de
 
 <a id="org976fe27"></a>
 
-## Nutritionism
+## TODO Nutritionism
 
 <https://en.wikipedia.org/wiki/Nutritionism>
 
@@ -354,27 +355,25 @@ A bias that can subtly influence our theories, maybe even bleed into research de
 
 ## Empty calories
 
-The term &ldquo;empty calories&rdquo; is what George Orwell would recognize as **newspeak**, invented by the Coca Cola Company I believe, for whitewashing sugar.  The implication is you&rsquo;ll be fine eating sugar (&ldquo;it&rsquo;s just empty calories&rdquo;) so long as you also get other nutrients, and distracts from the fact that sugar metabolism itself causes damage which there is no canceling out.  Avoid this term because there is no such thing as empty calories, only good calories and bad calories.
+The term &ldquo;empty calories&rdquo; is what George Orwell would recognize as **newspeak**, used by the Coca Cola Company and its ilk for whitewashing sugar.  The implication is you&rsquo;ll be fine eating sugar (&ldquo;it&rsquo;s just empty calories&rdquo;) so long as you also get other nutrients, and distracts from the fact that sugar metabolism itself causes damage which there is no canceling out.  Avoid this term because there is no such thing as empty calories, only good calories and bad calories.
 
 
 <a id="org46aa777"></a>
 
 ## TODO Doctor education
 
-The curriculum for a medical doctor involves almost no nutrition schooling.  Harvard doctors get 2 hours of *total* of nutrition education.   (source?)  This means that like for the rest of us, much of what they know indirectly comes from news headlines.  When a doctor says &ldquo;mmhmm this looks bad, you need to eat less fat&rdquo; they are drawing on the same knowledge as your aunt or your brother-in-law.
+The curriculum for a medical doctor involves almost no nutrition schooling.  Harvard doctors have zero nutrition courses needed for a degree.  And at least in 2004, doctor educations in the US ranged from 2 to 24 hours of nutrition schooling (source?).  This means that like for the rest of us, much of what they know comes from our culture, not from their school.  When a doctor says &ldquo;mmhmm this looks bad, you need to eat less fat&rdquo; they are drawing on the same amount of knowledge as your nutrition-interested aunt or brother-in-law.
 
--   Q: I&rsquo;ve heard that doctors frequently get seminars on nutrition, paid by the ADA (American Diabetics Association) and other fronts of big agra &#x2013; meaning the money trail leads back to such trustworthy entities as the Coca Cola Company.  Is this true?
-
-I don&rsquo;t mean to be skeptical of experts.  It&rsquo;s just the reality that they&rsquo;re *not* experts.  Nor do I mean to be skeptical only of the mainstream, or of health care professionals.  You get no points for being &ldquo;alternative&rdquo;.  No matter their background, diet gurus of every stripe always seem to be peddling more than they can possibly know.  Everyone feels qualified to have an opinion.  Everyone feels it&rsquo;s *safe* to have an opinion, and this makes for a sea of Dunning-Kruger bullshit, a nightmare to navigate.
+I don&rsquo;t mean to be skeptical of experts.  It&rsquo;s just the reality that medical doctors usually are not experts.  Nor do I mean to be skeptical only of the mainstream, or of health care professionals&#x2026;   you get no points for being &ldquo;alternative&rdquo;.  No matter their background, diet gurus of every stripe always seem to be peddling more than they can possibly know.  Everyone feels qualified to have an opinion.  Everyone feels it&rsquo;s *safe* to have an opinion, and this makes for a sea of Dunning-Kruger bullshit, a nightmare to navigate when you just want to know what&rsquo;s true.
 
 
-<a id="orgefe3f0e"></a>
+<a id="org2fb0453"></a>
 
-## TODO Nutritionist and dietician educations
+## TODO Dietician education
 
 -   Q: What&rsquo;s the difference between a nutritionist and a dietician?
-    -   A: In the US and UK at least, dietician is a protected title, whereas anyone can claim to be a nutritionist.  However, it&rsquo;s much the same as Ph.D and MD being protected titles.  I think once you can follow someone&rsquo;s reasoning, their title shouldn&rsquo;t matter much to you.
--   Q: How much biochemistry is in the curriculum?  Because a mechanistic understanding of nutrition seems to me primarily a matter of biochemistry, with epidemiology used only to guide hypothesis generation.
+    -   A: In the US and UK at least, dietician is a protected title, whereas anyone can claim to be a nutritionist.  However, it&rsquo;s much the same as Ph.D and MD being protected titles.  Credentials can back up unqualified statements that &ldquo;would take too long to explain&rdquo;, but once someone takes the time to explain their reasoning to you, their title shouldn&rsquo;t matter much to you.
+-   Q: How much biochemistry is in the curriculum?  Because a mechanistic understanding of nutrition seems to me primarily a matter of biochemistry, with epidemiology used only to guide hypothesis generation.  Do they do things that way?
 -   Q: I&rsquo;ve heard that their textbooks and curricula are heavily influenced by the Coca Cola Company, Monsanto, and other facets of big agra. Is this true?
 
 
@@ -713,7 +712,7 @@ HOW MUCH LEUCINE IS IN 100g OF FOOD? From nutritiondata.self.com:
 So 1.2 to 1.7 grams of leucine in 100 g of meat. So 250 g of meat is minimum at one meal, 300 g a better minimum to be on the safe side.
 
 
-<a id="org67e922c"></a>
+<a id="orgbedebeb"></a>
 
 ## Teeth
 
@@ -772,8 +771,12 @@ The soil is where many nutrients come from &#x2013; plants grow in it, cattle ea
 
 ## Insulin
 
+Insulin seems to be a hormone of many jobs &#x2026; and the only one that will lower blood sugar, a role into which it is press-ganged, but we get side effects because it&rsquo;s not really for that.
 
-<a id="orgbedebeb"></a>
+Chronic high insulin levels
+
+
+<a id="orge8cc029"></a>
 
 ## Teeth
 
@@ -781,7 +784,7 @@ The soil is where many nutrients come from &#x2013; plants grow in it, cattle ea
 -   [Teeth: Help!  My Patient Wants to Fix Her Childs Cavity with&#x2026;Liver?!?!](http://thepaleohygienist.com/2013/05/24/help-my-patient-wants-to-fix-her-childs-cavity-with-liver/)
 -   [Teeth: Nutritional Cures for Damaged Teeth](http://www.marksdailyapple.com/nutritional-cures-for-damaged-teeth/)
 
-The skeletons of humans from before agriculture had perfect teeth and space enough in the mouth for every tooth.  Agriculture saw the arrival of a multitude of minor birth deformities, like the crowded teeth many of us have, and people got shorter statures and lived shorter lives. Only with modern medicine have we caught up to the lifespans naturally achieved by our ancestors.
+The skeletons of humans from before agriculture had perfect teeth and space enough in the mouth for every tooth.  Agriculture saw the arrival of a multitude of minor birth deformities, like the crowded teeth many of us have, and people got shorter statures and lived shorter lives.  This appears tied to malnutrition.
 
 
 <a id="org4668203"></a>
@@ -986,6 +989,11 @@ A takeaway:
 ## The ApoE4 gene
 
 AMY1 and ApoE4 weigh in on what diet is ideal for you personally.  Some will not do well on a low-fat high-starch diet.  For them, starch can cause even worse blood sugar spikes than if they were to just eat straight sugar.  As you know, all these blood sugar spikes lead to insulin resistance, obesity and heart disease.  For them, the only workable diet might be a high-fat animal-based diet.
+
+
+<a id="org14a93a6"></a>
+
+## Hemochromatosis
 
 
 <a id="org2bd51c2"></a>
