@@ -42,20 +42,21 @@
     11. [Genetic need of omega-3](#org71b4469)
     12. [How much seafood?](#org0cab385)
     13. [Leucine](#orgae29db2)
-    14. [Teeth](#org4a995d7)
-    15. [CLA](#orgfdbb1f9)
-    16. [Leaking nutrients](#org78623b9)
-    17. [Iodine](#org214d6f9)
-    18. [Soil](#org9dccef0)
-    19. [Insulin](#org5ac92b9)
-    20. [Teeth](#org768bbe2)
-    21. [Gut bacteria](#org4668203)
-    22. [&ldquo;Cholesterol&rdquo;: VLDL, LDL, HDL, TG and TC](#org60ed20b)
-    23. [Acid-base balance](#org1849f75)
-    24. [Pesticides](#orgd425944)
-    25. [GMO](#orge6c2abd)
-    26. [Difference between grass-fed and grain-fed](#orgeccb82a)
-    27. [Effects of ketosis](#orgd07e31d)
+    14. [CLA](#orgfdbb1f9)
+    15. [Leaking nutrients](#org78623b9)
+    16. [Iodine](#org214d6f9)
+    17. [Soil](#org9dccef0)
+    18. [Insulin](#org5ac92b9)
+    19. [Teeth](#org768bbe2)
+    20. [Gut bacteria](#org4668203)
+    21. [&ldquo;Cholesterol&rdquo;: VLDL, LDL, HDL, TG and TC](#org60ed20b)
+    22. [Acid-base balance](#org1849f75)
+    23. [Pesticides](#orgd425944)
+    24. [GMO](#orge6c2abd)
+    25. [Difference between grass-fed and grain-fed](#orgeccb82a)
+    26. [Effects of ketosis](#orgd07e31d)
+        1.  [Dawn phenomenon](#org810591d)
+    27. [Possible risks of a ketogenic diet](#orgc8f2ba1)
     28. [Effects of fasting](#org1d93ab9)
     29. [Methionine-glycine balance](#orgaed8fd2)
     30. [Meat toxins](#org456921d)
@@ -63,10 +64,13 @@
     32. [Gelatin, glycine, GAGs](#orgd94eb62)
     33. [Margarine](#orgfcde29b)
     34. [Saturated fat with carbohydrate](#orgf5626f7)
-    35. [Sweeteners](#org2d95287)
-    36. [The AMY1 gene](#orgceaec5d)
-    37. [The ApoE4 gene](#org5070dc2)
-    38. [Hemochromatosis](#org14a93a6)
+    35. [Caffeine](#org7af63ce)
+    36. [Sweeteners](#org2d95287)
+    37. [The AMY1 gene](#orgceaec5d)
+    38. [The ApoE4 gene](#org5070dc2)
+    39. [Hemochromatosis](#org7af08f1)
+    40. [Familial hypercholesterolemia](#org67f5ed4)
+    41. [ROS](#org917ef47)
 6.  [How the science is currently done](#org2bd51c2)
     1.  [Mouse chow](#org78f1357)
     2.  [Six types of research](#org25ba6a3)
@@ -74,16 +78,18 @@
     1.  [The lipid hypothesis](#orgb87be74)
     2.  [The diet-heart hypothesis](#org528a04b)
     3.  [The food volume hypothesis](#orgb4ed1bd)
-8.  [Famous large studies](#orgf4f9aed)
+8.  [Famous studies](#orgf34e145)
     1.  [Nurses&rsquo; Health Study](#org3b7c9cd)
     2.  [China-Cornell-Oxford project (&ldquo;the China Study&rdquo;)](#org5fe569b)
     3.  [Framingham Heart Study](#org5cc5cdd)
     4.  [Seven Countries Study](#orgdc9515f)
     5.  [Finnish Mental Hospital Study](#org68933c9)
+    6.  [Minnesota Starvation Experiment](#org9aa8a69)
 9.  [Questions](#org2261e2c)
 10. [What are we talking about in the first place?](#org7c97120)
     1.  [Questions I want answered before I make a political decision](#orgffde935)
 
+[How I live](2022-01-08-how-i-live.md)
 
 
 <a id="orgd554482"></a>
@@ -147,35 +153,36 @@ Carrying out Internal Double Crux, I&rsquo;ve found my *cruxes*.  If I believed 
     -   Alternatively expressed, my odds are 1:6 against that the human design indicates an EEA where it was common to consume plant carbs for a large share (say >33%) of its lifetime calories.
     -   <span class="timestamp-wrapper"><span class="timestamp">[2022-06-20 Mon] </span></span> In retrospect, this claim is hard to apply, because there was no single ancestral diet.  See [The AMY1 gene](#orgceaec5d).
     -   If you want to look at this more closely, there is plenty of rhetoric online about why e.g. the digestive tract, teeth, bipedal posture and other features mean we&rsquo;re vegan or that we&rsquo;re carnivore.  Google &rsquo;human design vegan&rsquo; for the pro-vegan arguments, &rsquo;human design carnivore&rsquo; for the opposite, and decide for yourself.
+6.  (<span class="timestamp-wrapper"><span class="timestamp">[2022-06-22 Wed] </span></span> 5:1 for) Certain corporations that stand to make a lot of money from the lowfat high-carb whole-grain low-cholesterol agenda, are currently meddling in Science in analogous fashion to what the tobacco industry did for nearly a century.  Unqualified, this looks like a conspiracy theory, so I&rsquo;ll try not to abuse it as a fully general excuse.  I&rsquo;m not a journalist and this page isn&rsquo;t a journalist piece.  But it fuels my intense skepticism towards the research abstracts and &rsquo;consensus&rsquo;.
 
 
 <a id="org539dfd4"></a>
 
 ## Other beliefs
 
-6.  Sugar is bad
-7.  (<span class="timestamp-wrapper"><span class="timestamp">[2022-06-20 Mon] </span></span> 20:1 for) Seed oils (rapeseed, sunflower &c) are uniformly harmful
+7.  Sugar is bad
+8.  (<span class="timestamp-wrapper"><span class="timestamp">[2022-06-20 Mon] </span></span> 20:1 for) Seed oils (rapeseed, sunflower &c) are uniformly harmful
     -   because not found in the EEA
     -   because all clinically successful diets have excluded them (see [Clinically successful diets](#org72ad6bf))
     -   because polyunsaturated fat is not great fuel (as a component of cell membranes it&rsquo;s one thing, but that application is a tiny fraction of calorie intake), we see lots of side effects when burning them &#x2013; oxidation &c&#x2026;
-8.  &ldquo;Processed food&rdquo; frequently not that healthy, but it depends on the processing
-9.  If an EEA culture had focused on forage over hunt, even for periods, calories would have been predominantly from root vegs, fruit, and the fat in insects such as worms, but not appreciably from nuts and not at all from seeds or grain.
+9.  &ldquo;Processed food&rdquo; frequently not that healthy, but it depends on what &ldquo;processing&rdquo; means
+10. If an EEA culture had focused on forage over hunt, even for periods, calories would have been predominantly from root vegs, fruit, and the fat in insects such as worms, but not appreciably from nuts and not at all from seeds or grain.
     1.  The insect point is interesting because it wouldn&rsquo;t occur to many Western theorists.  Of course when foraging in the Horn of Africa, there&rsquo;s no way you&rsquo;d skip over the insects you find along the way.  Cultures that left such free lunches on the table would get their numbers overtaken by cultures that did eat all thee food they found.
-10. Fiber is unnecessary
+11. Fiber is unnecessary
     -   [End the Fiber Fantasy](https://old.reddit.com/r/keto/comments/1lolqu/end_the_fiber_fantasy_everything_you_dont_want_to/), comments also enlightening
-11. Seafood is important for lifespan and healthspan
-12. In the long term, sweeteners act approximately as fattening as sugar
-13. (<span class="timestamp-wrapper"><span class="timestamp">[2022-06-18 Sat] </span></span> 3:1 for) Vitamin C deficiency can only occur if you have significant dietary carbs without dietary vitamin C, read grains (see [Vitamin C](#org328bdbf) section)
-14. (<span class="timestamp-wrapper"><span class="timestamp">[2022-06-18 Sat] </span></span> 15:1 for) Vitamin K2 deficiency makes teeth transparent & brittle
-15. Including bone broth in diet can elevate vitamin D levels despite not containing D itself
-16. Vitamin D supplementation generally helps short-term (but should not be sustained)
-17. Vitamin D supplementation is harmful if hanging out in the sun would *not* increase it (something else the bottleneck)
+12. Seafood is important for lifespan and healthspan
+13. In the long term, sweeteners act approximately as fattening as sugar
+14. (<span class="timestamp-wrapper"><span class="timestamp">[2022-06-18 Sat] </span></span> 3:1 for) Vitamin C deficiency can only occur if you have significant dietary carbs without dietary vitamin C, read grains (see [Vitamin C](#org328bdbf) section)
+15. (<span class="timestamp-wrapper"><span class="timestamp">[2022-06-18 Sat] </span></span> 15:1 for) Vitamin K2 deficiency makes teeth transparent & brittle
+16. Including bone broth in diet can elevate vitamin D levels despite not containing D itself
+17. Vitamin D supplementation generally helps short-term (but should not be sustained)
+18. Vitamin D supplementation is harmful if hanging out in the sun would *not* increase it (something else the bottleneck)
     -   Clarification: suppose you take a person with low D levels, tell them to go out in the sun for two hours a day, and test them a few weeks later. Many people will show a much higher level of vit D, but some people will not have shown any increase. For these people, it&rsquo;s a bad idea to force it up with supplements, as there&rsquo;s a reason the body chose not to produce D, such as lack of magnesium or calcium.
-18. (<span class="timestamp-wrapper"><span class="timestamp">[2022-06-18 Sat] </span></span> 2:1 for) Within 12 months, it&rsquo;s hard to get nutrient overload symptoms from eating only meat, provided the meat is fatty
-19. (<span class="timestamp-wrapper"><span class="timestamp">[2022-06-18 Sat] </span></span> 3:1 for) Within 12 months, it&rsquo;s hard to get nutrient deficiency symptoms from eating only meat, provided the meat is fatty
-20. The immune system works better in a fasted state
-21. (<span class="timestamp-wrapper"><span class="timestamp">[2022-06-18 Sat] </span></span> 5:1 for) Staying in a ketotic metabolism for 300 days a year will lengthen an average young adult&rsquo;s lifespan by 5-20 years and healthspan more than proportionately
-22. (<span class="timestamp-wrapper"><span class="timestamp">[2022-06-18 Sat] </span></span> 20:1 for) When giving an Oral Glucose Tolerance Test (OGTT) to a ketotic person (i.e. feeding them 150g of sugar) causes a hyperinsulinemic response (i.e. they react like a diabetic), it does not indicate a chronic problem with this person: letting them acclimate to carbs for a day first will ensure a normal response to OGTT thereafter.
+19. (<span class="timestamp-wrapper"><span class="timestamp">[2022-06-18 Sat] </span></span> 2:1 for) Within 12 months, it&rsquo;s hard to get nutrient overload symptoms from eating only meat, provided the meat is fatty
+20. (<span class="timestamp-wrapper"><span class="timestamp">[2022-06-18 Sat] </span></span> 3:1 for) Within 12 months, it&rsquo;s hard to get nutrient deficiency symptoms from eating only meat, provided the meat is fatty
+21. The immune system works better in a fasted state
+22. (<span class="timestamp-wrapper"><span class="timestamp">[2022-06-18 Sat] </span></span> 5:1 for) Staying in a ketotic metabolism for 300 days a year will lengthen an average young adult&rsquo;s lifespan by 5-20 years and healthspan more than proportionately
+23. (<span class="timestamp-wrapper"><span class="timestamp">[2022-06-18 Sat] </span></span> 20:1 for) When giving an Oral Glucose Tolerance Test (OGTT) to a ketotic person (i.e. feeding them 150g of sugar) causes a hyperinsulinemic response (i.e. they react like a diabetic), it does not indicate a chronic problem with this person: letting them acclimate to carbs for a day first will ensure a normal response to OGTT thereafter.
     -   Specification: The above is true for patients that do not already have diabetes.  Important related belief (<span class="timestamp-wrapper"><span class="timestamp">[2022-01-29 Sat] </span></span> 7:1 for): a ketogenic diet will never cause the onset of diabetes.
 
 1.  Fasting and IF lower the &ldquo;bodyweight set-point&rdquo;
@@ -453,15 +460,15 @@ The body seems to allow a certain range of blood glucose, 4-6 mmol/l, and the mo
 2.  Store it as glycogen.
 3.  Do *de novo lipogenesis*, and store it as fat.
 
-Step \\#1 sounds great, but there&rsquo;s only so much glucose you can remove this way.  A meal may have 1000 calories, and you burn about 100 calories per hour being alive and if you do cardio exercise and sweat your ass off for an hour, maybe that&rsquo;s another 200, but that leaves 700 that still has to proceed to steps \\#2 and \\#3 this hour.  Since nobody does an hour of cardio after every single meal, most of the time that figure is 900.
+Step #1 sounds great, but there&rsquo;s only so much glucose you can remove this way.  A meal may have 1000 calories, and you burn about 100 calories per hour being alive and if you do cardio exercise and sweat your ass off for an hour, maybe that&rsquo;s another 200, but that leaves 700 that still has to proceed to steps #2 and #3 this hour.  Since nobody does an hour of cardio after every single meal, most of the time that figure is 900.
 
-Keep in mind that on a high-carb diet, your muscle glycogen stores are always full, so there&rsquo;s only liver glycogen to re-fill and then proceed to step \\#3.  In this thought experiment, you had just been fasting for some time, so it&rsquo;s likely the muscle glycogen stores also have free space.
+Keep in mind that on a high-carb diet, your muscle glycogen stores are always full, so there&rsquo;s only liver glycogen to re-fill and then proceed to step #3.  In this thought experiment, you had just been fasting for some time, so it&rsquo;s likely the muscle glycogen stores also have free space.
 
 TODO: does glucose go to the liver at all or it has to be fructose?
 
 The sum of all muscle glycogen, when full,
 
-(In practice, step \\#3 must be what happens for most of the food you eat.  It&rsquo;s stored and then released continuously over time.)
+(In practice, step #3 must be what happens for most of the food you eat.  It&rsquo;s stored and then released continuously over time.)
 
 (You do not want a very high level of blood glucose, as it would kill you.  So after a high-carbohydrate meal, the blood glucose is rising, rising, and rising.)
 
@@ -523,17 +530,18 @@ What&rsquo;s left to watch for then?  How *do* you lose weight if the body is ju
 Timeline
 
 -   Process of hydrogenation discovered in France
--   Procter & Gamble sales halved due to the journalist Sinclair&rsquo;s book about their lard factory. Also due to the rise of electricity, gradually less sales of lard (as we don&rsquo;t need to make candles anymore)
+-   Procter & Gamble sales halved due to the Sinclair&rsquo;s journalist book documenting conditions in their lard factory.  Also due to the rise of electricity, gradually less sales of lard (as we don&rsquo;t need to make candles anymore)
 -   Procter & Gamble starts hydrogenating oil from cottonseeds, previously a waste product dumped in rivers (not even fed to animals): first margarine born
 -   Vitamin C discovered, scurvy solved: fruit necessary!
 -   Vitamin B1 discovered
 -   1941(?) RDAs published (by which org?)
 -   1948 Framingham Heart Study begins &#x2013; and continues to this day
--   USDA receives mandate to take care of health recommendations(?), giving it a conflicting set of drives
 -   Diet-heart hypothesis born as Ancel Keys starts in on the idea of saturated fat causing heart disease b/c &#x2026;
 -   1970? Sweden publishes world first food pyramid, designed to help consumers shave costs.  Very similar to USDA&rsquo;s later food pyramid, which will purport to be for health.
 -   Senator George McGovern watches the starvation movie, vows to make a difference, ultimately resulting in the food stamps program (and grain subsidies?)
--   Great Grain Robbery ensures McGovern loses the presidency
+-   1973 Great Grain Robbery ensures McGovern loses the presidency
+-   1977 McGovern&rsquo;s Select Committee on Nutrition and Human Needs, about to be axed, announces US public health dietary advice beyond just getting everyone fed
+-   USDA receives mandate to take care of health recommendations(?), giving it a conflicting set of drives
 -   Luise Light and team of top nutritionists employed by USDA to figure out dietary guidelines
 -   Luise Light submits research-based food pyramid to USDA
 -   1992 USDA pre-publishes(?) distorted version of Luise Light&rsquo;s Food Pyramid, with many times more grain than Light suggested
@@ -721,18 +729,13 @@ HOW MUCH LEUCINE IS IN 100g OF FOOD? From nutritiondata.self.com:
 So 1.2 to 1.7 grams of leucine in 100 g of meat. So 250 g of meat is minimum at one meal, 300 g a better minimum to be on the safe side.
 
 
-<a id="org4a995d7"></a>
-
-## Teeth
-
-
 <a id="orgfdbb1f9"></a>
 
 ## CLA
 
 Conjugated Linoleic Acid (CLA) is a fat found mainly in grass-fed ruminant fat, and to a small extent in champignons (button mushrooms).
 
-Interesting because it&rsquo;s an example of a natural trans fat, as opposed to an artificial trans fat.  It&rsquo;s great for health, but I forgot why.
+Interesting because it&rsquo;s an example of a natural trans fat, as opposed to an artificial trans fat, and good rather than bad for health, but I don&rsquo;t know how much.
 
 
 <a id="org78623b9"></a>
@@ -789,11 +792,9 @@ Chronic high insulin levels
 
 ## Teeth
 
--   [Teeth: Dental Health And The Paleo Diet](http://www.gnolls.org/3253/dental-health-and-the-paleo-diet-gingival-sulcus-depth-periodontal-disease-systemic-inflammation-and-some-n1-data/)
--   [Teeth: Help!  My Patient Wants to Fix Her Childs Cavity with&#x2026;Liver?!?!](http://thepaleohygienist.com/2013/05/24/help-my-patient-wants-to-fix-her-childs-cavity-with-liver/)
--   [Teeth: Nutritional Cures for Damaged Teeth](http://www.marksdailyapple.com/nutritional-cures-for-damaged-teeth/)
-
-The skeletons of humans from before agriculture had perfect teeth and space enough in the mouth for every tooth.  Agriculture saw the arrival of a multitude of minor birth deformities, like the crowded teeth many of us have, and people got shorter statures and lived shorter lives.  This appears tied to malnutrition.
+-   [Dental Health And The Paleo Diet](http://www.gnolls.org/3253/dental-health-and-the-paleo-diet-gingival-sulcus-depth-periodontal-disease-systemic-inflammation-and-some-n1-data/)
+-   [Help!  My Patient Wants to Fix Her Childs Cavity with&#x2026;Liver?!?!](http://thepaleohygienist.com/2013/05/24/help-my-patient-wants-to-fix-her-childs-cavity-with-liver/)
+-   [Nutritional Cures for Damaged Teeth](http://www.marksdailyapple.com/nutritional-cures-for-damaged-teeth/)
 
 
 <a id="org4668203"></a>
@@ -831,15 +832,15 @@ But is diversity important?  Poor gut biodiversity, such as after a round of ant
 
 [Pesticides](http://www.marksdailyapple.com/why-i-dont-trust-the-acceptable-daily-intake-levels-for-pesticides/)
 
-See the Roundup pesticide, still in use today.  I&rsquo;m told that when they tested whether it&rsquo;s safe for humans, they tested only the primary chemical and set safe limits based on that, but the final product (what&rsquo;s actually sprayed) contains and other chemicals that boost the primary chemical&rsquo;s effect something like a hundredfold.  If true, this concerns me greatly, since then the residue on our plants likely far exceed the safe limits.
+See the Roundup pesticide, still in use today.  I&rsquo;m told that when they tested whether it&rsquo;s safe for human consumption, they tested only the primary chemical and set safe limits based on that, but the final product that&rsquo;s actually goes in the spray contains other chemicals that boost the primary chemical&rsquo;s effect about 125 times.  If true, this concerns me, since then the residue on our plants likely far exceeds the safe limits.
 
 ---
 
-When they test whether a pesticide is harmful, they test it on human cells (called *in vitro* testing) &#x2013; they neglect to test the *other* part of the human animal: the bacteria in your gut, which are required for health, many species of which demonstrate severe weakness to pesticides &#x2013; after all, they&rsquo;re roughly what pesticides are designed to kill.
+When they test whether a pesticide is harmful, they test it on human cells in a test tube (called *in vitro* testing) &#x2013; they neglect to test the *other* part of the human animal: the bacteria in your gut, which are required for health, many species of which demonstrate severe weakness to pesticides &#x2013; after all, they&rsquo;re roughly what pesticides are designed to kill.
 
-Organic foods aren&rsquo;t pesticide-free &#x2013; they just use other kinds of pesticides, that are perhaps less effective but more of them are used.  I heard about one farmer kid saying, &ldquo;I love organic &#x2013; I get to spray it twice as much&rdquo;.
+Organic foods aren&rsquo;t pesticide-free &#x2013; they just use other kinds of pesticides, that are perhaps less effective but more of them are used.  I heard about one farmer kid saying, &ldquo;I love organic &#x2013; I get to spray it twice as much&rdquo;.  That paints a pretty picture.
 
-While organic isn&rsquo;t pesticide-free, it tends to be safer(?) to eat.
+While organic isn&rsquo;t pesticide-free, it tends to be safer(?) to eat.  I guess.  But it likely depnds on the exact type and the law in your country.
 
 There is one way to avoid pesticides &#x2013; and that is to grow food that doesn&rsquo;t need pesticide: animals.  Of course, that supposes they&rsquo;re not fed farmed food, just grass.
 
@@ -867,6 +868,35 @@ Maybe it was a fluke because the amount depends on which animal the FDA/USDA/(wh
 ## Effects of ketosis
 
 The best book on ketosis: *The Art and Science of Low Carbohydrate Living*, by Stephen Phinney (MD, Ph.D) and Jeff Volek (RD, Ph.D).
+
+
+<a id="org810591d"></a>
+
+### Dawn phenomenon
+
+Dawn phenomenon: high fasting blood glucose in the morning (around 5.5 mmol/l).  This makes sense because a fasted state means there&rsquo;s a lot of the hormone glucagon, which encourages releasing glucose into the blood.  Healthy carbivores (not diabetic ones) have low BG in the morning (around 4.0 mmol/l) despite all that glucagon.  A theory for why: they were just barely able to release enough glucose to keep up with demand during the night, and they&rsquo;re obviously using so much because they&rsquo;re not keto-adapted.  We could test this theory by checking how fast the liver catalyzes its glycogen given the typical glucagon level, and compare against energy demand (a keto-adapted person uses 75% less glucose).
+
+We should beware of assuming that low morning BG is normal.  We know high fasted BG is a risk factor *for carbivores*, because it indicates metabolic syndrome (prediabetes or diabetes).  On a ketogenic diet, a high fasting BG is not an indicator for metabolic syndrome, since the ketogenic diet itself almost by definition means the patient&rsquo;s metabolic syndrome is on the way out, getting less insulin-resistant for every day that passes.  I don&rsquo;t know if fasting BG known to correlate to any other problem, so we have no basis left on which to suspect the dawn phenomenon is anything pathological.
+
+It may be interesting to know that as soon as the ketotic person consumes a ketogenic breakfast, the blood sugar will not go up, but rather drop.  We&rsquo;ve been trained to think meals make BG go up, but that&rsquo;s for carbivores. The ketotic person&rsquo;s BG peaks when waking up and gently falls for the rest of the day, falling particularly sharply with meals, and at the end of the day it might be at 4.0 mmol/l.
+
+With multi-day fasting, the dawn phenomenon goes away.
+
+
+<a id="orgc8f2ba1"></a>
+
+## Possible risks of a ketogenic diet
+
+Sometimes mentioned:
+
+-   Increased risk of sudden cardiac event
+    -   This one&rsquo;s a mystery to me since the heart works more efficiently and stably on a ketogenic diet (that being why it&rsquo;s great for endurance sports).  Could be a spurious correlation someone once observed; look into this.
+-   Thyroid
+    -   This seems a legit concern, going by at least one hunter-gatherer culture that Weston Price observed, where they would go so far as to feed thyroid glands to couples trying to conceive, taken from animals in mating season (if I remember correctly) when the gland would be enlarged.  Thyroid activity goes up for some reason with carbohydrate intake, but it seems it can be sufficient to have some carbohydrate feasts every 3 weeks or so.  In addition, increasing intake of iodine helps.
+-   Kidney/liver stones
+    -   Stones come in many kinds, can be composed of different substances.  It&rsquo;s feasible that a sudden diet change could contribute to building some kinds of stones, but it can also be the case that the stones were already there and the gallbladder only started trying to pass it because it&rsquo;s emitting more bile to digest all the dietary fat you now consume.  An upshot of cholesterol is it&rsquo;s used to make bile and may prevent some stones, which is a great reason to avoid statins (cholesterol-reducing drugs).  That&rsquo;s all I know.
+
+Sometimes a source will spread FUD (fear, uncertainty and doubt) on account of risking &ldquo;acidosis&rdquo; &#x2013; this is a great litmus test because it indicates that the source does not tend to do their homework.  Ketoacidosis cannot occur in a healthy person, even if they were to eat nothing for months (the most ketogenic diet possible).  Per Phinney and Volek, a Very Low Carb diet means blood ketone level maxes at around 3.0, and fasting means it maxes around 5.0.  Tiny amounts of insulin regulate this.   Diabetic ketoacidosis (DKA) is a runaway process exceeding 20 mmol/l due to failure to respond to or produce insulin.  This isn&rsquo;t controversial.
 
 
 <a id="org1d93ab9"></a>
@@ -968,6 +998,13 @@ The body can produce some amounts of glycine of its own, expending folate to do 
 A 2011 meta-analysis by a Netherlands journal concluded that saturated fat wasn&rsquo;t anything to worry about except maybe when combining them with a lot of carbohydrate.
 
 
+<a id="org7af63ce"></a>
+
+## Caffeine
+
+EFSA (European Food Safety Authority) says that intake of up to 400mg/day do not raise safety concerns, and that a 200ml cup of filter coffee has 90mg of caffeine.  So four cups/day. <https://www.efsa.europa.eu/en/topics/topic/caffeine>
+
+
 <a id="org2d95287"></a>
 
 ## Sweeteners
@@ -992,12 +1029,26 @@ A takeaway:
 
 ## The ApoE4 gene
 
-AMY1 and ApoE4 weigh in on what diet is ideal for you personally.  Some will not do well on a low-fat high-starch diet.  For them, starch can cause even worse blood sugar spikes than if they were to just eat straight sugar.  As you know, all these blood sugar spikes lead to insulin resistance, obesity and heart disease.  For them, the only workable diet might be a high-fat animal-based diet.
+Genes like AMY1 and ApoE4 weigh in on what diet is ideal for you personally.  Some people will not do well on a low-fat high-starch diet.  For them, starch can cause even worse blood sugar spikes than if they were to just eat straight sugar.  As we know, all these blood sugar spikes lead to insulin resistance, obesity and heart disease.  For them, a high-carb diet may never be a workable alternative.
 
 
-<a id="org14a93a6"></a>
+<a id="org7af08f1"></a>
 
 ## Hemochromatosis
+
+A genetic issue that makes you store excessive amounts of iron in your body.  By the time your symptoms show up and the health care system realizes what&rsquo;s wrong with you, you&rsquo;ll be in your 40s and a lot of irreversible damage has already built up.
+
+So it&rsquo;s good to check for this before your 30s or so.
+
+
+<a id="org67f5ed4"></a>
+
+## Familial hypercholesterolemia
+
+
+<a id="org917ef47"></a>
+
+## ROS
 
 
 <a id="org2bd51c2"></a>
@@ -1076,9 +1127,9 @@ Started by Nikolai Anichkov in 1913 when he found that feeding rabbits large amo
 ## The food volume hypothesis
 
 
-<a id="orgf4f9aed"></a>
+<a id="orgf34e145"></a>
 
-# Famous large studies
+# Famous studies
 
 
 <a id="org3b7c9cd"></a>
@@ -1117,6 +1168,11 @@ Sometimes, people cite the FHS to support a connection between cholesterol-rich 
 <a id="org68933c9"></a>
 
 ## Finnish Mental Hospital Study
+
+
+<a id="org9aa8a69"></a>
+
+## Minnesota Starvation Experiment
 
 
 <a id="org2261e2c"></a>
@@ -1161,11 +1217,11 @@ Nutrition science can be a hot potato, since people approach it from different l
     3.  Animal suffering; especially talking about CAFO (Concentrated Animal Feeding Operations), but also life quality for non-CAFO animals
     4.  Animal killing: how many animals killed and how old they&rsquo;re allowed to get
 
-In this page, I talk **only about \\#3**.  While obesity can be a symptom of an unhealthy diet, I&rsquo;m not looking for &ldquo;the secret to weight loss&rdquo;, so \\#1 is no focus.  Similarly for \\#2, athletic performance long-term can be evidence that the diet is good, but again it&rsquo;s not my focus.
+In this page, I talk **only about #3**.  While obesity can be a symptom of an unhealthy diet, I&rsquo;m not looking for &ldquo;the secret to weight loss&rdquo;, so #1 is no focus.  Similarly for #2, athletic performance long-term can be evidence that the diet is good, but again it&rsquo;s not my focus.
 
-I find \\#4 interesting, but we need to keep our eyes on the ball for this page.  I feel that before I can make political my way of life, I need to analyze \\#3 in isolation, because the question of **what foods make people healthy** will impact part of the question of **which society-wide food practices do the most good**, so that I can then campaign for these.
+I find #4 interesting, but we need to keep our eyes on the ball for this page.  I feel that before I can make political my way of life, I need to analyze #3 in isolation, because the question of **what foods make people healthy** will impact part of the question of **which society-wide food practices do the most good**, so that I can then campaign for these.
 
-Of course \\#3 can be analyzed ad infinitum, but we can stop analyzing at a prespecified stopping condition.  For me it&rsquo;s when I&rsquo;ve picked the low-hanging fruit with regards to answerable questions that do have answers today &#x2013; basically try to map how everything fits together, identify my confusions, put them in the Questions section, and try to answer them, spending up to approx. 10 hours per question&#x2026;
+Of course #3 can be analyzed ad infinitum, but we can stop analyzing at a prespecified stopping condition.  For me it&rsquo;s when I&rsquo;ve picked the low-hanging fruit with regards to answerable questions that do have answers today &#x2013; basically try to map how everything fits together, identify my confusions, put them in the Questions section, and try to answer them, spending up to approx. 10 hours per question&#x2026;
 
 
 <a id="orgffde935"></a>
