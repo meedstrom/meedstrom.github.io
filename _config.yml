@@ -30,12 +30,12 @@ github_username:  meedstrom
 permalink: /:title/
 
 # Build settings
-# theme: jekyll-theme-midnight
-remote_theme: pages-themes/midnight@v0.2.0
+theme: jekyll-theme-midnight
+#remote_theme: pages-themes/midnight@v0.2.0
 plugins:
   - jekyll-feed
-  - jekyll-remote-themes
-  - jekyll-theme-midnight
+#  - jekyll-remote-themes
+#  - jekyll-theme-midnight
 
 # Exclude from processing.
 # The following items will not be processed, by default.
