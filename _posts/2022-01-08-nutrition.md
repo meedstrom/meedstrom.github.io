@@ -4,10 +4,7 @@
 1.  [Self-intro](#orgd554482)
     1.  [Past me (2013)](#org0941e76)
     2.  [Current me (2022)](#org3636f72)
-2.  [Beliefs](#org31fbebe)
-    1.  [Cruxes for low-carb](#org5ae0c57)
-    2.  [Other beliefs](#org539dfd4)
-3.  [Perspectives and thought experiments](#org88eae66)
+2.  [Perspectives and thought experiments](#org88eae66)
     1.  [Via negativa](#orgb9090e8)
     2.  [&ldquo;Fat&rdquo; means lipids or excess weight, not both](#org3817439)
     3.  [20 calories a day](#org7068f77)
@@ -20,14 +17,14 @@
     10. [Dietitian education](#org8eb1fd7)
     11. [Energy mobilization](#org4a452a5)
         1.  [Part One: Fasted](#org65e8430)
-        2.  [Part Deux: LCHF](#org0b7cae5)
-        3.  [Part Tres: High carb](#orgb08f21d)
+        2.  [Part Two: LCHF](#orgb93de0a)
+        3.  [Part Three: High carb](#org07f1de0)
     12. [What makes an amino acid essential?](#org4124dc4)
     13. [What does it mean to &ldquo;need&rdquo; a nutrient?](#org2e84835)
     14. [Components of hunger: Satiety and satiation](#org2f7f390)
     15. [What if the food volume hypothesis is wrong?](#orga647188)
     16. [Timeline behind the mainstream memes](#orgc6fe3ec)
-4.  [Findings & interpretations](#org5769f49)
+3.  [Findings & interpretations](#org5769f49)
     1.  [Clinically successful diets](#org72ad6bf)
     2.  [Vitamin C](#org328bdbf)
     3.  [Vitamin D](#org94b69da)
@@ -60,21 +57,25 @@
     30. [Gelatin, glycine, GAGs](#orgd94eb62)
     31. [Saturated fat with carbohydrate](#orgf5626f7)
     32. [Caffeine](#org7af63ce)
-    33. [The AMY1 gene](#orgceaec5d)
-    34. [The ApoE4 gene](#org5070dc2)
-    35. [Hemochromatosis](#org7af08f1)
-    36. [Familial hypercholesterolemia](#org67f5ed4)
-    37. [Effects of fasting](#org1d93ab9)
-    38. [Effects of ketosis](#orgd07e31d)
+    33. [Coffee](#org8d305a1)
+    34. [The AMY1 gene](#orgceaec5d)
+    35. [The ApoE4 gene](#org5070dc2)
+    36. [Hemochromatosis](#org7af08f1)
+    37. [Familial hypercholesterolemia](#org67f5ed4)
+    38. [Effects of fasting](#org1d93ab9)
+    39. [Effects of ketosis](#orgd07e31d)
         1.  [Sodium & potassium loss](#orgcb69e33)
         2.  [Dawn phenomenon](#org810591d)
-    39. [Possible risks of a ketogenic diet](#orgc8f2ba1)
-    40. [Preferred energy source?](#orgec33a93)
-    41. [Effects of consuming carbohydrate](#org3fe5055)
-    42. [ROS](#org917ef47)
-    43. [Insulin](#org5ac92b9)
-    44. [Antinutrients](#orgb137dce)
-    45. [Sweet liver](#orga8517f2)
+    40. [Possible risks of a ketogenic diet](#orgc8f2ba1)
+    41. [Preferred energy source?](#orgec33a93)
+    42. [Effects of consuming carbohydrate](#org3fe5055)
+    43. [ROS](#org917ef47)
+    44. [Insulin](#org5ac92b9)
+    45. [Antinutrients](#orgb137dce)
+    46. [Sweet liver](#orga8517f2)
+4.  [Beliefs](#org31fbebe)
+    1.  [Cruxes for low-carb](#org5ae0c57)
+    2.  [Other beliefs](#org539dfd4)
 5.  [How the science is currently done](#org2bd51c2)
     1.  [Mouse chow](#org78f1357)
     2.  [Six types of research](#org25ba6a3)
@@ -100,6 +101,11 @@
 10. [What are we talking about in the first place?](#org7c97120)
     1.  [Questions I want answered before I make a political decision](#orgffde935)
 
+----
+title: Nutrition science
+----
+
+:ID:       e1a9a6da-35c2-4e47-8645-784d20aafe79
 
 
 <a id="orgd554482"></a>
@@ -138,96 +144,9 @@ My outlook on optimal nutrition is a bit different from 2013-me and more flexibl
 
 If you optimize a diet for specific nutrients, I think you&rsquo;re just [Goodharting](https://en.wikipedia.org/wiki/Goodhart%27s_law) it: targeting a measure and not its underlying cause.  In Kuhnian terms, the field of nutrition may not yet have gotten out of the stage called [pre-science](https://www.simplypsychology.org/Kuhn-Paradigm.html), but I&rsquo;m not sure if it&rsquo;s that or it&rsquo;s just in the throes of a paradigm shift, or if it&rsquo;s something about its intermix with government politics and the food industry that twists it into an inertia-laden slow-changing mess where famous researchers feel they must not admit any mistakes.
 
+Mind that it being a pre-science is not a ding.  It&rsquo;s exciting!  Uncharted territory (even if few people realize it&rsquo;s uncharted)!
+
 At this point I&rsquo;d only expect a holistic perspective to provide good answers, provided of course that you keep your pet holistic theory falsifiable and are in a position to learn from predictive failure.  That is, you&rsquo;ll swap out the holistic framework you&rsquo;re using for a different one when surprising evidence turns up, rather than explain away the evidence so you can keep the framework unmodified.  Any evidence should result in *some* modification to your framework.  Be like astronomy, not like astrology; be specific in your predictions, don&rsquo;t move the goalposts, be quick to abandon hypotheses, and don&rsquo;t maintain any unfalsifiable claims unless you can causally tie them to a different-but-related claim that is falsifiable.
-
-
-<a id="org31fbebe"></a>
-
-# Beliefs
-
-Updated <span class="timestamp-wrapper"><span class="timestamp">[2022-06-20 Mon]</span></span>
-
-Okay, I want critique on my nutrition world-view, so here&rsquo;s a bunch of claims I currently believe, in no particular order. I tried to make them concrete.  Maybe one day I&rsquo;ll look back on this version and be embarrassed, but that&rsquo;s good.
-
-
-<a id="org5ae0c57"></a>
-
-## Cruxes for low-carb
-
-Carrying out Internal Double Crux, I&rsquo;ve found my *cruxes*.  If I believed differently on these points, my nutrition outlook would change in radical ways.
-
-1.  Ketones appear so positive for health, how do we explain that if we&rsquo;re not meant to spend much time ketogenic?  Ergo we&rsquo;re meant to do so.
-2.  High insulin load (total insulin released over a day) appears so negative for health, how do you explain that if low-fat high-carb is good?  Ergo we&rsquo;re not meant to do so often.
-3.  Calories and protein from animal sources both appear better-adapted for humans than the same from plant sources
-    -   (this seems the case for all animals, as even herbivores eat meat opportunistically, and it&rsquo;s a priori reasonable that the building blocks of an animal would be good raw material for the body of an animal)
-4.  **The EEA argument** (<span class="timestamp-wrapper"><span class="timestamp">[2022-05-08 Sun] </span></span> 10:1 for):  The things the typical animal of a given species ate over a lifetime in its Environment of Evolutionary Adaptedness (EEA) reflects so accurately what&rsquo;s healthy for that species, that you can treat these claims as synonymous: &ldquo;we ate like this in the past&rdquo; and &ldquo;this is healthy for us&rdquo;.
-5.  **The human design argument** (<span class="timestamp-wrapper"><span class="timestamp">[2022-06-20 Mon] </span></span> 6:1 for): Among primates, *homo sapiens* appears to have been shaped by consuming quantities of meat far in excess of the &ldquo;300g of red meat a week&rdquo; some authorities recommend, and especially animal fat. (Some have called it a &rsquo;fativore&rsquo; because it&rsquo;s different from carnivores in this regard.)
-    -   Alternatively expressed, my odds are 1:6 against that the human design indicates an EEA where it was common to consume plant carbs for a large share (say >33%) of its lifetime calories.
-    -   <span class="timestamp-wrapper"><span class="timestamp">[2022-06-20 Mon] </span></span> In retrospect, this claim is hard to apply, because there was no single ancestral diet.  See [The AMY1 gene](#orgceaec5d).
-    -   If you want to look at this more closely, there is plenty of rhetoric online about why e.g. the digestive tract, teeth, bipedal posture and other features mean we&rsquo;re vegan or that we&rsquo;re carnivore.  Google &rsquo;human design vegan&rsquo; for the pro-vegan arguments, &rsquo;human design carnivore&rsquo; for the opposite, and decide for yourself.
-6.  (<span class="timestamp-wrapper"><span class="timestamp">[2022-06-22 Wed] </span></span> 5:1 for) Certain corporations that stand to make a lot of money from the lowfat high-carb whole-grain low-cholesterol agenda, are currently meddling in Science in analogous fashion to what the tobacco industry did for nearly a century.  Unqualified, this looks like a conspiracy theory, so I&rsquo;ll try not to abuse it as a fully general excuse.  I&rsquo;m not a journalist and this page isn&rsquo;t a journalist piece.  But it fuels my intense skepticism towards the research abstracts and &rsquo;consensus&rsquo;.
-
-
-<a id="org539dfd4"></a>
-
-## Other beliefs
-
-7.  Sugar is bad
-8.  (<span class="timestamp-wrapper"><span class="timestamp">[2022-06-20 Mon] </span></span> 20:1 for) Seed oils (rapeseed, sunflower &c) are uniformly harmful
-    -   because not found in the EEA
-    -   because all clinically successful diets have excluded them (see [Clinically successful diets](#org72ad6bf))
-    -   because polyunsaturated fat is not great fuel (as a component of cell membranes it&rsquo;s one thing, but that application is a tiny fraction of calorie intake), we see lots of side effects when burning them &#x2013; oxidation &c&#x2026;
-9.  &ldquo;Processed food&rdquo; frequently not that healthy, but it depends on what &ldquo;processing&rdquo; means
-10. If an EEA culture had focused on forage over hunt, even for periods, calories would have been predominantly from root vegs, fruit, and the fat in insects such as worms, but not appreciably from nuts and not at all from seeds or grain.
-    1.  The insect point is interesting because it wouldn&rsquo;t occur to many Western theorists.  Of course when foraging in the Horn of Africa, there&rsquo;s no way you&rsquo;d skip over the insects you find along the way.  Cultures that left such free lunches on the table would get their numbers overtaken by cultures that did eat all thee food they found.
-11. Fiber is unnecessary
-    -   [End the Fiber Fantasy](https://old.reddit.com/r/keto/comments/1lolqu/end_the_fiber_fantasy_everything_you_dont_want_to/), comments also enlightening
-12. Seafood is important for lifespan and healthspan
-13. In the long term, sweeteners act approximately as fattening as sugar
-14. (<span class="timestamp-wrapper"><span class="timestamp">[2022-06-18 Sat] </span></span> 3:1 for) Vitamin C deficiency can only occur if you have significant dietary carbs without dietary vitamin C, read grains (see [Vitamin C](#org328bdbf) section)
-15. (<span class="timestamp-wrapper"><span class="timestamp">[2022-06-18 Sat] </span></span> 15:1 for) Vitamin K2 deficiency makes teeth transparent & brittle
-16. Including bone broth in diet can elevate vitamin D levels despite not containing D itself
-17. Vitamin D supplementation generally helps short-term (but should not be sustained)
-18. Vitamin D supplementation is harmful if hanging out in the sun would *not* increase it (something else the bottleneck)
-    -   Clarification: suppose you take a person with low D levels, tell them to go out in the sun for two hours a day, and test them a few weeks later. Many people will show a much higher level of vit D, but some people will not have shown any increase. For these people, it&rsquo;s a bad idea to force it up with supplements, as there&rsquo;s a reason the body chose not to produce D, such as lack of magnesium or calcium.
-19. (<span class="timestamp-wrapper"><span class="timestamp">[2022-06-18 Sat] </span></span> 2:1 for) Within 12 months, it&rsquo;s hard to get nutrient overload symptoms from eating only meat, provided the meat is fatty
-20. (<span class="timestamp-wrapper"><span class="timestamp">[2022-06-18 Sat] </span></span> 3:1 for) Within 12 months, it&rsquo;s hard to get nutrient deficiency symptoms from eating only meat, provided the meat is fatty
-21. The immune system works better in a fasted state
-22. (<span class="timestamp-wrapper"><span class="timestamp">[2022-06-18 Sat] </span></span> 5:1 for) Staying in a ketotic metabolism for 300 days a year will lengthen an average young adult&rsquo;s lifespan by 5-20 years and healthspan more than proportionately
-23. (<span class="timestamp-wrapper"><span class="timestamp">[2022-06-18 Sat] </span></span> 20:1 for) When giving an Oral Glucose Tolerance Test (OGTT) to a ketotic person (i.e. feeding them 150g of sugar) causes a hyperinsulinemic response (i.e. they react like a diabetic), it does not indicate a chronic problem with this person: letting them acclimate to carbs for a day first will ensure a normal response to OGTT thereafter.
-    -   Specification: The above is true for patients that do not already have diabetes.  Important related belief (<span class="timestamp-wrapper"><span class="timestamp">[2022-01-29 Sat] </span></span> 7:1 for): a ketogenic diet will never cause the onset of diabetes.
-
-1.  Fasting and IF lower the &ldquo;bodyweight set-point&rdquo;
-2.  Who does not eat liver is wise to eat plenty of beans (for folate)
-3.  Sugar raises your &ldquo;bodyweight set-point&rdquo;
-4.  Calorie-free sweeteners have a similar result on body weight in the long run as the quantity of sugar that corresponds to the same experience of sweetness. Colloquially speaking, replacing soda with light soda does nothing.
-5.  (<span class="timestamp-wrapper"><span class="timestamp">[2022-06-20 Mon] </span></span> 25:1 for) The level of glucose and ketones in the blood do not indicate the rate at which each is being burned, you need more information to figure this out.
-    -   In other words, it is possible to have 5.5 mmol/l glucose (approx 27.5 mmol for whole body) but have those be the same 27.5 mmol in the evening as in the morning i.e. the body cells did not suck any of it up.
-6.  A meal needs to include ~3g of leucine to stimulate a cycle of muscle protein synthesis.
-7.  Vitamins taken in isolation have a different effect from vitamins in food.
-8.  Ingesting forty (40) large or eighty (80) small fish oil capsules in a day will either cause some kind of toxicity or nutrient imbalance, or simply be malabsorbed, and you may suffer discomfort, but the corresponding quantity of oily fish (300g) have none of these issues.
-    -   This begs the question of how much omega-3 you need. This is individual. Inuit and some Nordic people need a lot(citation?). Let&rsquo;s say we&rsquo;re in this Nordic subset. As some Inuit groups consumed 14-20g of omega-3 a day, let&rsquo;s say we need half of this, 7-10g a day, which means 200-300g herring/mackerel or over 30 large capsules &#x2013; per day!
-    -   My takeaway is that for supplementing omega-3, fish oil compared to oily fish is like the night stars compared to the midday sun: the former isn&rsquo;t a realistic choice.
-        -   For fun, extra problems surrounding fish oil is how it was extracted and purified, how you know it hasn&rsquo;t gone rancid or changed in the process, how you know there isn&rsquo;t also a concentration of heavy metals. Esuring these factors are taken care of will cost you a pretty penny, enough to pay for your whole paleo diet. Finally, there&rsquo;s more sn-2 DHA (which the body uses best) in seafood than in fish oil.
-9.  When a specific nutrient is discovered that we (1) need a relative lot of and (2) is found in few sources, this is evidence that we ought to eat a lot of this source, *period* &#x2013; for more reasons than this nutrient in particular!
-    -   This is just &ldquo;Making Holism and Reductionism Cooperate 101&rdquo;.
-10. Carotenoids (Vitamin A from plants) are nearly unabsorbed by >10% of the population, and are poorly absorbed by >50%.
-11. A prerequisite for carotenoid absorption is that the meal contains fat.
-12. Retinoids (Vitamin A from animals) are well absorbed by >95% of the population.
-13. Fat-soluble vitamins and minerals, such as vitamin D, are stored longterm in fatty tissue, and the storage can last for months of fasting (as long as the fat stores do), provided the diet was consistently nutritious before.
-    -   If the diet was not consistently nutritious before beginning fasting, the body fat liberated during fasting will be proportionately deficient in fat-solubles (50% confident).
-14. (<span class="timestamp-wrapper"><span class="timestamp">[2022-01-29 Sat] </span></span> 3:1 for) If you got plenty of sun during the summer, vitamin D levels stay high through winter, at least in the context of what&rsquo;s colloquially called a &ldquo;Paleo&rdquo; or &ldquo;Keto&rdquo; diet.
-15. (<span class="timestamp-wrapper"><span class="timestamp">[2022-01-29 Sat] </span></span> 20:1 for) Coffee is about 99% as hydrating as water i.e. a liter of coffee is nearly indistinguishable from a liter of water for the body&rsquo;s hydration needs.
-    -   A minor issue, but the fact there is a lot of disagreement on this point reveals how much people differ on how to do even basic reasoning about human biochemistry.  How then can I trust anyone?  How can the field proceed to start settling bigger, more interesting hypotheses?
-        -   At least this becomes a litmus test: if a writer says coffee does not hydrate, they&rsquo;re a huckster who did no homework and you&rsquo;d best avoid their book.
-16. (<span class="timestamp-wrapper"><span class="timestamp">[2022-01-29 Sat] </span></span> 3:1 for) For a majority of the population, exhorting &ldquo;eat less calories to lose weight&rdquo; either has no effect in practice or causes weight *gain*, not loss.
-17. (<span class="timestamp-wrapper"><span class="timestamp">[2022-01-29 Sat] </span></span> 1:1 for) Lack of sunlight is an epigenetic trigger for myopia.
-18. After cooking meat or vegetables, some nutrients (at least electrolytes) leak into the cooking water, which should always be consumed.  This is one problem with processed meats such as ham, the cooking water has been removed.  For flour-based stuff such as pasta, this is not important.
-
-Terminology
-
--   &ldquo;Ketotic person&rdquo; &#x2013; someone (1) used to a ketogenic diet and (2) is in a state such that >50% of brain glucose use has been replaced by ketone use
-    -   assuredly met after eating ketogenic (averaging <20g carb/day) for 3+ weeks
 
 
 <a id="org88eae66"></a>
@@ -243,7 +162,7 @@ The ancient Romans used the expression *via negativa* (the &ldquo;negative road&
 
 For nutrition, consider the badness of pesticides, badness of insulin, badness of carbohydrate metabolism, and on and on&#x2026; even such things as the badness of tetrafluoroethylene (Teflon) cookware, the badness of barbecuing, and the badness of mixing sugar with protein in one meal.  Almost everything&rsquo;s bad in some way, so could health be more determined by what you avoid rather than what you include?
 
-Concrete examples: to raise vitamin D without incurring risk, maybe we should supplement anything *but* vitamin D: see [4.3](#org94b69da).  Or: to stay [Vitamin C](#org328bdbf) sufficient, you don&rsquo;t need to eat fruit, just to avoid grain.
+Concrete examples: to raise vitamin D without incurring risk, maybe we should supplement anything *but* vitamin D: see [3.3](#org94b69da).  Or: to stay [Vitamin C](#org328bdbf) sufficient, you don&rsquo;t need to eat fruit, just to avoid grain.
 
 
 <a id="org3817439"></a>
@@ -280,11 +199,11 @@ Please see the video [Why We Get Fat](https://www.youtube.com/watch?v=lDneyrETR2
 Either of these injunctions suffice to kill this primitive form of the energy balance hypothesis.  You could object that it&rsquo;s not about watching on a daily basis, but a longer timescale: starting to restrict food once your belt is tight, eating more liberally once it doesn&rsquo;t, rinse and repeat.  I agree that makes more sense.  I wrote this section for three reasons:
 
 -   Introduce the thought experiment, which was mind-blowing to me at the time and may be to you too
-    -   If mind-blowing, it patches a gap in the connection between your ideas and reality
+
 -   Point out it&rsquo;s not a sufficient argument against the energy balance hypothesis, and we need more to discredit it
 -   The main purpose of the thought experiment: point out that calorie counting is cursed to be incredibly inexact, and therefore if anything you must adopt a reactive approach and it&rsquo;s a waste of time to micromanage daily calories
 
-In other news, I doubt even a refined version of the energy balance hypothesis will make sense &#x2013; the rest of the linked video ([Why We Get Fat](https://www.youtube.com/watch?v=lDneyrETR2o)) is why.  If not, then the outcome of the [Minnesota Starvation Experiment](#org9aa8a69).  Either suffices by itself to kill it.
+In other news, I doubt even a refined version of the energy balance hypothesis will make sense &#x2013; the rest of the linked video ([Why We Get Fat](https://www.youtube.com/watch?v=lDneyrETR2o)) is why.  If not, then the outcome of the [Minnesota Starvation Experiment](#org9aa8a69).  Either suffices by itself for me to pay this hypothesis no further attention.
 
 
 <a id="orgcb0b196"></a>
@@ -334,18 +253,18 @@ That is one of the core lessons of Science, that we incrementally learned throug
 
 If you had asked about anything amazing happen, you&rsquo;d get 1/4 chance of seeing something amazing happen, but you couldn&rsquo;t conclude 1/4 chance of seeing lightning happen, because the question that prompted this data was not about lightning: that&rsquo;s a specific that you received unasked-for.  And you couldn&rsquo;t afterwards, knowing that they&rsquo;ve seen lightning, ask them specifically about lightning: that&rsquo;s [Hypothesising After Results Known](https://en.wikipedia.org/wiki/HARKing) (HARK), aka post hoc theorizing.  You need new data to confirm a pattern (asking for it) seen in an exploratory study (which gave you the pattern unasked-for).  You could extend your sampling frame to &ldquo;everyone inside this apartment building minus my family&rdquo; (because of HARK: start clean) and go to your neighbours and ask them about lightning; you&rsquo;d soon find that the rate isn&rsquo;t anywhere near 1/4.
 
-That&rsquo;s why when you hear about an observational study with concerning results, you don&rsquo;t worry.  You got that data unasked-for, as did the researchers.  When a meta-analysis tests for something, then you worry.
+That&rsquo;s why when you hear about an observational study with concerning results from some foodstuff, you don&rsquo;t worry.  You got that data unasked-for, as did the researchers.  When a meta-analysis tests for something, then you worry.
 
 Key concepts: Non-representative sample of typical cases, cherry picking, &#x2026;
 <https://en.wikipedia.org/wiki/Anecdotal_evidence>
 
 But suppose you use someone else&rsquo;s exploratory study as your confirmatory study? Since you didn&rsquo;t know the results beforehand, and approach someone else&rsquo;s dataset with your own hypothesis, like &ldquo;red meat leads to cancer&rdquo;, could you confirm it? The answer is yes, conditional on your process of how you chose which study to look at.  You can only regard it as confirmation if the process didn&rsquo;t introduce bias.  If you were to just rifle through lots of studies until you find one that confirms your theory, this is just the same as cherry-picking data on another level: cherry-picking studies.  Sure, the subjects in study number 34 showed the pattern, but what about all the people in studies number 1 through 33?
 
-What&rsquo;s more rational is to take into account *all* studies from 1 through 34 and see if the pattern still holds.  Even that is problematic since you stopped *right* when you found a study with the pattern &#x2013; what&rsquo;s even better is to have chosen ahead of time &ldquo;I&rsquo;ll look at 50 studies&rdquo;, the exact number isn&rsquo;t important so long as you stick to it no matter whether you find a pattern or not.  Only by that ritual will your findings become real information to you.  You must be willing to accept that you were wrong.  Science doesn&rsquo;t work without that willingness; one who lacks it is not doing science, even though they may be reading papers and doing all the externally visible parts of what looks like science.  For a process to become scientific, it requires a pledge inside the researcher&rsquo;s mind, to tie herself to the mast of accepting whatever the data may say.
+What&rsquo;s more rational is to take into account *all* studies from 1 through 34 and see if the pattern still holds.  Even that is problematic since you stopped *right* when you found a study with the pattern &#x2013; what&rsquo;s even better is to have chosen ahead of time &ldquo;I&rsquo;ll look at 50 studies&rdquo;, the exact number isn&rsquo;t important so long as you stick to it no matter whether you find a pattern or not.  Only by that ritual will your findings become real information to you.  You must be willing to accept that you were wrong.  Science doesn&rsquo;t work without that willingness; one who lacks it is not doing Science, even though they may be reading papers and doing all the externally visible parts of what looks like science.  For a process to become scientific, it requires a pledge inside the researcher&rsquo;s mind, to tie herself to the mast of accepting whatever the data may say.
 
 This is basically how a meta-analysis or systematic review works. Though they don&rsquo;t use a simplistic cutoff like &ldquo;50 studies&rdquo;, but a cutoff like &ldquo;all studies above a certain quality&rdquo;.  There will not be that many high-quality studies with directly comparable data suitable for answering a research question, which makes it easy.  The deeper you dig in the barrel, the lower-quality the studies, so they may as well only look at the cream of the crop.
 
-Even meta-analyses have pitfalls.  They must try to counteract publication bias, which is hard because even today, researchers aren&rsquo;t interested in publishing negative findings, so you get a situation such that for every study containing a positive finding, there may have been 49 that turned up negative and never got published.  Some ways around this is to simply do a *new* study, better-designed than any that came before, or analyze only the studies that were pre-registered (which mean that the researcher agreed, before doing the study, to publish the results no matter how they will turn out).  Science is hard.
+Even meta-analyses have pitfalls.  They must try to counteract publication bias, which is hard because even today, researchers aren&rsquo;t interested in publishing negative findings, so you get a situation such that for every study containing a positive finding, there may have been 49 with the same research question that turned up negative and never got published.  Some ways around publication bias is to simply do a *new* study, better-designed than any that came before, or analyze only the studies that were pre-registered (which mean that the researcher agreed, before doing the study, to publish the results no matter how they will turn out).
 
 
 <a id="org33e8bbb"></a>
@@ -375,7 +294,7 @@ The term &ldquo;empty calories&rdquo; is what George Orwell would recognize as *
 
 The curriculum for a medical doctor involves almost no nutrition schooling.  Harvard doctors have zero nutrition courses needed for a degree.  And at least in 2004, doctor educations in the US ranged from 2 to 24 hours of nutrition schooling (source?).  This means that like for the rest of us, much of what they know comes from our culture, not from their school.  When a doctor says &ldquo;mmhmm this looks bad, you need to eat less fat&rdquo; they are drawing on the same amount of knowledge as your nutrition-interested aunt or brother-in-law.
 
-I don&rsquo;t mean to be skeptical of experts.  It&rsquo;s just the reality that medical doctors usually are not experts.  Nor do I mean to be skeptical only of the mainstream, or of health care professionals&#x2026;   you get no points for being &ldquo;alternative&rdquo;.  No matter their background, diet gurus of every stripe always seem to be peddling more than they can possibly know.  Everyone feels qualified to have an opinion.  Everyone feels it&rsquo;s *safe* to have an opinion, and this makes for a sea of Dunning-Kruger bullshit, a nightmare to navigate when you just want to know what&rsquo;s true.
+I don&rsquo;t mean to be skeptical of experts.  It&rsquo;s just the reality that medical doctors usually are not experts.  Nor do I mean to be skeptical only of the mainstream, or of health care professionals&#x2026;   you get no points for being &ldquo;alternative&rdquo;.  No matter their background, diet gurus of every stripe always seem to be peddling more than they can possibly know.  Everyone feels qualified to have an opinion.  Everyone feels it&rsquo;s *safe* to have an opinion, making for a sea of Dunning-Kruger bullshit.
 
 
 <a id="org8eb1fd7"></a>
@@ -384,11 +303,10 @@ I don&rsquo;t mean to be skeptical of experts.  It&rsquo;s just the reality that
 
 -   Q: What&rsquo;s the difference between a nutritionist and a dietitian?
     -   A: In the US and UK at least, dietitian is a protected title (like Ph.D or MD), whereas anyone can claim to be a nutritionist.  So check whether the nutritionist did go to school.
-        -   On the internet, keep in mind all titles can be fabbed via &ldquo;diploma mills&rdquo; (fake universities; check if the university exists).
-        -   The fact of someone&rsquo;s education is useful for you to accept unqualified statements that &ldquo;would take too long to explain&rdquo;, but once someone takes the time to explain their reasoning to you, neither their title or education should matter much to you.
--   Q: How much biochemistry is in the curriculum?  Because a mechanistic understanding of nutrition seems to me primarily a matter of biochemistry, with epidemiology used only to guide hypothesis generation.  Do they do things that way?
+        -   On the internet, keep in mind all titles can be fabbed via &ldquo;diploma mills&rdquo; (fake universities); check if the university exists.
+        -   Also keep in mind that when someone is educated, it should help you accept unqualified statements from them, but once anyone takes the time to explain their reasoning to you, neither title nor education matters anymore.
+
 -   Q: I&rsquo;ve heard that their textbooks and curricula are heavily influenced by the Coca Cola Company, Monsanto, and other facets of big agra. Is this true?
--   Q: Do they learn how to expect ketogenic patients to react to OGTT (and to avoid using glucose IV drips)?  Luise Light&rsquo;s food pyramid before the USDA twisted it, and such parts of history?
 
 
 <a id="org4a452a5"></a>
@@ -414,7 +332,7 @@ None of our cells have that much ATP on hand at a time, but &ldquo;other process
 
 Where does the energy come from, that&rsquo;s injected into the ADP and AMP to build new ATP?  In your fasted state, the fuel is almost exclusively the molecules called free fatty acids (FFA): lipids in the bloodstream.  Where did it come from?  It was released from adipose cells (&ldquo;fat cells&rdquo;).  Which adipose cells?  All of them at the same time!
 
-This is a point of confusion among novice fitness fanatics, so let&rsquo;s reiterate: all adipose cells release a few of their stored lipid molecules continuously, over time, into the bloodstream.  It is not possible to make specific adipose cells, such as those on your stomach, release more lipids by doing a lot of sit-ups.  You&rsquo;re not getting abs by that mechanism (muscle growth helps define the abs, but the fat covering them stays the same thickness).  It&rsquo;s your total energy expenditure that tells the body how much more FFA is needed in the bloodstream, and all adipose cells are listening to that signal equally.
+This is a point of confusion among novice fitness fanatics, so let&rsquo;s reiterate: all adipose cells release a few of their stored lipid molecules continuously, over time, into the bloodstream.  It is not possible to make specific adipose cells, such as those on your stomach, release more lipids by doing a lot of sit-ups.  You&rsquo;re not getting visible abs by that mechanism (the muscles grow, but the fat covering them stays the same thickness).  It&rsquo;s your total energy expenditure that tells the body how much more FFA is needed in the bloodstream, and all adipose cells are listening to that signal equally.
 
 Moving on:  where did the adipose cells get those lipids?  Well, they came by way of the bloodstream from your digestive system, at some point in the past when it was in the process of breaking down food.
 
@@ -428,25 +346,25 @@ When you eat any kind of meal, that meal&rsquo;s lipids and the lipid-soluble mi
 
 (This is why you can stay indoors a cloudy day and still not have zero vitamin D in the blood.)
 
-What about if you eat a low- or no-fat diet?  Then you might think the adipose cells never fill up, right?  But in that case, they take glucose out of the bloodstream and do *de novo lipogenesis*: turn them into fat.  So it makes no difference; in that regard, eating 1000 calories in carbohydrate form still results in adding 1000 calories of fat to your adipose cells.  That&rsquo;s one reason it makes very little sense to focus on low-fat diets for the purposes of weight loss.
+What about if you eat a low- or no-fat diet?  Then you might think the adipose cells never fill up, right?  But in that case, they take glucose out of the bloodstream and do *de novo lipogenesis*: turn them into fat.  So it makes no difference; in that regard, eating 1000 calories in carbohydrate form still results in adding 1000 calories of fat to your adipose cells.  That&rsquo;s one reason it makes little sense, prima facie, to focus on low-fat diets for the purposes of weight loss.
 
-I think it&rsquo;s important to observe the fact we&rsquo;ll make fat anyway, while it&rsquo;s only basic biochemistry, because it pulls the rug out from underneath the idea that a low-fat diet will &ldquo;prevent clogging the arteries&rdquo;.  You can&rsquo;t *not* constantly be having fat in the bloodstream, it doesn&rsquo;t matter what you&rsquo;re eating.
+Observe the fact we&rsquo;ll make fat anyway.  It&rsquo;s only basic biochemistry, but it stands as a strong objection to the idea that a low-fat diet will prevent &ldquo;clogging the arteries&rdquo;.  Much of that dietary carbohydrate will be coming back as lipids in the bloodstream anyway; you can&rsquo;t *not* constantly be having fat in the bloodstream.  Unless you graze. More on this in Part Three.
 
 
-<a id="org0b7cae5"></a>
+<a id="orgb93de0a"></a>
 
-### Part Deux: LCHF
+### Part Two: LCHF
 
-OK, part one assumed you hadn&rsquo;t eaten for a week.  It makes for a very simple analysis.
+OK, part one assumed you hadn&rsquo;t eaten for a week.  It makes for a simple analysis.
 
 Now let&rsquo;s assume you quit fasting and eat a high-fat, no-carb meal.  What changes?
 
 In principle, nothing.  The digestive system will be injecting lipids into the bloodstream, and the adipose cells absorb the excess.  Hormonally, not much happens compared to a fasted state.
 
 
-<a id="orgb08f21d"></a>
+<a id="org07f1de0"></a>
 
-### TODO Part Tres: High carb
+### TODO Part Three: High carb
 
 Now assume you eat a high-carb meal.
 
@@ -464,17 +382,19 @@ The body seems to allow a certain range of blood glucose, 4-6 mmol/l, and the mo
 2.  Store it as glycogen.
 3.  Do *de novo lipogenesis*, and store it as fat.
 
-Step #1 sounds great, but there&rsquo;s only so much glucose you can remove this way.  A meal may have 1000 calories, and you burn about 100 calories per hour being alive and if you do cardio exercise and sweat your ass off for an hour, maybe that&rsquo;s another 200, but that leaves 700 that still has to proceed to steps #2 and #3 this hour.  Since nobody does an hour of cardio after every single meal, most of the time that figure is 900.
+Step #1 sounds great, but there&rsquo;s only so much glucose you can remove this way.  A meal may have 1000 calories, and you burn about 100 calories per hour being alive and if you do heavy physical exercise for an hour, maybe that&rsquo;s another 200, but that leaves 700 that still has to proceed to steps #2 and #3 this hour.  Since nobody does an hour of exercise after every meal (nor should they), most of the time that figure is 900.
 
 Keep in mind that on a high-carb diet, your muscle glycogen stores are always full, so there&rsquo;s only liver glycogen to re-fill and then proceed to step #3.  In this thought experiment, you had just been fasting for some time, so it&rsquo;s likely the muscle glycogen stores also have free space.
 
 TODO: does glucose go to the liver at all or it has to be fructose?
 
-The sum of all muscle glycogen, when full,
+In practice, when not fasted, step #3 must be what happens for most of the carbs you eat.  It&rsquo;s stored as fat which is then released continuously over time.  Unless you graze, i.e. eat small amounts throughout the day, and stick to low-glycemic carbs.  You&rsquo;d hope that your digestive system is always outputting about 100 kcal/hr (25 g/hr) of glucose, exactly what you need and no more, and so never proceed to *de novo lipogenesis*.
 
-(In practice, step #3 must be what happens for most of the food you eat.  It&rsquo;s stored and then released continuously over time.)
+Some objections to such an approach:
 
-(You do not want a very high level of blood glucose, as it would kill you.  So after a high-carbohydrate meal, the blood glucose is rising, rising, and rising.)
+-   hunger hormone dysregulation (leptin, ghrelin sensitivities go wrong)
+-   it&rsquo;s a theoretic construction, few people will manage to follow it well
+-   ancestral argument: not likely that Paleolithic foragers&rsquo; dental health would have done well following such an approach, so it&rsquo;s not likely they did
 
 
 <a id="org4124dc4"></a>
@@ -485,7 +405,7 @@ Researchers so far have classified 18(?) amino acids as essential to humans, bec
 
 But achieving sufficiency is not as simple as exceeding a fixed minimum of each.  The minimum of a given amino acid will *move* up or down, depending on the other amino acids you have consumed.
 
-When RDAs were born in 1941(?), the intent was to reduce malnutrition symptoms among the populace.  But that doesn&rsquo;t say whether an amount is ideal, only that it&rsquo;s good.
+When RDIs were born in 1941(?), the intent was to reduce malnutrition symptoms among the populace.  But that doesn&rsquo;t say whether an amount is ideal, only that it&rsquo;s good.
 
 Also it&rsquo;s interesting&#x2026; some of it&rsquo;s based on animal studies where the goal is finding out *what makes the animal grow fastest* &#x2013; if I remember, the RDA for the amino acid methionine is based on this.
 
@@ -971,6 +891,16 @@ A 2011 meta-analysis by a Netherlands journal concluded that saturated fat wasn&
 EFSA (European Food Safety Authority) says that intake of up to 400mg/day do not raise safety concerns, and that a 200ml cup of filter coffee has 90mg of caffeine.  So four cups/day. <https://www.efsa.europa.eu/en/topics/topic/caffeine>
 
 
+<a id="org8d305a1"></a>
+
+## Coffee
+
+Coffee is about 99% as hydrating as water i.e. a liter of coffee is nearly indistinguishable from a liter of water for the body&rsquo;s hydration needs.
+
+-   A minor issue, but the fact there is a lot of disagreement on this point reveals how much people differ on how to do even basic reasoning about human biochemistry.  How then can I trust anyone?  How can the field proceed to start settling bigger, more interesting hypotheses?
+    -   At least this becomes a litmus test: if a writer says coffee does not hydrate, they&rsquo;re a huckster who did no homework and you&rsquo;d best avoid their book.
+
+
 <a id="orgceaec5d"></a>
 
 ## The AMY1 gene
@@ -1144,6 +1074,79 @@ For muscle meat, butchers usually want to drain it of blood, hang it to tenderiz
 We learned to do the same thing with fish: I read that at the start of the 1900s, the fish at European fish markets used to smell and taste terrible before someone observed the Inuit freezing their fish immediately on catch (easy to do in the Arctic), and started doing the same, keeping it frozen as it was shipped to Europe, and it improved the flavour considerably.  It presumably also conserved nutrients, especially lhe highly unsaturated fats, which are prone to oxidize in air (go rancid).
 
 So my question: can the liver glycogen persist all the way to the supermarket if you freeze it quickly enough?  I bet there would be a market among the Paleo crowd.
+
+
+<a id="org31fbebe"></a>
+
+# Beliefs
+
+Updated <span class="timestamp-wrapper"><span class="timestamp">[2022-06-20 Mon]</span></span>
+
+
+<a id="org5ae0c57"></a>
+
+## Cruxes for low-carb
+
+I&rsquo;ve found my *cruxes*.  If I believed differently on these points, my nutrition outlook would change in radical ways.
+
+1.  Ketones appear so positive for health, how do we explain that if we&rsquo;re not meant to spend much time ketogenic?  Ergo we&rsquo;re meant to do so.
+2.  High insulin load (total insulin released over a day) appears so negative for health, how do you explain that if low-fat high-carb is good?  Ergo we&rsquo;re not meant to do so often.
+3.  Calories and protein from animal sources both appear better-adapted for humans than the same from plant sources
+    -   (this seems the case for all animals, as even herbivores eat meat opportunistically, and it&rsquo;s a priori reasonable that the building blocks of an animal would be good raw material for the body of an animal, and that its energy stores would be in a good form for the body of an animal to burn)
+4.  (<span class="timestamp-wrapper"><span class="timestamp">[2022-05-08 Sun] </span></span> 10:1 for) **The EEA argument**:  The things the typical animal of a given species ate over a lifetime in its Environment of Evolutionary Adaptedness (EEA) reflects so accurately what&rsquo;s healthy for that species, that you can treat these claims as synonymous: &ldquo;we ate like this in the past&rdquo; and &ldquo;this is healthy for us&rdquo;.
+5.  (<span class="timestamp-wrapper"><span class="timestamp">[2022-06-20 Mon] </span></span> 6:1 for) **The human design argument**: Among primates, *homo sapiens* appears to have been shaped by consuming far more meat than the other species, and especially animal fat. (Some have called it a &rsquo;fativore&rsquo; because it&rsquo;s different from carnivores in this regard.)
+    -   Alternatively expressed, I doubt the human design indicates an EEA where it was common to consume plant carbs for a large share (say >33%) of its lifetime calories.
+    -   <span class="timestamp-wrapper"><span class="timestamp">[2022-06-20 Mon] </span></span> In retrospect, this claim is hard to apply or draw conclusions from, because there was no single ancestral diet.  See [The AMY1 gene](#orgceaec5d).
+    -   If you want to look at this more closely, there is plenty of rhetoric online about why e.g. the digestive tract, teeth, bipedal posture and other features mean we&rsquo;re herbivores or that we&rsquo;re carnivores.  Google &rsquo;human design vegan&rsquo; for the pro-vegan arguments, &rsquo;human design carnivore&rsquo; for the opposite, and decide for yourself.
+6.  (<span class="timestamp-wrapper"><span class="timestamp">[2022-06-22 Wed] </span></span> 5:1 for) Certain corporations that stand to make a lot of money from the lowfat low-cholesterol high-carb whole-grain agenda, are currently meddling in Science in analogous fashion to what the tobacco industry did for nearly a century.  Unqualified, this looks like a conspiracy theory, so I&rsquo;ll not abuse as an excuse for anything.  I&rsquo;m not a journalist and this page isn&rsquo;t a journalist piece.  But it fuels my skepticism towards paper abstracts and the consensus.
+
+
+<a id="org539dfd4"></a>
+
+## Other beliefs
+
+7.  Sugar is bad
+8.  (<span class="timestamp-wrapper"><span class="timestamp">[2022-06-20 Mon] </span></span> 20:1 for) Seed oils (rapeseed, sunflower &c) are uniformly harmful
+    -   because not found in the EEA
+    -   because all clinically successful diets have excluded them (see [Clinically successful diets](#org72ad6bf))
+    -   because polyunsaturated fat is not great fuel (as a component of cell membranes it&rsquo;s one thing, but that application is a tiny fraction of calorie intake), we see lots of side effects when burning them &#x2013; oxidation &c&#x2026;
+9.  &ldquo;Processed food&rdquo; frequently not that healthy, but it depends on what &ldquo;processing&rdquo; means
+10. If an EEA culture had focused on forage over hunt, even for periods, calories would have been predominantly from root vegs, fruit, and the fat in insects such as worms, but not appreciably from nuts and not at all from seeds or grain.
+    1.  The insect point is interesting because it wouldn&rsquo;t occur to many Western theorists.  Of course when foraging in the Horn of Africa, there&rsquo;s no way you&rsquo;d skip over the insects you find along the way.  Cultures that left such free lunches on the table would get their numbers overtaken by cultures that did eat all the food they found.
+11. Fiber is unnecessary
+    -   [End the Fiber Fantasy](https://old.reddit.com/r/keto/comments/1lolqu/end_the_fiber_fantasy_everything_you_dont_want_to/), comments also enlightening
+12. Seafood is important for lifespan and healthspan
+13. In the long term, most or all sweeteners act approximately as fattening as sugar, even non-caloric ones like aspartame
+    -   This is based on the theory that the insulin response and other reactions to the sweetness are the main fattening factors, and the immediate calories are practically irrelevant.  Has anyone tested just eating sweeteners to bring blood sugar down to the point of passing out?  This would prove insulin is being released.
+14. (<span class="timestamp-wrapper"><span class="timestamp">[2022-06-18 Sat] </span></span> 2:1 for) Within 12 months, it&rsquo;s hard to get nutrient overload symptoms from eating only meat, provided the meat is fatty
+15. (<span class="timestamp-wrapper"><span class="timestamp">[2022-06-18 Sat] </span></span> 3:1 for) Within 12 months, it&rsquo;s hard to get nutrient deficiency symptoms from eating only meat, provided the meat is fatty
+16. The immune system works better in a fasted state
+17. (<span class="timestamp-wrapper"><span class="timestamp">[2022-06-18 Sat] </span></span> 5:1 for) Staying in a ketotic metabolism for 300 days a year will lengthen an average young adult&rsquo;s lifespan by 5-20 years and healthspan more than proportionately
+18. (<span class="timestamp-wrapper"><span class="timestamp">[2022-06-18 Sat] </span></span> 20:1 for) When giving an Oral Glucose Tolerance Test (OGTT) to a ketotic person (i.e. feeding them 150g of sugar) causes a hyperinsulinemic response (i.e. they react like a diabetic), it does not indicate a chronic problem with this person: letting them acclimate to carbs for a day first will ensure a normal response to OGTT thereafter.
+    -   Specification: The above is true for patients that do not already have diabetes.  Important related belief (<span class="timestamp-wrapper"><span class="timestamp">[2022-01-29 Sat] </span></span> 7:1 for): a ketogenic diet will never cause the onset of diabetes.
+19. Fasting and IF lower the &ldquo;bodyweight set-point&rdquo;
+20. Who does not eat liver is wise to eat plenty of beans (for folate)
+21. Sugar raises your &ldquo;bodyweight set-point&rdquo;
+22. Calorie-free sweeteners have a similar result on body weight in the long run as the quantity of sugar that corresponds to the same experience of sweetness. Colloquially speaking, replacing soda with light soda does nothing.
+23. (<span class="timestamp-wrapper"><span class="timestamp">[2022-06-20 Mon] </span></span> 25:1 for) The level of glucose and ketones in the blood do not indicate the rate at which each is being burned, you need more information to figure this out.
+    -   In other words, it is possible to have 5.5 mmol/l glucose (approx 27.5 mmol for whole body) but have those be the same 27.5 mmol in the evening as in the morning i.e. the body cells did not suck any of it up.
+24. Vitamins taken in isolation have a different effect from vitamins in food.
+25. When a specific nutrient is discovered that we (1) need a relative lot of and (2) is found in few sources, this is evidence that we ought to eat a lot of this source, *period* &#x2013; for more reasons than this nutrient in particular
+    -   This is just letting making holistic and reductionist perspectives inform each other
+26. Carotenoids (Vitamin A from plants) are nearly unabsorbed by >10% of the population, and are poorly absorbed by >50%.
+27. A prerequisite for carotenoid absorption is that the meal contains fat.
+28. Retinoids (Vitamin A from animals) are well absorbed by >95% of the population.
+29. Fat-soluble vitamins and minerals, such as vitamin D, are stored longterm in fatty tissue, and the storage can last for months of fasting (as long as the fat stores do), provided the diet was consistently nutritious before.
+    -   If the diet was not consistently nutritious before beginning fasting, the body fat liberated during fasting will be proportionately deficient in fat-solubles (50% confident).
+30. (<span class="timestamp-wrapper"><span class="timestamp">[2022-01-29 Sat] </span></span> 3:1 for) If you got plenty of sun during the summer, vitamin D levels stay high through winter, at least in the context of what&rsquo;s colloquially called a &ldquo;Paleo&rdquo; or &ldquo;Keto&rdquo; diet.
+31. (<span class="timestamp-wrapper"><span class="timestamp">[2022-01-29 Sat] </span></span> 3:1 for) For a majority of the population, exhorting &ldquo;eat less calories to lose weight&rdquo; either has no effect in practice or causes weight *gain*, not loss.
+32. (<span class="timestamp-wrapper"><span class="timestamp">[2022-01-29 Sat] </span></span> 1:1 for) Lack of sunlight is an epigenetic trigger for myopia.
+33. After cooking meat or vegetables, some nutrients (at least electrolytes) leak into the cooking water, which should always be consumed.  This is one problem with processed meats such as ham, the cooking water has been removed.  For flour-based stuff such as pasta, this is not important.
+
+Terminology
+
+-   &ldquo;Ketotic person&rdquo; &#x2013; someone (1) used to a ketogenic diet and (2) is in a state such that >50% of brain glucose use has been replaced by ketone use
+    -   assuredly met after eating ketogenic (averaging <20g carb/day) for 3+ weeks
 
 
 <a id="org2bd51c2"></a>
