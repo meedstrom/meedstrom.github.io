@@ -6,8 +6,8 @@ title: Nutrition science
 # Table of Contents
 
 1.  [Self-intro](#orgd554482)
-    1.  [Past me (2013)](#org0941e76)
-    2.  [Current me (2022)](#org3636f72)
+        1.  [Past me (2013)](#org0941e76)
+        2.  [Current me (2022)](#org3636f72)
 2.  [Perspectives and thought experiments](#org88eae66)
     1.  [Via negativa](#orgb9090e8)
     2.  [&ldquo;Fat&rdquo; means lipids or excess weight, not both](#org3817439)
@@ -119,7 +119,7 @@ Target audience: anyone who wants to discuss nutrition topics with me.  If we ha
 
 <a id="org0941e76"></a>
 
-## Past me (2013)
+### Past me (2013)
 
 I&rsquo;ve seen people make the uncharitable presumption that meat-eaters just can&rsquo;t bear to give up the taste.  So let me clarify that back in 2013 when I decided to lose weight, I liked meat but wasn&rsquo;t a fan in any particular way.  I was ready to go plant-based or even eat nothing but broccoli for a year if that&rsquo;s what it took (young people are extreme).  So I read up on necessary nutrients, all the vitamins, minerals and their different forms, to find out the bare essential foods to eat.
 
@@ -134,7 +134,7 @@ Back then, I also enjoyed breaking norms, holding the secret that society at lar
 
 <a id="org3636f72"></a>
 
-## Current me (2022)
+### Current me (2022)
 
 These days I don&rsquo;t want to be an iconoclast in nutrition science.  I&rsquo;d prefer if my diet could mesh easily with other people for social reasons.
 
@@ -288,11 +288,13 @@ The term &ldquo;empty calories&rdquo; is what George Orwell would recognize as *
 
 <a id="org46aa777"></a>
 
-## TODO Doctor education
+## Doctor education
 
 The curriculum for a medical doctor involves almost no nutrition schooling.  Harvard doctors have zero nutrition courses needed for a degree.  And at least in 2004, doctor educations in the US ranged from 2 to 24 hours of nutrition schooling (source?).  This means that like for the rest of us, much of what they know comes from our culture, not from their school.  When a doctor says &ldquo;mmhmm this looks bad, you need to eat less fat&rdquo; they are drawing on the same amount of knowledge as your nutrition-interested aunt or brother-in-law.
 
-I don&rsquo;t mean to be skeptical of experts.  It&rsquo;s just the reality that medical doctors usually are not experts.  Nor do I mean to be skeptical only of the mainstream, or of health care professionals&#x2026;   you get no points for being &ldquo;alternative&rdquo;.  No matter their background, diet gurus of every stripe always seem to be peddling more than they can possibly know.  Everyone feels qualified to have an opinion.  Everyone feels it&rsquo;s *safe* to have an opinion, making for a sea of Dunning-Kruger bullshit.
+I don&rsquo;t mean to be skeptical of experts.  It&rsquo;s just the reality that medical doctors usually are not experts when it comes to this subject.  Nor do I mean to be skeptical only of the mainstream&#x2026;  you get no points for being &ldquo;alternative&rdquo;.  No matter their background, diet gurus of every stripe always seem to be peddling more than they can possibly know.  Everyone feels qualified to have an opinion.  Everyone feels it&rsquo;s *safe* to have an opinion making for a sea of Dunning-Kruger BS.
+
+Anyway, this should inoculate us against weighing credentials too heavily.  Titles don&rsquo;t matter when it&rsquo;s not inside their field of expertise.
 
 
 <a id="org8eb1fd7"></a>
@@ -304,7 +306,7 @@ I don&rsquo;t mean to be skeptical of experts.  It&rsquo;s just the reality that
         -   On the internet, keep in mind all titles can be fabbed via &ldquo;diploma mills&rdquo; (fake universities); check if the university exists.
         -   Also keep in mind that when someone is educated, it should help you accept unqualified statements from them, but once anyone takes the time to explain their reasoning to you, neither title nor education matters anymore.
 
--   Q: I&rsquo;ve heard that their textbooks and curricula are heavily influenced by the Coca Cola Company, Monsanto, and other facets of big agra. Is this true?
+-   Q: I&rsquo;ve heard that their textbooks and curricula are influenced by Big Agra. Is this true?
 
 
 <a id="org4a452a5"></a>
@@ -371,14 +373,14 @@ Lots of things happen.
 To start off, the carbohydrates break down into the component monosaccharides: glucose, fructose and galactose.
 
 -   **Fructose** will be picked up by the liver for storage as liver glycogen, and when that store is full, the liver uses the fructose for *de novo lipogenesis*.  There&rsquo;s something like a limit at 50 g/day that it can handle.  (Q: What happens when exceeded?)
--   **Galactose** is rapidly converted to glucose, because it&rsquo;s a bit dangerous.  All animals do this conversion, however if you feed galactose to mice for a long time, it seems nevertheless to accelerate their aging.
+-   **Galactose** is rapidly converted to glucose, because the molecule reacts too easily with things so it&rsquo;s not ideal to keep lying around.  All animals do this conversion, however if you feed galactose to mice for a long time, it seems nevertheless to accelerate their aging.
 -   **Glucose** just goes straight into the bloodstream.  Here&rsquo;s where hormones come into the picture.
 
 The body seems to allow a certain range of blood glucose, 4-6 mmol/l, and the more it rises past that, the more body will do to bring it back down.  As it happens, there are only three things it can do:
 
-1.  Use it to immediately make ATP (in layman&rsquo;s terms, burn it) for an action that&rsquo;s happening right now, such as moving your arm.
-2.  Store it as glycogen.
-3.  Do *de novo lipogenesis*, and store it as fat.
+1.  Use it to immediately make ATP (in layman&rsquo;s terms, burn it) for an action that&rsquo;s happening right now, such as moving your arm
+2.  Store it as glycogen
+3.  Do *de novo lipogenesis*, and store it as fat
 
 Step #1 sounds great, but there&rsquo;s only so much glucose you can remove this way.  A meal may have 1000 calories, and you burn about 100 calories per hour being alive and if you do heavy physical exercise for an hour, maybe that&rsquo;s another 200, but that leaves 700 that still has to proceed to steps #2 and #3 this hour.  Since nobody does an hour of exercise after every meal (nor should they), most of the time that figure is 900.
 
@@ -405,14 +407,14 @@ But achieving sufficiency is not as simple as exceeding a fixed minimum of each.
 
 When RDIs were born in 1941(?), the intent was to reduce malnutrition symptoms among the populace.  But that doesn&rsquo;t say whether an amount is ideal, only that it&rsquo;s good.
 
-Also it&rsquo;s interesting&#x2026; some of it&rsquo;s based on animal studies where the goal is finding out *what makes the animal grow fastest* &#x2013; if I remember, the RDA for the amino acid methionine is based on this.
+Also it&rsquo;s interesting&#x2026; some of it&rsquo;s based on animal studies where the goal is finding out *what makes the animal grow fastest* &#x2013; if I remember, the RDI for methionine is based on this.
 
 I feel someone should figure out an approach to the issue of partial deficiency.  It&rsquo;s not detected but may still weaken health, much like an ache can be caused by problems with fascia far from the site of pain &#x2013; as fascial slings go around the body, wrapping it like a package &#x2013; a partial deficiency of some nutrient can cause hard-to-diagnose problems because nutrients are always interacting with each other and we only know the telltale signs of an absolute deficiency.
 
 
 <a id="org2e84835"></a>
 
-## TODO What does it mean to &ldquo;need&rdquo; a nutrient?
+## What does it mean to &ldquo;need&rdquo; a nutrient?
 
 As someone said, &ldquo;need&rdquo; is a funny concept.  You don&rsquo;t need to eat seafood.  You don&rsquo;t need an appendix or legs, either.  Maybe we can call it a shorthand for that **it&rsquo;ll lengthen our healthspan** (which is not just lifespan, but taking into account &ldquo;healthy life years&rdquo;).
 
