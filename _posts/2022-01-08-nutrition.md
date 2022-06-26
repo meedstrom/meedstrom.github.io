@@ -1,3 +1,7 @@
+---
+title: Nutrition science
+---
+
 
 # Table of Contents
 
@@ -100,12 +104,6 @@
 9.  [Questions](#org2261e2c)
 10. [What are we talking about in the first place?](#org7c97120)
     1.  [Questions I want answered before I make a political decision](#orgffde935)
-
-----
-title: Nutrition science
-----
-
-:ID:       e1a9a6da-35c2-4e47-8645-784d20aafe79
 
 
 <a id="orgd554482"></a>

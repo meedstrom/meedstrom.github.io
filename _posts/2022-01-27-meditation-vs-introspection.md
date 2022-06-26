@@ -1,12 +1,6 @@
-----
+---
 title: Meditation vs introspection
-----
-
-:ID:       a9aa4b42-351a-479b-b51f-c193a3278848
-
------
-title: Meditation vs. introspection
------
+---
 
 Planted <span class="timestamp-wrapper"><span class="timestamp">[2022-01-27 Thu]</span></span>
 
