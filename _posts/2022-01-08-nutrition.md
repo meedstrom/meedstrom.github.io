@@ -5,10 +5,10 @@ title: Nutrition science
 
 # Table of Contents
 
-    1.  [Self-intro](#orgd554482)
-        1.  [Past me (2013)](#org0941e76)
-        2.  [Current me (2022)](#org3636f72)
-1.  [Perspectives and thought experiments](#org88eae66)
+1.  [Self-intro](#orgd554482)
+    1.  [Past me (2013)](#org0941e76)
+    2.  [Current me (2022)](#org3636f72)
+2.  [Perspectives and thought experiments](#org88eae66)
     1.  [Via negativa](#orgb9090e8)
     2.  [&ldquo;Fat&rdquo; means lipids or excess weight, not both](#org3817439)
     3.  [20 calories a day](#org7068f77)
@@ -28,7 +28,7 @@ title: Nutrition science
     14. [Components of hunger: Satiety and satiation](#org2f7f390)
     15. [What if the food volume hypothesis is wrong?](#orga647188)
     16. [Timeline behind the mainstream memes](#orgc6fe3ec)
-2.  [Findings & interpretations](#org5769f49)
+3.  [Findings & interpretations](#org5769f49)
     1.  [Clinically successful diets](#org72ad6bf)
     2.  [Vitamin C](#org328bdbf)
     3.  [Vitamin D](#org94b69da)
@@ -77,39 +77,39 @@ title: Nutrition science
     44. [Insulin](#org5ac92b9)
     45. [Antinutrients](#orgb137dce)
     46. [Sweet liver](#orga8517f2)
-3.  [Beliefs](#org31fbebe)
+4.  [Beliefs](#org31fbebe)
     1.  [Cruxes for low-carb](#org5ae0c57)
     2.  [Rejected cruxes](#orgfd43e3e)
     3.  [Other beliefs](#org539dfd4)
-4.  [How the science is currently done](#org2bd51c2)
+5.  [How the science is currently done](#org2bd51c2)
     1.  [Mouse chow](#org78f1357)
     2.  [Six types of research](#org25ba6a3)
     3.  [How to measure outcome](#org9b3a0b4)
-5.  [Fundamental hypotheses](#org679163d)
+6.  [Fundamental hypotheses](#org679163d)
     1.  [The lipid hypothesis](#orgb87be74)
     2.  [The diet-heart hypothesis](#org528a04b)
     3.  [The food volume hypothesis](#orgb4ed1bd)
     4.  [The carbohydrate-insulin hypothesis](#org84c1b1b)
     5.  [The energy balance hypothesis](#org059c014)
-6.  [Famous studies](#orgf34e145)
+7.  [Famous studies](#orgf34e145)
     1.  [Nurses&rsquo; Health Study](#org3b7c9cd)
     2.  [China-Cornell-Oxford project (&ldquo;the China Study&rdquo;)](#org5fe569b)
     3.  [Framingham Heart Study](#org5cc5cdd)
     4.  [Seven Countries Study](#orgdc9515f)
     5.  [Finnish Mental Hospital Study](#org68933c9)
     6.  [Minnesota Starvation Experiment](#org9aa8a69)
-7.  [Recent meta-analyses](#org4efece5)
+8.  [Recent meta-analyses](#org4efece5)
     1.  [Government policy changes](#orgec46e42)
         1.  [Swedish government about LCHF](#orgdcfb304)
         2.  [2019: ADA (American Diabetics Association)](#org40a6cde)
-8.  [Questions](#org2261e2c)
-9.  [What are we talking about in the first place?](#org7c97120)
+9.  [Questions](#org2261e2c)
+10. [What are we talking about in the first place?](#org7c97120)
     1.  [Questions I want answered before I make a political decision](#orgffde935)
 
 
 <a id="orgd554482"></a>
 
-## Self-intro
+# Self-intro
 
 For transparency, I&rsquo;ll try to show who I am before starting a discussion.  I&rsquo;m a 30-year old Swedish male, grown up in Sweden.  I do not study biochemistry, nutrition, dietetics, medicine, physiology or any other relevant field.  My fields of expertise are in computers and statistics.
 
@@ -120,7 +120,7 @@ Target audience: anyone who wants to discuss nutrition topics with me.  If we ha
 
 <a id="org0941e76"></a>
 
-### Past me (2013)
+## Past me (2013)
 
 I&rsquo;ve seen people make the uncharitable presumption that meat-eaters just can&rsquo;t bear to give up the taste.  So let me clarify that back in 2013 when I decided to lose weight, I liked meat but wasn&rsquo;t a fan in any particular way.  I was ready to go plant-based or even eat nothing but broccoli for a year if that&rsquo;s what it took (young people are extreme).  So I read up on necessary nutrients, all the vitamins, minerals and their different forms, to find out the bare essential foods to eat.
 
@@ -137,7 +137,7 @@ I remained skeptical enough that keto birthed my interest in statistics, so I co
 
 <a id="org3636f72"></a>
 
-### Current me (2022)
+## Current me (2022)
 
 These days I don&rsquo;t want to be an iconoclast in nutrition science.  I&rsquo;d prefer if my diet could mesh easily with other people for social reasons.
 
@@ -163,7 +163,7 @@ The ancient Romans used the expression *via negativa* (the &ldquo;negative road&
 
 For nutrition, consider the badness of pesticides, badness of insulin, badness of carbohydrate metabolism, and on and on&#x2026; even such things as the badness of tetrafluoroethylene (Teflon) cookware, the badness of barbecuing, and the badness of mixing sugar with protein in one meal.  Almost everything&rsquo;s bad in some way, so could health be more determined by what you avoid rather than what you include?
 
-Concrete examples: to raise vitamin D without incurring risk, maybe we should supplement anything *but* vitamin D: see [2.3](#org94b69da).  Or: to stay [Vitamin C](#org328bdbf) sufficient, you don&rsquo;t need to eat fruit, just to avoid grain.
+Concrete examples: to raise vitamin D without incurring risk, maybe we should supplement anything *but* vitamin D: see [3.3](#org94b69da).  Or: to stay [Vitamin C](#org328bdbf) sufficient, you don&rsquo;t need to eat fruit, just to avoid grain.
 
 
 <a id="org3817439"></a>
