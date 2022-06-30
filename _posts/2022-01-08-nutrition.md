@@ -1,13 +1,14 @@
 ---
 title: Nutrition science
+date: 2022-06-30
 ---
 
 
 # Table of Contents
 
 1.  [Self-intro](#orgd554482)
-    1.  [Past me (2013)](#org0941e76)
-    2.  [Current me (2022)](#org3636f72)
+        1.  [Past me (2013)](#org0941e76)
+        2.  [Current me (2022)](#org3636f72)
 2.  [Perspectives and thought experiments](#org88eae66)
     1.  [Via negativa](#orgb9090e8)
     2.  [&ldquo;Fat&rdquo; means lipids or excess weight, not both](#org3817439)
@@ -42,40 +43,35 @@ title: Nutrition science
     11. [Effects of omega-3](#orga39fe0c)
     12. [Omega 3-6 balance](#org8663a26)
     13. [sn-2 DHA](#org3118bc1)
-    14. [Genetic need of omega-3](#org71b4469)
-    15. [How much seafood?](#org0cab385)
-    16. [CLA](#orgfdbb1f9)
-    17. [Leaking nutrients](#org78623b9)
-    18. [Iodine](#org214d6f9)
-    19. [Soil](#org9dccef0)
-    20. [Teeth](#org768bbe2)
-    21. [Gut bacteria](#org4668203)
-    22. [&ldquo;Cholesterol&rdquo;](#org0a42a0d)
-    23. [Acid-base balance](#org1849f75)
-    24. [Pesticides](#orgd425944)
-    25. [GMO](#orge6c2abd)
-    26. [Difference between grass-fed and grain-fed](#orgeccb82a)
-    27. [Creatine](#org34e1fc2)
-    28. [Leucine](#orgae29db2)
-    29. [Meat toxins](#org456921d)
-    30. [Toxins in organs?](#org413828b)
-    31. [The AMY1 gene](#orgceaec5d)
-    32. [The ApoE4 gene](#org5070dc2)
-    33. [Hemochromatosis](#org7af08f1)
-    34. [Familial hypercholesterolemia](#org67f5ed4)
-    35. [Effects of ketosis](#orgd07e31d)
+    14. [Soil](#org9dccef0)
+    15. [Teeth](#org768bbe2)
+    16. [Gut bacteria](#org4668203)
+    17. [&ldquo;Cholesterol&rdquo;](#org0a42a0d)
+    18. [Acid-base balance](#org1849f75)
+    19. [Pesticides](#orgd425944)
+    20. [GMO](#orge6c2abd)
+    21. [Difference between grass-fed and grain-fed](#orgeccb82a)
+    22. [Creatine](#org34e1fc2)
+    23. [Leucine](#orgae29db2)
+    24. [Meat toxins](#org456921d)
+    25. [Toxins in organs?](#org413828b)
+    26. [The AMY1 gene](#orgceaec5d)
+    27. [The ApoE4 gene](#org5070dc2)
+    28. [Hemochromatosis](#org7af08f1)
+    29. [Familial hypercholesterolemia](#org67f5ed4)
+    30. [Effects of ketosis](#orgd07e31d)
         1.  [Sodium & potassium loss](#orgcb69e33)
         2.  [Dawn phenomenon](#org810591d)
-    36. [Possible risks of a ketogenic diet](#orgc8f2ba1)
-    37. [Preferred energy source?](#orgec33a93)
-    38. [Effects of consuming carbohydrate](#org3fe5055)
-    39. [ROS](#org917ef47)
-    40. [Insulin](#org5ac92b9)
-    41. [Antinutrients](#orgb137dce)
-    42. [Sweet liver](#orga8517f2)
-    43. [Caffeine](#org7af63ce)
-    44. [Coffee](#org8d305a1)
-    45. [Saturated fat with carbohydrate](#orgf5626f7)
+    31. [Possible risks of a ketogenic diet](#orgc8f2ba1)
+    32. [Preferred energy source?](#orgec33a93)
+    33. [Effects of consuming carbohydrate](#org3fe5055)
+    34. [ROS](#org917ef47)
+    35. [Insulin](#org5ac92b9)
+    36. [Antinutrients](#orgb137dce)
+    37. [Sweet liver](#orga8517f2)
+    38. [Caffeine](#org7af63ce)
+    39. [Coffee](#org8d305a1)
+    40. [Saturated fat with carbohydrate](#orgf5626f7)
 4.  [Beliefs](#org31fbebe)
     1.  [Cruxes for low-carb](#org5ae0c57)
     2.  [Rejected cruxes](#orgfd43e3e)
@@ -119,13 +115,13 @@ Target audience: anyone who wants to discuss nutrition topics with me.  If we ha
 
 <a id="org0941e76"></a>
 
-## Past me (2013)
+### Past me (2013)
 
 I&rsquo;ve seen people make the uncharitable presumption that meat-eaters just can&rsquo;t bear to give up the taste.  So let me clarify that back in 2013 when I decided to lose weight, I liked meat but wasn&rsquo;t a fan in any particular way.  I was ready to go plant-based or even eat nothing but broccoli for a year if that&rsquo;s what it took (young people are extreme).  So I read up on necessary nutrients, all the vitamins, minerals and their different forms, to find out the bare essential foods to eat.
 
 I had no bias for meat, but I was (and still am) biased in favour of bread and beer, because I like the stuff so much.  I also like many vegetarian foods.  I enjoy tofu, seitan and legumes.  I think quorn nuggets beat chicken nuggets.
 
-Since it&rsquo;s common in Sweden to believe plant-based is healthiest, I was surprised to read about retinoids (animal-sourced vitamin A) versus carotenoids (vegetable-sourced vitamin A).  How to find vitamin K1 and K2 in an animal-free diet.  What role omega 3 plays, how much we need, and what factors might affect how much we need.  I followed nerds discussing ideal supplement regimens on forums about human longevity and nootropics.
+Since it&rsquo;s common in Sweden to believe plant-based is healthiest, I was surprised to read about retinoids (animal-sourced vitamin A) versus carotenoids (vegetable-sourced vitamin A).  How to find vitamins B12 and K2 in an animal-free diet.  What role omega 3 plays, how much we need, and what factors might affect how much we need.  I followed nerds discussing ideal supplement regimens on forums about human longevity and nootropics.
 
 Time and time again, I found that the nutrient under analysis can be found in some animal tissue or other, together with all the cofactors known to aid its absorption.  Often it could be found especially in the &ldquo;worst&rdquo; part from a cholesterol perspective, e.g. the egg yolk, the saturated animal fat, the red meat.  Animals started looking like a preformulated nutritional supplement from Nature.  So that&rsquo;s what I ate.  I spent much of my free time that year just geeking out about nutrition, and was at the peak of my health.  I virtually couldn&rsquo;t sunburn, I went shirtless and barefoot all the time, my immune system was king, my eyesight improved, my reflexes improved.
 
@@ -136,7 +132,7 @@ I remained skeptical enough that keto birthed my interest in statistics, so I co
 
 <a id="org3636f72"></a>
 
-## Current me (2022)
+### Current me (2022)
 
 These days I don&rsquo;t want to be an iconoclast in nutrition science.  I&rsquo;d prefer if my diet could mesh easily with other people for social reasons.
 
@@ -162,7 +158,7 @@ The ancient Romans used the expression *via negativa* (the &ldquo;negative road&
 
 For nutrition, consider the badness of pesticides, badness of insulin, badness of carbohydrate metabolism, and on and on&#x2026; even such things as the badness of tetrafluoroethylene (Teflon) cookware, the badness of barbecuing, and the badness of mixing sugar with protein in one meal.  Almost everything&rsquo;s bad in some way, so could health be more determined by what you avoid rather than what you include?
 
-Concrete examples: to raise vitamin D without incurring risk, maybe we should supplement anything *but* vitamin D: see [3.3](#org94b69da).  Or: to stay [Vitamin C](#org328bdbf) sufficient, you don&rsquo;t need to eat fruit, just to avoid grain.
+Concrete examples: to raise vitamin D without incurring risk, maybe we should supplement anything *but* vitamin D: see [Vitamin D](#org94b69da).  Or: to stay [Vitamin C](#org328bdbf) sufficient, you don&rsquo;t need to eat fruit, just to avoid grain.
 
 
 <a id="org3817439"></a>
@@ -199,7 +195,6 @@ Please see the video [Why We Get Fat](https://www.youtube.com/watch?v=lDneyrETR2
 Either of these injunctions suffice to kill this primitive form of the energy balance hypothesis.  You could object that it&rsquo;s not about watching on a daily basis, but a longer timescale: starting to restrict food once your belt is tight, eating more liberally once it doesn&rsquo;t, rinse and repeat.  I agree that makes more sense.  I wrote this section for three reasons:
 
 -   Introduce the thought experiment, which was mind-blowing to me at the time and may be to you too
-
 -   Point out it&rsquo;s not a sufficient argument against the energy balance hypothesis, and we need more to discredit it
 -   The main purpose of the thought experiment: point out that calorie counting is cursed to be incredibly inexact, and therefore if anything you must adopt a reactive approach and it&rsquo;s a waste of time to micromanage daily calories
 
@@ -294,7 +289,7 @@ The term &ldquo;empty calories&rdquo; is what George Orwell would recognize as *
 
 The curriculum for a medical doctor involves almost no nutrition schooling.  Harvard doctors have zero nutrition courses needed for a degree.  And at least in 2004, doctor educations in the US ranged from 2 to 24 hours of nutrition schooling (source?).  This means that like for the rest of us, much of what they know comes from our culture, not from their school.  When a doctor says &ldquo;mmhmm this looks bad, you need to eat less fat&rdquo; they are drawing on the same amount of knowledge as your nutrition-interested aunt or brother-in-law.
 
-I don&rsquo;t mean to be skeptical of experts.  It&rsquo;s just the reality that medical doctors usually are not experts when it comes to this subject.  Nor do I mean to be skeptical only of the mainstream&#x2026;  you get no points for being &ldquo;alternative&rdquo;.  No matter their background, diet gurus of every stripe always seem to be peddling more than they can possibly know.  Everyone feels qualified to have an opinion.  Everyone feels it&rsquo;s *safe* to have an opinion making for a sea of Dunning-Kruger BS.
+I don&rsquo;t mean to be skeptical of experts.  It&rsquo;s just the reality that medical doctors usually are not experts when it comes to this subject.  Nor do I mean to be skeptical only of the mainstream.  No one gets points for being &ldquo;alternative&rdquo;.  No matter their background, diet gurus of every stripe always seem to be peddling more than they can possibly know.  Everyone feels qualified to have an opinion.  Everyone feels it&rsquo;s *safe* to have an opinion making for a sea of Dunning-Kruger BS.
 
 Anyway, this should inoculate us against weighing credentials too heavily.  Titles don&rsquo;t matter when it&rsquo;s not inside their field of expertise.
 
@@ -520,7 +515,7 @@ The Inuit ate meat, but not bread.  Per *via negativa*, is it possible that West
 Two hopefully uncontroversial facts of biochemistry support this (though I may have been misled):
 
 -   The body can recycle vitamin C endlessly.  To deplete it, something else you&rsquo;re doing has to deplete it.
--   Carbohydrate metabolism causes oxidative stress (free radicals, Reactive Oxygen Species), which the body counterbalances by expending antioxidants&#x2026; such as vitamin C!  Not to mention ketones, an antioxidant that cannot be present when bread is part of the diet.
+-   Carbohydrate metabolism causes oxidative stress (free radicals, Reactive Oxygen Species), which the body counterbalances by expending antioxidants&#x2026; such as vitamin C!  Not to mention ketones, an antioxidant that cannot be present when bread is part of the diet, leading to greater waste of vitamin C.
 
 If the reasoning is valid, then we can conclude that dietary vitamin C isn&rsquo;t necessary during fasting or on a zero-carbohydrate diet, but *when* you start eating bread (grain is the only carbohydrate-rich food without vitamin C), *then* you also have to eat fruit or vegetables to stave off scurvy.  Bread causes scurvy!  Scurvy is an uniquely grain-caused disease!
 
@@ -531,9 +526,9 @@ Another conclusion is that vitamin C may not be reasonably called an essential n
 
 ## Vitamin D
 
-Vitamin D levels can stay fixed regardless of time in the sun (happens to some patients) until you fix a deficiency of one of the bone-health minerals (calcium, boron, &#x2026;), whereupon blood vitamin D is free to increase.  This is a talking point in the &ldquo;don&rsquo;t supplement&rdquo; camp: possibly the body refuses to generate vitamin D to protect bone because it would trigger processes that it doesn&rsquo;t have the minerals to support.  Indeed, I&rsquo;m sure you&rsquo;ve seen the news linking vitamin D supplementation to osteoporosis in some cases.
+Vitamin D levels can stay fixed regardless of time in the sun (happens to some patients) until you fix a deficiency of one of the bone-health nutrients (calcium, boron, proline &#x2026;), whereupon blood vitamin D is free to increase.  This is a talking point in the &ldquo;don&rsquo;t supplement&rdquo; camp: possibly the body refuses to generate vitamin D to protect bone because it would trigger processes that it doesn&rsquo;t have the minerals to support.  I&rsquo;m sure you&rsquo;ve seen the news linking vitamin D supplementation to osteoporosis in some cases, and this would neatly explain that.
 
-This makes for a testable theory, because if true, it should be possible in these cases to consume something calcium-rich (or ideally the one food that&rsquo;s rich in all bone minerals: bone broth), and watch the vitamin D levels magically increase even without going out in the sun any more than otherwise.
+This makes for a testable theory, because if true, it should be possible in these cases to consume something calcium-rich (or ideally the one food that&rsquo;s rich in all bone nutrients: bone broth), and watch the vitamin D levels magically increase even without going out in the sun any more than otherwise.
 
 Reasoning inspired by [Why Low 25(OH)D Could Indicate a Deficiency of Calcium Instead of Vitamin D](https://www.westonaprice.org/an-ancestral-perspective-on-vitamin-d-status-part-2-why-low-25ohd-could-indicate-a-deficiency-of-calcium-instead-of-vitamin-d/).
 
@@ -607,15 +602,15 @@ In particular, this is fascinating &#x2013; emphasis mine:
 
 ## Choline
 
-I&rsquo;ve spent time on forums about human longevity, and one of the first things they like to supplement is choline.  In addition, it&rsquo;s popular in the nootropics community, who think it may help your smarts.
+I&rsquo;ve spent time on forums about human longevity, and one of the first things they like to supplement is choline.  It&rsquo;s also popular in the nootropics community, who think it helps your intelligence, at least when combined with racetam drugs, which use up choline.
 
-There are many forms of choline, like phosphatidylcholine and blah blah blah&#x2026; and it&rsquo;s present in all animal tissue, but what&rsquo;s interesting: **your body will expend the choline in order to &ldquo;neutralize&rdquo; methionine.**  As you know, the amino acid methionine is found in large quantities in muscle meat (and eggs).  Which means that, if you eat muscle meat but not other parts of the animal, you may still fail to get enough choline.
+There are many forms of choline, like phosphatidylcholine and blah blah blah&#x2026; and it&rsquo;s present in all animal tissue, but what&rsquo;s interesting: **your body will expend choline in order to &ldquo;neutralize&rdquo; methionine.**  As you know, the amino acid methionine is found in large quantities in muscle meat and eggs.  Which means that, if you eat muscle meat but not other parts of the animal, you may still fail to get enough choline.  Especially true when you avoid yolks and fatty meat, which do have choline, in favour of lean meat and egg whites, which lack it.
 
-You shouldn&rsquo;t be wasting choline on this &#x2013; eat glycine-rich foods, see [Methionine-glycine balance](#orgaed8fd2).
+You shouldn&rsquo;t be wasting choline this way &#x2013; eat glycine-rich foods, see [Methionine-glycine balance](#orgaed8fd2), to deal with the methionine so you can keep all the choline for your benefit.
 
-What&rsquo;s a good source of choline?  Liver!  It stands alone as an effective dietary choline source.
+What&rsquo;s a good source of choline?  Liver!  It stands uncontested as the most effective dietary choline source.
 
-For plant sources, the betaine found mostly in spinach (and to a small extent in beetroots, after which it&rsquo;s named), can be converted in the body to choline but not a lot.  This makes spinach essential for vegans.
+For plant sources, the betaine found mostly in spinach (and to a small extent in beetroots, after which betaine is named), can be converted in the body to choline but not a lot.  This makes spinach essential for vegans.
 
 Genetics can help.  90% of Japanese people have a gene for converting some methionine to choline ([source](http://blog.cholesterol-and-health.com/2010/12/meeting-choline-requirement-eggs-organs.html)), but not so many Western people have it.
 
@@ -626,14 +621,14 @@ Genetics can help.  90% of Japanese people have a gene for converting some methi
 
 There are different forms of omega-3.  The plant-based version is alpha-linolenic acid (ALA), which you can find in e.g. rapeseed oil and linseed oil.  Less than 1% of it (depends on genes?) is converted inside the body to the forms it uses: docosahexaenoic acid (DHA) and eicosapentaenoic acid (EPA).
 
-Omega-3 in the true EPA/DHA form is mainly found in seafood, such as oily fish, and in brains (our brain is 15% DHA by weight, and unsurprisingly, brain health is intimately linked to DHA intake).  To a small extent it is also found in fat from grass-fed animals, oysters, and some seaweeds.
+Omega-3 in the true EPA/DHA form is mainly found in seafood, such as oily fish, and in brains (our brain is 15% DHA by weight, and unsurprisingly, brain health is intimately linked to DHA intake).  To a small extent it is also found in oysters, some seaweeds, and fat from grass-fed animals, but in tiny amounts  compared to something like wild herring.
 
 
 <a id="orga39fe0c"></a>
 
 ## Effects of omega-3
 
-Deficiency leads to dry skin, poor eyesight, and neurodegeneration.
+Deficiency leads to dry skin, poor eyesight, and several brain-degenerative diseases.
 
 
 <a id="org8663a26"></a>
@@ -651,71 +646,7 @@ There have been signs that actually *the balance doesn&rsquo;t matter* so long a
 
 ## sn-2 DHA
 
-The body converts between EPA and DHA interchangeably, but DHA is ultimately the main form that goes into cellular tissue.  The brain is 25% (?) DHA by weight.  So we sometimes just talk about DHA, since this is the important thing.  I&rsquo;m not sure if it&rsquo;s smart but it&rsquo;s convenient to talk about it as a shorthand for both EPA/DHA, i.e. &ldquo;the subject ate 2g of DHA&rdquo; they actually ate a mix of EPA/DHA. Welp.
-
-The molecule DHA comes in multiple forms, sn-1, sn-2 and sn-3.  Apparently the body uses sn-2 best.
-
-There is more sn-2 in seafood than in fish oil capsules. (How? Does the refinement change the molecule??) <http://caloriesproper.com/vegetable-oil-fatty-acids-are-not-essential/>
-
-
-<a id="org71b4469"></a>
-
-## TODO Genetic need of omega-3
-
-There&rsquo;s indication (where?) that Inuit peoples and some portion of the Nordic and Irish populations have genes such that they need a huge amount of omega-3.  How huge?  I don&rsquo;t know, but for perspective, we know the amounts some traditional Inuit groups ate: 14-20 g/day. This corresponds to 400-600 g of herring/mackerel daily.
-
-Now that&rsquo;s probably overshooting their minimum need, but if we say it&rsquo;s half of the low end, that&rsquo;s still at least 200 g of herring daily, or 1.4 kg weekly.
-
-
-<a id="org0cab385"></a>
-
-## How much seafood?
-
-If you have extra [genetic need of omega-3](#org71b4469), the problem is that you cannot practically consume these amounts via fish oil capsules.  To get one gram of omega-3, you need three 1-g capsules of non-concentrated fish oil, so to get 7g of o3, we&rsquo;re looking at swallowing 21 capsules, or 42 half-gram capsules, in one day.  Every day, 365 days a year&#x2026; 15,330 capsules a year.  This many capsules may contain byproducts that give you adverse effects (so I heard).  To compound the matter, omega-3 is not as well absorbed in this form than when it comes as part of seafood&#x2026; so this absurd amount may still be too few.
-
-There&rsquo;s also the monetary aspect.  Fish oil is more expensive after processing than when it was still on the fish in question.  To frame it differently, if you eat fish just for the omega-3, you&rsquo;re not only paying less for the omega-3, but you get the protein and other nutrients of a full meal without paying anything.  Why support the unnecessary industry of fish oil processing?
-
----
-
-A different pointer at the correct quantity comes from the research on telomeres, which connects high &ldquo;omega-3 index&rdquo; with less telomere shortening.  If you don&rsquo;t know about telomeres, in summary they&rsquo;re parts of each cell&rsquo;s DNA kernel that shortens over time.  Once they&rsquo;re too short, they can no longer divide.  Long telomeres mean long life.
-
-You can get your omega 3 index tested: it tells you what percentage of the fatty acids in your blood is omega-3.  People in the USA/EU average 4%.  It should be sitting at >8%, which is where the healthiest people are, and probably be as high as possible (not heard of any negative effect).  To achieve >8%, you typically need more than two &ldquo;servings&rdquo; of seafood per week, whatever &ldquo;serving&rdquo; means.  Source of this reasoning: <https://web.archive.org/web/20170620091732/http://caloriesproper.com/omega-3-index/>
-
-It&rsquo;s likely that people report &ldquo;serving&rdquo; differently, and many people eat lean fish and call it seafood.  So if you make sure to choose wild oily fish, I wager that two normal-size servings per week, whatever that means for you, will suffice.
-
-This result looks quite a bit less than the weekly 1.4 kg I proposed, but that depended on genes.
-
-
-<a id="orgfdbb1f9"></a>
-
-## CLA
-
-Conjugated Linoleic Acid (CLA) is a fat found mainly in grass-fed ruminant fat, and to a small extent in champignons (button mushrooms).
-
-Interesting because it&rsquo;s an example of a natural trans fat, as opposed to an artificial trans fat, and good rather than bad for health, but I don&rsquo;t know how much.
-
-
-<a id="org78623b9"></a>
-
-## Leaking nutrients
-
-All B vitamins are water-soluble.  Personal supposition: they could leak out of food when cooked.  So we could expect things like ham or dried food to have less B vitamins.  Electrolytes (natrium, kalium, magnesium and iodine) could also leak out on the same principle.  I don&rsquo;t know about minerals.
-
-If true, this makes it pretty stupid to throw away the broth (the cooking water).  Drink it.
-
-I wager the same for fat-soluble vitamins (A, D, E, K), when some fatty food leaks fat during cooking.  So when frying fish, scoop up that valuable fish oil.   (And protect them from oxidation by having saturated fats in the pan, along with antioxidants such as rosemary.)
-
-
-<a id="org214d6f9"></a>
-
-## Iodine
-
-Iodine comes from the sea, and may be in [coastal soil](http://www.wheatbellyblog.com/2012/07/an-iodine-primer/), and thereby animals and plants living on coasts.  It&rsquo;s not unusual for animals living far inland to run into iodine deficiency.  Among humans today it is the most common preventable cause of intellectual disability, and though much of the world now uses iodized table salt we are running on a bare minimum of iodine intake, a dangerous line to balance on.
-
-Iodine is found in seafood and seaweeds.  Kelp is a cost-effective food, with astronomical amounts of iodine &#x2013; 1 ml of granulated kelp will give you more iodine than most people get in a day.  You can add it to your salt shaker for convenience.  Unfortunately, it may have [high amounts of bromide](https://iodinehealth.wordpress.com/iodine-types/) which cancels out the iodine.  More research needed.
-
-There are several reasons we deplete the iodine in our bodies &#x2013; chiefly, other halogens, see the bromide in pesticides, baked goods, soft drinks and vegetable oils, the fluoride and chlorine in municipal water, etc.  You need a lot of iodine to reverse the problem.
-
+The body converts between EPA and DHA interchangeably, but DHA is ultimately the main form that goes into cellular tissue.  The brain is 15%
 Table salts tend to have iodine added.  However, there are multiple naturally-occurring forms of iodine, and at least two necessary forms (iodide and elemental iodine), and table salt only has one, and it evaporates within three weeks of opening the box.  The amount of iodine you&rsquo;ll ever get from table salt also is low.
 
 If you want to maximize the iodine from table salt, buy new packages often, preferably resealable.  If you live alone, buy small packages.  That said, you&rsquo;re still only getting iodide, not elemental iodine.
@@ -751,13 +682,19 @@ The soil is where many nutrients come from &#x2013; plants grow in it, cattle ea
 
 Very strange: there have been signs that a varied diet is *worse* than a one-sided diet at building gut biodiversity! <http://www.sciencedaily.com/releases/2014/05/140528105252.htm>
 
+Read that again.  More varied diet -> *less* varied gut flora.  They propose it&rsquo;s because variation supports generalist species.
+
+So how should we eat?
+
 Should we be consistent with our diet, for a consistent flora? 
 
 Should we follow different one-sided diets in sequence, to give different cultures a chance to shine and outcompete the others?  Maybe that&rsquo;d cause an unending sequence of Herxheimer-like reactions (where you feel ill health because your previous gut flora is dying off).
 
 To pattern lifestyle after the Paleolithic, it&rsquo;s likely that they would have eaten different foods at different times of year.  Stretching out your variation over a year would give you fewer problems with sudden dieoff.  Above all, it seems, to keep diversity high, avoid supporting generalist species.  That would mean different one-sided diets at different times, and no fruit in the winter.
 
-But is diversity important?  Poor gut biodiversity, such as after a round of antibiotics, has been linked to diseases like SIBO (small intestinal bacterial overflow).
+You&rsquo;d have periods with lots of oranges, then periods with lots of apples, then periods with lots of kiwis, and also sometimes periods with no plant matter at all.  A lot of variation over the year, but not all at the same time.
+
+But is diversity important?  Poor gut biodiversity, as you get after a round of antibiotics, has been linked to diseases like SIBO (small intestinal bacterial overflow), GERD (gastroesophageal reflux syndrome), IBS (irritable bowel syndrome) etc.  Adding to that, evidence is mounting in support of a &ldquo;gut-brain axis&rdquo;: good gut health, good mental health!
 
 <http://www.marksdailyapple.com/16-things-that-affect-your-gut-bacteria/>
 
@@ -766,7 +703,7 @@ But is diversity important?  Poor gut biodiversity, such as after a round of ant
 
 ## &ldquo;Cholesterol&rdquo;
 
-Early forms of the lipid hypothesis mistook total cholesterol (TC) for a risk factor for cardiovascular disease, so studies in the 50s-80s only measured the total.  Now we know it highly depends on the kind:
+Early forms of the lipid hypothesis mistook total cholesterol (TC) for a risk factor for cardiovascular disease, so studies in the 1950s-80s only measured the total.  Now we know it highly depends on the kind:
 
 -   HDL (high density lipoprotein)
 -   LDL (low density lipoprotein)
@@ -850,9 +787,9 @@ A point on safety.  There are various forms of creatine, and the form called **c
 
 ## Leucine
 
-You need ~3g of leucine to stimulate muscle protein synthesis (MPS). See <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4558471>. So any one meal needs to exceed a certain amount of protein.
+You need ~3g of leucine to stimulate muscle protein synthesis (MPS). See <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4558471>. So any one meal needs to exceed a certain amount of protein, because if we never stimulate MPS, it&rsquo;s sort of like having a protein-less diet(?).
 
-HOW MUCH LEUCINE IS IN 100g OF FOOD? From nutritiondata.self.com:
+How much leucine is in 100g of food? From nutritiondata.self.com:
 
     cheese, cheddar           2385 mg
     cheese, gouda             2564 mg
@@ -866,6 +803,8 @@ HOW MUCH LEUCINE IS IN 100g OF FOOD? From nutritiondata.self.com:
 So 1.2 to 1.7 grams of leucine in 100 g of meat. So 250 g of meat is minimum at one meal, 300 g a better minimum to be on the safe side.
 
 Aside: This utilizes the mTOR pathway, accelerating aging, which we ought to counterbalance by fasting.  Fast and feast.
+
+Very old people maybe shouldn&rsquo;t trigger mTOR that often, so one protein meal a day (and instead have more bone broth), while young people can have two or three, but not sure what my reasoning was for this.
 
 
 <a id="org456921d"></a>
@@ -898,7 +837,7 @@ One valid concern is heterocyclic amines (HCA or HA), which form at high tempera
 
 Here&rsquo;s an important topic.  Since organs (especially liver) come out on top so many times for bioavailable nutrients, I want to know how much toxins they&rsquo;ve also got.  It seems reasonable to suppose that for the same reason they&rsquo;re concentrated in nutrients, they may be concentrated in some kinds of environmental toxins, especially the liver and kidneys which act as filters.  I&rsquo;ll look into it later.
 
-I must note that most of us have already accepted consuming toxins in multiple foods, figuring that the nutrients are worth it.  Like the pesticides on most plants, and the antinutrients in grain, whole grain, and seeds.  Few people actually sit down and calculate whether the quantities are worth it, so it would be inconsistent to treat organs specially, it smells more like an excuse to postpone eating them.
+I must note that most of us have already accepted consuming toxins in multiple foods, either figuring that the nutrients are worth it, or just not thinking about it.  Example: the pesticides on most plants, and the antinutrients in grain, whole grain, and seeds.  Few people actually sit down and calculate whether the quantities are worth it, so it would be inconsistent to treat organs specially, it smells more like an excuse to postpone eating them.
 
 
 <a id="orgceaec5d"></a>
@@ -955,9 +894,11 @@ This is a well-known aspect of keto-adaptation.  Especially for someone who has 
 
 ### Dawn phenomenon
 
-Dawn phenomenon: high fasting blood glucose in the morning (around 5.5 mmol/l).  This makes sense because a fasted state means there&rsquo;s a lot of the hormone glucagon, which encourages releasing glucose into the blood.  Healthy carbivores (not diabetic ones) have low BG in the morning (around 4.0 mmol/l) despite all that glucagon, so we&rsquo;ve come to see low as good.  A theory for why it&rsquo;s low: they were barely able to release enough glucose to keep up with demand during the night, and they&rsquo;re logically using so much because they&rsquo;re not keto-adapted.  We could test this theory by checking how fast the liver catalyzes its glycogen given the typical night glucagon level, compared against energy demand (a keto-adapted person uses 75% less glucose).
+Dawn phenomenon: high fasting blood glucose in the morning (around 5.5 mmol/l).  This makes sense because a fasted state means there&rsquo;s a lot of the hormone glucagon, which encourages releasing glucose into the blood.
 
-We should beware of assuming that low fasting BG is normal.  We know high fasting BG is a risk factor *for carbivores*, because it indicates metabolic syndrome (prediabetes or diabetes).  On a ketogenic diet, a high fasting BG cannot be an indicator for metabolic syndrome, since the ketogenic diet itself almost by definition means the patient&rsquo;s metabolic syndrome is on the way out, getting less insulin-resistant for every day that passes.  I don&rsquo;t know if fasting BG known to correlate to any other problem, so we have no basis left on which to suspect the dawn phenomenon is anything pathological.
+Healthy carbivores (not diabetic ones) have low BG in the morning (around 4.0 mmol/l) despite all that glucagon, so we&rsquo;ve come to see low as good.  A theory for why it&rsquo;s low: they were barely able to release enough glucose to keep up with demand during the night, and they&rsquo;re logically using so much because they&rsquo;re not keto-adapted.  We could test this theory by checking how fast the liver catalyzes its glycogen given the typical night glucagon level, compared against energy demand (keeping in mind a keto-adapted person uses 75% less glucose).
+
+We should beware of assuming that low fasting BG is normal.  We know high fasting BG is a risk factor *for carbivores*, because it indicates metabolic syndrome (prediabetes or diabetes).  On a ketogenic diet, a high fasting BG cannot be an indicator for metabolic syndrome, since the ketogenic diet itself almost by definition means the patient&rsquo;s metabolic syndrome is on the way out: they&rsquo;re getting less insulin-resistant for every day that passes.  I don&rsquo;t know if fasting BG known to correlate to any other problem, so we have no basis left on which to suspect the dawn phenomenon as anything pathological.
 
 It may be interesting to know that as soon as the ketotic person consumes a ketogenic breakfast, the blood sugar will not go up, but rather drop.  We&rsquo;ve been trained to think meals make BG go up, but that&rsquo;s for carbivores. The ketotic person&rsquo;s BG peaks when waking up and gently falls for the rest of the day, falling particularly sharply with meals, and at the end of the day it might be close to 4.0 mmol/l.
 
@@ -984,11 +925,11 @@ Sometimes a source will spread FUD (fear, uncertainty and doubt) over a risk of 
 
 ## Preferred energy source?
 
-This one gets so many people, because it makes sense: the body will burn glucose first, then ketones.  Therefore, the body &ldquo;prefers&rdquo; glucose.  Or?
+This one gets so many people, because it makes sense: the body will burn glucose first, then ketones.  Therefore, the body must &ldquo;prefer&rdquo; glucose.  Or?
 
 Problem is, you could use identical reasoning to say that actually, the body &ldquo;prefers&rdquo; alcohol.
 
-It burns alcohol first of all, because it&rsquo;s toxic and burning it is a quick way to get the amounts down.  Couldn&rsquo;t that be the same reason it then burns glucose before going to ketones?  Viewed this way, the argument supports ketones and fat as the healthiest fuels &#x2013; the body&rsquo;s &ldquo;preferred&rdquo; &#x2013; since having them swimming around the bloodstream doesn&rsquo;t at any point cause an emergency reaction to clean them away.
+It burns alcohol first of all, because it&rsquo;s toxic and burning it for energy is a quick way to get the amounts down.  Couldn&rsquo;t that be the same reason it then burns glucose before going to ketones?  Viewed this way, the argument supports ketones and fat as the healthiest fuels &#x2013; the body&rsquo;s &ldquo;preferred&rdquo; &#x2013; since having them swimming around the bloodstream doesn&rsquo;t at any point cause an emergency reaction to clean them away.
 
 
 <a id="org3fe5055"></a>
@@ -997,7 +938,7 @@ It burns alcohol first of all, because it&rsquo;s toxic and burning it is a quic
 
 -   Insulin (see [Insulin](#org5ac92b9))
 -   Oxidation (see [ROS](#org917ef47))
--   Inflammation (through the effects of insulin, ROS, cholesterol staying too long in the blood and getting oxidated, etc)
+-   Inflammation (through the effects of insulin, ROS, cholesterol staying too long in the blood and getting oxidated, and probably other effects)
 -   Sugar likes to react with protein to form carcinogens.  Don&rsquo;t know to what extent this occurs in the intestines (as opposed to on the stove), or to what extent it occurs with starch (as opposed to sugar).
 
 
@@ -1085,8 +1026,10 @@ EFSA (European Food Safety Authority) says that intake of up to 400mg/day do not
 
 Coffee is about 99% as hydrating as water i.e. a liter of coffee is nearly indistinguishable from a liter of water for the body&rsquo;s hydration needs.
 
--   A minor issue, but the fact there is a lot of disagreement on this point reveals how much people differ on how to do even basic reasoning about human biochemistry.  How then can I trust anyone?  How can the field proceed to start settling bigger, more interesting hypotheses?
+-   A minor issue, but the fact there is a lot of disagreement on this point reveals how much people differ on how to do even basic reasoning about human biochemistry.  How then can I trust anyone?  How can the field proceed to start settling bigger, more interesting hypotheses when seemingly every other representant for the field says &ldquo;hey drink more water, that coffee isnt hydrating you, you&rsquo;re dehydrated&rdquo;?
     -   At least this becomes a litmus test: if a writer says coffee does not hydrate, they&rsquo;re a huckster who did no homework and you&rsquo;d best avoid their book.
+
+As far as I can tell, this stems from a misunderstanding of the term &ldquo;diuretic&rdquo;.  Diuretic literally means &ldquo;something that makes you pee&rdquo;.  Problem is, plain water is itself a diuretic.  Drink more water, pee more, right?  For us to usefully talk about diuretics, there is a second meaning to the term: something that by chemical means stimulates your body to pee more *despite not supplying water*.  Coffee does have some of this chemical effect, which is where I got the 99% figure from, but it&rsquo;s almost nothing.  The water content even of strong coffee absolutely overwhelms this small effect.
 
 
 <a id="orgf5626f7"></a>
