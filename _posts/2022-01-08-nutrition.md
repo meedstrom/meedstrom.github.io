@@ -3,12 +3,14 @@ title: Nutrition science
 date: 2022-06-30
 ---
 
+Planted <span class="timestamp-wrapper"><span class="timestamp">[2022-01-08 Sat]</span></span>
+
 
 # Table of Contents
 
 1.  [Self-intro](#orgd554482)
-        1.  [Past me (2013)](#org0941e76)
-        2.  [Current me (2022)](#org3636f72)
+    1.  [Past me (2013)](#org0941e76)
+    2.  [Current me (2022)](#org3636f72)
 2.  [Perspectives and thought experiments](#org88eae66)
     1.  [Via negativa](#orgb9090e8)
     2.  [&ldquo;Fat&rdquo; means lipids or excess weight, not both](#org3817439)
@@ -35,43 +37,47 @@ date: 2022-06-30
     3.  [Vitamin D](#org94b69da)
     4.  [Vitamin K2](#orgbaebba7)
     5.  [Vitamin B12](#orge5e0120)
-    6.  [Vitamin A](#org450c7ab)
-    7.  [Gelatin, glycine, GAGs](#orgd94eb62)
-    8.  [Methionine-glycine balance](#orgaed8fd2)
-    9.  [Choline](#org1b08628)
-    10. [Forms of omega-3](#org0a842ca)
-    11. [Effects of omega-3](#orga39fe0c)
-    12. [Omega 3-6 balance](#org8663a26)
-    13. [sn-2 DHA](#org3118bc1)
-    14. [Soil](#org9dccef0)
-    15. [Teeth](#org768bbe2)
-    16. [Gut bacteria](#org4668203)
-    17. [&ldquo;Cholesterol&rdquo;](#org0a42a0d)
-    18. [Acid-base balance](#org1849f75)
-    19. [Pesticides](#orgd425944)
-    20. [GMO](#orge6c2abd)
-    21. [Difference between grass-fed and grain-fed](#orgeccb82a)
-    22. [Creatine](#org34e1fc2)
-    23. [Leucine](#orgae29db2)
-    24. [Meat toxins](#org456921d)
-    25. [Toxins in organs?](#org413828b)
-    26. [The AMY1 gene](#orgceaec5d)
-    27. [The ApoE4 gene](#org5070dc2)
-    28. [Hemochromatosis](#org7af08f1)
-    29. [Familial hypercholesterolemia](#org67f5ed4)
-    30. [Effects of ketosis](#orgd07e31d)
+    6.  [Gelatin, glycine, GAGs](#orgd94eb62)
+    7.  [Methionine-glycine balance](#orgaed8fd2)
+    8.  [Choline](#org1b08628)
+    9.  [Forms of omega-3](#org0a842ca)
+    10. [Effects of omega-3](#orga39fe0c)
+    11. [Omega 3-6 balance](#org8663a26)
+    12. [sn-2 DHA](#org3118bc1)
+    13. [Genetic need of omega-3](#orgae4ac3b)
+    14. [How much seafood?](#org309a4cf)
+    15. [CLA](#org3351420)
+    16. [Meat toxins](#org456921d)
+    17. [Toxins in organs?](#org413828b)
+    18. [The AMY1 gene](#orgceaec5d)
+    19. [The ApoE4 gene](#org5070dc2)
+    20. [Hemochromatosis](#org7af08f1)
+    21. [Familial hypercholesterolemia](#org67f5ed4)
+    22. [Effects of ketosis](#orgd07e31d)
         1.  [Sodium & potassium loss](#orgcb69e33)
         2.  [Dawn phenomenon](#org810591d)
-    31. [Possible risks of a ketogenic diet](#orgc8f2ba1)
-    32. [Preferred energy source?](#orgec33a93)
-    33. [Effects of consuming carbohydrate](#org3fe5055)
-    34. [ROS](#org917ef47)
-    35. [Insulin](#org5ac92b9)
-    36. [Antinutrients](#orgb137dce)
-    37. [Sweet liver](#orga8517f2)
-    38. [Caffeine](#org7af63ce)
-    39. [Coffee](#org8d305a1)
-    40. [Saturated fat with carbohydrate](#orgf5626f7)
+    23. [Possible risks of a ketogenic diet](#orgc8f2ba1)
+    24. [Preferred energy source?](#orgec33a93)
+    25. [Effects of consuming carbohydrate](#org3fe5055)
+    26. [ROS](#org917ef47)
+    27. [Insulin](#org5ac92b9)
+    28. [Antinutrients](#orgb137dce)
+    29. [Leaking nutrients](#orge4bd680)
+    30. [Iodine](#orgbd3ab49)
+    31. [Soil](#org9dccef0)
+    32. [Teeth](#org768bbe2)
+    33. [Gut bacteria](#org4668203)
+    34. [&ldquo;Cholesterol&rdquo;](#org0a42a0d)
+    35. [Acid-base balance](#org1849f75)
+    36. [Pesticides](#orgd425944)
+    37. [GMO](#orge6c2abd)
+    38. [Difference between grass-fed and grain-fed](#orgeccb82a)
+    39. [Creatine](#org34e1fc2)
+    40. [Leucine](#orgae29db2)
+    41. [Sweet liver](#orga8517f2)
+    42. [Caffeine](#org7af63ce)
+    43. [Coffee](#org8d305a1)
+    44. [Saturated fat with carbohydrate](#orgf5626f7)
 4.  [Beliefs](#org31fbebe)
     1.  [Cruxes for low-carb](#org5ae0c57)
     2.  [Rejected cruxes](#orgfd43e3e)
@@ -115,7 +121,7 @@ Target audience: anyone who wants to discuss nutrition topics with me.  If we ha
 
 <a id="org0941e76"></a>
 
-### Past me (2013)
+## Past me (2013)
 
 I&rsquo;ve seen people make the uncharitable presumption that meat-eaters just can&rsquo;t bear to give up the taste.  So let me clarify that back in 2013 when I decided to lose weight, I liked meat but wasn&rsquo;t a fan in any particular way.  I was ready to go plant-based or even eat nothing but broccoli for a year if that&rsquo;s what it took (young people are extreme).  So I read up on necessary nutrients, all the vitamins, minerals and their different forms, to find out the bare essential foods to eat.
 
@@ -132,7 +138,7 @@ I remained skeptical enough that keto birthed my interest in statistics, so I co
 
 <a id="org3636f72"></a>
 
-### Current me (2022)
+## Current me (2022)
 
 These days I don&rsquo;t want to be an iconoclast in nutrition science.  I&rsquo;d prefer if my diet could mesh easily with other people for social reasons.
 
@@ -557,11 +563,6 @@ This vitamin is a common supplement for vegans because it is *only* found in ani
 Interesting because you can even observe many omnivores being deficient, giving us a theoretic guideline to how much meat we&rsquo;re &ldquo;supposed&rdquo; to eat.
 
 
-<a id="org450c7ab"></a>
-
-## Vitamin A
-
-
 <a id="orgd94eb62"></a>
 
 ## Gelatin, glycine, GAGs
@@ -646,165 +647,48 @@ There have been signs that actually *the balance doesn&rsquo;t matter* so long a
 
 ## sn-2 DHA
 
-The body converts between EPA and DHA interchangeably, but DHA is ultimately the main form that goes into cellular tissue.  The brain is 15%
-Table salts tend to have iodine added.  However, there are multiple naturally-occurring forms of iodine, and at least two necessary forms (iodide and elemental iodine), and table salt only has one, and it evaporates within three weeks of opening the box.  The amount of iodine you&rsquo;ll ever get from table salt also is low.
+The body converts between EPA and DHA interchangeably, but DHA is ultimately the main form that goes into cellular tissue.  The brain is 15% DHA by weight.  So we sometimes just talk about DHA, since this is the important thing.  I&rsquo;m not sure if it&rsquo;s smart but it&rsquo;s convenient to talk about it as a shorthand for both EPA/DHA, i.e. &ldquo;the subject ate 2g of DHA&ldquo; they actually ate a mix of EPA/DHA. Welp.
 
-If you want to maximize the iodine from table salt, buy new packages often, preferably resealable.  If you live alone, buy small packages.  That said, you&rsquo;re still only getting iodide, not elemental iodine.
+The molecule DHA comes in multiple forms, sn-1, sn-2 and sn-3.  Apparently the body uses sn-2 best.
 
-Other than kelp and table salt, sources of iodine are: plants grown on **iodine-rich soil**, animals grown on aforementioned plants (should be in the blood like other electrolytes, but it&rsquo;s also been known to be in dairy and eggs; how much is collected in the meat, fat, bones or organs, I don&rsquo;t know), seaweeds, fish, shellfish.
+There is more sn-2 in seafood than in fish oil capsules. (How? Does the refinement change the molecule??) <http://caloriesproper.com/vegetable-oil-fatty-acids-are-not-essential/>
 
-Due to the potential difficulty or cost in making sure your diet has enough iodine, it may be smart to start taking a supplement for the time being.
 
-On a very-low carbohydrate diet, some voice concerns about reduced thyroid function &#x2013; but it appears this can be remedied by elevating iodine intake, something you should be doing anyway, instead of elevating carbohydrate intake.  To recap: with less carbs, adding iodine becomes even more important.
+<a id="orgae4ac3b"></a>
 
-One problem with iodine is that a sudden change in intake can have negative effects &#x2013; you should build up your intake gradually.  Perhaps the level of iodine in the soil where our ancestors lived determined the level in the animals and plants we ate, and thereby the level in our bodies.  Since soil would also have determined the level of magnesium and many other substances inside us, it is interesting to ask from which soil we should get food.
+## Genetic need of omega-3
 
+There&rsquo;s indication (where?) that Inuit peoples and some portion of the Nordic and Irish populations have genes such that they need a huge amount of omega-3.  How huge?  I don&rsquo;t know, but for perspective, we know the amounts some traditional Inuit groups ate: 14-20 g/day. This corresponds to 400-600 g of herring/mackerel daily.
 
-<a id="org9dccef0"></a>
+Now that&rsquo;s probably overshooting their minimum need, but if we say it&rsquo;s half of the low end, that&rsquo;s still at least 200 g of herring daily, or 1.4 kg weekly.
 
-## Soil
 
-The soil is where many nutrients come from &#x2013; plants grow in it, cattle eats those plants, and you eat those cattle.  It is known that the soil has a large effect on the nutritional value of a plant.  Things to test in the soil at your local farm include iodine, magnesium, radioactive isotopes, and heavy metals.  As a rule, if that plot of land has been overfarmed or heavily farmed in the past, it is going to be &ldquo;drained&rdquo; of nutrients.  Prefer land that has been sustainably farmed or not farmed at all.  Consult maps of where isotopes have landed from nuclear disasters and atomic weapons testing &#x2013; large swathes of your country may be unsuitable (something that is not spoken publicly because feeding the world is hard enough already).
+<a id="org309a4cf"></a>
 
+## How much seafood?
 
-<a id="org768bbe2"></a>
+If you have extra [Genetic need of omega-3](#orgae4ac3b), the problem is that you cannot practically consume these amounts via fish oil capsules.  To get one gram of omega-3, you need three 1-g capsules of non-concentrated fish oil, so to get 7g of o3, we&rsquo;re looking at swallowing 21 capsules, or 42 half-gram capsules, in one day.  Every day, 365 days a year; 15,330 capsules a year.  The byproducts in this many capsules may give you adverse effects (so I heard).  To compound the matter, omega-3 is not as well absorbed in this form than when it comes as part of seafood, so this absurd amount may still be too few.
 
-## Teeth
+There&rsquo;s also the monetary aspect.  Fish oil is more expensive after processing than when it was still on the fish in question.  To frame it differently, if you eat fish just for the omega-3, you&rsquo;re not only paying less for the omega-3, but you get the protein and other nutrients of a full meal without paying anything.  Why support the unnecessary industry of fish oil processing?
 
--   [Dental Health And The Paleo Diet](http://www.gnolls.org/3253/dental-health-and-the-paleo-diet-gingival-sulcus-depth-periodontal-disease-systemic-inflammation-and-some-n1-data/)
--   [Help!  My Patient Wants to Fix Her Childs Cavity with&#x2026;Liver?!?!](http://thepaleohygienist.com/2013/05/24/help-my-patient-wants-to-fix-her-childs-cavity-with-liver/)
--   [Nutritional Cures for Damaged Teeth](http://www.marksdailyapple.com/nutritional-cures-for-damaged-teeth/)
+&#x2014;
 
+A different pointer at the correct quantity comes from the research on telomeres, which connects high &ldquo;omega-3 index&rdquo; with less telomere shortening.  If you don&rsquo;t know about telomeres, in summary they&rsquo;re parts of each cell&rsquo;s DNA kernel that shortens over time.  Once they&rsquo;re too short, they can no longer divide.  Long telomeres mean long life.
 
-<a id="org4668203"></a>
+You can get your omega 3 index tested: it tells you what percentage of the fatty acids in your blood is omega-3.  People in the USA/EU average 4%.  It should be sitting at >8%, which is where the healthiest people are, and probably be as high as possible (not heard of any negative effect).  To achieve >8%, you typically need more than two &ldquo;servings&rdquo; of seafood per week, whatever &ldquo;serving&rdquo; means.  Source of this reasoning: <https://web.archive.org/web/20170620091732/http://caloriesproper.com/omega-3-index/>
 
-## Gut bacteria
+It&rsquo;s likely that people report &ldquo;serving&rdquo; differently, and many people eat lean fish and call it seafood.  So if you make sure to choose wild oily fish, I wager that two normal-size servings per week, whatever that means for you, will suffice.
 
-Very strange: there have been signs that a varied diet is *worse* than a one-sided diet at building gut biodiversity! <http://www.sciencedaily.com/releases/2014/05/140528105252.htm>
+This result looks quite a bit less than the weekly 1.4 kg I proposed, but that depended on genes.
 
-Read that again.  More varied diet -> *less* varied gut flora.  They propose it&rsquo;s because variation supports generalist species.
 
-So how should we eat?
+<a id="org3351420"></a>
 
-Should we be consistent with our diet, for a consistent flora? 
+## CLA
 
-Should we follow different one-sided diets in sequence, to give different cultures a chance to shine and outcompete the others?  Maybe that&rsquo;d cause an unending sequence of Herxheimer-like reactions (where you feel ill health because your previous gut flora is dying off).
+Conjugated Linoleic Acid (CLA) is a fat found mainly in grass-fed ruminant fat, and to a small extent in champignons (button mushrooms).
 
-To pattern lifestyle after the Paleolithic, it&rsquo;s likely that they would have eaten different foods at different times of year.  Stretching out your variation over a year would give you fewer problems with sudden dieoff.  Above all, it seems, to keep diversity high, avoid supporting generalist species.  That would mean different one-sided diets at different times, and no fruit in the winter.
-
-You&rsquo;d have periods with lots of oranges, then periods with lots of apples, then periods with lots of kiwis, and also sometimes periods with no plant matter at all.  A lot of variation over the year, but not all at the same time.
-
-But is diversity important?  Poor gut biodiversity, as you get after a round of antibiotics, has been linked to diseases like SIBO (small intestinal bacterial overflow), GERD (gastroesophageal reflux syndrome), IBS (irritable bowel syndrome) etc.  Adding to that, evidence is mounting in support of a &ldquo;gut-brain axis&rdquo;: good gut health, good mental health!
-
-<http://www.marksdailyapple.com/16-things-that-affect-your-gut-bacteria/>
-
-
-<a id="org0a42a0d"></a>
-
-## &ldquo;Cholesterol&rdquo;
-
-Early forms of the lipid hypothesis mistook total cholesterol (TC) for a risk factor for cardiovascular disease, so studies in the 1950s-80s only measured the total.  Now we know it highly depends on the kind:
-
--   HDL (high density lipoprotein)
--   LDL (low density lipoprotein)
--   VLDL (very low density lipoprotein)
-
-and a related variable
-
--   TG (triglyceride)
-
-Aside; the term &ldquo;cholesterol&rdquo; is a misnomer.  The above-mentioned lipoproteins can carry cholesterol among other types of lipids.  LDL and VLDL are like taxis carrying a few things be delivered to cells, whereas HDL are like buses scooping up a lot of damaged molecules to be carried back to the liver(?) for breakdown.
-
-It&rsquo;s usually a risk factor to have high TG, LDL and especially VLDL, whereas it&rsquo;s good to have high HDL.
-
-On a low-carbohydrate high-fat diet, sometimes total cholesterol will rise, but it turns out it&rsquo;s always higher HDL and lower LDL/VLDL.
-
-Triglycerides (TG) deserve separate analysis, I suspect.  I seem to remember some reasoning that high TG is to be expected when you are in fat-burning mode, whereas it&rsquo;s pathological when you are in glucose-burning mode.
-
-
-<a id="org1849f75"></a>
-
-## Acid-base balance
-
-[Acid-Base: Does Dietary Acid/Base Balance Matter?](http://www.marksdailyapple.com/does-dietary-acidbase-balance-matter/)
-
-
-<a id="orgd425944"></a>
-
-## Pesticides
-
-[Pesticides](http://www.marksdailyapple.com/why-i-dont-trust-the-acceptable-daily-intake-levels-for-pesticides/)
-
-See the Roundup pesticide, still in use today.  I&rsquo;m told that when they tested whether it&rsquo;s safe for human consumption, they tested only the primary chemical and set safe limits based on that, but the final product that&rsquo;s actually goes in the spray contains other chemicals that boost the primary chemical&rsquo;s effect about 125 times.  If true, this concerns me, since then the residue on our plants likely far exceeds the safe limits.
-
----
-
-When they test whether a pesticide is harmful, they test it on human cells in a test tube (called *in vitro* testing) &#x2013; they neglect to test the *other* part of the human animal: the microbes in your gut, and the evidence is increasingly mounting that a good gut flora is necessary for good health.  Many species of these microbes demonstrate severe weakness to pesticides &#x2013; after all, they&rsquo;re roughly what pesticides are designed to kill.
-
-(A human body has 15 trillion human cells, and inside the gastrointestinal tract, 150 trillion non-human cells.  It&rsquo;s not some minor thing.)
-
-Organic foods aren&rsquo;t pesticide-free &#x2013; they just use other kinds of pesticides, that are perhaps less effective per deciliter but then greater quantities are used.  I heard about one farmer kid saying, &ldquo;I love organic &#x2013; I get to spray it twice as much&rdquo;, which paints a nice picture.
-
-While organic isn&rsquo;t pesticide-free, it tends to be safer(?) to eat.  I guess.  But it likely depends on the exact brand.
-
-There seem to me two ways to avoid pesticides &#x2013; either grow the food yourself or purchase food that didn&rsquo;t need pesticide: animals.  Of course, that supposes they&rsquo;re not fed farmed food, just grass, and I don&rsquo;t know if pesticide is used on that grass.  Anyway, I believe pesticide tends to do its damage and leave, it doesn&rsquo;t stick around in the flesh.  I should look into this more.
-
-
-<a id="orge6c2abd"></a>
-
-## GMO
-
-The majority (70%+) of genetically modified organisms are modified with pesticide components.  No way to wash off those residues &#x2013; they&rsquo;re in the food.  Concerns that apply to pesticides therefore apply to GMO as well.
-
-Other GMO strategies involve making the food *resistant* to a pesticide, so that it will not be harmed, and the farmers then spray massive amounts (since the food survives).  It may be very important for us to wash that food with soap, or peel and toss its outermost layers entirely.
-
-
-<a id="orgeccb82a"></a>
-
-## Difference between grass-fed and grain-fed
-
-In liver, the grass-fed variety has eight times as much vitamin A.  I&rsquo;m not kidding, **eight!**
-
-Maybe it was a fluke because the amount depends on which animal the FDA/USDA/(who?) tested, but it seems unlikely.  If it&rsquo;s a common pattern for vitamin A, what does it say about other nutrients?
-
-
-<a id="org34e1fc2"></a>
-
-## Creatine
-
-People commonly see creatine as a bodybuilder thing &#x2013; why would normal people need creatine?  Actually, bodybuilders may need it the least &#x2013; they&rsquo;re used to challenging their muscles to the maximum as it is, and I&rsquo;m somewhat confident this will produce the full MPS reaction (muscle protein synthesis).  For people who don&rsquo;t exercise much, the creatine could mean an extra kick whenever they do lift something, and more energy to make the decision *to lift it* in the first place.  That&rsquo;s just a supposition, but it opens my mind to creatine as a nutrient for normal people.  Forget its association to the gym and analyze it like any other nutrient.
-
-Creatine is a naturally occurring substance &#x2013; about half of your creatine is produced inside your body, the other half is provided from meat, eggs and fish.
-
-What it does is sit in your muscle, just like glycogen and ATP, ready to provide energy.  It&rsquo;s a straightforward job.  A difference from glycogen in strenuous exercise is that creatine gets used up almost immediately and recharges in time for the next set of exercise &#x2013; and for a given set, a tiny portion of the energy comes from creatine.  That may be because strenuous exercise is strenuous, it uses lots of energy all at once.  Perhaps for less strenuous exercise, such as walking, a greater fraction will come from creatine?
-
-From various Internet anecdotes, people who eat animals often feel no effect taking additional creatine, but vegans experience a significant difference: everything from moving to thinking becomes easier, apparently clearing away &ldquo;brain fog&rdquo;.
-
-A point on safety.  There are various forms of creatine, and the form called **creatine monohydrate** has undergone extensive study, looking very safe in the prescribed quantities (5g/day), unless you have kidney problems.  Can we extrapolate that if you were a heavy meat-eater you would also experience problems if your kidneys are not working right?
-
-
-<a id="orgae29db2"></a>
-
-## Leucine
-
-You need ~3g of leucine to stimulate muscle protein synthesis (MPS). See <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4558471>. So any one meal needs to exceed a certain amount of protein, because if we never stimulate MPS, it&rsquo;s sort of like having a protein-less diet(?).
-
-How much leucine is in 100g of food? From nutritiondata.self.com:
-
-    cheese, cheddar           2385 mg
-    cheese, gouda             2564 mg
-    egg, whole, raw           1088 mg
-    fish, herring, raw        1460 mg
-    yogurt, plain, whole milk  350 mg
-    beef, brisket, raw (1)    1395 mg
-    beef, brisket, raw (2)    1637 mg
-    chicken, raw              1245 mg
-
-So 1.2 to 1.7 grams of leucine in 100 g of meat. So 250 g of meat is minimum at one meal, 300 g a better minimum to be on the safe side.
-
-Aside: This utilizes the mTOR pathway, accelerating aging, which we ought to counterbalance by fasting.  Fast and feast.
-
-Very old people maybe shouldn&rsquo;t trigger mTOR that often, so one protein meal a day (and instead have more bone broth), while young people can have two or three, but not sure what my reasoning was for this.
+Interesting because it&rsquo;s an example of a natural trans fat, as opposed to an artificial trans fat, and good rather than bad for health, but I don&rsquo;t know how much.
 
 
 <a id="org456921d"></a>
@@ -996,6 +880,187 @@ We find lectins, phytates, and other(?) antinutrients especially in grain, with 
 As a final nail in whole grain&rsquo;s coffin, it doesn&rsquo;t make sense to see whole grain as a source of some vitamins/minerals when vegetables, tubers and fruit make cleaner carb sources and you could just eat more of those instead.  If you absolutely have to eat grain, maybe you can argue for whole grain&rsquo;s nutrients being worth the antinutrients, but it&rsquo;s a complex thing to figure out (we need to quantify the effects of every substance involved), and just quitting both refined grain and whole grain is a simple approach that saves us effort and doesn&rsquo;t risk some miscalculation.
 
 A note on &ldquo;lectins&rdquo;, they&rsquo;re a broad category and not all bad: <https://www.fitness-vip.com/nutrition-research/lectins-and-food-toxins-concern.html>
+
+
+<a id="orge4bd680"></a>
+
+## Leaking nutrients
+
+All B vitamins are water-soluble.  Personal supposition: they could leak out of food when cooked.  So we could expect things like ham or dried food to have less B vitamins.  Electrolytes (natrium, kalium, magnesium and iodine) could also leak out on the same principle.  I don&rsquo;t know about minerals.
+
+If true, this makes it pretty stupid to throw away the broth (the cooking water).  Drink it.
+
+I wager the same for fat-soluble vitamins (A, D, E, K), when some fatty food leaks fat during cooking.  So when frying fish, scoop up that valuable fish oil.   (And protect them from oxidation by having saturated fats in the pan, along with antioxidants such as rosemary.)
+
+
+<a id="orgbd3ab49"></a>
+
+## Iodine
+
+Iodine comes from the sea, and may be in [coastal soil](http://www.wheatbellyblog.com/2012/07/an-iodine-primer/), and thereby animals and plants living on coasts.  It&rsquo;s not unusual for animals living far inland to run into iodine deficiency.  Among humans today it is the most common preventable cause of intellectual disability, and though much of the world now uses iodized table salt we are running on a bare minimum of iodine intake, a dangerous line to balance on.
+
+Iodine is found in seafood and seaweeds.  Kelp is a cost-effective food, with astronomical amounts of iodine &#x2013; 1 ml of granulated kelp will give you more iodine than most people get in a day.  You can add it to your salt shaker for convenience.  Unfortunately, it may have [high amounts of bromide](https://iodinehealth.wordpress.com/iodine-types/) which cancels out the iodine.  I need more info.
+
+There are several reasons we deplete the iodine in our bodies &#x2013; chiefly, other halogens, see the bromide in pesticides, baked goods, soft drinks and vegetable oils, the fluoride and chlorine in municipal water, etc.  You need a lot of iodine to reverse the problem.  (Source: Nora Gedgaudas)
+
+Table salts tend to have iodine added.  However, there are multiple naturally-occurring forms of iodine, and at least two necessary forms (iodide and elemental iodine), and table salt only has one, and it evaporates within three weeks of opening the box.  The amount of iodine you&rsquo;ll ever get from table salt also is low.
+
+If you want to maximize the iodine from table salt, buy new packages often, preferably resealable.  If you live alone, buy small packages.  That said, you&rsquo;re still only getting iodide, not elemental iodine.
+
+Other than kelp and table salt, sources of iodine are: plants grown on **iodine-rich soil**, animals grown on aforementioned plants (should be in the blood like other electrolytes, but it&rsquo;s also been known to be in dairy and eggs; how much is collected in the meat, fat, bones or organs, I don&rsquo;t know), seaweeds, fish, shellfish.
+
+Due to the potential difficulty or cost in making sure your diet has enough iodine, it may be smart to start taking a supplement for the time being.
+
+On a very-low carbohydrate diet, some voice concerns about reduced thyroid function &#x2013; but it appears this can be remedied by elevating iodine intake, something you should be doing anyway, instead of elevating carbohydrate intake.  To recap: with less carbs, adding iodine becomes even more important.
+
+One problem with iodine is that a sudden change in intake can have negative effects &#x2013; you should build up your intake gradually.  Perhaps the level of iodine in the soil where our ancestors lived determined the level in the animals and plants we ate, and thereby the level in our bodies.  Since soil would also have determined the level of magnesium and many other substances inside us, it is interesting to ask from which soil we should get food.
+
+
+<a id="org9dccef0"></a>
+
+## Soil
+
+The soil is where many nutrients come from &#x2013; plants grow in it, cattle eats those plants, and you eat those cattle.  It is known that the soil has a large effect on the nutritional value of a plant.  Things to test in the soil at your local farm include iodine, magnesium, radioactive isotopes, and heavy metals.  As a rule, if that plot of land has been overfarmed or heavily farmed in the past, it is going to be &ldquo;drained&rdquo; of nutrients.  Prefer land that has been sustainably farmed or not farmed at all.  Consult maps of where isotopes have landed from nuclear disasters and atomic weapons testing &#x2013; large swathes of your country may be unsuitable (something that is not spoken publicly because feeding the world is hard enough already).
+
+
+<a id="org768bbe2"></a>
+
+## Teeth
+
+-   [Dental Health And The Paleo Diet](http://www.gnolls.org/3253/dental-health-and-the-paleo-diet-gingival-sulcus-depth-periodontal-disease-systemic-inflammation-and-some-n1-data/)
+-   [Help!  My Patient Wants to Fix Her Childs Cavity with&#x2026;Liver?!?!](http://thepaleohygienist.com/2013/05/24/help-my-patient-wants-to-fix-her-childs-cavity-with-liver/)
+-   [Nutritional Cures for Damaged Teeth](http://www.marksdailyapple.com/nutritional-cures-for-damaged-teeth/)
+
+
+<a id="org4668203"></a>
+
+## Gut bacteria
+
+Very strange: there have been signs that a varied diet is *worse* than a one-sided diet at building gut biodiversity! <http://www.sciencedaily.com/releases/2014/05/140528105252.htm>
+
+Read that again.  More varied diet -> *less* varied gut flora.  They propose it&rsquo;s because variation supports generalist species.
+
+So how should we eat?
+
+Should we be consistent with our diet, for a consistent flora? 
+
+Should we follow different one-sided diets in sequence, to give different cultures a chance to shine and outcompete the others?  Maybe that&rsquo;d cause an unending sequence of Herxheimer-like reactions (where you feel ill health because your previous gut flora is dying off).
+
+To pattern lifestyle after the Paleolithic, it&rsquo;s likely that they would have eaten different foods at different times of year.  Stretching out your variation over a year would give you fewer problems with sudden dieoff.  Above all, it seems, to keep diversity high, avoid supporting generalist species.  That would mean different one-sided diets at different times, and no fruit in the winter.
+
+You&rsquo;d have periods with lots of oranges, then periods with lots of apples, then periods with lots of kiwis, and also sometimes periods with no plant matter at all.  A lot of variation over the year, but not all at the same time.
+
+But is diversity important?  Poor gut biodiversity, as you get after a round of antibiotics, has been linked to diseases like SIBO (small intestinal bacterial overflow), GERD (gastroesophageal reflux syndrome), IBS (irritable bowel syndrome) etc.  Adding to that, evidence is mounting in support of a &ldquo;gut-brain axis&rdquo;: good gut health, good mental health!
+
+<http://www.marksdailyapple.com/16-things-that-affect-your-gut-bacteria/>
+
+
+<a id="org0a42a0d"></a>
+
+## &ldquo;Cholesterol&rdquo;
+
+Early forms of the lipid hypothesis mistook total cholesterol (TC) for a risk factor for cardiovascular disease, so studies in the 1950s-80s only measured the total.  Now we know it highly depends on the kind:
+
+-   HDL (high density lipoprotein)
+-   LDL (low density lipoprotein)
+-   VLDL (very low density lipoprotein)
+
+and a related variable
+
+-   TG (triglyceride)
+
+Aside; the term &ldquo;cholesterol&rdquo; is a misnomer.  The above-mentioned lipoproteins can carry cholesterol among other types of lipids.  LDL and VLDL are like taxis carrying a few things be delivered to cells, whereas HDL are like buses scooping up a lot of damaged molecules to be carried back to the liver(?) for breakdown.
+
+It&rsquo;s usually a risk factor to have high TG, LDL and especially VLDL, whereas it&rsquo;s good to have high HDL.
+
+On a low-carbohydrate high-fat diet, sometimes total cholesterol will rise, but it turns out it&rsquo;s always higher HDL and lower LDL/VLDL.
+
+Triglycerides (TG) deserve separate analysis, I suspect.  I seem to remember some reasoning that high TG is to be expected when you are in fat-burning mode, whereas it&rsquo;s pathological when you are in glucose-burning mode.
+
+
+<a id="org1849f75"></a>
+
+## Acid-base balance
+
+[Acid-Base: Does Dietary Acid/Base Balance Matter?](http://www.marksdailyapple.com/does-dietary-acidbase-balance-matter/)
+
+
+<a id="orgd425944"></a>
+
+## Pesticides
+
+[Pesticides](http://www.marksdailyapple.com/why-i-dont-trust-the-acceptable-daily-intake-levels-for-pesticides/)
+
+See the Roundup pesticide, still in use today.  I&rsquo;m told that when they tested whether it&rsquo;s safe for human consumption, they tested only the primary chemical and set safe limits based on that, but the final product that&rsquo;s actually goes in the spray contains other chemicals that boost the primary chemical&rsquo;s effect about 125 times.  If true, this concerns me, since then the residue on our plants likely far exceeds the safe limits.
+
+---
+
+When they test whether a pesticide is harmful, they test it on human cells in a test tube (called *in vitro* testing) &#x2013; they neglect to test the *other* part of the human animal: the microbes in your gut, and the evidence is increasingly mounting that a good gut flora is necessary for good health.  Many species of these microbes demonstrate severe weakness to pesticides &#x2013; after all, they&rsquo;re roughly what pesticides are designed to kill.
+
+(A human body has 15 trillion human cells, and inside the gastrointestinal tract, 150 trillion non-human cells.  It&rsquo;s not some minor thing.)
+
+Organic foods aren&rsquo;t pesticide-free &#x2013; they just use other kinds of pesticides, that are perhaps less effective per deciliter but then greater quantities are used.  I heard about one farmer kid saying, &ldquo;I love organic &#x2013; I get to spray it twice as much&rdquo;, which paints a nice picture.
+
+While organic isn&rsquo;t pesticide-free, it tends to be safer(?) to eat.  I guess.  But it likely depends on the exact brand.
+
+There seem to me two ways to avoid pesticides &#x2013; either grow the food yourself or purchase food that didn&rsquo;t need pesticide: animals.  Of course, that supposes they&rsquo;re not fed farmed food, just grass, and I don&rsquo;t know if pesticide is used on that grass.  Anyway, I believe pesticide tends to do its damage and leave, it doesn&rsquo;t stick around in the flesh.  I should look into this more.
+
+
+<a id="orge6c2abd"></a>
+
+## GMO
+
+The majority (70%+) of genetically modified organisms are modified with pesticide components.  No way to wash off those residues &#x2013; they&rsquo;re in the food.  Concerns that apply to pesticides therefore apply to GMO as well.
+
+Other GMO strategies involve making the food *resistant* to a pesticide, so that it will not be harmed, and the farmers then spray massive amounts (since the food survives).  It may be very important for us to wash that food with soap, or peel and toss its outermost layers entirely.
+
+
+<a id="orgeccb82a"></a>
+
+## Difference between grass-fed and grain-fed
+
+In liver, the grass-fed variety has eight times as much vitamin A.  I&rsquo;m not kidding, **eight!**
+
+Maybe it was a fluke because the amount depends on which animal the FDA/USDA/(who?) tested, but it seems unlikely.  If it&rsquo;s a common pattern for vitamin A, what does it say about other nutrients?
+
+
+<a id="org34e1fc2"></a>
+
+## Creatine
+
+People commonly see creatine as a bodybuilder thing &#x2013; why would normal people need creatine?  Actually, bodybuilders may need it the least &#x2013; they&rsquo;re used to challenging their muscles to the maximum as it is, and I&rsquo;m somewhat confident this will produce the full MPS reaction (muscle protein synthesis).  For people who don&rsquo;t exercise much, the creatine could mean an extra kick whenever they do lift something, and more energy to make the decision *to lift it* in the first place.  That&rsquo;s just a supposition, but it opens my mind to creatine as a nutrient for normal people.  Forget its association to the gym and analyze it like any other nutrient.
+
+Creatine is a naturally occurring substance &#x2013; about half of your creatine is produced inside your body, the other half is provided from meat, eggs and fish.
+
+What it does is sit in your muscle, just like glycogen and ATP, ready to provide energy.  It&rsquo;s a straightforward job.  A difference from glycogen in strenuous exercise is that creatine gets used up almost immediately and recharges in time for the next set of exercise &#x2013; and for a given set, a tiny portion of the energy comes from creatine.  That may be because strenuous exercise is strenuous, it uses lots of energy all at once.  Perhaps for less strenuous exercise, such as walking, a greater fraction will come from creatine?
+
+From various Internet anecdotes, people who eat animals often feel no effect taking additional creatine, but vegans experience a significant difference: everything from moving to thinking becomes easier, apparently clearing away &ldquo;brain fog&rdquo;.
+
+A point on safety.  There are various forms of creatine, and the form called **creatine monohydrate** has undergone extensive study, looking very safe in the prescribed quantities (5g/day), unless you have kidney problems.  Can we extrapolate that if you were a heavy meat-eater you would also experience problems if your kidneys are not working right?
+
+
+<a id="orgae29db2"></a>
+
+## Leucine
+
+You need ~3g of leucine to stimulate muscle protein synthesis (MPS). See <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4558471>. So any one meal needs to exceed a certain amount of protein, because if we never stimulate MPS, it&rsquo;s sort of like having a protein-less diet(?).
+
+How much leucine is in 100g of food? From nutritiondata.self.com:
+
+    cheese, cheddar           2385 mg
+    cheese, gouda             2564 mg
+    egg, whole, raw           1088 mg
+    fish, herring, raw        1460 mg
+    yogurt, plain, whole milk  350 mg
+    beef, brisket, raw (1)    1395 mg
+    beef, brisket, raw (2)    1637 mg
+    chicken, raw              1245 mg
+
+So 1.2 to 1.7 grams of leucine in 100 g of meat. So 250 g of meat is minimum at one meal, 300 g a better minimum to be on the safe side.
+
+Aside: This utilizes the mTOR pathway, accelerating aging, which we ought to counterbalance by fasting.  Fast and feast.
+
+Very old people maybe shouldn&rsquo;t trigger mTOR that often, so one protein meal a day (and instead have more bone broth), while young people can have two or three, but not sure what my reasoning was for this.
 
 
 <a id="orga8517f2"></a>
