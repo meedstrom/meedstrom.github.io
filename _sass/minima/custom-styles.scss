@@ -4,7 +4,7 @@
 a[href^="http"]::after,
 a[href^="https://"]::after
 {
-  color: $link-base-color;
+  color: blue;
   content: "";
   width: 11px;
   height: 11px;
