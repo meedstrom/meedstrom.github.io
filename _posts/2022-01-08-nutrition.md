@@ -35,48 +35,47 @@ title: Nutrition science
     4.  [Vitamin K2](#orgbaebba7)
     5.  [Vitamin B12](#orge5e0120)
     6.  [Vitamin A](#org450c7ab)
-    7.  [Creatine](#org34e1fc2)
-    8.  [Forms of omega-3](#org0a842ca)
-    9.  [Effects of omega-3](#orga39fe0c)
-    10. [Omega 3-6 balance](#org8663a26)
-    11. [sn-2 DHA](#org3118bc1)
-    12. [Genetic need of omega-3](#org71b4469)
-    13. [How much seafood?](#org0cab385)
-    14. [Leucine](#orgae29db2)
-    15. [CLA](#orgfdbb1f9)
-    16. [Leaking nutrients](#org78623b9)
-    17. [Iodine](#org214d6f9)
-    18. [Soil](#org9dccef0)
-    19. [Teeth](#org768bbe2)
-    20. [Gut bacteria](#org4668203)
-    21. [&ldquo;Cholesterol&rdquo;: VLDL, LDL, HDL, TG and TC](#org60ed20b)
-    22. [Acid-base balance](#org1849f75)
-    23. [Pesticides](#orgd425944)
-    24. [GMO](#orge6c2abd)
-    25. [Difference between grass-fed and grain-fed](#orgeccb82a)
-    26. [Methionine-glycine balance](#orgaed8fd2)
-    27. [Meat toxins](#org456921d)
-    28. [Toxins in organs?](#org413828b)
-    29. [Choline](#org1b08628)
-    30. [Gelatin, glycine, GAGs](#orgd94eb62)
-    31. [Saturated fat with carbohydrate](#orgf5626f7)
-    32. [Caffeine](#org7af63ce)
-    33. [Coffee](#org8d305a1)
-    34. [The AMY1 gene](#orgceaec5d)
-    35. [The ApoE4 gene](#org5070dc2)
-    36. [Hemochromatosis](#org7af08f1)
-    37. [Familial hypercholesterolemia](#org67f5ed4)
-    38. [Effects of fasting](#org1d93ab9)
-    39. [Effects of ketosis](#orgd07e31d)
+    7.  [Gelatin, glycine, GAGs](#orgd94eb62)
+    8.  [Methionine-glycine balance](#orgaed8fd2)
+    9.  [Choline](#org1b08628)
+    10. [Forms of omega-3](#org0a842ca)
+    11. [Effects of omega-3](#orga39fe0c)
+    12. [Omega 3-6 balance](#org8663a26)
+    13. [sn-2 DHA](#org3118bc1)
+    14. [Genetic need of omega-3](#org71b4469)
+    15. [How much seafood?](#org0cab385)
+    16. [CLA](#orgfdbb1f9)
+    17. [Leaking nutrients](#org78623b9)
+    18. [Iodine](#org214d6f9)
+    19. [Soil](#org9dccef0)
+    20. [Teeth](#org768bbe2)
+    21. [Gut bacteria](#org4668203)
+    22. [&ldquo;Cholesterol&rdquo;](#org0a42a0d)
+    23. [Acid-base balance](#org1849f75)
+    24. [Pesticides](#orgd425944)
+    25. [GMO](#orge6c2abd)
+    26. [Difference between grass-fed and grain-fed](#orgeccb82a)
+    27. [Creatine](#org34e1fc2)
+    28. [Leucine](#orgae29db2)
+    29. [Meat toxins](#org456921d)
+    30. [Toxins in organs?](#org413828b)
+    31. [The AMY1 gene](#orgceaec5d)
+    32. [The ApoE4 gene](#org5070dc2)
+    33. [Hemochromatosis](#org7af08f1)
+    34. [Familial hypercholesterolemia](#org67f5ed4)
+    35. [Effects of ketosis](#orgd07e31d)
         1.  [Sodium & potassium loss](#orgcb69e33)
         2.  [Dawn phenomenon](#org810591d)
-    40. [Possible risks of a ketogenic diet](#orgc8f2ba1)
-    41. [Preferred energy source?](#orgec33a93)
-    42. [Effects of consuming carbohydrate](#org3fe5055)
-    43. [ROS](#org917ef47)
-    44. [Insulin](#org5ac92b9)
-    45. [Antinutrients](#orgb137dce)
-    46. [Sweet liver](#orga8517f2)
+    36. [Possible risks of a ketogenic diet](#orgc8f2ba1)
+    37. [Preferred energy source?](#orgec33a93)
+    38. [Effects of consuming carbohydrate](#org3fe5055)
+    39. [ROS](#org917ef47)
+    40. [Insulin](#org5ac92b9)
+    41. [Antinutrients](#orgb137dce)
+    42. [Sweet liver](#orga8517f2)
+    43. [Caffeine](#org7af63ce)
+    44. [Coffee](#org8d305a1)
+    45. [Saturated fat with carbohydrate](#orgf5626f7)
 4.  [Beliefs](#org31fbebe)
     1.  [Cruxes for low-carb](#org5ae0c57)
     2.  [Rejected cruxes](#orgfd43e3e)
@@ -398,6 +397,7 @@ Some objections to such an approach:
 -   hunger hormone dysregulation (leptin, ghrelin sensitivities go wrong)
 -   it&rsquo;s a theoretic construction, few people will manage to follow it well
 -   ancestral argument: not likely that Paleolithic foragers&rsquo; dental health would have done well following such an approach, so it&rsquo;s not likely they did
+-   vitamins A,D,E,K could hit zero, not that your blood tests would show this.  We&rsquo;re always told to fast before a blood test (i.e. show up to the doctor&rsquo;s office having skipped breakfast), but this has the effect that you&rsquo;ll have switched to burning your body fats by the time you take the test &#x2013; which we can expect to bring up A,D,E,K. If during waking hours you eat this way, then most of the time, they could be at a big fat zero, with all kinds of consequences for health.  An upshot of tapping the &ldquo;oil barrel&rdquo; is it evens out your vitamin supply.
 
 
 <a id="org4124dc4"></a>
@@ -443,7 +443,6 @@ So much of reasoning around nutrition, particularly for weight gain and weight l
 Written out like that, it seems to me extremely debatable.  Yet, the consequences if it&rsquo;s wrong:
 
 -   Calorie density does not matter
--   Total calorie amount in a meal does not matter
 -   Fiber does not make you meaningfully fuller
 -   There&rsquo;s no such thing as a &ldquo;low-calorie food&rdquo; or a &ldquo;high-calorie food&rdquo;
 
@@ -490,7 +489,7 @@ These sections contain claims and numbers that I don&rsquo;t remember where I re
 Three radically different diets that have shown good results on humans in clinical practice:
 
 -   Whole-foods plant-based diet, as described by Ornish, Esselstyn etc.
--   Paleo diet
+-   Paleo diets
 -   The so-called Mediterranean diet
 
 What foods they all ban:
@@ -512,40 +511,44 @@ What foods they all allow:
 
 Sailors used to get a mysterious disease, scurvy (caused by vitamin C deficiency), because they brought no fruit on the long voyages.  They brought only dried bread and dried meat.
 
-After vitamin C was discovered in the beginning of the 1900s, we finally cured scurvy and everyone accepted the importance of fruit (or sauerkraut, which lasts longer aboard).  Around the same time, though it&rsquo;s been forgotten, the arctic explorer Vilhjalmur Stefansson wrote to the West about the Inuit people, who could survive off an all-animal diet for nine months at a time without any signs of scurvy, and in fact were in excellent health.  Stefansson wasn&rsquo;t perfect ([One Thousand Nails in the Coffin of Vilhjálmur Stefansson](https://www.freetheanimal.com/2014/04/explorer-vilhjalmur-stefansson.html)), but he and another person underwent an experiment at Bellevue Hospital of eating only meat for a year, and they showed the best health of their lives during that time, as measured by the doctors.  I assume it was just too hard to reconcile these observations with the background of the new vitamin C wisdom, so we shrugged and forgot about him.
+After vitamin C was discovered in the beginning of the 1900s, we finally cured scurvy and everyone accepted the importance of fruit (or sauerkraut, which lasts longer aboard).  Around the same time, though it&rsquo;s been forgotten, the Arctic explorer Vilhjálmur Stefansson wrote to the West about the Inuit people, who could survive off an all-animal diet for nine months at a time without any sign of scurvy, and were in excellent health.  Stefansson wasn&rsquo;t perfect ([One Thousand Nails in the Coffin of Arctic Explorer Vilhjálmur Stefansson, and His Spawn](https://www.freetheanimal.com/2014/04/explorer-vilhjalmur-stefansson.html)), but he and another person underwent an experiment at Bellevue Hospital of eating only meat for a year, and they showed the best health of their lives during that time, as measured by the doctors.  I assume it was just too hard to reconcile these observations with the background of the new vitamin C wisdom, so European scientists shrugged and forgot about him and the entire Inuit people.
 
-(Even if Stefansson was sneaking fruit in the off hours, this is a case where you should expect to find many corroborating anecdotes and few contraindicating ones &#x2013; even with self-selection bias, some contraindications should show up on some sites.  To date, I&rsquo;ve not read a single zero-carber on the internet reporting scurvy, and some have been eating that way for decades.)
+(Even if Stefansson was sneaking fruit in the off hours, this is a case where if he was truthful, you should expect to find many corroborating anecdotes and few contradictory ones &#x2013; even with self-selection bias, some contraindications should show up on some sites.  To date, I&rsquo;ve not read a single zero-carber on the internet reporting scurvy, and some have been eating that way for decades.  You don&rsquo;t get scurvy from zero-carb.)
 
 The Inuit ate meat, but not bread.  Per *via negativa*, is it possible that Western sailors got scurvy not because they left out fruit, but because they continued to include *bread*?
 
 Two hopefully uncontroversial facts of biochemistry support this (though I may have been misled):
 
 -   The body can recycle vitamin C endlessly.  To deplete it, something else you&rsquo;re doing has to deplete it.
--   Carbohydrate metabolism causes oxidative stress (free radicals, Reactive Oxygen Species), which the body counterbalances by expending antioxidants&#x2026; such as vitamin C.
+-   Carbohydrate metabolism causes oxidative stress (free radicals, Reactive Oxygen Species), which the body counterbalances by expending antioxidants&#x2026; such as vitamin C!  Not to mention ketones, an antioxidant that cannot be present when bread is part of the diet.
 
-If the reasoning is valid, then we can conclude that dietary vitamin C isn&rsquo;t necessary during fasting or on a zero-carbohydrate diet, but *when* you start eating bread (grain is the only carbohydrate-rich food without vitamin C), *then* you also have to eat fruit or vegetables to stave off scurvy.  Bread causes scurvy!
+If the reasoning is valid, then we can conclude that dietary vitamin C isn&rsquo;t necessary during fasting or on a zero-carbohydrate diet, but *when* you start eating bread (grain is the only carbohydrate-rich food without vitamin C), *then* you also have to eat fruit or vegetables to stave off scurvy.  Bread causes scurvy!  Scurvy is an uniquely grain-caused disease!
 
-Another conclusion is that vitamin C may not be reasonably called an essential nutrient, but what&rsquo;s called *conditionally essential* &#x2013; i.e. it depends on what else you eat &#x2013; and only mistaken for essential because of the universality of grain in the Western diet.
+Another conclusion is that vitamin C may not be reasonably called an essential nutrient, but what&rsquo;s called *conditionally essential* &#x2013; i.e. it depends on what else you eat &#x2013; and only mistaken for essential because of the universality of grain in the modern diet.
 
 
 <a id="org94b69da"></a>
 
 ## Vitamin D
 
-Vitamin D levels can stay fixed regardless of time in the sun (happens to some patients) until you fix a deficiency of one of the bone-health minerals (calcium, boron, &#x2026;), whereupon blood vitamin D is free to increase.  This is a talking point in the &ldquo;don&rsquo;t supplement&rdquo; camp: possibly the body refuses to generate vitamin D to protect bone because it would trigger processes that it doesn&rsquo;t have the minerals to support.  Indeed, vitamin D supplementation has been connected to osteoporosis in some cases.
+Vitamin D levels can stay fixed regardless of time in the sun (happens to some patients) until you fix a deficiency of one of the bone-health minerals (calcium, boron, &#x2026;), whereupon blood vitamin D is free to increase.  This is a talking point in the &ldquo;don&rsquo;t supplement&rdquo; camp: possibly the body refuses to generate vitamin D to protect bone because it would trigger processes that it doesn&rsquo;t have the minerals to support.  Indeed, I&rsquo;m sure you&rsquo;ve seen the news linking vitamin D supplementation to osteoporosis in some cases.
 
-This makes for a testable theory, because if true, it should be possible in these cases to consume something calcium-rich (or ideally something rich in all bone minerals: bone broth), and watch the vitamin D levels magically increase even without going out in the sun any more than otherwise.
+This makes for a testable theory, because if true, it should be possible in these cases to consume something calcium-rich (or ideally the one food that&rsquo;s rich in all bone minerals: bone broth), and watch the vitamin D levels magically increase even without going out in the sun any more than otherwise.
 
 Reasoning inspired by [Why Low 25(OH)D Could Indicate a Deficiency of Calcium Instead of Vitamin D](https://www.westonaprice.org/an-ancestral-perspective-on-vitamin-d-status-part-2-why-low-25ohd-could-indicate-a-deficiency-of-calcium-instead-of-vitamin-d/).
+
+In addition, may be a good idea to increase vitamins A and K2 before doing so for D.  Quote from [Are Some People Pushing Their Vitamin D Levels Too High?](https://www.westonaprice.org/are-some-people-pushing-their-vitamin-d-levels-too-high/), emphasis mine:
+
+> [Lifeguards in the tropics](http://www.ajcn.org/cgi/content-nw/full/69/5/842/T1) can reach blood levels [of vitamin D] in the 50’s and 60’s naturally from sun exposure, suggesting these levels are “natural,” although [lifeguards in Israel](http://www.ncbi.nlm.nih.gov/pubmed/7424691) have 20 times the rate of kidney stones as the general population.  Kidney stones may be the most sensitive indicator of vitamin D toxicity and are a symptom of vitamin A and K2 deficiency.  Thus, I suspect these levels are healthful **in the context of** a diet rich in vitamins A and K2, [&#x2026;]
 
 
 <a id="orgbaebba7"></a>
 
 ## Vitamin K2
 
-A rare vitamin, found mainly in lipids from grass-fed or wild animals, or in aged cheese.  Not to be confused with Vitamin K1, which can be found in dark green vegetables (like spinach) among other things.  Also not interchangeable.
+A rare vitamin, found mainly in lipids from grass-fed or wild animals, or in aged cheese.  Not to be confused with Vitamin K1, which can be found in dark green vegetables (like spinach) among other things, and isn&rsquo;t interchangeable with K2.
 
-The only plant source is natto.
+The only plant source of K2 is [nattō](https://en.wikipedia.org/wiki/Natto), a soybean product fermented with a particular species of bacteria (not to be confused with tempeh).
 
 
 <a id="orge5e0120"></a>
@@ -554,9 +557,9 @@ The only plant source is natto.
 
 About 40% of people have low-normal &ldquo;serum B12&rdquo; (vitamin B12 in the blood).  Understand that serum B12 is one of the last markers to fall out of normal range, so if it is beginning to drop from normal, you&rsquo;re almost definitely deficient.
 
-This vitamin is a common supplement for vegans because it is *only* found in animals, with a honorable exception for tempeh.
+This vitamin is a common supplement for vegans because it is *only* found in animals, with a honorable exception for tempeh, a soybean product fermented with a particular species of bacteria (not to be confused with natto).
 
-Interesting because you can even observe many omnivores being deficient, giving us a guideline to how much meat is enough.
+Interesting because you can even observe many omnivores being deficient, giving us a theoretic guideline to how much meat we&rsquo;re &ldquo;supposed&rdquo; to eat.
 
 
 <a id="org450c7ab"></a>
@@ -564,28 +567,66 @@ Interesting because you can even observe many omnivores being deficient, giving 
 ## Vitamin A
 
 
-<a id="org34e1fc2"></a>
+<a id="orgd94eb62"></a>
 
-## Creatine
+## Gelatin, glycine, GAGs
 
-People commonly see creatine as a bodybuilder thing &#x2013; why would normal people need creatine?  Actually, bodybuilders may need it the least &#x2013; they&rsquo;re used to challenging their muscles to the maximum as it is, and I believe this will produce the full MPS reaction (muscle protein synthesis).  For people who don&rsquo;t exercise much, this could mean an extra kick whenever they do lift something, and more energy to make the decision *to lift it* in the first place.  That&rsquo;s just a supposition, but it opens my mind to creatine as a nutrient for normal people.  Forget its association to the gym and analyze it like any other nutrient.
+Collagen is a type of protein that dominates in bone joints, skin and other &ldquo;chewy&rdquo; parts of an animal.  Dogs and wolves spend a long time chewing bones in order to get this.  If we heat collagen, it turns into a different protein we call gelatin.
 
-Creatine is a naturally occurring substance &#x2013; about half of your creatine is produced inside your body, the other half is provided from meat, eggs and fish.
+The collagen is what makes the chewy parts chewy, and contains the amino acids *glycine* and *proline*, which are uncommon in other foods &#x2013; the chewy parts are our primary dietary source of these amino acids.
 
-What it does is sit in your muscle, just like glycogen, ready to provide energy.  It&rsquo;s a straightforward job.  A difference from glycogen in strenuous exercise is that creatine gets used up almost immediately and recharges in time for the next set of exercise &#x2013; and for a given set, a tiny portion of the energy comes from creatine.  That may be because strenuous exercise is strenuous, it uses lots of energy all at once.  Perhaps for less strenuous exercise, such as walking, a greater fraction will come from creatine?
+Is it important to eat these bits?
 
-From various Internet anecdotes, people who eat animals often feel no effect taking additional creatine, but vegans experience a significant difference: everything from moving to thinking becomes easier, apparently clearing away &ldquo;brain fog&rdquo;.
+Well, I&rsquo;ll just observe that it&rsquo;s common to prescribe something called glucosamine to people with arthritis, because it helps with joint health.  And it turns out glucosamine is a member of a category of nutrients, glucosaminoglycans (GAGs), and it works better to supplement all of these.  And it turns out that Nature&rsquo;s only source of the full spectrum of GAGs, is also the same place we find glycine.  The chewy bits.  The gelatinous bone broth.
 
-A point on safety.  There are various forms of creatine, and the form called **creatine monohydrate** has undergone extensive study, looking very safe in the prescribed quantities (5g/day), unless you have kidney problems.  Can we extrapolate that if you were a heavy meat-eater you would also experience problems if your kidneys are not working right?
+Apparently it&rsquo;s known that glycine, proline and GAGs are building blocks for our joints.  How come no one told me this in nutrition class?  I don&rsquo;t want arthritis.
+
+The body can produce some amounts of glycine of its own, expending folate to do so, so vegans would be wise to eat a lot of beans for the folate.
+
+
+<a id="orgaed8fd2"></a>
+
+## Methionine-glycine balance
+
+Your food doesn&rsquo;t just determine your health, it determines the very thoughts you think!  Chris Masterjohn&rsquo;s essay  [Meat, Organs, Bones and Skin](https://www.westonaprice.org/health-topics/meat-organs-bones-and-skin/) highlights a process called methylation which is regulated by the proportions of methionine and glycine in your diet &#x2013; that is, how much muscle meat you eat compared to skin, cartilage and bone broth.  Let me quote a piece:
+
+> Two analogies should prove useful to help us understand the need to balance mental stability with mental flexibility. In the first, we could imagine a potter who makes clay flexible by moistening it before attempting to make something out of it.  Too little moisture will lead to brittle clay: it is too dry to shape into anything, and applying enough force to change its shape will simply make it break, exposing rough and sharp edges.  Too much moisture will make it easy to manipulate, but no shape given to it will hold.  The right amount of moisture will make the clay malleable enough to manipulate into something useful or beautiful, and yet stable enough to retain the shape given it.
+> 
+> Similarly, not enough methylation could lead to “brittle” mental states.  Such states are difficult to change, but when they do change, the transitions are sudden and without warning.  This brittleness could lead to dangerous situations.  For example, ordinarily when we get angry, the process is gradual enough that we may realize what is happening to us and stop ourselves from acting out in our anger, or someone else may notice that we are becoming angry and intervene to diffuse the situation.  If our mental states are too brittle, however, we may act violently without warning, giving neither ourselves nor those around us any opportunity to recognize what is happening and intervene.  Alternatively, too much methylation could make our minds like a bowl of liquid clay: easy to make a mess with, but difficult to shape into something beautiful or useful.
+> 
+> In the second analogy, we could consider our consciousness like a net through which thousands of thoughts fly every day.  These thoughts could be about basic biological drives and needs like food, sex, and sleep; they could be about the multitude of things we need to get done; or they could be thoughts that motivate us, whether to do good things or to do things that would get us into trouble.  To achieve mental health, our net of consciousness needs enough flexibility that we are able to manipulate it as each thought approaches, choosing either to let it pass through or to hold on to it.  This net also needs enough stability, however, to hold onto beneficial thoughts for as long as they are needed.  Without flexibility, we hold onto everything that comes our way indiscriminately.  Without stability, we cannot hold onto anything at all.  With a proper balance, we become masters of our thoughts rather than their captives.
+
+In particular, this is fascinating &#x2013; emphasis mine:
+
+> Vegetarians excrete almost twice the level of a unique marker of glycine deficiency in their urine as omnivores.<sup>17</sup>  This suggests that excluding animal products from the diet could not only lead to a generally inadequate level of methylation because of lower intakes of methionine and vitamin B12, but the lower intake of glycine could also lead to transient periods of excessive methylation. This could theoretically result in **seesawing between excessive mental stability and excessive mental flexibility**.
+> 
+> The purpose of this article, however, is not to denigrate vegetarian diets but to emphasize the importance of nutrient-dense animal foods.  A standard omnivorous diet is hardly the ideal.  Even omnivores excrete substantial amounts of the marker of glycine deficiency discussed above in their urine.  This could be because the typical omnivore fails to make use of skin and bones in their diet.
+
+
+<a id="org1b08628"></a>
+
+## Choline
+
+I&rsquo;ve spent time on forums about human longevity, and one of the first things they like to supplement is choline.  In addition, it&rsquo;s popular in the nootropics community, who think it may help your smarts.
+
+There are many forms of choline, like phosphatidylcholine and blah blah blah&#x2026; and it&rsquo;s present in all animal tissue, but what&rsquo;s interesting: **your body will expend the choline in order to &ldquo;neutralize&rdquo; methionine.**  As you know, the amino acid methionine is found in large quantities in muscle meat (and eggs).  Which means that, if you eat muscle meat but not other parts of the animal, you may still fail to get enough choline.
+
+You shouldn&rsquo;t be wasting choline on this &#x2013; eat glycine-rich foods, see [Methionine-glycine balance](#orgaed8fd2).
+
+What&rsquo;s a good source of choline?  Liver!  It stands alone as an effective dietary choline source.
+
+For plant sources, the betaine found mostly in spinach (and to a small extent in beetroots, after which it&rsquo;s named), can be converted in the body to choline but not a lot.  This makes spinach essential for vegans.
+
+Genetics can help.  90% of Japanese people have a gene for converting some methionine to choline ([source](http://blog.cholesterol-and-health.com/2010/12/meeting-choline-requirement-eggs-organs.html)), but not so many Western people have it.
 
 
 <a id="org0a842ca"></a>
 
 ## Forms of omega-3
 
-There are different forms of omega-3.  The plant-based version is Alpha-Linolenic Acid (ALA), which you can find in e.g. rapeseed oil and linseed oil.  Less than 1% of it (depends on genes?) is converted inside the body to the forms it uses: docosahexaenoic acid (DHA) and eicosapentaenoic acid (EPA).
+There are different forms of omega-3.  The plant-based version is alpha-linolenic acid (ALA), which you can find in e.g. rapeseed oil and linseed oil.  Less than 1% of it (depends on genes?) is converted inside the body to the forms it uses: docosahexaenoic acid (DHA) and eicosapentaenoic acid (EPA).
 
-Omega-3 in the true EPA/DHA form is mainly found in seafood, such as oily fish, and in brains (our brain is 15% DHA by weight, and brain health is intimately linked to DHA intake).  To a small extent it is also found in fat from grass-fed animals, oysters, and some seaweeds.
+Omega-3 in the true EPA/DHA form is mainly found in seafood, such as oily fish, and in brains (our brain is 15% DHA by weight, and unsurprisingly, brain health is intimately linked to DHA intake).  To a small extent it is also found in fat from grass-fed animals, oysters, and some seaweeds.
 
 
 <a id="orga39fe0c"></a>
@@ -621,7 +662,7 @@ There is more sn-2 in seafood than in fish oil capsules. (How? Does the refineme
 
 ## TODO Genetic need of omega-3
 
-There&rsquo;s indication (where?) that Inuit peoples and a portion of the Nordic population have genes such that they need a huge amount of omega-3.  How huge?  I don&rsquo;t know, but for perspective, we know the amounts some traditional Inuit groups ate: 14-20 g/day. This corresponds to 400-600 g of herring/mackerel daily.
+There&rsquo;s indication (where?) that Inuit peoples and some portion of the Nordic and Irish populations have genes such that they need a huge amount of omega-3.  How huge?  I don&rsquo;t know, but for perspective, we know the amounts some traditional Inuit groups ate: 14-20 g/day. This corresponds to 400-600 g of herring/mackerel daily.
 
 Now that&rsquo;s probably overshooting their minimum need, but if we say it&rsquo;s half of the low end, that&rsquo;s still at least 200 g of herring daily, or 1.4 kg weekly.
 
@@ -643,28 +684,6 @@ You can get your omega 3 index tested: it tells you what percentage of the fatty
 It&rsquo;s likely that people report &ldquo;serving&rdquo; differently, and many people eat lean fish and call it seafood.  So if you make sure to choose wild oily fish, I wager that two normal-size servings per week, whatever that means for you, will suffice.
 
 This result looks quite a bit less than the weekly 1.4 kg I proposed, but that depended on genes.
-
-
-<a id="orgae29db2"></a>
-
-## Leucine
-
-You need ~3g of leucine to stimulate muscle protein synthesis (MPS). See <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4558471>. So any one meal needs to exceed a certain amount of protein.
-
-HOW MUCH LEUCINE IS IN 100g OF FOOD? From nutritiondata.self.com:
-
-    cheese, cheddar           2385 mg
-    cheese, gouda             2564 mg
-    egg, whole, raw           1088 mg
-    fish, herring, raw        1460 mg
-    yogurt, plain, whole milk  350 mg
-    beef, brisket, raw (1)    1395 mg
-    beef, brisket, raw (2)    1637 mg
-    chicken, raw              1245 mg
-
-So 1.2 to 1.7 grams of leucine in 100 g of meat. So 250 g of meat is minimum at one meal, 300 g a better minimum to be on the safe side.
-
-Aside: This utilizes the mTOR pathway, accelerating aging, which we ought to counterbalance by fasting.  Fast and feast.
 
 
 <a id="orgfdbb1f9"></a>
@@ -743,9 +762,27 @@ But is diversity important?  Poor gut biodiversity, such as after a round of ant
 <http://www.marksdailyapple.com/16-things-that-affect-your-gut-bacteria/>
 
 
-<a id="org60ed20b"></a>
+<a id="org0a42a0d"></a>
 
-## &ldquo;Cholesterol&rdquo;: VLDL, LDL, HDL, TG and TC
+## &ldquo;Cholesterol&rdquo;
+
+Early forms of the lipid hypothesis mistook total cholesterol (TC) for a risk factor for cardiovascular disease, so studies in the 50s-80s only measured the total.  Now we know it highly depends on the kind:
+
+-   HDL (high density lipoprotein)
+-   LDL (low density lipoprotein)
+-   VLDL (very low density lipoprotein)
+
+and a related variable
+
+-   TG (triglyceride)
+
+Aside; the term &ldquo;cholesterol&rdquo; is a misnomer.  The above-mentioned lipoproteins can carry cholesterol among other types of lipids.  LDL and VLDL are like taxis carrying a few things be delivered to cells, whereas HDL are like buses scooping up a lot of damaged molecules to be carried back to the liver(?) for breakdown.
+
+It&rsquo;s usually a risk factor to have high TG, LDL and especially VLDL, whereas it&rsquo;s good to have high HDL.
+
+On a low-carbohydrate high-fat diet, sometimes total cholesterol will rise, but it turns out it&rsquo;s always higher HDL and lower LDL/VLDL.
+
+Triglycerides (TG) deserve separate analysis, I suspect.  I seem to remember some reasoning that high TG is to be expected when you are in fat-burning mode, whereas it&rsquo;s pathological when you are in glucose-burning mode.
 
 
 <a id="org1849f75"></a>
@@ -769,11 +806,11 @@ When they test whether a pesticide is harmful, they test it on human cells in a 
 
 (A human body has 15 trillion human cells, and inside the gastrointestinal tract, 150 trillion non-human cells.  It&rsquo;s not some minor thing.)
 
-Organic foods aren&rsquo;t pesticide-free &#x2013; they just use other kinds of pesticides, that are perhaps less effective per deciliter but then greater quantities are used.  I heard about one farmer kid saying, &ldquo;I love organic &#x2013; I get to spray it twice as much&rdquo;.
+Organic foods aren&rsquo;t pesticide-free &#x2013; they just use other kinds of pesticides, that are perhaps less effective per deciliter but then greater quantities are used.  I heard about one farmer kid saying, &ldquo;I love organic &#x2013; I get to spray it twice as much&rdquo;, which paints a nice picture.
 
 While organic isn&rsquo;t pesticide-free, it tends to be safer(?) to eat.  I guess.  But it likely depends on the exact brand.
 
-There are two ways to avoid pesticides &#x2013; either grow it yourself or purchase food that didn&rsquo;t need pesticide: animals.  Of course, that supposes they&rsquo;re not fed farmed food, just grass, and I don&rsquo;t know if pesticide is used on that grass.  Anyway, I believe pesticide tends to do its damage and leave, it doesn&rsquo;t stick around in the flesh.  I should look into this more.
+There seem to me two ways to avoid pesticides &#x2013; either grow the food yourself or purchase food that didn&rsquo;t need pesticide: animals.  Of course, that supposes they&rsquo;re not fed farmed food, just grass, and I don&rsquo;t know if pesticide is used on that grass.  Anyway, I believe pesticide tends to do its damage and leave, it doesn&rsquo;t stick around in the flesh.  I should look into this more.
 
 
 <a id="orge6c2abd"></a>
@@ -794,23 +831,41 @@ In liver, the grass-fed variety has eight times as much vitamin A.  I&rsquo;m no
 Maybe it was a fluke because the amount depends on which animal the FDA/USDA/(who?) tested, but it seems unlikely.  If it&rsquo;s a common pattern for vitamin A, what does it say about other nutrients?
 
 
-<a id="orgaed8fd2"></a>
+<a id="org34e1fc2"></a>
 
-## Methionine-glycine balance
+## Creatine
 
-Your food doesn&rsquo;t just determine your health, it determines the very thoughts you think!  Chris Masterjohn&rsquo;s essay  [Meat, Organs, Bones and Skin](https://www.westonaprice.org/health-topics/meat-organs-bones-and-skin/) highlights a process called methylation which is regulated by the proportions of methionine and glycine in your diet &#x2013; that is, how much muscle meat you eat compared to skin, cartilage and bone broth.  Let me quote a piece:
+People commonly see creatine as a bodybuilder thing &#x2013; why would normal people need creatine?  Actually, bodybuilders may need it the least &#x2013; they&rsquo;re used to challenging their muscles to the maximum as it is, and I&rsquo;m somewhat confident this will produce the full MPS reaction (muscle protein synthesis).  For people who don&rsquo;t exercise much, the creatine could mean an extra kick whenever they do lift something, and more energy to make the decision *to lift it* in the first place.  That&rsquo;s just a supposition, but it opens my mind to creatine as a nutrient for normal people.  Forget its association to the gym and analyze it like any other nutrient.
 
-> Two analogies should prove useful to help us understand the need to balance mental stability with mental flexibility. In the first, we could imagine a potter who makes clay flexible by moistening it before attempting to make something out of it.  Too little moisture will lead to brittle clay: it is too dry to shape into anything, and applying enough force to change its shape will simply make it break, exposing rough and sharp edges.  Too much moisture will make it easy to manipulate, but no shape given to it will hold.  The right amount of moisture will make the clay malleable enough to manipulate into something useful or beautiful, and yet stable enough to retain the shape given it.
-> 
-> Similarly, not enough methylation could lead to “brittle” mental states.  Such states are difficult to change, but when they do change, the transitions are sudden and without warning.  This brittleness could lead to dangerous situations.  For example, ordinarily when we get angry, the process is gradual enough that we may realize what is happening to us and stop ourselves from acting out in our anger, or someone else may notice that we are becoming angry and intervene to diffuse the situation.  If our mental states are too brittle, however, we may act violently without warning, giving neither ourselves nor those around us any opportunity to recognize what is happening and intervene.  Alternatively, too much methylation could make our minds like a bowl of liquid clay: easy to make a mess with, but difficult to shape into something beautiful or useful.
-> 
-> In the second analogy, we could consider our consciousness like a net through which thousands of thoughts fly every day.  These thoughts could be about basic biological drives and needs like food, sex, and sleep; they could be about the multitude of things we need to get done; or they could be thoughts that motivate us, whether to do good things or to do things that would get us into trouble.  To achieve mental health, our net of consciousness needs enough flexibility that we are able to manipulate it as each thought approaches, choosing either to let it pass through or to hold on to it.  This net also needs enough stability, however, to hold onto beneficial thoughts for as long as they are needed.  Without flexibility, we hold onto everything that comes our way indiscriminately.  Without stability, we cannot hold onto anything at all.  With a proper balance, we become masters of our thoughts rather than their captives.
+Creatine is a naturally occurring substance &#x2013; about half of your creatine is produced inside your body, the other half is provided from meat, eggs and fish.
 
-In particular, this is fascinating &#x2013; emphasis mine:
+What it does is sit in your muscle, just like glycogen and ATP, ready to provide energy.  It&rsquo;s a straightforward job.  A difference from glycogen in strenuous exercise is that creatine gets used up almost immediately and recharges in time for the next set of exercise &#x2013; and for a given set, a tiny portion of the energy comes from creatine.  That may be because strenuous exercise is strenuous, it uses lots of energy all at once.  Perhaps for less strenuous exercise, such as walking, a greater fraction will come from creatine?
 
-> Vegetarians excrete almost twice the level of a unique marker of glycine deficiency in their urine as omnivores.<sup>17</sup>  This suggests that excluding animal products from the diet could not only lead to a generally inadequate level of methylation because of lower intakes of methionine and vitamin B12, but the lower intake of glycine could also lead to transient periods of excessive methylation. This could theoretically result in **seesawing between excessive mental stability and excessive mental flexibility**.
-> 
-> The purpose of this article, however, is not to denigrate vegetarian diets but to emphasize the importance of nutrient-dense animal foods.  A standard omnivorous diet is hardly the ideal.  Even omnivores excrete substantial amounts of the marker of glycine deficiency discussed above in their urine.  This could be because the typical omnivore fails to make use of skin and bones in their diet.
+From various Internet anecdotes, people who eat animals often feel no effect taking additional creatine, but vegans experience a significant difference: everything from moving to thinking becomes easier, apparently clearing away &ldquo;brain fog&rdquo;.
+
+A point on safety.  There are various forms of creatine, and the form called **creatine monohydrate** has undergone extensive study, looking very safe in the prescribed quantities (5g/day), unless you have kidney problems.  Can we extrapolate that if you were a heavy meat-eater you would also experience problems if your kidneys are not working right?
+
+
+<a id="orgae29db2"></a>
+
+## Leucine
+
+You need ~3g of leucine to stimulate muscle protein synthesis (MPS). See <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4558471>. So any one meal needs to exceed a certain amount of protein.
+
+HOW MUCH LEUCINE IS IN 100g OF FOOD? From nutritiondata.self.com:
+
+    cheese, cheddar           2385 mg
+    cheese, gouda             2564 mg
+    egg, whole, raw           1088 mg
+    fish, herring, raw        1460 mg
+    yogurt, plain, whole milk  350 mg
+    beef, brisket, raw (1)    1395 mg
+    beef, brisket, raw (2)    1637 mg
+    chicken, raw              1245 mg
+
+So 1.2 to 1.7 grams of leucine in 100 g of meat. So 250 g of meat is minimum at one meal, 300 g a better minimum to be on the safe side.
+
+Aside: This utilizes the mTOR pathway, accelerating aging, which we ought to counterbalance by fasting.  Fast and feast.
 
 
 <a id="org456921d"></a>
@@ -834,7 +889,7 @@ When reading studies about meat, always check the Methods section for how they p
 
 Sometimes people mention meat containing Advanced Glycation Endproducts (AGEs), linked to aging.  This fear is unfounded since even if you burn the meat, the amount is small compared to the AGEs produced in the body just from *burning carbohydrates as fuel*.  If that&rsquo;s not reason for worry, neither is this.
 
-One valid concern is heterocyclic amines (HCA or HA), which form at high temperatures.  There&rsquo;s more of these the hotter the meat gets, so gentle cooking methods such as stewing and steaming are better.  Similar rules apply to cooking plants, meat isn&rsquo;t special in this regard: all foods are damaged by overcooking.
+One valid concern is heterocyclic amines (HCA or HA), which form at high temperatures.  There&rsquo;s more of these the hotter the meat gets, so gentle cooking methods such as stewing and steaming are better.  Similar rules apply to cooking plants, meat **isn&rsquo;t special in this regard**: all foods are damaged by overcooking.
 
 
 <a id="org413828b"></a>
@@ -844,64 +899,6 @@ One valid concern is heterocyclic amines (HCA or HA), which form at high tempera
 Here&rsquo;s an important topic.  Since organs (especially liver) come out on top so many times for bioavailable nutrients, I want to know how much toxins they&rsquo;ve also got.  It seems reasonable to suppose that for the same reason they&rsquo;re concentrated in nutrients, they may be concentrated in some kinds of environmental toxins, especially the liver and kidneys which act as filters.  I&rsquo;ll look into it later.
 
 I must note that most of us have already accepted consuming toxins in multiple foods, figuring that the nutrients are worth it.  Like the pesticides on most plants, and the antinutrients in grain, whole grain, and seeds.  Few people actually sit down and calculate whether the quantities are worth it, so it would be inconsistent to treat organs specially, it smells more like an excuse to postpone eating them.
-
-
-<a id="org1b08628"></a>
-
-## Choline
-
-I&rsquo;ve spent time on forums about human longevity, and one of the first things they like to supplement is choline.  In addition, it&rsquo;s popular in the nootropics community, who think it may help your smarts.
-
-There are many forms of choline, like phosphatidylcholine and blah blah blah&#x2026; and it&rsquo;s present in all animal tissue, but what&rsquo;s interesting: **your body will expend the choline in order to &ldquo;neutralize&rdquo; methionine.**  As you know, the amino acid methionine is found in large quantities in muscle meat (and eggs).  Which means that, if you eat muscle meat but not other parts of the animal, you may still fail to get enough choline.
-
-You shouldn&rsquo;t be wasting choline on this &#x2013; eat glycine-rich foods, see [Methionine-glycine balance](#orgaed8fd2).
-
-What&rsquo;s a good source of choline?  Liver!  It stands alone as an effective choline source.
-
-For plant sources, the betaine found mostly in spinach (and to a small extent in beetroots, after which it&rsquo;s named), can be converted in the body to choline but not a lot.  This makes spinach essential for vegans.
-
-Genetics can help.  90% of Japanese people have a gene for converting some methionine to choline ([source](http://blog.cholesterol-and-health.com/2010/12/meeting-choline-requirement-eggs-organs.html)), but not so many Western people have it.
-
-
-<a id="orgd94eb62"></a>
-
-## Gelatin, glycine, GAGs
-
-Collagen is a type of protein that dominates in bone joints, skin and other &ldquo;chewy&rdquo; parts of an animal.  Dogs and wolves spend a long time chewing bones in order to get this.  If we heat collagen, it turns into a different protein we call gelatin.
-
-The collagen is what makes the chewy parts chewy, and contains the amino acids *glycine* and *proline*, which are uncommon in other foods &#x2013; the chewy parts are our primary dietary source of these amino acids.
-
-Is it important to eat these bits?
-
-Well, I&rsquo;ll just observe that it&rsquo;s common to prescribe something called glucosamine to people with arthritis, because it helps with joint health.  And it turns out glucosamine is a member of a category of nutrients, glucosaminoglycans (GAGs), and it works better to supplement all of these.  And it turns out that Nature&rsquo;s only source of the full spectrum of GAGs, is also the same place we find glycine.  The chewy bits.  The gelatinous bone broth.
-
-Apparently it&rsquo;s known that glycine, proline and GAGs are building blocks for our joints.  How come no one told me this in nutrition class?  I don&rsquo;t want arthritis.
-
-The body can produce some amounts of glycine of its own, expending folate to do so, so vegans would be wise to eat a lot of beans for the folate.
-
-
-<a id="orgf5626f7"></a>
-
-## Saturated fat with carbohydrate
-
-A 2011 meta-analysis by a Netherlands journal concluded that saturated fat wasn&rsquo;t anything to worry about except maybe when combining them with a lot of carbohydrate.
-
-
-<a id="org7af63ce"></a>
-
-## Caffeine
-
-EFSA (European Food Safety Authority) says that intake of up to 400mg/day do not raise safety concerns, and that a 200ml cup of filter coffee has 90mg of caffeine.  So four cups/day. <https://www.efsa.europa.eu/en/topics/topic/caffeine>
-
-
-<a id="org8d305a1"></a>
-
-## Coffee
-
-Coffee is about 99% as hydrating as water i.e. a liter of coffee is nearly indistinguishable from a liter of water for the body&rsquo;s hydration needs.
-
--   A minor issue, but the fact there is a lot of disagreement on this point reveals how much people differ on how to do even basic reasoning about human biochemistry.  How then can I trust anyone?  How can the field proceed to start settling bigger, more interesting hypotheses?
-    -   At least this becomes a litmus test: if a writer says coffee does not hydrate, they&rsquo;re a huckster who did no homework and you&rsquo;d best avoid their book.
 
 
 <a id="orgceaec5d"></a>
@@ -938,11 +935,6 @@ So it&rsquo;s good to check for this before your 30s or so.
 <a id="org67f5ed4"></a>
 
 ## Familial hypercholesterolemia
-
-
-<a id="org1d93ab9"></a>
-
-## Effects of fasting
 
 
 <a id="orgd07e31d"></a>
@@ -1003,9 +995,9 @@ It burns alcohol first of all, because it&rsquo;s toxic and burning it is a quic
 
 ## Effects of consuming carbohydrate
 
--   Insulin
+-   Insulin (see [Insulin](#org5ac92b9))
 -   Oxidation (see [ROS](#org917ef47))
--   Inflammation
+-   Inflammation (through the effects of insulin, ROS, cholesterol staying too long in the blood and getting oxidated, etc)
 -   Sugar likes to react with protein to form carcinogens.  Don&rsquo;t know to what extent this occurs in the intestines (as opposed to on the stove), or to what extent it occurs with starch (as opposed to sugar).
 
 
@@ -1016,12 +1008,12 @@ It burns alcohol first of all, because it&rsquo;s toxic and burning it is a quic
 I was told that a carb diet means more oxidative stress, meaning it releases more unnecessary ROS (reactive oxygen species).  Mechanisms:
 
 -   glucose has more oxygen molecules than do triglycerides, so more ROS byproducts when breaking it down
--   ketones are themselves a powerful antioxidant
+-   ketones are a powerful antioxidant you miss out on with a carb diet
 -   the lower inflammation and other side effects of carbs also means less oxidation (??) (handwavy)
 
-I don&rsquo;t know anything about the uses of ROS so it could be a red herring, perhaps expecting a higher oxidative stress on a carb metabolism isn&rsquo;t connected to the reasons oxidative stress has been correlated with bad things.
+I don&rsquo;t know anything about the uses of ROS so the whole topic could be a red herring; perhaps expecting a higher oxidative stress on a carb metabolism isn&rsquo;t connected to the reasons oxidative stress has been correlated with bad things.
 
-Touching on a similar topic is RER (respiratory exchange ratio), which measures CO2 in exhaled breath.  It&rsquo;s 1.0 on a full carb metabolism and 0.7 on a full keto metabolism, reflecting a fundamental difference in the molecules used (and thus it became a tool with which to measure the ratio of fat to carb a person is burning).
+Touching on a similar topic is RER (respiratory exchange ratio), which measures CO2 in exhaled breath.  It&rsquo;s 1.0 on a full carb metabolism and 0.7 on a full keto metabolism, reflecting a fundamental difference in the molecules used (and thus we use it as a tool with which to measure the ratio of fat to carb a person is burning).
 
 
 <a id="org5ac92b9"></a>
@@ -1030,15 +1022,15 @@ Touching on a similar topic is RER (respiratory exchange ratio), which measures 
 
 Insulin seems to be a hormone of many jobs &#x2026; and it&rsquo;s the only hormone that will lower blood sugar, a role into which it is press-ganged on a high-carbohydrate diet, but we get side effects because it&rsquo;s not just for that.
 
-The way it accomplishes blood sugar drop is like this.  Adipose cells (fat cells) have insulin receptors, so when an insulin molecule passes by in the bloodstream, it snaps it up.  This stimulates the adipose cell to snap up more glucose from the bloodstream and store it longterm by way of *de novo lipogenesis*: building molecules of saturated fat (I think specifically stearic acid?) that it can release later.
+The way it accomplishes blood sugar drop is like this.  The adipose cells (fat cells) have insulin receptors, so when an insulin molecule passes by in the bloodstream, the cell is stimulated to snap up more glucose from the bloodstream and store it longterm by way of *de novo lipogenesis*: building molecules of saturated fat (I think specifically stearic acid?) that it can release later.
 
 When all adipose cells are taking glucose out of the blood, obviously the glucose level drops.  So there you go: mission accomplished.
 
 But what happens when you&rsquo;re ingesting large amounts of glucose every day, and the adipose cells rarely have a chance to release those saturated fats, forced to keep making more?  They get stretched to fullness and stop listening to the insulin signal.  This is insulin resistance.  This is fine if it&rsquo;s just a few cells here and there; (and they&rsquo;ll divide into two eventually).  But what if all cells are like this?  Then the body finds that the glucose level *stays high*, despite the insulin signal.  So it has to release more insulin, to overcome the insulin resistance (effectivelly force-feeding the full adipose cells).
 
-The more insulin-resistant you become, the more insulin you will release into the blood for each meal.  Glucose is toxic at high levels, so the body sensibly releases ever more excessive amounts, to bring it down: there&rsquo;s no option.  A healthy person does not need to release much insulin, since their adipose cells happily listen.
+The more insulin-resistant you become, the more insulin you will release into the blood for each meal.  Glucose is toxic at high levels, so the body sensibly releases ever more excessive amounts of insulin to bring it down: there&rsquo;s no option.  A healthy person does not need to release much insulin, since their adipose cells happily listen.
 
-Where it starts to go wrong is, well, insulin actually has other jobs.  And releasing so much insulin, it triggers those other jobs way too much.
+Where it starts to go wrong is, well, insulin actually has other jobs.  And releasing so much insulin, it triggers those other jobs too much.
 
 This is called metabolic syndrome, a kind of broad category of which diabetes is a subtype.  Anyone can get it from chronic high insulin levels, and the principal cure is to consume less insulin-inducing foods, meaning less carbohydrates.
 
@@ -1046,6 +1038,7 @@ Consequences of metabolic syndrome
 
 -   Plaque buildup in blood vessels (eventually a blood clot)
 -   High LDL (bad cholesterol), low HDL (good cholesterol)
+-   weight gain
 -   etc. (?)
 
 
@@ -1055,13 +1048,13 @@ Consequences of metabolic syndrome
 
 We find lectins, phytates, and other(?) antinutrients especially in grain, with even more in whole grain, that cause malabsorption of nutrients.  For this reason, some Paleo-aligned folks argue that given the choice, refined &rsquo;white&rsquo; flour is healthier:
 
--   It&rsquo;s a choice between carbs plus a few antinutrients, and carbs plus a lot of antinutrients.
--   Of course the carbs in whole grain have a lower glycemic index, but under the theory that it&rsquo;s really total insulin load that causes disease, not glycemic index, then that matters less.
+-   It&rsquo;s a choice between carbs plus a few antinutrients (white flour), and carbs plus a lot of antinutrients (whole grain).
+-   While the carbs in whole grain have a lower glycemic index, it matters less under the theory that it&rsquo;s really total insulin load that causes disease, not glycemic index.
     -   I have issues with this one: higher glycemic index food does cause more *de novo lipogenesis* (even on a calorie-restricted diet!), because it means too much available glucose in a short timeframe.  Then you get the abnormal blood lipids associated with heart disease anyway.  You could modulate this by not eating that much refined grain at one time, I suppose.
 
 As a final nail in whole grain&rsquo;s coffin, it doesn&rsquo;t make sense to see whole grain as a source of some vitamins/minerals when vegetables, tubers and fruit make cleaner carb sources and you could just eat more of those instead.  If you absolutely have to eat grain, maybe you can argue for whole grain&rsquo;s nutrients being worth the antinutrients, but it&rsquo;s a complex thing to figure out (we need to quantify the effects of every substance involved), and just quitting both refined grain and whole grain is a simple approach that saves us effort and doesn&rsquo;t risk some miscalculation.
 
-A note on &ldquo;lectins&rdquo;, it&rsquo;s a broad category so they&rsquo;re not all bad: <https://www.fitness-vip.com/nutrition-research/lectins-and-food-toxins-concern.html>
+A note on &ldquo;lectins&rdquo;, they&rsquo;re a broad category and not all bad: <https://www.fitness-vip.com/nutrition-research/lectins-and-food-toxins-concern.html>
 
 
 <a id="orga8517f2"></a>
@@ -1074,16 +1067,38 @@ Muscles and liver contain glycogen, a carbohydrate.  It dissipates quickly after
 
 For muscle meat, butchers usually want to drain it of blood, hang it to tenderize over a long time, before packaging it.  That dooms the glycogen.  But there seems no reason for liver to sit out and wait in the same way.  If organs were a high-value food, I guess they would cut them out as quickly as possible and flash-freeze them.
 
-We learned to do the same thing with fish: I read that at the start of the 1900s, the fish at European fish markets used to smell and taste terrible before someone observed the Inuit freezing their fish immediately on catch (easy to do in the Arctic), and started doing the same, keeping it frozen as it was shipped to Europe, and it improved the flavour considerably.  It presumably also conserved nutrients, especially lhe highly unsaturated fats, which are prone to oxidize in air (go rancid).
+We learned to do the same thing with fish: I read that at the start of the 1900s, the fish at European fish markets used to smell and taste terrible before someone observed the Inuit freezing their fish immediately on catch (easy to do in the Arctic), and started doing the same, keeping it frozen as it was shipped to Europe, and it improved the flavour considerably.  It presumably also conserved nutrients, especially the highly unsaturated fats, which are prone to oxidize in air (go rancid).
 
-So my question: can the liver glycogen persist all the way to the supermarket if you freeze it quickly enough?  I bet there would be a market among the Paleo crowd.
+So my question: can the liver glycogen persist all the way to the supermarket if you freeze it quickly enough?  I bet there would be a market among the Paleo crowd for liver and organs that fresh.
+
+
+<a id="org7af63ce"></a>
+
+## Caffeine
+
+EFSA (European Food Safety Authority) says that intake of up to 400mg/day do not raise safety concerns, and that a 200ml cup of filter coffee has 90mg of caffeine.  So four cups/day. <https://www.efsa.europa.eu/en/topics/topic/caffeine>
+
+
+<a id="org8d305a1"></a>
+
+## Coffee
+
+Coffee is about 99% as hydrating as water i.e. a liter of coffee is nearly indistinguishable from a liter of water for the body&rsquo;s hydration needs.
+
+-   A minor issue, but the fact there is a lot of disagreement on this point reveals how much people differ on how to do even basic reasoning about human biochemistry.  How then can I trust anyone?  How can the field proceed to start settling bigger, more interesting hypotheses?
+    -   At least this becomes a litmus test: if a writer says coffee does not hydrate, they&rsquo;re a huckster who did no homework and you&rsquo;d best avoid their book.
+
+
+<a id="orgf5626f7"></a>
+
+## Saturated fat with carbohydrate
+
+A 2011 meta-analysis by a Netherlands journal concluded that saturated fat wasn&rsquo;t anything to worry about except maybe when combining them with a lot of carbohydrate.
 
 
 <a id="org31fbebe"></a>
 
 # Beliefs
-
-Updated <span class="timestamp-wrapper"><span class="timestamp">[2022-06-20 Mon]</span></span>
 
 
 <a id="org5ae0c57"></a>
@@ -1092,14 +1107,14 @@ Updated <span class="timestamp-wrapper"><span class="timestamp">[2022-06-20 Mon]
 
 I&rsquo;ve found my *cruxes*.  If I believed differently on these points, my nutrition outlook would change in radical ways.
 
-1.  Ketones appear so positive for health, how do we explain that if we&rsquo;re not meant to spend much time ketogenic?  Ergo we&rsquo;re meant to do so.
-2.  High insulin load (total insulin released over a day) appears so negative for health, how do you explain that if low-fat high-carb is good?  Ergo we&rsquo;re not meant to do so often.
+1.  (<span class="timestamp-wrapper"><span class="timestamp">[2022-06-27 Mon] </span></span> 3:1 for) Ketones appear so positive for health, how do we explain that if we&rsquo;re not meant to spend much time ketogenic (>25 weeks a year)?  Ergo we&rsquo;re meant to do so.
+2.  (<span class="timestamp-wrapper"><span class="timestamp">[2022-06-27 Mon] </span></span> 5:1 for) High insulin load (total insulin released over a day) appears so negative for health, how do you explain that if low-fat high-carb is good?  Ergo we&rsquo;re not meant to eat that way often.
 3.  (<span class="timestamp-wrapper"><span class="timestamp">[2022-05-08 Sun] </span></span> 10:1 for) **The EEA argument**:  The things the typical animal of a given species ate over a lifetime in its Environment of Evolutionary Adaptedness (EEA) reflects so accurately what&rsquo;s healthy for that species, that you can treat these claims as synonymous: &ldquo;we ate like this in the past&rdquo; and &ldquo;this is healthy for us&rdquo;.
 4.  (<span class="timestamp-wrapper"><span class="timestamp">[2022-06-20 Mon] </span></span> 6:1 for) **The human design argument**: Among primates, *homo sapiens* appears to have been shaped by consuming far more meat than the other species, and especially animal fat. (Some have called it a &rsquo;fativore&rsquo; because it&rsquo;s different from carnivores in this regard.)
     -   Alternatively expressed, I doubt the human design indicates an EEA where it was common to consume plant carbs for a large share (say >33%) of its lifetime calories.
     -   <span class="timestamp-wrapper"><span class="timestamp">[2022-06-20 Mon] </span></span> In retrospect, this claim is hard to apply or draw conclusions from, because there was no single ancestral diet.  See [The AMY1 gene](#orgceaec5d).
     -   If you want to look at this more closely, there is plenty of rhetoric online about why e.g. the digestive tract, teeth, bipedal posture and other features mean we&rsquo;re herbivores or that we&rsquo;re carnivores.  Google &rsquo;human design vegan&rsquo; for the pro-vegan arguments, &rsquo;human design carnivore&rsquo; for the opposite, and decide for yourself.
-5.  (<span class="timestamp-wrapper"><span class="timestamp">[2022-06-22 Wed] </span></span> 5:1 for) Certain corporations that stand to make a lot of money from the lowfat low-cholesterol high-carb whole-grain agenda, are currently meddling in Science in analogous fashion to what the tobacco industry did for nearly a century.  Unqualified, this looks like a conspiracy theory, so I&rsquo;ll not abuse as an excuse for anything.  I&rsquo;m not a journalist and this page isn&rsquo;t a journalist piece.  But it fuels my skepticism towards paper abstracts and the consensus.
+5.  (<span class="timestamp-wrapper"><span class="timestamp">[2022-06-22 Wed] </span></span> 5:1 for) Certain corporations that stand to make a lot of money from the lowfat low-cholesterol high-carb whole-grain agenda, are currently meddling in Science in analogous fashion to what the tobacco industry did for nearly a century.  Unqualified, this looks like a conspiracy theory, so I&rsquo;ll try not to abuse it as a fully general excuse.  I&rsquo;m not a journalist and this page isn&rsquo;t a journalist piece.  But it fuels my skepticism towards paper abstracts and the consensus.
 
 
 <a id="orgfd43e3e"></a>
@@ -1109,10 +1124,12 @@ I&rsquo;ve found my *cruxes*.  If I believed differently on these points, my nut
 Take the following fact, which I used to count among the cruxes above.  It&rsquo;s still true, but can&rsquo;t support a conclusion either way.
 
 6.  Calories, protein and micronutrients from animal sources frequently appear better-adapted for humans than the same from plant sources
-    -   to clarify, not just in bioavailability but also amino acid profiles and micronutrient profiles (when eating nose-to-tail)
+    -   to clarify, the chemical forms aren&rsquo;t just more bioavailable, but the amino acid profiles and micronutrient profiles when eating nose-to-tail also support health well
     -   (this seems the case for all animals, as even herbivores eat meat opportunistically, and it&rsquo;s a priori reasonable that the building blocks of an animal would be good raw material for the body of an animal, and that its energy stores would be in a good form for the body of an animal to burn)
 
-The fact herbivores can benefit from meat, *despite being evolved for herbivory*, means we could likewise be so, and the bioavailability arguments don&rsquo;t by themselves say a lot about what we&rsquo;re evolved for.
+The fact herbivores can benefit from meat, *despite being evolved for herbivory*, means we could likewise be so, thus the bioavailability arguments don&rsquo;t by themselves say a lot about what we&rsquo;re evolved for.
+
+Recalling Anichkov&rsquo;s 1913 experiments of feeding cholesterol to rabbits, resulting in buildup of plaque in arteries and organs, it&rsquo;s likely that if a herbivore eats too much meat it will be a problem.  Even though many of the component nutrients are well-adapted to the rabbit&rsquo;s body, if a species didn&rsquo;t evolve to eat something frequently, there will still be a limit to safe consumption.  The question is how much meat is safe &#x2013; for a carnivore the answer is simply &ldquo;any quantity&rdquo; &#x2013; and we don&rsquo;t know what this quantity is for a human, but I would like to submit a as a direct hypothesis for any researchers out there that the quantity for a human is also &ldquo;any quantity&rdquo;, provided they eat non-starved ruminants in a nose-to-tail way.  Even if false, it&rsquo;s well worth disconfirming.
 
 
 <a id="org539dfd4"></a>
@@ -1123,14 +1140,14 @@ The fact herbivores can benefit from meat, *despite being evolved for herbivory*
 8.  (<span class="timestamp-wrapper"><span class="timestamp">[2022-06-20 Mon] </span></span> 20:1 for) Seed oils (rapeseed, sunflower &c) are uniformly harmful
     -   because not found in the EEA
     -   because all clinically successful diets have excluded them (see [Clinically successful diets](#org72ad6bf))
-    -   because polyunsaturated fat is not great fuel (as a component of cell membranes it&rsquo;s one thing, but that application is a tiny fraction of calorie intake), we see lots of side effects when burning them &#x2013; oxidation &c&#x2026;
+    -   because polyunsaturated fat is not great fuel (as a component of cell membranes it&rsquo;s one thing, but that application is a tiny fraction of calorie intake), we see lots of side effects when burning them for calories &#x2013; oxidation &c&#x2026;
 9.  &ldquo;Processed food&rdquo; frequently not that healthy, but it depends on what &ldquo;processing&rdquo; means
 10. If an EEA culture had focused on forage over hunt, even for periods, calories would have been predominantly from root vegs, fruit, and the fat in insects such as worms, but not appreciably from nuts and not at all from seeds or grain.
     1.  The insect point is interesting because it wouldn&rsquo;t occur to many Western theorists.  Of course when foraging in the Horn of Africa, there&rsquo;s no way you&rsquo;d skip over the insects you find along the way.  Cultures that left such free lunches on the table would get their numbers overtaken by cultures that did eat all the food they found.
-11. Fiber is unnecessary
+11. (<span class="timestamp-wrapper"><span class="timestamp">[2022-06-27 Mon] </span></span> 5:1 for) Fiber is unnecessary
     -   [End the Fiber Fantasy](https://old.reddit.com/r/keto/comments/1lolqu/end_the_fiber_fantasy_everything_you_dont_want_to/), comments also enlightening
-12. Seafood is important for lifespan and healthspan
-13. In the long term, most or all sweeteners act approximately as fattening as sugar, even non-caloric ones like aspartame
+12. (<span class="timestamp-wrapper"><span class="timestamp">[2022-06-27 Mon] </span></span> 7:1 for) Seafood can add at least one decade to both lifespan and healthspan
+13. (<span class="timestamp-wrapper"><span class="timestamp">[2022-06-27 Mon] </span></span> 3:1 for) In the long term, most or all sweeteners act approximately as fattening as sugar, even non-caloric ones like aspartame
     -   This is based on the theory that the insulin response and other reactions to the sweetness are the main fattening factors, and the immediate calories are practically irrelevant.  Has anyone tested just eating sweeteners to bring blood sugar down to the point of passing out?  This would prove insulin is being released.
 14. (<span class="timestamp-wrapper"><span class="timestamp">[2022-06-18 Sat] </span></span> 2:1 for) Within 12 months, it&rsquo;s hard to get nutrient overload symptoms from eating only meat, provided the meat is fatty
 15. (<span class="timestamp-wrapper"><span class="timestamp">[2022-06-18 Sat] </span></span> 3:1 for) Within 12 months, it&rsquo;s hard to get nutrient deficiency symptoms from eating only meat, provided the meat is fatty
@@ -1138,24 +1155,19 @@ The fact herbivores can benefit from meat, *despite being evolved for herbivory*
 17. (<span class="timestamp-wrapper"><span class="timestamp">[2022-06-18 Sat] </span></span> 5:1 for) Staying in a ketotic metabolism for 300 days a year will lengthen an average young adult&rsquo;s lifespan by 5-20 years and healthspan more than proportionately
 18. (<span class="timestamp-wrapper"><span class="timestamp">[2022-06-18 Sat] </span></span> 20:1 for) When giving an Oral Glucose Tolerance Test (OGTT) to a ketotic person (i.e. feeding them 150g of sugar) causes a hyperinsulinemic response (i.e. they react like a diabetic), it does not indicate a chronic problem with this person: letting them acclimate to carbs for a day first will ensure a normal response to OGTT thereafter.
     -   Specification: The above is true for patients that do not already have diabetes.  Important related belief (<span class="timestamp-wrapper"><span class="timestamp">[2022-01-29 Sat] </span></span> 7:1 for): a ketogenic diet will never cause the onset of diabetes.
-19. Fasting and IF lower the &ldquo;bodyweight set-point&rdquo;
-20. Who does not eat liver is wise to eat plenty of beans (for folate)
-21. Sugar raises your &ldquo;bodyweight set-point&rdquo;
-22. Calorie-free sweeteners have a similar result on body weight in the long run as the quantity of sugar that corresponds to the same experience of sweetness. Colloquially speaking, replacing soda with light soda does nothing.
-23. (<span class="timestamp-wrapper"><span class="timestamp">[2022-06-20 Mon] </span></span> 25:1 for) The level of glucose and ketones in the blood do not indicate the rate at which each is being burned, you need more information to figure this out.
+19. Fasting and IF (intermittent fasting) lower the &ldquo;bodyweight set-point&rdquo;
+20. Sugar raises your &ldquo;bodyweight set-point&rdquo;
+21. (<span class="timestamp-wrapper"><span class="timestamp">[2022-06-20 Mon] </span></span> 25:1 for) The level of glucose and ketones in the blood do not indicate the rate at which each is being burned, you need more information to figure this out.
     -   In other words, it is possible to have 5.5 mmol/l glucose (approx 27.5 mmol for whole body) but have those be the same 27.5 mmol in the evening as in the morning i.e. the body cells did not suck any of it up.
-24. Vitamins taken in isolation have a different effect from vitamins in food.
-25. When a specific nutrient is discovered that we (1) need a relative lot of and (2) is found in few sources, this is evidence that we ought to eat a lot of this source, *period* &#x2013; for more reasons than this nutrient in particular
+22. Vitamins taken in isolation have a different effect from vitamins in food.
+23. When a specific nutrient is discovered that we (1) need a relative lot of and (2) is found in few sources, this is evidence that we ought to eat a lot of this source, *period* &#x2013; for more reasons than this nutrient in particular
     -   This is just letting making holistic and reductionist perspectives inform each other
-26. Carotenoids (Vitamin A from plants) are nearly unabsorbed by >10% of the population, and are poorly absorbed by >50%.
-27. A prerequisite for carotenoid absorption is that the meal contains fat.
-28. Retinoids (Vitamin A from animals) are well absorbed by >95% of the population.
-29. Fat-soluble vitamins and minerals, such as vitamin D, are stored longterm in fatty tissue, and the storage can last for months of fasting (as long as the fat stores do), provided the diet was consistently nutritious before.
+24. Fat-soluble vitamins and minerals, such as vitamin D, are stored longterm in fatty tissue, and the storage can last for months of fasting (as long as the fat stores do), provided the diet was consistently nutritious before.
     -   If the diet was not consistently nutritious before beginning fasting, the body fat liberated during fasting will be proportionately deficient in fat-solubles (50% confident).
-30. (<span class="timestamp-wrapper"><span class="timestamp">[2022-01-29 Sat] </span></span> 3:1 for) If you got plenty of sun during the summer, vitamin D levels stay high through winter, at least in the context of what&rsquo;s colloquially called a &ldquo;Paleo&rdquo; or &ldquo;Keto&rdquo; diet.
-31. (<span class="timestamp-wrapper"><span class="timestamp">[2022-01-29 Sat] </span></span> 3:1 for) For a majority of the population, exhorting &ldquo;eat less calories to lose weight&rdquo; either has no effect in practice or causes weight *gain*, not loss.
-32. (<span class="timestamp-wrapper"><span class="timestamp">[2022-01-29 Sat] </span></span> 1:1 for) Lack of sunlight is an epigenetic trigger for myopia.
-33. After cooking meat or vegetables, some nutrients (at least electrolytes) leak into the cooking water, which should always be consumed.  This is one problem with processed meats such as ham, the cooking water has been removed.  For flour-based stuff such as pasta, this is not important.
+25. (<span class="timestamp-wrapper"><span class="timestamp">[2022-01-29 Sat] </span></span> 3:1 for) If you got plenty of sun during the summer, vitamin D levels stay adequate through winter, at least in the context of what&rsquo;s colloquially called a &ldquo;Paleo&rdquo; or &ldquo;Keto&rdquo; diet.
+    1.  Related belief (<span class="timestamp-wrapper"><span class="timestamp">[2022-06-27 Mon] </span></span> 3:1 for): Even a level as &ldquo;low&rdquo; as 35 ng/dl can be adequate, [reasoning from Chris Masterjohn](https://www.westonaprice.org/are-some-people-pushing-their-vitamin-d-levels-too-high/).
+26. (<span class="timestamp-wrapper"><span class="timestamp">[2022-01-29 Sat] </span></span> 3:1 for) For a majority of the population, exhorting &ldquo;eat less calories to lose weight&rdquo; either has no effect in practice or causes weight *gain*, not loss.
+27. (<span class="timestamp-wrapper"><span class="timestamp">[2022-01-29 Sat] </span></span> 2:1 for) Lack of sunlight is an epigenetic trigger for myopia.
 
 Terminology
 
