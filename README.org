@@ -1,3 +1,5 @@
 #+TITLE: Personal website
 
-These are the source files for the Jekyll website, https://meedstrom.github.io.
+These are the source files for the old Jekyll website, https://meedstrom.github.io.
+
+I've since moved to https://edstrom.dev.
